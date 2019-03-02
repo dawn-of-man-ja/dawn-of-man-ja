@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- This is the name of the language as it will appear on the language select screen -->
+	<string name="language_name">English</string>
+	
+	<!-- This is a colon that will separate two strings, we do this because in french you also have space before the colon -->
+	<string name="colon">: </string>
+	
+	<!-- Loading screen -->
+	<string name="loading">Loading</string>
+	<string name="press_any_key">Press any key</string>
+	
+	<!-- Load/Save panel -->
+	<string name="playtime">Play time</string>
+	<string name="save_panel_population">Population</string>
+	
+	<!-- Selection panel UI -->
+	<string name="raider">Raider</string>
+	<string name="build_progress">Build Progress</string>
+	<string name="extractable_resources">Extractable Resources</string>
+	<string name="pending_repair_materials">Needed Repair Materials</string>
+	<string name="fish_amount">Fish Amount</string>
+	<string name="mud_amount">Mud Amount</string>
+	<string name="no_recipe">No tasks in queue</string>
+	<string name="planting_progress">Planting Progress</string>
+	<string name="action_progress">Action Progress</string>
+	<string name="recycle_progress">Recycle Progress</string>
+	<string name="pending_construction_materials">Pending Materials</string>
+	
+	<!-- Tech confirm texts -->
+	<string name="confirm_research_copper_smelting">
+You are about enter the (b)Metal Age(/b).
+
+It is highly recommended that you (b)fortify(/b) your (b)settlement(/b) and have enough people and weapons to defend from raiders.
+
+Are you sure you want to proceed?
+</string>
+	
+	<!-- Game over dialog -->
+	<string name="game_over_title">Game Over</string>
+	<string name="game_over_text">
+All adults are dead, you failed to build a viable settlement.
+But don't be disappointed, this is part of the learning experience, you can try a different play style next time.
+	</string>
+	
+	<!-- Resource limit set to infinity, leave as is -->
+	<string name="inf">∞</string>
+	
+	<!-- Resource limit set to population, needs to use 3 letters max -->
+	<string name="pop">Pop</string> 
+
+	<!-- Tracked variables -->
+	<string name="tracked_variable_population">Population</string>
+	<string name="tracked_variable_food">Food</string>
+	<string name="tracked_variable_domestic_animals">Domestic Animals</string>
+	<string name="tracked_variable_workload">Workload</string>
+
+	<!-- Key Bindings screen -->
+	<string name="binding_title_action">Action</string>
+	<string name="binding_title_control">Control</string>
+	<string name="binding_title_alternative">Alternative</string>
+	<string name="binding_press_key">Press valid keyboard key</string>
+	<string name="bindings_reset">Reset to defaults</string>
+
+	<!-- GameModes -->
+	<string name="game_mode">Game Mode</string>
+	<string name="game_mode_normal">Normal</string>
+	<string name="game_mode_hardcore">Hardcore</string>
+	
+	<string name="game_mode_normal_description">
+- Unlimited savegames
+- Game can be paused
+- Other tribes match your technology
+- Normal amount of raiders
+- Reduced animal aggression
+	</string>
+	
+	<string name="game_mode_hardcore_description">
+- Only one savegame
+- Game can not be paused
+- Other tribes progress at their own rate
+- Larger amount of raiders
+- Regular animal aggression
+	</string>
+	
+	<!-- Community -->
+	<string name="community_workshop_text">No community scenarios available.(n)(n)Use button at the bottom of this screen to download scenarios from the Steam Workshop.</string>
+	<string name="community_generic_text">No community scenarios available.(n)(n)You can download community scenarios and place them in the Documents/DawnOfMan/Scenarios folder.</string>
+
+	<!-- Disasters -->
+	<string name="disaster_storm">Storm</string>
+	<string name="disaster_blizzard">Blizzard</string>
+
+	<!-- Quick panels -->
+	<string name="quick_panel_general">General</string>
+	<string name="quick_panel_food">Food</string>
+	<string name="quick_panel_resources">Resources</string>
+	<string name="quick_panel_grouped_resources">Grouped Resources</string> <!-- Shows all your resources goruped by type -->
+	<string name="quick_panel_defense">Defense</string>
+	<string name="quick_panel_speed">Speed</string>
+	<string name="quick_panel_transports">Transports</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_animals">Animals</string>
+	<string name="quick_panel_food_chart">Food Chart</string>
+	<string name="quick_panel_straw_chart">Straw Chart</string>	
+	
+	<!-- Trading -->
+	<string name="trade">Trade</string>
+	<string name="trader">Trader</string>
+	<string name="trader_arrived">Trader has arrived</string>
+	<string name="trader_stock">Trader Stock</string>
+	<string name="trader_trade">Trader Trade</string>
+	<string name="settlement_trade">Settlement Trade</string>
+	<string name="settlement_stock">Settlement Stock</string>
+	<string name="no_items">No items</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="trade_value">Trade value</string>
+	<string name="trade_commission">Commission</string>
+	<string name="trade_including_commission">Total value of trader goods, including commission.</string>
+	<string name="commission_low">Low</string>
+	<string name="commission_average">Average</string>
+	<string name="commission_high">High</string>
+
+	<!-- Placement -->
+	<string name="structure_placement_text">Left click to place.(n)Use (1) and (2) keys to rotate.(n)Shift+click to place multiple.</string>
+	<string name="mine_placement_text">Left click to place.(n)Needs to be placed on (1) deposit.</string>
+	<string name="field_placement_text">Click and hold to place field.</string>
+	<string name="wall_placement_text">Click and hold to place wall. Use (1) and (2) keys to change shape.</string>
+	<string name="bridge_placement_text">Click and hold to place bridge.</string>
+	<string name="work_area_placement_text">Left click to place.(n)Use (1) and (2) keys to change size.(n)Shift+click to place multiple.</string>
+	<string name="place_confirm">Place entity</string>
+	<string name="place_cancel">Cancel</string>
+
+	<!-- Temperatures, leave as is -->
+	<string name="celsius">°C</string>
+	<string name="fahrenheit">°F</string>
+
+	<!-- Eras -->
+	<string name="era">Era</string>
+	<string name="era_paleolithic">Paleolithic</string>
+	<string name="era_mesolithic">Mesolithic</string>
+	<string name="era_neolithic">Neolithic</string>
+	<string name="era_copper_age">Copper Age</string>
+	<string name="era_bronze_age">Bronze Age</string>
+	<string name="era_iron_age">Iron Age</string>
+	
+	<string name="super_era_stone_age">Stone Age</string>
+	<string name="super_era_metal_age">Metal Age</string>	
+
+	<!-- Knowledge -->
+	<string name="knowledge">Knowledge</string>
+	<string name="knowledge_earned">Knowledge +(1)</string>
+	<string name="knowledge_population">Population reached: (1)</string>
+	<string name="knowledge_animal_population">Animal population reached: (1)</string>
+	<string name="knowledge_first_structure_built">First structure: (1)</string>
+	<string name="knowledge_first_raider_killed">First raider Killed</string>
+	<string name="knowledge_first_resource_produced">First resource produced: (1)</string>
+	<string name="knowledge_first_animal_hunted">First animal hunted: (1)</string>
+	<string name="knowledge_first_resource_acquired">First resource acquired: (1)</string>
+	<string name="knowledge_structure_built">Structure built: (1) x(2)</string>
+	<string name="knowledge_raider_killed">Raiders killed x(1)</string>
+	<string name="knowledge_resources_produced">Produced: (1) x(2)</string>
+	<string name="knowledge_animals_hunted">Hunted: (1) x(2)</string>
+	<string name="knowledge_resources_acquired">Acquired: (1) x(2)</string>
+	<string name="knowledge_winter_survived">Survived the winter</string>
+	
+	<!-- Tech messages. These could be translated as: "Tech Unlocked: (1)", "Era Unlocked: (1)" and "Unlocks Era: (1)" in order to avoid problems with genders  -->
+	<string name="tech_unlocked">(1) unlocked</string>
+	<string name="era_unlocked">(1) unlocked</string>
+	<string name="era_tech">Unlocks (1) Era</string>
+
+	<!-- Game panels -->
+	<string name="new_save">New Save</string>
+	<string name="main">Main</string>
+	<string name="welfare">Welfare</string>
+	<string name="prestige">Prestige</string>
+	<string name="build">Build</string>
+	<string name="plant">Plant</string>
+	<string name="place_work_area">Place Work Area</string>
+	<string name="manage">Manage</string>
+	<string name="primal_vision">Primal Vision</string>
+	<string name="quicksave">Quicksave</string>
+	<string name="techs">Techs</string>
+	<string name="knowledge_progress">Knowledge Progress</string>
+	<string name="click_to_unlock">Click to unlock</string>
+	<string name="requires">Requires</string>
+	<string name="required_for">Required for</string>	
+	<string name="already_unlocked">Already unlocked</string>
+	<string name="charts">Charts</string>
+	<string name="stats">Stats</string>
+	<string name="resources">Resources</string>
+	<string name="task">Task</string>
+	<string name="tasks">Tasks</string>
+	<string name="activity">Activity</string>
+	<string name="active_tasks">Active tasks</string>
+	<string name="pending_tasks">Pending tasks</string>
+	<string name="workload">Workload</string>
+	<string name="performers">Performers</string>
+	<string name="target">Target</string>
+	<string name="no_tasks">No tasks</string>
+	<string name="limits">Limits</string>
+	<string name="population_limit">Population limit</string>
+	<string name="allow_new_humans">Allow new residents</string>
+	<string name="domestic_animals">Domestic Animals</string>
+	<string name="panel_defense">Defense</string>
+	<string name="defense_alert_level">Alert Level</string>
+	<string name="defense_gates">Gates</string>
+	<string name="task_target_none">None</string>
+	
+	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
+	<string name="progress_general">General</string>
+	<string name="progress_raiders_killed">Raiders Killed</string>
+	<string name="progress_hunted_animals">Animals Hunted</string>
+	<string name="progress_built_structures">Built Structures</string>
+	<string name="progress_resources_acquired">Resources Acquired</string>
+	
+	<!-- Milestones-->
+	<string name="panel_milestones">Milestones</string>
+	<string name="milestone_locked">Locked</string>
+	<string name="milestone_unlocked">Unlocked</string>
+	<string name="milestone_unlocked_hardcore">Unlocked in Hardcore Mode</string>
+
+	<!-- Game menu -->
+	<string name="game_menu">Game Menu</string>
+	<string name="save_name_title">Save Name</string>
+	<string name="confirm_title">Confirm</string>
+	<string name="confirm_text">Are you sure you want to quit?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="on">On</string>
+	<string name="off">Off</string>	
+	<string name="back">Back</string>
+	
+	<!-- Resource category flags -->
+	<string name="category_food_and_drink">Food and Drink</string>
+	<string name="category_clothing">Clothing</string>
+	<string name="category_material">Materials</string>
+	<string name="category_tool">Tools</string>
+	<string name="category_domestic">Domestic Animals</string>
+
+	<!-- Game speed -->
+	<string name="speed">Game Speed</string>
+	<string name="pause">Pause</string>
+	<string name="timescale1">Normal Speed</string>
+	<string name="timescale2">Speed x2</string>
+	<string name="timescale4">Speed x4</string>
+	<string name="timescale8">Speed x8</string>
+
+	<!-- Menus -->
+	<string name="menu">Menu</string>
+	<string name="menu_new_game">New Game</string>
+	<string name="menu_video_settings">Video</string>
+	<string name="menu_audio_settings">Audio</string>
+	<string name="menu_misc_settings">Misc</string>
+	<string name="menu_gameplay_settings">Gameplay</string>
+	<string name="menu_settings">Settings</string>
+	<string name="menu_select_scenario">Select Scenario</string>
+	<string name="select_location">Select Location</string>
+	<string name="scenario_details">Scenario Details</string>
+	<string name="scenario_location">Location</string>
+	<string name="menu_load">Load</string>
+	<string name="menu_tutorial">Tutorial</string>
+	<string name="menu_save">Save</string>
+	<string name="scenario_category_freeplay">Freeplay</string>
+	<string name="scenario_category_challenge">Challenges</string>
+	<string name="scenario_category_development">Development</string>
+	<string name="scenario_category_community">Community</string>
+	<string name="menu_start">Start</string>
+	<string name="menu_misc_scenarios">Scenarios</string>
+	<string name="menu_back">Back</string>
+	<string name="menu_quit">Quit</string>
+	<string name="menu_continue">Continue</string>
+	<string name="menu_resume">Resume</string>
+	<string name="menu_credits">Credits</string>
+	<string name="menu_achievements">Achievements</string>
+	<string name="confirm_save">Are you sure you want to overwrite (1)?</string>
+	<string name="confirm_delete">Are you sure you want to delete (1)?</string>
+	<string name="controls">Controls</string>
+	<string name="language">Language</string>
+	<string name="requires_milestones">Requires</string>
+	<string name="settlement_name">Settlement Name</string>
+	
+	<string name="tutorial_advice">
+You have not completed the (b)tutorial(/b).(n)
+Unless you really know what you are doing, we (b)highly recommend(/b) that you do so.(n)
+Do you want to play the tutorial now?
+	</string>
+	
+	<!-- Settings -->
+	<string name="resolution">Resolution</string>
+
+	<string name="quality">Quality</string>
+	<string name="quality_level_low">Low</string>
+	<string name="quality_level_medium">Medium</string>
+	<string name="quality_level_high">High</string>
+	<string name="quality_level_ultra">Ultra</string>
+
+	<string name="vsync">VSync</string>
+	<string name="fps_limit">FPS Limit</string>
+	<string name="anti_aliasing">Anti Aliasing</string>	
+	<string name="vsync_on">On</string>
+	<string name="vsync_off">Off</string>
+	<string name="antialiasing_on">On</string>
+	<string name="antialiasing_off">Off</string>		
+
+	<string name="sfx_volume">SFX Volume</string>
+	<string name="music_volume">Music Volume</string>
+
+	<!-- Ages and Genders-->
+	<string name="gender_male">Male</string>
+	<string name="gender_female">Female</string>		
+		
+	<string name="human_male_young">Boy</string>
+	<string name="human_male_adult">Adult Man</string>
+	<string name="human_male_old">Old Man</string>
+	
+	<string name="human_female_young">Girl</string>
+	<string name="human_female_adult">Adult Woman</string>
+	<string name="human_female_old">Old Woman</string>	
+	
+	<string name="animal_age_young">Young</string>
+	<string name="animal_age_adult">Adult</string>
+	<string name="animal_age_old">Old</string>
+	
+	<string name="animal_male_young">Young Male</string>
+	<string name="animal_male_adult">Adult Male</string>
+	<string name="animal_male_old">Old Male</string>	
+	
+	<string name="animal_female_young">Young Female</string>
+	<string name="animal_female_adult">Adult Female</string>
+	<string name="animal_female_old">Old Female</string>
+	
+	<string name="years_old">Years Old</string>		
+
+	<!-- Stats panel -->
+	<string name="humans">Humans</string>
+	<string name="human_total">Total amount of people</string>
+	<string name="human_count_male_young">Male Children</string>
+	<string name="human_count_male_adult">Male Adults</string>
+	<string name="human_count_male_old">Male Elderly</string>
+	<string name="human_count_female_young">Female Children</string>
+	<string name="human_count_female_adult">Female Adults</string>
+	<string name="human_count_female_old">Female Elderly</string>
+	<string name="pregnant">Pregnant</string>
+	<string name="animals">Animals</string>
+	<string name="transport">Transport</string>
+	
+	<!-- Domestic animals panel -->
+	<string name="animal_count_total">Total</string>
+	<string name="animal_count_male">Males</string>
+	<string name="animal_count_female">Females</string>
+
+	<!-- Structure stats -->
+	<string name="stat_condition">Condition</string>			<!-- How well preserved the structure is -->
+	<string name="stat_fuel">Fuel</string>								<!-- How much fuel (wood) there is in this structure -->
+	
+	<!-- Human stats -->
+	<string name="stat_health">Health</string>						<!-- The level of wellbeing of a person -->
+	<string name="stat_nutrition">Nutrition</string>			<!-- The level of nutrition of a person -->
+	<string name="stat_hydration">Hydration</string>			<!-- The level of hydration of a person -->
+	<string name="stat_temperature">Temperature</string>	<!-- The body temperature of a person -->
+	<string name="stat_rest">Rest</string>								<!-- How rested a person is -->
+	<string name="stat_stamina">Stamina</string>					<!-- How much stamina a person has -->
+	<string name="stat_morale">Morale</string>						<!-- The level of happiness of a person -->
+	
+	<!-- Animal stats -->
+	<string name="stat_production">Production</string>		<!-- How far along the production of milk or wool is -->
+	
+	<!-- Attributes -->
+	
+	<!-- These define how good tools are at doing certain tasks -->
+	<string name="attribute_butchering">Butchering</string>			<!-- Extracting meat from animals -->
+	<string name="attribute_fighting">Fighting</string>					<!-- Hand to hand combat -->
+	<string name="attribute_fishing">Fishing</string>
+	<string name="attribute_hunting">Hunting</string>						<!-- Hunting and ranged combat -->
+	<string name="attribute_woodcutting">Woodcutting</string>
+	<string name="attribute_mining">Mining</string>
+	<string name="attribute_harvesting">Harvesting</string>
+	
+	<!-- These are for clothing -->
+	<string name="attribute_warmth">Warmth</string>							<!-- How warm is this outfit -->
+	<string name="attribute_style">Style</string>								<!-- How stylish is this outfit -->
+
+	<string name="attribute_bonus_speed">Speed: (1)x</string>
+	<string name="attribute_bonus_damage">Damage: (1)</string>
+	<string name="attribute_bonus_temperature">Cold Resistance: (1)</string>
+	<string name="attribute_bonus_style">Suitable up to era: (1)</string>
+	
+	<string name="attribute_description_butchering">Cut open animals to extract resources from them</string>
+	<string name="attribute_description_fighting">Melee combat against raiders or animals</string>
+	<string name="attribute_description_fishing">Capture fish from rivers or lakes</string>
+	<string name="attribute_description_hunting">Hunting and ranged combat against animals or raiders</string>
+	<string name="attribute_description_woodcutting">Cutting trees</string>
+	<string name="attribute_description_mining">Mining from surface deposits or mines</string>
+	<string name="attribute_description_harvesting">Harvesting wild of planted cereals or pulses</string>
+	<string name="attribute_description_warmth">Protection against cold</string>
+	<string name="attribute_description_style">How stylish this outfit is: wearing outfashioned clothes decreases welfare</string>
+	
+	<!-- Seasons -->
+	<string name="season_spring">Spring</string>
+	<string name="season_summer">Summer</string>
+	<string name="season_fall">Fall</string>
+	<string name="season_winter">Winter</string>
+	
+	<!-- Activity -->
+	<string name="activity_category_unproductive">Unproductive</string>
+	<string name="activity_category_subsisting">Subsisting</string>
+	<string name="activity_category_resources">Carrying resources</string>
+	<string name="activity_category_tasks">Performing tasks</string>
+	
+	<!-- Tasks. These are all verbs. -->
+	<string name="task_plant">Plant</string> 
+	<string name="task_hunt">Hunt</string>
+	<string name="task_capture">Capture</string>
+	<string name="task_cut_down">Woodcutting</string>
+	<string name="task_butcher">Butcher</string>
+	<string name="task_slaughter">Slaughter</string>
+	<string name="task_milk">Milk</string>
+	<string name="task_collect">Collect</string>
+	<string name="task_gather_detail">Gather Sticks</string>
+	<string name="task_gather_prop">Gather Resources</string>
+	<string name="task_harvest">Harvest</string>
+	<string name="task_extract_mud">Extract Mud</string>
+	<string name="task_extract_water">Get Water</string>
+	<string name="task_mine">Mine</string>
+	<string name="task_mine_underground">Mine Underground</string>
+	<string name="task_build">Build</string>
+	<string name="task_repair">Repair</string>
+	<string name="task_craft">Craft</string>
+	<string name="task_go">Go</string>
+	<string name="task_recycle">Recycle</string>
+	<string name="task_upgrade">Upgrade</string>
+	<string name="task_shear">Shear</string>
+	<string name="task_fish">Fish</string>
+	<string name="task_fuel">Fuel</string>
+	<string name="task_keep_animals">Keep animals</string>
+
+	<!-- Context actions. These are all verbs. -->
+	<string name="context_action_refuel">Refuel</string>
+	<string name="context_action_keep_animals">Feed Animals</string>
+	<string name="context_action_repair">Repair</string>
+	<string name="context_action_cut_down">Cut Down</string>
+	<string name="context_action_gather_prop">Gather</string>
+	<string name="context_action_gather_detail">Gather</string>
+	<string name="context_action_collect">Collect (1)</string>
+	<string name="context_action_mine">Mine</string>
+	<string name="context_action_hunt">Hunt</string>
+	<string name="context_action_capture">Capture</string>
+	<string name="context_action_butcher">Butcher</string>
+	<string name="context_action_slaughter">Slaughter</string>
+	<string name="context_action_cancel_task">Cancel Task: (1)</string>
+	<string name="context_action_priority_up">Set to high priority</string>
+	<string name="context_action_priority_down">Set to normal priority</string>	
+	<string name="context_action_remove_work_area">Remove Work Area</string>
+	<string name="context_action_edit_work_area">Edit Work Area</string>
+	<string name="context_action_remove_plant">Remove Plant</string>
+	<string name="context_action_recycle">Recycle</string>
+	<string name="context_action_upgrade">Upgrade to (1)</string>
+	<string name="context_action_fish">Fish</string>
+	<string name="context_action_extract_mud">Extract Mud</string>
+	<string name="context_action_extract_water">Get Water</string>
+	<string name="context_action_harvest">Harvest</string>
+	<string name="context_action_plant">Plant</string>
+	<string name="context_action_open_close">Open/Close</string>
+	<string name="context_action_prepare_for_transport">Prepare for transport</string>
+	<string name="context_action_previous_work_area">Previous work area</string>
+	<string name="context_action_next_work_area">Next work area</string>
+	<string name="context_action_cancel_construction">Cancel construction</string>
+	<string name="context_action_limits">Show related resource limits</string>
+	<string name="context_action_milk">Milk</string>
+	<string name="context_action_shear">Shear</string>
+	<string name="context_action_empty">Empty contents</string>
+
+	<!-- Reasons why context actions can not be done. -->
+	<string name="disabled_reason_invalid_season">Can only be done in (1)</string>
+	<string name="disabled_reason_requires_tech">Requires tech: (1)</string>
+	<string name="disabled_no_children_allowed">Children can not perform task: (1)</string>
+	<string name="disabled_no_tools_available">No tool available to perform action: (1)</string>
+	<string name="disabled_reason_exhausted">Resource exhausted, you need to wait until it replenishes</string>
+	<string name="disabled_reason_already_planted">Already planted</string>
+	<string name="disabled_reason_no_animals">No animals currently inside</string>
+	<string name="disabled_reason_not_young">Animal is not young</string>
+	<string name="disabled_reason_not_grown">Tree not fully grown</string>
+	<string name="disabled_reason_tree_busy">Someone else is working on that tree</string>	
+	<string name="disabled_reason_not_damaged">This structure is not damaged</string>
+	<string name="disabled_reason_not_operational">Structure not operational</string>
+
+	<string name="error_location_not_reachable">Location not reachable</string>
+	
+	<!-- Resource categories -->
+	<string name="sub_category_meat">Meat</string>
+	<string name="sub_category_fish">Fish</string>
+	<string name="sub_category_vegetables">Vegetables</string>
+	<string name="sub_category_spear">Spears</string>
+	<string name="sub_category_knife">Knives</string>
+	<string name="sub_category_axe">Axes</string>
+	<string name="sub_category_fishing">Fishing Tools</string>
+	<string name="sub_category_sickle">Sickles</string>
+	<string name="sub_category_pick">Picks</string>
+	<string name="sub_category_bow">Bows</string>
+	<string name="sub_category_sword">Swords</string>
+	
+	<!-- Structure classification -->
+	<string name="buildable_category_residence">Residence</string>
+	<string name="buildable_category_storage">Storage</string>
+	<string name="buildable_category_production">Production</string>
+	<string name="buildable_category_defensive">Defensive</string>
+	<string name="buildable_category_metallurgy">Metallurgy</string>
+	<string name="buildable_category_spiritual">Spiritual</string>
+	<string name="buildable_category_transport">Transport</string>
+
+	<!-- Work areas -->
+	<string name="work_area">Work Area</string>
+	<string name="work_area_gather_sticks">Gather Sticks</string>
+	<string name="work_area_obtain_flint">Obtain Flint</string>
+	<string name="work_area_cut_down">Cut down trees</string>
+	<string name="work_area_fish">Fish</string>
+	<string name="work_area_hunt">Hunt</string>
+	<string name="work_area_collect_and_harvest">Collect and harvest wild plants</string>
+	<string name="work_area_collect_tannin">Collect Tannin</string>
+	<string name="work_area_extract_water">Extract Water</string>
+	<string name="work_area_extract_mud">Extract Mud</string>
+	<string name="work_area_obtain_stone">Obtain Stone</string>
+	<string name="work_area_mine_ore">Mine ore</string>
+
+	<!-- Messages -->
+	<!-- Feeel free to reagange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
+	<string name="message_death_generic">(1) has died</string>
+	<string name="message_death_starvation">(1) has died of starvation</string>
+	<string name="message_death_dehydration">(1) has died of dehydration</string>
+	<string name="message_death_hypothermia">(1) has died of hypothermia</string>
+	<string name="message_death_old_age">(1) has died of old age</string>
+	<string name="message_death_disease">(1) has died of a disease</string>
+	<string name="message_death_infection">(1) has died of an infection</string>
+	<string name="message_death_killed">(1) has been killed by (2)</string>
+	<string name="message_death_thunder">(1) has been struck by lightning</string>
+	<string name="message_death_slaughtered">(1) has been slaughtered</string>
+	
+	<string name="message_humans_death_generic">Humans have died</string>
+	<string name="message_humans_death_starvation">Humans have died of starvation</string>
+	<string name="message_humans_death_dehydration">Humans have died of dehydration</string>
+	<string name="message_humans_death_hypothermia">Humans have died of hypothermia</string>
+	<string name="message_humans_death_old_age">Humans have died of old age</string>
+	<string name="message_humans_death_disease">Humans have died of a disease</string>
+	<string name="message_humans_death_infection">Humans have has died of an infection</string>
+	<string name="message_humans_death_killed">Humans have been killed</string>
+	<string name="message_humans_death_thunder">Humans have been struck by lightning</string>
+
+	<string name="message_resource_decay">Resource has decayed: (1)</string>
+	<string name="message_transport_decay">(1) is no longer usable</string>
+	<string name="message_tool_decay">(1) is no longer usable</string>
+	<string name="message_new_migrant">New human has joined the settlement</string>
+	<string name="message_new_human_birth">New human was born</string>
+	<string name="message_new_animal_birth">New animal was born</string>
+	<string name="message_hunt_fail">(1) has escaped</string>
+	<string name="message_raider_attack">Raider attack</string>
+	<string name="message_animal_attack">(1) attack</string>
+	<string name="message_disease">(1) has contracted a disease</string>
+	<string name="message_infection">(1) has contracted an infection</string>
+	<string name="message_milestone_unlocked">Milestone unlocked</string>
+	<string name="message_crop_disease">Disease is affecting crop</string>
+	<string name="message_work_area_exhausted">Work Area exhausted</string>
+	<string name="message_animal_extinct">Animal has gone extinct: (1)</string>
+	<string name="message_mine_exhausted">(1) exhausted</string>
+	<string name="message_all_animals_dead">Last (1) has died</string>
+
+	<!-- Key codes -->
+	<string name="arrow_right">→</string>
+	<string name="arrow_left">←</string>
+	<string name="arrow_up">↑</string>
+	<string name="arrow_down">↓</string>
+	<string name="keypad">Keypad</string>
+	<string name="keypad_enter">Keypad Enter</string>
+	<string name="keypad_minus">Keypad -</string>
+	<string name="keypad_plus">Keypad +</string>
+	<string name="escape">Esc</string>
+	<string name="delete">Del</string>
+	<string name="backspace">Backspace</string>
+	<string name="space">Space</string>
+	<string name="return">Return</string>
+
+	<!-- Tooltips -->
+	<string name="tooltip_population">Population: (1)(n)Capacity: (2)</string>
+	<string name="tooltip_fireplace">Raw food can be cooked and eaten here, also provides heat</string>
+	<string name="tooltip_status_prestige">Prestige: (1)</string>
+	<string name="tooltip_status_morale">Morale Recovery: (1)</string>
+	<string name="tooltip_status_capacity">This structure can house (1) people</string>
+	<string name="tooltip_low_stats">This human has low stats, they will perform tasks at reduced efficiency</string>
+	<string name="tooltip_durability">Resources will last (1) times longer when stored in this structure</string>
+	<string name="tooltip_decay_time">Resource lasts for (1) years</string>
+	<string name="tooltip_condition_decay_time">Structure lasts for (1) years</string>
+	<string name="tooltip_use_count">Resource can be used (1) times</string>
+	<string name="tooltip_continuous_production">Continuous production</string>
+	<string name="tooltip_craft">Left click to produce one item.(n)(b)Right click(/b) to toggle continuous production.</string>
+	<string name="tooltip_crafting_progress">(1)(n)Right click to cancel</string>
+	<string name="tooltip_slot">This slot can contain one item</string>
+	<string name="tooltip_slot_human">Space for one Human</string>
+	<string name="tooltip_slot_animal">Space for one Animal</string>
+	<string name="tooltip_slot_multi">This slot can contain up to (1) items of the same type</string>
+	<string name="tooltip_slot_tool">This slot can contain a tool</string>
+	<string name="tooltip_slot_food">This slot can contain food or ingredients</string>
+	<string name="tooltip_slot_animal_food">This slot can contain animal food</string>
+	<string name="tooltip_slot_clothing">This slot can contain an item of clothing</string>
+	<string name="tooltip_slot_single_resource">This slot can contain resource: (1)</string>
+	<string name="tooltip_slot_wood">This slot can contain wood</string>
+	<string name="tooltip_slot_rock">This slot can contain rocks</string>
+	<string name="tooltip_knowledge_points">Available knowledge points</string>
+	<string name="tooltip_message">Left click to focus.(n)Right click to dismiss</string>
+	<string name="tooltip_focus_camera">Focus Camera</string>
+	<string name="tooltip_help">Help</string>
+	<string name="tooltip_resource_limit_amount">Production limit for: (1), is set to (2) units</string>
+	<string name="tooltip_resource_limit_percentage">Production limit for: (1), is set to (2)% of the population</string>
+	<string name="tooltip_resource_limit_infinity">Production limit for: (1), is set to unlimited</string>
+	<string name="tooltip_work_area_max_people">Maximum number of people working in this area</string>
+	<string name="tooltip_task">Right click to cancel task.</string>
+	<string name="tooltip_performer">Left click to focus</string>
+	<string name="tooltip_welfare">Welfare: (1)(n)A measure of how well your settlement is doing.(n)Depends on your people's stats, clothing and also on the food surplus.(n)Affects migrant arrival frequency and birth rate.</string>
+	<string name="tooltip_prestige">Prestige: (1)(n)A measure of how well known your settlement is.(n)Depends on your population, buildings and technology.(n)Affects immigration and trader arrival frequency.</string>
+	<string name="tooltip_resource_trade">(1)(n)Value: (2)(n)Click to trade(n)Shift+click to trade multiple</string>
+	<string name="tooltip_no_alert">No Alert: Default behavior, your people go about their lives normally</string>
+	<string name="tooltip_alert"> Alert: Everyone with a weapon will assume combat roles, everyone else will get inside a building.</string>
+	<string name="tooltip_open_all_gates">Open All Gates</string>
+	<string name="tooltip_close_all_gates">Close all gates</string>
+	<string name="tooltip_milestones">Total milestones</string>
+	<string name="tooltip_heavy">Heavy: This resource has to be transported one by one, or using sledges or carts</string>
+	<string name="tooltip_very_heavy">Very Heavy: This resource has to be transported using a special device</string>
+	<string name="tooltip_context_action_multiple">Left click to do once.(n)Right click to toggle auto-perform.</string>
+	<string name="tooltip_disease">Affected by disease</string>
+	<string name="tooltip_plant_disease">This plant is affected by a disease, and can not be harvested</string>
+	<string name="tooltip_infection">Affected by infection</string>
+	<string name="tooltip_multiselected_entity">Click to deselect others.(n)Shift+click to deselect.</string>
+	<string name="tooltip_no_structures">No structures of this type can be built yet.</string>
+	<string name="tooltip_max_performers">Desired number of people assigned to task: (1)</string>
+	<string name="tooltip_techs_unlockable">New techs can be unlocked</string>
+	<string name="tooltip_total_population">Total population</string>
+	<string name="tooltip_housing">Total housing.(n)For new people to come to the settlement, you need to have capacity for them.</string>
+	<string name="tooltip_no_housing">No space for more people,(n)your population will not expand further.</string>
+	<string name="tooltip_animal_count">Animals</string>
+	<string name="tooltip_sheltering_animals">Animals that need shelter</string>
+	<string name="tooltip_animal_capacity">Total shelter space</string>
+	<string name="tooltip_steam_workshop_scenarios">Download scenarios from the Steam Workshop</string>
+	<string name="tooltip_steam_workshop_languages">Download languages from the Steam Workshop</string>	
+	<string name="tooltip_scenario_not_completed">Scenario not completed</string>
+	<string name="tooltip_scenario_completed">Scenario completed</string>
+	<string name="tooltip_scenario_completed_hardcore">Scenario completed in hardcore mode</string>
+	<string name="tooltip_requires_scenario">You have to complete (1) scenario to unlock this one</string>
+	<string name="tooltip_available_soon">Available Soon</string>
+	<string name="tooltip_requires_milestones">You have to unlock (1) Milestones to play this scenario.(n)Earn milestones by playing freeplay scenarios.</string>
+	<string name="tooltip_requires_milestones_short">Requires (1) Milestones</string>
+	<string name="tooltip_workload">The ratio between the number of tasks and the number of people in your settlement. Try to keep it below 150%. </string>
+	<string name="tooltip_retaliates">This animal might retaliate when attacked.</string>
+	<string name="tooltip_draught">This animal can be used to pull carts.</string>
+	<string name="tooltip_predator">This animal might attack humans.</string>
+	<string name="tooltip_requires_shelter">This animal needs to be sheltered in winter.</string>
+	<string name="tooltip_knowledge_earned">You will earn (1) knowledge points when hunting this animal</string>
+	<string name="tooltip_storage_restrictions">(1) allowed in this store</string>
+
+	<!-- Toasts -->
+	<string name="toast_screenshot_taken">Screenshot taken</string>
+	<string name="toast_game_saved">Game saved</string>
+	<string name="toast_saving">Saving game</string>	
+	<string name="toast_invalid_entity_location">Invalid location</string>
+	<string name="toast_invalid_entity_location_isolated">Placing structure would create isolated areas</string>
+
+	<!-- Status descriptions -->
+	<!-- These are likely to cause issues with genders in some languages when (1) gets replaced by male/female names, try to avoid using articles" -->
+	<string name="description_idle">Idle</string>
+	<string name="description_resting">Resting</string>
+	<string name="description_recycling">Recycling</string>
+	<string name="description_sheltering">Sheltering</string>
+	<string name="description_animal_sheltering">Sheltering</string>
+	<string name="description_attacking_ranged">Attacking (1)</string>
+	<string name="description_attacking_melee">Attacking (1)</string>
+	<string name="description_building">Building (1)</string>
+	<string name="description_repairing">Repairing (1)</string>
+	<string name="description_butchering">Butchering (1)</string>
+	<string name="description_collecting">Collecting (1)</string>
+	<string name="description_gathering_detail">Gathering (1)</string>
+	<string name="description_gathering_prop">Gathering (1)</string>
+	<string name="description_crafting">Crafting (1)</string>
+	<string name="description_dead">Dead</string>
+	<string name="description_drinking">Drinking</string>
+	<string name="description_drinking_alcohol">Drinking Alcohol</string>
+	<string name="description_eating">Eating</string>
+	<string name="description_cooking">Cooking</string>
+	<string name="description_moving">Moving</string>
+	<string name="description_going_entity">Going to (1)</string>
+	<string name="description_going_animal">Going after (1)</string>
+	<string name="description_going_resource">Going to get (1)</string>
+	<string name="description_fishing">Fishing</string>
+	<string name="description_extracting_mud">Extracting Mud</string>
+	<string name="description_extracting_water">Extracting Water</string>
+	<string name="description_mining">Mining</string>
+	<string name="description_mining_underground">Mining Underground</string>
+	<string name="description_decaying">Decaying</string>
+	<string name="description_cutting_down">Cutting Down</string>
+	<string name="description_harvesting">Harvesting</string>
+	<string name="description_planting">Planting (1)</string>
+	<string name="description_recovering_morale">Recovering morale</string>
+	<string name="description_taming">Taming</string>
+	<string name="description_slaughtering">Slaughtering (1)</string>
+	<string name="description_milking">Milking (1)</string>
+	<string name="description_shearing">Shearing (1)</string>
+	<string name="description_being_tamed">Being Tamed</string>
+	<string name="description_being_milked">Being Milked</string>
+	<string name="description_being_sheared">Being Sheared</string>
+	<string name="description_blocked">Blocked</string>
+	<string name="description_going_to_drink">Going to drink</string>
+	<string name="description_falling">Falling</string>
+	<string name="description_celebrating">Celebrating</string>
+	<string name="description_pulling">Pulling Cart</string>
+	<string name="description_wandering">Wandering around</string>
+	<string name="description_following">Following</string>
+	
+	<!-- Game actions -->
+	<string name="key_bindings">Key Bindings</string>
+	<string name="game_action_camera_move_forward">Move camera forward</string>
+	<string name="game_action_camera_move_back">Move camera back</string>
+	<string name="game_action_camera_move_left">Move camera left</string>
+	<string name="game_action_camera_move_right">Move camera right</string>
+	<string name="game_action_camera_rotate_left">Rotate camera left </string>
+	<string name="game_action_camera_rotate_right">Rotate camera right</string>
+	<string name="game_action_camera_zoom_in">Zoom in</string>
+	<string name="game_action_camera_zoom_out">Zoom out</string>
+	<string name="game_action_camera_center_town">Move camera back to the settlement</string>
+	
+	<string name="game_action_hunter_selection">Hunter selection</string>
+	<string name="game_action_fighter_selection">Fighter selection</string>
+	
+	<string name="game_action_open_panel_help">Help Panel</string>
+	<string name="game_action_open_panel_stats">Stats panel</string>
+	<string name="game_action_open_panel_charts">Charts panel</string>
+	<string name="game_action_open_panel_resources">Resources panel</string>
+	<string name="game_action_open_panel_limits">Limits panel</string>
+	<string name="game_action_open_panel_domestic_animals">Domestic animals panel</string>	
+	<string name="game_action_open_panel_techs">Techs panel</string>
+	<string name="game_action_open_panel_tasks">Tasks panel</string>
+	<string name="game_action_open_panel_activity">Activity panel</string>
+	<string name="game_action_open_panel_defense">Defense panel</string>
+	<string name="game_action_open_panel_milestones">Milestones panel</string>
+	<string name="game_action_open_panel_knowledge_progress">Knowledge progress panel</string>
+	<string name="game_action_pause">Pause</string>
+	<string name="game_action_timescale1">Normal speed</string>
+	<string name="game_action_timescale2">Speed x2</string>
+	<string name="game_action_timescale4">Speed x4</string>
+	<string name="game_action_timescale8">Speed x8</string>
+	<string name="game_action_quicksave">Quicksave</string>
+	<string name="game_action_remove">Remove</string>
+	<string name="game_action_placement_modifier_minus">Rotate Left/Smaller</string>
+	<string name="game_action_placement_modifier_plus">Rotate Right/Bigger</string>
+	<string name="game_action_previous_work_area">Previous Work Area</string>
+	<string name="game_action_next_work_area">Next Work Area</string>
+	<string name="game_action_primal_vision">Primal Vision</string>
+
+	<!-- Alerts -->
+	<string name="warning_no_stables">Not enough stable space for our animals</string>
+	<string name="warning_no_food">We have no food</string>
+	<string name="warning_low_food">We are low on food</string>
+	<string name="warning_no_storage">No storage slots left</string>	
+	<string name="warning_no_tools">Some of your people have no tools</string>
+	<string name="warning_no_warm_outfits">Some of your people have no warm clothing</string>
+	<string name="warning_no_light_outfits">Some of your people have no light clothing</string>
+	<string name="warning_no_fuel">We have no fuel</string>
+	<string name="warning_no_fishing_tools">We have no fishing tools</string>
+	<string name="warning_no_harvesting_tools">We have no harvesting tools</string>
+	<string name="warning_low_harvesting_tools">We are low on harvesting tools</string>
+	<string name="warning_no_picks">We have no picks</string>
+	<string name="warning_no_flint">We have no flint</string>
+	<string name="warning_no_straw">We have no straw to feed our animals</string>
+	<string name="warning_no_water">We have no water for our animals</string>
+	<string name="warning_no_knives">We have no knives</string>
+	<string name="warning_low_knives">We are low on knives</string>
+	<string name="warning_no_hunting_tools">We have no hunting tools</string>
+	<string name="warning_low_hunting_tools">We are low on hunting tools</string>	
+	<string name="warning_high_workload">Workload is too high</string>	
+
+	<!-- Credits -->
+	<string name="credits_title">Dawn of Man</string>
+	<string name="credits_subtitle">by Madruga Works</string>
+	
+	<string name="credits_category_design_and_programming">Design and Programming</string>
+	<string name="credits_category_art">Art</string>
+	<string name="credits_category_sound_and_music">Sound and Music</string>
+	<string name="credits_category_3d_art">3D Art</string>
+	<string name="credits_category_animation">Animation</string>
+	<string name="credits_category_ui_art">UI Art</string>
+	<string name="credits_category_trailer_editor">Trailer Edition</string>
+	<string name="credits_category_console_port">Console Port</string>
+	<string name="credits_category_special_thanks">Special Thanks</string>
+
+	<!-- Names of people, do not translate -->
+	<string name="credits_people_martino">Martiño Figueroa</string>
+	<string name="credits_people_tucho">Tucho Fernández</string>
+	<string name="credits_people_jose">Jose Castro</string>
+	<string name="credits_people_marcin">Marcin Mazurski</string>
+	<string name="credits_people_denny">Denny Lindberg</string>
+	<string name="credits_people_paolo">Paolo Boissel</string>
+	<string name="credits_people_mattia">Mattia Tomaselli</string>
+	<string name="credits_people_andrey">Andrey Kazmin</string>
+	<string name="credits_people_tom">Tom Williamson</string>
+	<string name="credits_people_rocio">Rocío Quirós</string>
+	
+	<string name="credits_people_anton">Antón Figueroa</string>
+	<string name="credits_people_daniel">Daniel Fernández Calo</string>
+	<string name="credits_people_michelle">Michelle Prendergast</string>	
+
+</strings>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- 
+	Important: These are the names of all the entities in the game, they also get mentioned in other places in the game, 
+	it is very important that these get translated in the same way in all places 
+	-->
+	
+	<!-- Humans -->
+	<string name="human_primitive_human">Primitive Human</string>
+
+	<!-- Animals. These are used for young/adult/old and male/female animals, try to find a word that is generic enough in the language -->
+	<string name="animal_bear">Bear</string>
+	<string name="animal_cave_bear">Cave Bear</string>
+	<string name="animal_deer">Deer</string>
+	<string name="animal_megaloceros">Megaloceros</string>
+	<string name="animal_reindeer">Reindeer</string>
+	<string name="animal_wolf">Wolf</string>
+	<string name="animal_cave_lion">Cave Lion</string>
+	<string name="animal_dog">Dog</string>
+	<string name="animal_mammoth">Mammoth</string>
+	<string name="animal_woolly_rhinoceros">Woolly Rhino</string>
+	<string name="animal_vulture">Vulture</string>
+	<string name="animal_eagle">Eagle</string>
+	<string name="animal_dove">Dove</string>
+	<string name="animal_ibex">Ibex</string>
+	<string name="animal_mouflon">Mouflon</string>
+	<string name="animal_goat">Goat</string>
+	<string name="animal_sheep">Sheep</string>
+	<string name="animal_ancient_bison">Ancient Bison</string>
+	<string name="animal_bison">Bison</string>
+	<string name="animal_pig">Pig</string>
+	<string name="animal_boar">Boar</string>
+	<string name="animal_aurochs">Aurochs</string>
+	<string name="animal_cattle">Cattle</string>
+	<string name="animal_wild_horse">Wild Horse</string>
+	<string name="animal_horse">Horse</string>
+	<string name="animal_wild_donkey">Wild Donkey</string>
+	<string name="animal_donkey">Donkey</string>
+	
+	<!-- Structures -->
+	<string name="structure_tent">Tent</string>
+	<string name="structure_hut">Hut</string>
+	<string name="structure_storage_tent">Storage Tent</string>
+	<string name="structure_wood_pile">Wood Pile</string>
+	<string name="structure_haystack">Haystack</string>
+	<string name="structure_rock_pile">Rock Pile</string>
+	<string name="structure_crafter">Crafter</string>
+	<string name="structure_food_dryer">Food Dryer</string>
+	<string name="structure_skins_dryer">Skins Dryer</string>
+	<string name="structure_hearth">Hearth</string>
+	<string name="structure_tanner">Tanner</string>
+	<string name="structure_mortar">Mortar</string>
+	<string name="structure_storage_hut">Storage Hut</string>
+	<string name="structure_roundhouse">Roundhouse</string>
+	<string name="structure_warehouse">Warehouse</string>
+	<string name="structure_granary">Granary</string>
+	<string name="structure_flint_mine">Flint Mine</string>
+	<string name="structure_copper_mine">Copper Mine</string>
+	<string name="structure_tin_mine">Tin Mine</string>
+	<string name="structure_iron_mine">Iron Mine</string>
+	<string name="structure_workshop">Workshop</string>
+	<string name="structure_metalsmith">Metalsmith</string>
+	<string name="structure_blacksmith">Blacksmith</string>
+	<string name="structure_charcoal_pit">Charcoal Pit</string>
+	<string name="structure_pit_furnace">Pit Furnace</string>
+	<string name="structure_bloomery">Bloomery</string>
+	<string name="structure_totem">Totem</string>
+	<string name="structure_skull_pole">Skull Pole</string>
+	<string name="structure_stables">Stables</string>
+	<string name="structure_weaver">Weaver</string>
+	<string name="structure_outfitter">Outfitter</string>
+	<string name="structure_well">Well</string>
+	<string name="structure_menhir">Menhir</string>
+	<string name="structure_dolmen">Dolmen</string>
+	<string name="structure_stone_circle">Stone Circle</string>
+	<string name="structure_palisade">Palisade</string>
+	<string name="structure_wall">Wall</string>
+	<string name="structure_gate">Gate</string>
+	<string name="structure_reinforced_gate">Reinforced Gate</string>
+	<string name="structure_watchtower">Watchtower</string>
+	<string name="structure_guard_tower">Guard Tower</string>
+	<string name="structure_brewery">Brewery</string>
+	<string name="structure_watermill">Watermill</string>
+	<string name="structure_oven">Oven</string>
+	<string name="structure_bridge">Bridge</string>
+
+	<!-- Resources -->
+	<string name="resource_wooden_spear">Wooden Spear</string>
+	<string name="resource_wooden_harpoon">Wooden Harpoon</string>
+	<string name="resource_bone_harpoon">Bone Harpoon</string>
+	<string name="resource_fishing_rod">Fishing Rod</string>
+	<string name="resource_bone_spear">Bone Spear</string>
+	<string name="resource_flint_spear">Flint Spear</string>
+	<string name="resource_biface">Biface</string>
+	<string name="resource_flint_axe">Flint Axe</string>
+	<string name="resource_flint_pick">Flint Pick</string>
+	<string name="resource_flint">Flint</string>
+	<string name="resource_sticks">Sticks</string>
+	<string name="resource_berries">Berries</string>
+	<string name="resource_fruit">Fruit</string>
+	<string name="resource_nuts">Nuts</string>
+	<string name="resource_raw_skin">Raw Skin</string>
+	<string name="resource_raw_meat">Raw Meat</string>
+	<string name="resource_bone">Bone</string>
+	<string name="resource_cured_meat">Cured Meat</string>
+	<string name="resource_dry_skin">Dry Skin</string>
+	<string name="resource_leather">Leather</string>
+	<string name="resource_raw_fish">Raw Fish</string>
+	<string name="resource_dry_fish">Dry Fish</string>
+	<string name="resource_log">Log</string>
+	<string name="resource_grain">Grain</string>
+	<string name="resource_flour">Flour</string>
+	<string name="resource_bread">Bread</string>
+	<string name="resource_waterskin">Waterskin</string>
+	<string name="resource_stone">Stone</string>
+	<string name="resource_charcoal">Charcoal</string>
+	<string name="resource_copper_ore">Copper Ore</string>
+	<string name="resource_tin_ore">Tin Ore</string>
+	<string name="resource_iron_ore">Iron Ore</string>
+	<string name="resource_copper">Copper</string>
+	<string name="resource_bronze">Bronze</string>
+	<string name="resource_iron">Iron</string>
+	<string name="resource_steel">Steel</string>
+	<string name="resource_bow">Bow</string>
+	<string name="resource_composite_bow">Composite Bow</string>
+	<string name="resource_straw">Straw</string>
+	<string name="resource_mud">Mud</string>
+	<string name="resource_sling">Sling</string>
+	<string name="resource_tannin">Tannin</string>
+	<string name="resource_copper_spear">Copper Spear</string>
+	<string name="resource_copper_axe">Copper Axe</string>
+	<string name="resource_bronze_spear">Bronze Spear</string>
+	<string name="resource_bronze_knife">Bronze Knife</string>
+	<string name="resource_bronze_axe">Bronze Axe</string>
+	<string name="resource_iron_spear">Iron Spear</string>
+	<string name="resource_iron_knife">Iron Knife</string>
+	<string name="resource_iron_axe">Iron Axe</string>
+	<string name="resource_steel_spear">Steel Spear</string>
+	<string name="resource_steel_knife">Steel Knife</string>
+	<string name="resource_steel_axe">Steel Axe</string>
+	<string name="resource_bronze_sword">Bronze Sword</string>
+	<string name="resource_iron_sword">Iron sword</string>
+	<string name="resource_flint_knife">Flint Knife</string>
+	<string name="resource_copper_knife">Copper Knife</string>
+	<string name="resource_steel_sword">Steel Sword</string>
+	<string name="resource_skins_outfit">Skins Outfit</string>
+	<string name="resource_leather_outfit">Leather Outfit</string>
+	<string name="resource_wool_outfit">Wool Outfit</string>
+	<string name="resource_linen_outfit">Linen Outfit</string>
+	<string name="resource_steel_pick">Steel Pick</string>
+	<string name="resource_copper_pick">Copper Pick</string>
+	<string name="resource_bronze_pick">Bronze Pick</string>
+	<string name="resource_iron_pick">Iron Pick</string>
+	<string name="resource_linen">Linen</string>
+	<string name="resource_linen_cloth">Linen Cloth</string>
+	<string name="resource_pulses">Pulses</string>	
+	<string name="resource_steel_sickle">Steel Sickle</string>
+	<string name="resource_copper_sickle">Copper Sickle</string>
+	<string name="resource_bronze_sickle">Bronze Sickle</string>
+	<string name="resource_iron_sickle">Iron Sickle</string>
+	<string name="resource_flint_sickle">Flint Sickle</string>
+	<string name="resource_milk">Milk</string>
+	<string name="resource_water">Water</string>
+	<string name="resource_beer">Beer</string>
+	<string name="resource_wool">Wool</string>
+	<string name="resource_wool_cloth">Wool Cloth</string>
+	<string name="resource_megalith">Megalith</string>
+
+	<!-- Techs -->
+	<string name="tech_bone_tools">Bone Tools</string>
+	<string name="tech_composite_tools">Composite Tools</string>
+	<string name="tech_thatching">Thatching</string>
+	<string name="tech_masonry">Masonry</string>
+	<string name="tech_stone_polishing">Stone Polishing</string>
+	<string name="tech_copper_smelting">Copper Smelting</string>
+	<string name="tech_bronze_smelting">Bronze Smelting</string>
+	<string name="tech_iron_smelting">Iron Smelting</string>
+	<string name="tech_steelmaking">Steelmaking</string>
+	<string name="tech_underground_mining">Underground Mining</string>
+	<string name="tech_pottery">Pottery</string>
+	<string name="tech_well_digging">Well Digging</string>
+	<string name="tech_food_drying">Food Drying</string>
+	<string name="tech_grain_processing">Grain Processing</string>
+	<string name="tech_pulse_processing">Pulse Processing</string>
+	<string name="tech_cereal_domestication">Cereal Domestication</string>
+	<string name="tech_pulse_domestication">Pulse Domestication</string>
+	<string name="tech_flax_domestication">Flax Domestication</string>
+	<string name="tech_fruit_tree_domestication">Fruit Tree Domestication</string>
+	<string name="tech_rye_domestication">Rye Domestication</string>
+	<string name="tech_dog_domestication">Dog Domestication</string>
+	<string name="tech_sheep_domestication">Sheep Domestication</string>
+	<string name="tech_goat_domestication">Goat Domestication</string>
+	<string name="tech_pig_domestication">Pig Domestication</string>
+	<string name="tech_cattle_domestication">Cattle Domestication</string>
+	<string name="tech_donkey_domestication">Donkey Domestication</string>
+	<string name="tech_horse_domestication">Horse Domestication</string>
+	<string name="tech_tanning">Tanning</string>
+	<string name="tech_weaving">Weaving</string>
+	<string name="tech_sledgemaking">Sledgemaking</string>
+	<string name="tech_stilting">Stilting</string>
+	<string name="tech_wheel">The Wheel</string>
+	<string name="tech_spirituality">Spirituality</string>
+	<string name="tech_megalithism">Megalithism</string>
+	<string name="tech_brewing">Brewing</string>
+	<string name="tech_hydropower">Hydropower</string>
+	<string name="tech_baking">Baking</string>
+
+	<string name="tech_slingmaking">Slingmaking</string>
+	<string name="tech_archery">Archery</string>
+	<string name="tech_fortifications">Fortifications</string>
+	<string name="tech_swordmaking">Swordmaking</string>
+	<string name="tech_composite_archery">Composite Archery</string>
+	<string name="tech_reinforced_fortifications">Reinforced Fortifications</string>
+
+	<!-- Transports -->
+	<string name="transport_sledge">Sledge</string>
+	<string name="transport_cart">Cart</string>
+	<string name="transport_rolling_megalith">Rolling Megalith</string>
+
+	<!-- Misc -->
+	<string name="bank">Bank</string>
+
+	<!-- Trees -->
+	<string name="tree_young_broadleaf">Young Tree</string>
+	<string name="tree_young_conifer">Young Tree</string>
+
+	<string name="tree_oak">Oak</string>
+	<string name="tree_pine">Pine</string>
+	<string name="tree_beech">Beech</string>
+	<string name="tree_birch">Birch</string>
+	<string name="tree_spruce">Spruce</string>
+	<string name="tree_fir">Fir</string>
+	<string name="tree_service">Service Tree</string>
+	<string name="tree_cherry">Cherry Tree</string>
+	<string name="tree_chestnut">Chestnut</string>
+	<string name="tree_pear">Pear Tree</string>
+
+	<string name="tree_raspberry">Raspberry</string>
+	<string name="tree_strawberry">Strawberry</string>
+	<string name="tree_blueberry">Blueberry</string>
+	<string name="tree_blackberry">Blackberry</string>
+
+	<string name="tree_einkorn">Einkorn</string>
+	<string name="tree_emmer">Emmer</string>
+	<string name="tree_barley">Barley</string>
+	<string name="tree_rye">Rye</string>
+
+	<string name="tree_lentils">Lentils</string>
+	<string name="tree_peas">Peas</string>
+	<string name="tree_chickpeas">Chickpeas</string>
+	<string name="tree_bitter_vetch">Bitter Vetch</string>
+
+	<string name="tree_flax">Flax</string>
+
+</strings>

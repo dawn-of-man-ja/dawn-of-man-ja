@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_the_shepherds">The Shepherds</string>
+	<string name="scenario_the_shepherds_subtitle">Difficult</string>
+	<string name="scenario_the_shepherds_description">
+Develop your own herd:
+• Reach 50 animal population
+• Build 4 stables
+	</string>
+	<string name="scenario_the_shepherds_context">
+Your village hunted down nearby animals for years, but their populations have now dwindled drastically, now you need to domesticate and protect your own herd.
+	</string>
+	
+	<string name="goal_the_shepherds_herd">Reach 50 animal population</string>
+	<string name="goal_the_shepherds_stables">Build 4 stables</string>
+
+	<string name="the_shepherds_well_done">Well done</string>	
+	<string name="the_shepherds_completed">You will now be able to survive in this environment.</string>		
+</strings>
