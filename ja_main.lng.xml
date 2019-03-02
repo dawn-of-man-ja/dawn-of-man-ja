@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
 	<!-- This is the name of the language as it will appear on the language select screen -->
-	<string name="language_name">English</string>
+	<string name="language_name">日本語</string>
 	
 	<!-- This is a colon that will separate two strings, we do this because in french you also have space before the colon -->
 	<string name="colon">: </string>
 	
 	<!-- Loading screen -->
-	<string name="loading">Loading</string>
-	<string name="press_any_key">Press any key</string>
+	<string name="loading">ロード中</string>
+	<string name="press_any_key">なにかキーを押してください</string>
 	
 	<!-- Load/Save panel -->
-	<string name="playtime">Play time</string>
-	<string name="save_panel_population">Population</string>
+	<string name="playtime">プレイ時間</string>
+	<string name="save_panel_population">人口</string>
 	
 	<!-- Selection panel UI -->
 	<string name="raider">Raider</string>
@@ -50,10 +50,10 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="pop">Pop</string> 
 
 	<!-- Tracked variables -->
-	<string name="tracked_variable_population">Population</string>
-	<string name="tracked_variable_food">Food</string>
-	<string name="tracked_variable_domestic_animals">Domestic Animals</string>
-	<string name="tracked_variable_workload">Workload</string>
+	<string name="tracked_variable_population">人口</string>
+	<string name="tracked_variable_food">食料</string>
+	<string name="tracked_variable_domestic_animals">家畜</string>
+	<string name="tracked_variable_workload">作業負荷</string>
 
 	<!-- Key Bindings screen -->
 	<string name="binding_title_action">Action</string>
@@ -63,24 +63,24 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="bindings_reset">Reset to defaults</string>
 
 	<!-- GameModes -->
-	<string name="game_mode">Game Mode</string>
-	<string name="game_mode_normal">Normal</string>
-	<string name="game_mode_hardcore">Hardcore</string>
+	<string name="game_mode">ゲームモード</string>
+	<string name="game_mode_normal">ノーマル</string>
+	<string name="game_mode_hardcore">ハードコア</string>
 	
 	<string name="game_mode_normal_description">
-- Unlimited savegames
-- Game can be paused
-- Other tribes match your technology
-- Normal amount of raiders
-- Reduced animal aggression
+- いくらでもセーブできる
+- ポーズできる
+- 他の村の技術レベルとあなたの村の技術レベルが合っている
+- 通常の侵入者数
+- 動物の攻撃性を軽減
 	</string>
 	
 	<string name="game_mode_hardcore_description">
-- Only one savegame
-- Game can not be paused
-- Other tribes progress at their own rate
-- Larger amount of raiders
-- Regular animal aggression
+- セーブは一つだけ
+- ポーズできない
+- 他の村は彼ら自身の速度で進歩する
+- 大量の侵入者
+- 動物の攻撃性が普通
 	</string>
 	
 	<!-- Community -->
@@ -88,481 +88,481 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="community_generic_text">No community scenarios available.(n)(n)You can download community scenarios and place them in the Documents/DawnOfMan/Scenarios folder.</string>
 
 	<!-- Disasters -->
-	<string name="disaster_storm">Storm</string>
-	<string name="disaster_blizzard">Blizzard</string>
+	<string name="disaster_storm">嵐</string>
+	<string name="disaster_blizzard">吹雪</string>
 
 	<!-- Quick panels -->
-	<string name="quick_panel_general">General</string>
-	<string name="quick_panel_food">Food</string>
-	<string name="quick_panel_resources">Resources</string>
-	<string name="quick_panel_grouped_resources">Grouped Resources</string> <!-- Shows all your resources goruped by type -->
-	<string name="quick_panel_defense">Defense</string>
-	<string name="quick_panel_speed">Speed</string>
-	<string name="quick_panel_transports">Transports</string> <!-- Show the amount of carts and sledges you have in the town -->
-	<string name="quick_panel_animals">Animals</string>
-	<string name="quick_panel_food_chart">Food Chart</string>
+	<string name="quick_panel_general">全般</string>
+	<string name="quick_panel_food">食料</string>
+	<string name="quick_panel_resources">資源</string>
+	<string name="quick_panel_grouped_resources">分類された資源</string> <!-- Shows all your resources goruped by type -->
+	<string name="quick_panel_defense">防衛</string>
+	<string name="quick_panel_speed">速度</string>
+	<string name="quick_panel_transports">物流</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_animals">動物</string>
+	<string name="quick_panel_food_chart">食料グラフ</string>
 	<string name="quick_panel_straw_chart">Straw Chart</string>	
 	
 	<!-- Trading -->
-	<string name="trade">Trade</string>
-	<string name="trader">Trader</string>
-	<string name="trader_arrived">Trader has arrived</string>
-	<string name="trader_stock">Trader Stock</string>
-	<string name="trader_trade">Trader Trade</string>
-	<string name="settlement_trade">Settlement Trade</string>
-	<string name="settlement_stock">Settlement Stock</string>
-	<string name="no_items">No items</string>
-	<string name="ok">OK</string>
-	<string name="cancel">Cancel</string>
-	<string name="trade_value">Trade value</string>
-	<string name="trade_commission">Commission</string>
-	<string name="trade_including_commission">Total value of trader goods, including commission.</string>
-	<string name="commission_low">Low</string>
-	<string name="commission_average">Average</string>
-	<string name="commission_high">High</string>
+	<string name="trade">取引</string>
+	<string name="trader">商人</string>
+	<string name="trader_arrived">商人が到着</string>
+	<string name="trader_stock">商人の在庫</string>
+	<string name="trader_trade">商人と取引</string>
+	<string name="settlement_trade">村と取引</string>
+	<string name="settlement_stock">村の在庫</string>
+	<string name="no_items">アイテムがない</string>
+	<string name="ok">取引</string>
+	<string name="cancel">キャンセル</string>
+	<string name="trade_value">数量</string>
+	<string name="trade_commission">手数料</string>
+	<string name="trade_including_commission">手数料を含む合計金額。</string>
+	<string name="commission_low">低い</string>
+	<string name="commission_average">平均的</string>
+	<string name="commission_high">高い</string>
 
 	<!-- Placement -->
-	<string name="structure_placement_text">Left click to place.(n)Use (1) and (2) keys to rotate.(n)Shift+click to place multiple.</string>
-	<string name="mine_placement_text">Left click to place.(n)Needs to be placed on (1) deposit.</string>
-	<string name="field_placement_text">Click and hold to place field.</string>
-	<string name="wall_placement_text">Click and hold to place wall. Use (1) and (2) keys to change shape.</string>
-	<string name="bridge_placement_text">Click and hold to place bridge.</string>
-	<string name="work_area_placement_text">Left click to place.(n)Use (1) and (2) keys to change size.(n)Shift+click to place multiple.</string>
-	<string name="place_confirm">Place entity</string>
-	<string name="place_cancel">Cancel</string>
+	<string name="structure_placement_text">左クリックで設置。(n)(1)キーと(2)キーで回転。(n)Shift+クリックで連続で設置。</string>
+	<string name="mine_placement_text">左クリックで設置。(n)(1)の周囲に設置する必要がある。</string>
+	<string name="field_placement_text">クリックしたままにしてフィールドを設置。</string>
+	<string name="wall_placement_text">クリックしたままにして壁を設置。形状を変更するには、(1)キーと(2)キーを使用。</string>
+	<string name="bridge_placement_text">クリックしたままにして橋を設置。</string>
+	<string name="work_area_placement_text">左クリックで設置(n)(1)と(2)キーでサイズを変更(n)Shift+クリックで連続で設置。</string>
+	<string name="place_confirm">設置</string>
+	<string name="place_cancel">キャンセル</string>
 
 	<!-- Temperatures, leave as is -->
 	<string name="celsius">°C</string>
 	<string name="fahrenheit">°F</string>
 
 	<!-- Eras -->
-	<string name="era">Era</string>
-	<string name="era_paleolithic">Paleolithic</string>
-	<string name="era_mesolithic">Mesolithic</string>
-	<string name="era_neolithic">Neolithic</string>
-	<string name="era_copper_age">Copper Age</string>
-	<string name="era_bronze_age">Bronze Age</string>
-	<string name="era_iron_age">Iron Age</string>
+	<string name="era">時代</string>
+	<string name="era_paleolithic">旧石器時代</string>
+	<string name="era_mesolithic">中石器時代</string>
+	<string name="era_neolithic">新石器時代</string>
+	<string name="era_copper_age">銅器時代</string>
+	<string name="era_bronze_age">青銅器時代</string>
+	<string name="era_iron_age">鉄器時代</string>
 	
-	<string name="super_era_stone_age">Stone Age</string>
-	<string name="super_era_metal_age">Metal Age</string>	
+	<string name="super_era_stone_age">石器時代</string>
+	<string name="super_era_metal_age">金属時代</string>	
 
 	<!-- Knowledge -->
-	<string name="knowledge">Knowledge</string>
-	<string name="knowledge_earned">Knowledge +(1)</string>
-	<string name="knowledge_population">Population reached: (1)</string>
-	<string name="knowledge_animal_population">Animal population reached: (1)</string>
-	<string name="knowledge_first_structure_built">First structure: (1)</string>
-	<string name="knowledge_first_raider_killed">First raider Killed</string>
-	<string name="knowledge_first_resource_produced">First resource produced: (1)</string>
-	<string name="knowledge_first_animal_hunted">First animal hunted: (1)</string>
-	<string name="knowledge_first_resource_acquired">First resource acquired: (1)</string>
-	<string name="knowledge_structure_built">Structure built: (1) x(2)</string>
-	<string name="knowledge_raider_killed">Raiders killed x(1)</string>
-	<string name="knowledge_resources_produced">Produced: (1) x(2)</string>
-	<string name="knowledge_animals_hunted">Hunted: (1) x(2)</string>
-	<string name="knowledge_resources_acquired">Acquired: (1) x(2)</string>
-	<string name="knowledge_winter_survived">Survived the winter</string>
+	<string name="knowledge">知識</string>
+	<string name="knowledge_earned">知識 +(1)</string>
+	<string name="knowledge_population">人口が(1)に到達</string>
+	<string name="knowledge_animal_population">動物の数が(1)に到達</string>
+	<string name="knowledge_first_structure_built">新しい建造物: (1)</string>
+	<string name="knowledge_first_raider_killed">初めて侵入者を殺害</string>
+	<string name="knowledge_first_resource_produced">新しい資源を生産: (1)</string>
+	<string name="knowledge_first_animal_hunted">新しい動物を狩猟: (1)</string>
+	<string name="knowledge_first_resource_acquired">新しい資源を獲得: (1)</string>
+	<string name="knowledge_structure_built">建設: (1) x(2)</string>
+	<string name="knowledge_raider_killed">侵入者を殺害 x(1)</string>
+	<string name="knowledge_resources_produced">生産: (1) x(2)</string>
+	<string name="knowledge_animals_hunted">狩猟: (1) x(2)</string>
+	<string name="knowledge_resources_acquired">獲得: (1) x(2)</string>
+	<string name="knowledge_winter_survived">冬を生き延びた</string>
 	
 	<!-- Tech messages. These could be translated as: "Tech Unlocked: (1)", "Era Unlocked: (1)" and "Unlocks Era: (1)" in order to avoid problems with genders  -->
-	<string name="tech_unlocked">(1) unlocked</string>
-	<string name="era_unlocked">(1) unlocked</string>
-	<string name="era_tech">Unlocks (1) Era</string>
+	<string name="tech_unlocked">技術がアンロックされた: (1)</string>
+	<string name="era_unlocked">時代がアンロックされた: (1)</string>
+	<string name="era_tech">時代をアンロック: (1)</string>
 
 	<!-- Game panels -->
-	<string name="new_save">New Save</string>
-	<string name="main">Main</string>
-	<string name="welfare">Welfare</string>
-	<string name="prestige">Prestige</string>
-	<string name="build">Build</string>
-	<string name="plant">Plant</string>
-	<string name="place_work_area">Place Work Area</string>
-	<string name="manage">Manage</string>
-	<string name="primal_vision">Primal Vision</string>
-	<string name="quicksave">Quicksave</string>
-	<string name="techs">Techs</string>
-	<string name="knowledge_progress">Knowledge Progress</string>
-	<string name="click_to_unlock">Click to unlock</string>
-	<string name="requires">Requires</string>
-	<string name="required_for">Required for</string>	
-	<string name="already_unlocked">Already unlocked</string>
-	<string name="charts">Charts</string>
-	<string name="stats">Stats</string>
-	<string name="resources">Resources</string>
-	<string name="task">Task</string>
-	<string name="tasks">Tasks</string>
-	<string name="activity">Activity</string>
-	<string name="active_tasks">Active tasks</string>
-	<string name="pending_tasks">Pending tasks</string>
-	<string name="workload">Workload</string>
-	<string name="performers">Performers</string>
-	<string name="target">Target</string>
-	<string name="no_tasks">No tasks</string>
-	<string name="limits">Limits</string>
-	<string name="population_limit">Population limit</string>
-	<string name="allow_new_humans">Allow new residents</string>
-	<string name="domestic_animals">Domestic Animals</string>
-	<string name="panel_defense">Defense</string>
-	<string name="defense_alert_level">Alert Level</string>
-	<string name="defense_gates">Gates</string>
-	<string name="task_target_none">None</string>
+	<string name="new_save">セーブ</string>
+	<string name="main">メイン</string>
+	<string name="welfare">福祉</string>
+	<string name="prestige">名声</string>
+	<string name="build">建設</string>
+	<string name="plant">植える</string>
+	<string name="place_work_area">作業領域を設置</string>
+	<string name="manage">管理</string>
+	<string name="primal_vision">原始の視覚</string>
+	<string name="quicksave">クイックセーブ</string>
+	<string name="techs">技術</string>
+	<string name="knowledge_progress">知識の進行状況</string>
+	<string name="click_to_unlock">アンロック</string>
+	<string name="requires">条件</string>
+	<string name="required_for">条件:</string>	
+	<string name="already_unlocked">すでにアンロックされている</string>
+	<string name="charts">チャート</string>
+	<string name="stats">統計</string>
+	<string name="resources">資源</string>
+	<string name="task">タスク</string>
+	<string name="tasks">タスク</string>
+	<string name="activity">アクティビティ</string>
+	<string name="active_tasks">作業中のタスク</string>
+	<string name="pending_tasks">待機中のタスク</string>
+	<string name="workload">作業負荷</string>
+	<string name="performers">パフォーマンス</string>
+	<string name="target">対象</string>
+	<string name="no_tasks">タスクがない</string>
+	<string name="limits">上限</string>
+	<string name="population_limit">人口の上限</string>
+	<string name="allow_new_humans">新しい住人の許可</string>
+	<string name="domestic_animals">家畜</string>
+	<string name="panel_defense">防衛</string>
+	<string name="defense_alert_level">警告レベル</string>
+	<string name="defense_gates">門</string>
+	<string name="task_target_none">なし</string>
 	
 	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
-	<string name="progress_general">General</string>
-	<string name="progress_raiders_killed">Raiders Killed</string>
-	<string name="progress_hunted_animals">Animals Hunted</string>
-	<string name="progress_built_structures">Built Structures</string>
-	<string name="progress_resources_acquired">Resources Acquired</string>
+	<string name="progress_general">全体</string>
+	<string name="progress_raiders_killed">侵入者を殺害</string>
+	<string name="progress_hunted_animals">動物を狩猟</string>
+	<string name="progress_built_structures">建物を建築</string>
+	<string name="progress_resources_acquired">資源を獲得</string>
 	
 	<!-- Milestones-->
-	<string name="panel_milestones">Milestones</string>
-	<string name="milestone_locked">Locked</string>
-	<string name="milestone_unlocked">Unlocked</string>
-	<string name="milestone_unlocked_hardcore">Unlocked in Hardcore Mode</string>
+	<string name="panel_milestones">マイルストーン</string>
+	<string name="milestone_locked">ロック</string>
+	<string name="milestone_unlocked">アンロック</string>
+	<string name="milestone_unlocked_hardcore">ハードコアモードでアンロック</string>
 
 	<!-- Game menu -->
-	<string name="game_menu">Game Menu</string>
-	<string name="save_name_title">Save Name</string>
-	<string name="confirm_title">Confirm</string>
-	<string name="confirm_text">Are you sure you want to quit?</string>
-	<string name="yes">Yes</string>
-	<string name="no">No</string>
-	<string name="on">On</string>
-	<string name="off">Off</string>	
-	<string name="back">Back</string>
+	<string name="game_menu">メニュー</string>
+	<string name="save_name_title">セーブ</string>
+	<string name="confirm_title">決定</string>
+	<string name="confirm_text">終了しますか?</string>
+	<string name="yes">はい</string>
+	<string name="no">いいえ</string>
+	<string name="on">オン</string>
+	<string name="off">オフ</string>	
+	<string name="back">戻る</string>
 	
 	<!-- Resource category flags -->
-	<string name="category_food_and_drink">Food and Drink</string>
-	<string name="category_clothing">Clothing</string>
-	<string name="category_material">Materials</string>
-	<string name="category_tool">Tools</string>
-	<string name="category_domestic">Domestic Animals</string>
+	<string name="category_food_and_drink">飲食物</string>
+	<string name="category_clothing">衣類</string>
+	<string name="category_material">材料</string>
+	<string name="category_tool">道具</string>
+	<string name="category_domestic">家畜</string>
 
 	<!-- Game speed -->
-	<string name="speed">Game Speed</string>
-	<string name="pause">Pause</string>
-	<string name="timescale1">Normal Speed</string>
-	<string name="timescale2">Speed x2</string>
-	<string name="timescale4">Speed x4</string>
-	<string name="timescale8">Speed x8</string>
+	<string name="speed">速度</string>
+	<string name="pause">ポーズ</string>
+	<string name="timescale1">速度 x1</string>
+	<string name="timescale2">速度 x2</string>
+	<string name="timescale4">速度 x4</string>
+	<string name="timescale8">速度 x8</string>
 
 	<!-- Menus -->
-	<string name="menu">Menu</string>
-	<string name="menu_new_game">New Game</string>
+	<string name="menu">メニュー</string>
+	<string name="menu_new_game">新しいゲーム</string>
 	<string name="menu_video_settings">Video</string>
 	<string name="menu_audio_settings">Audio</string>
 	<string name="menu_misc_settings">Misc</string>
 	<string name="menu_gameplay_settings">Gameplay</string>
-	<string name="menu_settings">Settings</string>
-	<string name="menu_select_scenario">Select Scenario</string>
-	<string name="select_location">Select Location</string>
-	<string name="scenario_details">Scenario Details</string>
-	<string name="scenario_location">Location</string>
-	<string name="menu_load">Load</string>
-	<string name="menu_tutorial">Tutorial</string>
-	<string name="menu_save">Save</string>
+	<string name="menu_settings">設定</string>
+	<string name="menu_select_scenario">シナリオを選択</string>
+	<string name="select_location">場所を選択</string>
+	<string name="scenario_details">シナリオの詳細</string>
+	<string name="scenario_location">場所</string>
+	<string name="menu_load">ロード</string>
+	<string name="menu_tutorial">チュートリアル</string>
+	<string name="menu_save">セーブ</string>
 	<string name="scenario_category_freeplay">Freeplay</string>
 	<string name="scenario_category_challenge">Challenges</string>
 	<string name="scenario_category_development">Development</string>
 	<string name="scenario_category_community">Community</string>
-	<string name="menu_start">Start</string>
-	<string name="menu_misc_scenarios">Scenarios</string>
-	<string name="menu_back">Back</string>
-	<string name="menu_quit">Quit</string>
-	<string name="menu_continue">Continue</string>
-	<string name="menu_resume">Resume</string>
-	<string name="menu_credits">Credits</string>
-	<string name="menu_achievements">Achievements</string>
-	<string name="confirm_save">Are you sure you want to overwrite (1)?</string>
-	<string name="confirm_delete">Are you sure you want to delete (1)?</string>
-	<string name="controls">Controls</string>
-	<string name="language">Language</string>
-	<string name="requires_milestones">Requires</string>
-	<string name="settlement_name">Settlement Name</string>
+	<string name="menu_start">スタート</string>
+	<string name="menu_misc_scenarios">シナリオ</string>
+	<string name="menu_back">戻る</string>
+	<string name="menu_quit">終了する</string>
+	<string name="menu_continue">続ける</string>
+	<string name="menu_resume">再開する</string>
+	<string name="menu_credits">クレジット</string>
+	<string name="menu_achievements">実績</string>
+	<string name="confirm_save">(1)を上書きしてもよろしいですか?</string>
+	<string name="confirm_delete">(1)を消去してもよろしいですか?</string>
+	<string name="controls">操作</string>
+	<string name="language">言語</string>
+	<string name="requires_milestones">条件</string>
+	<string name="settlement_name">村の名前</string>
 	
 	<string name="tutorial_advice">
-You have not completed the (b)tutorial(/b).(n)
-Unless you really know what you are doing, we (b)highly recommend(/b) that you do so.(n)
-Do you want to play the tutorial now?
+あなたは(b)チュートリアル(/b)を終えていません。(n)
+あなたが自分で何をしているのかわかっていない場合はチュートリアルをプレイすることを強くおすすめします。(n)
+チュートリアルを始めますか?
 	</string>
 	
 	<!-- Settings -->
-	<string name="resolution">Resolution</string>
+	<string name="resolution">解像度</string>
 
-	<string name="quality">Quality</string>
+	<string name="quality">描画品質</string>
 	<string name="quality_level_low">Low</string>
 	<string name="quality_level_medium">Medium</string>
 	<string name="quality_level_high">High</string>
 	<string name="quality_level_ultra">Ultra</string>
 
-	<string name="vsync">VSync</string>
-	<string name="fps_limit">FPS Limit</string>
-	<string name="anti_aliasing">Anti Aliasing</string>	
+	<string name="vsync">垂直同期</string>
+	<string name="fps_limit">FPS上限</string>
+	<string name="anti_aliasing">アンチエイリアス</string>	
 	<string name="vsync_on">On</string>
 	<string name="vsync_off">Off</string>
 	<string name="antialiasing_on">On</string>
 	<string name="antialiasing_off">Off</string>		
 
-	<string name="sfx_volume">SFX Volume</string>
-	<string name="music_volume">Music Volume</string>
+	<string name="sfx_volume">効果音</string>
+	<string name="music_volume">BGM</string>
 
 	<!-- Ages and Genders-->
-	<string name="gender_male">Male</string>
-	<string name="gender_female">Female</string>		
+	<string name="gender_male">男性</string>
+	<string name="gender_female">女性</string>		
 		
-	<string name="human_male_young">Boy</string>
-	<string name="human_male_adult">Adult Man</string>
-	<string name="human_male_old">Old Man</string>
+	<string name="human_male_young">男の子</string>
+	<string name="human_male_adult">男性</string>
+	<string name="human_male_old">おじいさん</string>
 	
-	<string name="human_female_young">Girl</string>
-	<string name="human_female_adult">Adult Woman</string>
-	<string name="human_female_old">Old Woman</string>	
+	<string name="human_female_young">女の子</string>
+	<string name="human_female_adult">女性</string>
+	<string name="human_female_old">おばあさん</string>	
 	
-	<string name="animal_age_young">Young</string>
-	<string name="animal_age_adult">Adult</string>
-	<string name="animal_age_old">Old</string>
+	<string name="animal_age_young">若い</string>
+	<string name="animal_age_adult">大人</string>
+	<string name="animal_age_old">年寄り</string>
 	
-	<string name="animal_male_young">Young Male</string>
-	<string name="animal_male_adult">Adult Male</string>
-	<string name="animal_male_old">Old Male</string>	
+	<string name="animal_male_young">若いオス</string>
+	<string name="animal_male_adult">大人のオス</string>
+	<string name="animal_male_old">歳をとったオス</string>	
 	
-	<string name="animal_female_young">Young Female</string>
-	<string name="animal_female_adult">Adult Female</string>
-	<string name="animal_female_old">Old Female</string>
+	<string name="animal_female_young">若いメス</string>
+	<string name="animal_female_adult">大人のオス</string>
+	<string name="animal_female_old">歳をとったメス</string>
 	
-	<string name="years_old">Years Old</string>		
+	<string name="years_old">歳</string>		
 
 	<!-- Stats panel -->
-	<string name="humans">Humans</string>
-	<string name="human_total">Total amount of people</string>
-	<string name="human_count_male_young">Male Children</string>
-	<string name="human_count_male_adult">Male Adults</string>
-	<string name="human_count_male_old">Male Elderly</string>
-	<string name="human_count_female_young">Female Children</string>
-	<string name="human_count_female_adult">Female Adults</string>
-	<string name="human_count_female_old">Female Elderly</string>
-	<string name="pregnant">Pregnant</string>
-	<string name="animals">Animals</string>
-	<string name="transport">Transport</string>
+	<string name="humans">人間</string>
+	<string name="human_total">人口</string>
+	<string name="human_count_male_young">男の子</string>
+	<string name="human_count_male_adult">男性</string>
+	<string name="human_count_male_old">おじいさん</string>
+	<string name="human_count_female_young">女の子</string>
+	<string name="human_count_female_adult">女性</string>
+	<string name="human_count_female_old">おばあさん</string>
+	<string name="pregnant">妊婦</string>
+	<string name="animals">動物</string>
+	<string name="transport">物流</string>
 	
 	<!-- Domestic animals panel -->
-	<string name="animal_count_total">Total</string>
-	<string name="animal_count_male">Males</string>
-	<string name="animal_count_female">Females</string>
+	<string name="animal_count_total">合計</string>
+	<string name="animal_count_male">オス</string>
+	<string name="animal_count_female">メス</string>
 
 	<!-- Structure stats -->
-	<string name="stat_condition">Condition</string>			<!-- How well preserved the structure is -->
-	<string name="stat_fuel">Fuel</string>								<!-- How much fuel (wood) there is in this structure -->
+	<string name="stat_condition">状態</string>			<!-- How well preserved the structure is -->
+	<string name="stat_fuel">燃料</string>								<!-- How much fuel (wood) there is in this structure -->
 	
 	<!-- Human stats -->
-	<string name="stat_health">Health</string>						<!-- The level of wellbeing of a person -->
-	<string name="stat_nutrition">Nutrition</string>			<!-- The level of nutrition of a person -->
-	<string name="stat_hydration">Hydration</string>			<!-- The level of hydration of a person -->
-	<string name="stat_temperature">Temperature</string>	<!-- The body temperature of a person -->
-	<string name="stat_rest">Rest</string>								<!-- How rested a person is -->
-	<string name="stat_stamina">Stamina</string>					<!-- How much stamina a person has -->
-	<string name="stat_morale">Morale</string>						<!-- The level of happiness of a person -->
+	<string name="stat_health">健康状態</string>						<!-- The level of wellbeing of a person -->
+	<string name="stat_nutrition">栄養</string>			<!-- The level of nutrition of a person -->
+	<string name="stat_hydration">水分</string>			<!-- The level of hydration of a person -->
+	<string name="stat_temperature">体温</string>	<!-- The body temperature of a person -->
+	<string name="stat_rest">休息</string>								<!-- How rested a person is -->
+	<string name="stat_stamina">元気</string>					<!-- How much stamina a person has -->
+	<string name="stat_morale">士気</string>						<!-- The level of happiness of a person -->
 	
 	<!-- Animal stats -->
-	<string name="stat_production">Production</string>		<!-- How far along the production of milk or wool is -->
+	<string name="stat_production">生産量</string>		<!-- How far along the production of milk or wool is -->
 	
 	<!-- Attributes -->
 	
 	<!-- These define how good tools are at doing certain tasks -->
-	<string name="attribute_butchering">Butchering</string>			<!-- Extracting meat from animals -->
-	<string name="attribute_fighting">Fighting</string>					<!-- Hand to hand combat -->
-	<string name="attribute_fishing">Fishing</string>
-	<string name="attribute_hunting">Hunting</string>						<!-- Hunting and ranged combat -->
-	<string name="attribute_woodcutting">Woodcutting</string>
-	<string name="attribute_mining">Mining</string>
-	<string name="attribute_harvesting">Harvesting</string>
+	<string name="attribute_butchering">屠殺</string>			<!-- Extracting meat from animals -->
+	<string name="attribute_fighting">格闘</string>					<!-- Hand to hand combat -->
+	<string name="attribute_fishing">釣り</string>
+	<string name="attribute_hunting">戦闘</string>						<!-- Hunting and ranged combat -->
+	<string name="attribute_woodcutting">伐採</string>
+	<string name="attribute_mining">採掘</string>
+	<string name="attribute_harvesting">収穫</string>
 	
 	<!-- These are for clothing -->
-	<string name="attribute_warmth">Warmth</string>							<!-- How warm is this outfit -->
-	<string name="attribute_style">Style</string>								<!-- How stylish is this outfit -->
+	<string name="attribute_warmth">保温性</string>							<!-- How warm is this outfit -->
+	<string name="attribute_style">デザイン性</string>								<!-- How stylish is this outfit -->
 
-	<string name="attribute_bonus_speed">Speed: (1)x</string>
-	<string name="attribute_bonus_damage">Damage: (1)</string>
-	<string name="attribute_bonus_temperature">Cold Resistance: (1)</string>
-	<string name="attribute_bonus_style">Suitable up to era: (1)</string>
+	<string name="attribute_bonus_speed">速度: (1)x</string>
+	<string name="attribute_bonus_damage">ダメージ: (1)</string>
+	<string name="attribute_bonus_temperature">耐寒性: (1)</string>
+	<string name="attribute_bonus_style">デザインの有効性: (1)</string>
 	
-	<string name="attribute_description_butchering">Cut open animals to extract resources from them</string>
-	<string name="attribute_description_fighting">Melee combat against raiders or animals</string>
-	<string name="attribute_description_fishing">Capture fish from rivers or lakes</string>
-	<string name="attribute_description_hunting">Hunting and ranged combat against animals or raiders</string>
-	<string name="attribute_description_woodcutting">Cutting trees</string>
-	<string name="attribute_description_mining">Mining from surface deposits or mines</string>
-	<string name="attribute_description_harvesting">Harvesting wild of planted cereals or pulses</string>
-	<string name="attribute_description_warmth">Protection against cold</string>
-	<string name="attribute_description_style">How stylish this outfit is: wearing outfashioned clothes decreases welfare</string>
+	<string name="attribute_description_butchering">動物を殺してそれらから資源を得る</string>
+	<string name="attribute_description_fighting">襲撃者や動物に対する近接戦闘</string>
+	<string name="attribute_description_fishing">川や湖から魚を捕まえる</string>
+	<string name="attribute_description_hunting">動物や襲撃者に対する狩猟と遠隔戦</string>
+	<string name="attribute_description_woodcutting">木を伐る</string>
+	<string name="attribute_description_mining">地表の鉱床や鉱山から採掘する</string>
+	<string name="attribute_description_harvesting">野生の穀物や豆類の収穫</string>
+	<string name="attribute_description_warmth">防寒</string>
+	<string name="attribute_description_style">この衣装のスタイリッシュさは：昔ながらの服を着ると幸福が減る</string>
 	
 	<!-- Seasons -->
-	<string name="season_spring">Spring</string>
-	<string name="season_summer">Summer</string>
-	<string name="season_fall">Fall</string>
-	<string name="season_winter">Winter</string>
+	<string name="season_spring">春</string>
+	<string name="season_summer">夏</string>
+	<string name="season_fall">秋</string>
+	<string name="season_winter">冬</string>
 	
 	<!-- Activity -->
-	<string name="activity_category_unproductive">Unproductive</string>
-	<string name="activity_category_subsisting">Subsisting</string>
-	<string name="activity_category_resources">Carrying resources</string>
-	<string name="activity_category_tasks">Performing tasks</string>
+	<string name="activity_category_unproductive">不毛</string>
+	<string name="activity_category_subsisting">食べる</string>
+	<string name="activity_category_resources">運搬</string>
+	<string name="activity_category_tasks">作業中</string>
 	
 	<!-- Tasks. These are all verbs. -->
-	<string name="task_plant">Plant</string> 
-	<string name="task_hunt">Hunt</string>
-	<string name="task_capture">Capture</string>
-	<string name="task_cut_down">Woodcutting</string>
-	<string name="task_butcher">Butcher</string>
-	<string name="task_slaughter">Slaughter</string>
-	<string name="task_milk">Milk</string>
-	<string name="task_collect">Collect</string>
-	<string name="task_gather_detail">Gather Sticks</string>
-	<string name="task_gather_prop">Gather Resources</string>
-	<string name="task_harvest">Harvest</string>
-	<string name="task_extract_mud">Extract Mud</string>
-	<string name="task_extract_water">Get Water</string>
-	<string name="task_mine">Mine</string>
-	<string name="task_mine_underground">Mine Underground</string>
-	<string name="task_build">Build</string>
-	<string name="task_repair">Repair</string>
-	<string name="task_craft">Craft</string>
-	<string name="task_go">Go</string>
-	<string name="task_recycle">Recycle</string>
-	<string name="task_upgrade">Upgrade</string>
-	<string name="task_shear">Shear</string>
-	<string name="task_fish">Fish</string>
-	<string name="task_fuel">Fuel</string>
-	<string name="task_keep_animals">Keep animals</string>
+	<string name="task_plant">植える</string> 
+	<string name="task_hunt">戦闘</string>
+	<string name="task_capture">捕える</string>
+	<string name="task_cut_down">伐採</string>
+	<string name="task_butcher">屠殺</string>
+	<string name="task_slaughter">殺害</string>
+	<string name="task_milk">搾乳</string>
+	<string name="task_collect">採集</string>
+	<string name="task_gather_detail">棒を採集</string>
+	<string name="task_gather_prop">資源を採集</string>
+	<string name="task_harvest">収穫</string>
+	<string name="task_extract_mud">泥から抽出</string>
+	<string name="task_extract_water">水を入手</string>
+	<string name="task_mine">採掘</string>
+	<string name="task_mine_underground">地下で採掘</string>
+	<string name="task_build">建築</string>
+	<string name="task_repair">修理</string>
+	<string name="task_craft">制作</string>
+	<string name="task_go">移動</string>
+	<string name="task_recycle">リサイクル</string>
+	<string name="task_upgrade">アップグレード</string>
+	<string name="task_shear">刈り込み</string>
+	<string name="task_fish">釣り</string>
+	<string name="task_fuel">燃料</string>
+	<string name="task_keep_animals">牧畜</string>
 
 	<!-- Context actions. These are all verbs. -->
-	<string name="context_action_refuel">Refuel</string>
-	<string name="context_action_keep_animals">Feed Animals</string>
-	<string name="context_action_repair">Repair</string>
-	<string name="context_action_cut_down">Cut Down</string>
-	<string name="context_action_gather_prop">Gather</string>
-	<string name="context_action_gather_detail">Gather</string>
-	<string name="context_action_collect">Collect (1)</string>
-	<string name="context_action_mine">Mine</string>
-	<string name="context_action_hunt">Hunt</string>
-	<string name="context_action_capture">Capture</string>
-	<string name="context_action_butcher">Butcher</string>
-	<string name="context_action_slaughter">Slaughter</string>
-	<string name="context_action_cancel_task">Cancel Task: (1)</string>
-	<string name="context_action_priority_up">Set to high priority</string>
-	<string name="context_action_priority_down">Set to normal priority</string>	
-	<string name="context_action_remove_work_area">Remove Work Area</string>
-	<string name="context_action_edit_work_area">Edit Work Area</string>
-	<string name="context_action_remove_plant">Remove Plant</string>
-	<string name="context_action_recycle">Recycle</string>
-	<string name="context_action_upgrade">Upgrade to (1)</string>
-	<string name="context_action_fish">Fish</string>
-	<string name="context_action_extract_mud">Extract Mud</string>
-	<string name="context_action_extract_water">Get Water</string>
-	<string name="context_action_harvest">Harvest</string>
-	<string name="context_action_plant">Plant</string>
-	<string name="context_action_open_close">Open/Close</string>
-	<string name="context_action_prepare_for_transport">Prepare for transport</string>
-	<string name="context_action_previous_work_area">Previous work area</string>
-	<string name="context_action_next_work_area">Next work area</string>
-	<string name="context_action_cancel_construction">Cancel construction</string>
-	<string name="context_action_limits">Show related resource limits</string>
-	<string name="context_action_milk">Milk</string>
-	<string name="context_action_shear">Shear</string>
+	<string name="context_action_refuel">補給</string>
+	<string name="context_action_keep_animals">餌やり</string>
+	<string name="context_action_repair">修理</string>
+	<string name="context_action_cut_down">伐採</string>
+	<string name="context_action_gather_prop">採集</string>
+	<string name="context_action_gather_detail">採集</string>
+	<string name="context_action_collect">(1)を集める</string>
+	<string name="context_action_mine">採掘</string>
+	<string name="context_action_hunt">戦闘</string>
+	<string name="context_action_capture">捕える</string>
+	<string name="context_action_butcher">屠殺</string>
+	<string name="context_action_slaughter">殺害</string>
+	<string name="context_action_cancel_task">中止: (1)</string>
+	<string name="context_action_priority_up">高優先度に設定する</string>
+	<string name="context_action_priority_down">優先度を戻す</string>	
+	<string name="context_action_remove_work_area">作業領域を撤去</string>
+	<string name="context_action_edit_work_area">作業領域を編集</string>
+	<string name="context_action_remove_plant">植物を除去</string>
+	<string name="context_action_recycle">リサイクル</string>
+	<string name="context_action_upgrade">(1)にアップグレード</string>
+	<string name="context_action_fish">釣り</string>
+	<string name="context_action_extract_mud">泥から抽出</string>
+	<string name="context_action_extract_water">水を入手</string>
+	<string name="context_action_harvest">収穫</string>
+	<string name="context_action_plant">植える</string>
+	<string name="context_action_open_close">開閉</string>
+	<string name="context_action_prepare_for_transport">輸送の準備</string>
+	<string name="context_action_previous_work_area">前の作業領域</string>
+	<string name="context_action_next_work_area">次の作業領域</string>
+	<string name="context_action_cancel_construction">キャンセル</string>
+	<string name="context_action_limits">関連するリソース制限を表示</string>
+	<string name="context_action_milk">搾乳</string>
+	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">Empty contents</string>
 
 	<!-- Reasons why context actions can not be done. -->
-	<string name="disabled_reason_invalid_season">Can only be done in (1)</string>
-	<string name="disabled_reason_requires_tech">Requires tech: (1)</string>
-	<string name="disabled_no_children_allowed">Children can not perform task: (1)</string>
-	<string name="disabled_no_tools_available">No tool available to perform action: (1)</string>
-	<string name="disabled_reason_exhausted">Resource exhausted, you need to wait until it replenishes</string>
-	<string name="disabled_reason_already_planted">Already planted</string>
-	<string name="disabled_reason_no_animals">No animals currently inside</string>
-	<string name="disabled_reason_not_young">Animal is not young</string>
-	<string name="disabled_reason_not_grown">Tree not fully grown</string>
-	<string name="disabled_reason_tree_busy">Someone else is working on that tree</string>	
-	<string name="disabled_reason_not_damaged">This structure is not damaged</string>
-	<string name="disabled_reason_not_operational">Structure not operational</string>
+	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
+	<string name="disabled_reason_requires_tech">技術が必要: (1)</string>
+	<string name="disabled_no_children_allowed">子供はタスクを実行できない: (1)</string>
+	<string name="disabled_no_tools_available">アクションを実行するためのツールがない: (1)</string>
+	<string name="disabled_reason_exhausted">リソースを使い果たしたため、補充されるまで待つ必要があります</string>
+	<string name="disabled_reason_already_planted">すでに植えられています</string>
+	<string name="disabled_reason_no_animals">範囲内に動物がいません</string>
+	<string name="disabled_reason_not_young">若い動物ではありません</string>
+	<string name="disabled_reason_not_grown">木が十分に成長していません</string>
+	<string name="disabled_reason_tree_busy">他の誰かがその木に取り組んでいます</string>	
+	<string name="disabled_reason_not_damaged">この建物は損傷していません</string>
+	<string name="disabled_reason_not_operational">建物は機能していません</string>
 
-	<string name="error_location_not_reachable">Location not reachable</string>
+	<string name="error_location_not_reachable">到達できない場所です</string>
 	
 	<!-- Resource categories -->
-	<string name="sub_category_meat">Meat</string>
-	<string name="sub_category_fish">Fish</string>
-	<string name="sub_category_vegetables">Vegetables</string>
-	<string name="sub_category_spear">Spears</string>
-	<string name="sub_category_knife">Knives</string>
-	<string name="sub_category_axe">Axes</string>
-	<string name="sub_category_fishing">Fishing Tools</string>
-	<string name="sub_category_sickle">Sickles</string>
-	<string name="sub_category_pick">Picks</string>
-	<string name="sub_category_bow">Bows</string>
-	<string name="sub_category_sword">Swords</string>
+	<string name="sub_category_meat">肉</string>
+	<string name="sub_category_fish">魚</string>
+	<string name="sub_category_vegetables">野菜</string>
+	<string name="sub_category_spear">槍</string>
+	<string name="sub_category_knife">ナイフ</string>
+	<string name="sub_category_axe">斧</string>
+	<string name="sub_category_fishing">釣具</string>
+	<string name="sub_category_sickle">棒</string>
+	<string name="sub_category_pick">ピッケル</string>
+	<string name="sub_category_bow">弓</string>
+	<string name="sub_category_sword">剣</string>
 	
 	<!-- Structure classification -->
-	<string name="buildable_category_residence">Residence</string>
-	<string name="buildable_category_storage">Storage</string>
-	<string name="buildable_category_production">Production</string>
-	<string name="buildable_category_defensive">Defensive</string>
-	<string name="buildable_category_metallurgy">Metallurgy</string>
-	<string name="buildable_category_spiritual">Spiritual</string>
-	<string name="buildable_category_transport">Transport</string>
+	<string name="buildable_category_residence">住居</string>
+	<string name="buildable_category_storage">倉庫</string>
+	<string name="buildable_category_production">生産</string>
+	<string name="buildable_category_defensive">防衛</string>
+	<string name="buildable_category_metallurgy">鍛冶</string>
+	<string name="buildable_category_spiritual">信仰</string>
+	<string name="buildable_category_transport">物流</string>
 
 	<!-- Work areas -->
-	<string name="work_area">Work Area</string>
-	<string name="work_area_gather_sticks">Gather Sticks</string>
-	<string name="work_area_obtain_flint">Obtain Flint</string>
-	<string name="work_area_cut_down">Cut down trees</string>
-	<string name="work_area_fish">Fish</string>
-	<string name="work_area_hunt">Hunt</string>
-	<string name="work_area_collect_and_harvest">Collect and harvest wild plants</string>
-	<string name="work_area_collect_tannin">Collect Tannin</string>
-	<string name="work_area_extract_water">Extract Water</string>
-	<string name="work_area_extract_mud">Extract Mud</string>
-	<string name="work_area_obtain_stone">Obtain Stone</string>
+	<string name="work_area">作業領域</string>
+	<string name="work_area_gather_sticks">棒を採集</string>
+	<string name="work_area_obtain_flint">火打ち石を採集</string>
+	<string name="work_area_cut_down">木を伐採</string>
+	<string name="work_area_fish">釣り</string>
+	<string name="work_area_hunt">狩猟</string>
+	<string name="work_area_collect_and_harvest">野生の植物を集めて収穫</string>
+	<string name="work_area_collect_tannin">タンニンを集める</string>
+	<string name="work_area_extract_water">水を取得</string>
+	<string name="work_area_extract_mud">泥から抽出</string>
+	<string name="work_area_obtain_stone">石を採集</string>
 	<string name="work_area_mine_ore">Mine ore</string>
 
 	<!-- Messages -->
 	<!-- Feeel free to reagange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
-	<string name="message_death_generic">(1) has died</string>
-	<string name="message_death_starvation">(1) has died of starvation</string>
-	<string name="message_death_dehydration">(1) has died of dehydration</string>
-	<string name="message_death_hypothermia">(1) has died of hypothermia</string>
-	<string name="message_death_old_age">(1) has died of old age</string>
-	<string name="message_death_disease">(1) has died of a disease</string>
-	<string name="message_death_infection">(1) has died of an infection</string>
-	<string name="message_death_killed">(1) has been killed by (2)</string>
-	<string name="message_death_thunder">(1) has been struck by lightning</string>
-	<string name="message_death_slaughtered">(1) has been slaughtered</string>
+	<string name="message_death_generic">(1)が死亡</string>
+	<string name="message_death_starvation">飢餓で(1)が死亡</string>
+	<string name="message_death_dehydration">脱水で(1)が死亡</string>
+	<string name="message_death_hypothermia">低体温で(1)が死亡</string>
+	<string name="message_death_old_age">寿命で(1)が死亡</string>
+	<string name="message_death_disease">病気で(1)が死亡</string>
+	<string name="message_death_infection">感染症で(1)が死亡</string>
+	<string name="message_death_killed"> (2)が(1)に殺された</string>
+	<string name="message_death_thunder">(1)が雷に打たれた</string>
+	<string name="message_death_slaughtered">(1)が殺害された</string>
 	
-	<string name="message_humans_death_generic">Humans have died</string>
-	<string name="message_humans_death_starvation">Humans have died of starvation</string>
-	<string name="message_humans_death_dehydration">Humans have died of dehydration</string>
-	<string name="message_humans_death_hypothermia">Humans have died of hypothermia</string>
-	<string name="message_humans_death_old_age">Humans have died of old age</string>
-	<string name="message_humans_death_disease">Humans have died of a disease</string>
-	<string name="message_humans_death_infection">Humans have has died of an infection</string>
-	<string name="message_humans_death_killed">Humans have been killed</string>
-	<string name="message_humans_death_thunder">Humans have been struck by lightning</string>
+	<string name="message_humans_death_generic">数人が死亡</string>
+	<string name="message_humans_death_starvation">飢餓で数人が死亡</string>
+	<string name="message_humans_death_dehydration">脱水で数人が死亡</string>
+	<string name="message_humans_death_hypothermia">低体温で数人が死亡</string>
+	<string name="message_humans_death_old_age">寿命で数人が死亡</string>
+	<string name="message_humans_death_disease">怪我で数人が死亡</string>
+	<string name="message_humans_death_infection">感染症で数人が死亡</string>
+	<string name="message_humans_death_killed">数人が殺された</string>
+	<string name="message_humans_death_thunder">数人が雷に打たれた</string>
 
-	<string name="message_resource_decay">Resource has decayed: (1)</string>
-	<string name="message_transport_decay">(1) is no longer usable</string>
-	<string name="message_tool_decay">(1) is no longer usable</string>
-	<string name="message_new_migrant">New human has joined the settlement</string>
-	<string name="message_new_human_birth">New human was born</string>
-	<string name="message_new_animal_birth">New animal was born</string>
-	<string name="message_hunt_fail">(1) has escaped</string>
-	<string name="message_raider_attack">Raider attack</string>
-	<string name="message_animal_attack">(1) attack</string>
-	<string name="message_disease">(1) has contracted a disease</string>
-	<string name="message_infection">(1) has contracted an infection</string>
-	<string name="message_milestone_unlocked">Milestone unlocked</string>
-	<string name="message_crop_disease">Disease is affecting crop</string>
-	<string name="message_work_area_exhausted">Work Area exhausted</string>
-	<string name="message_animal_extinct">Animal has gone extinct: (1)</string>
-	<string name="message_mine_exhausted">(1) exhausted</string>
-	<string name="message_all_animals_dead">Last (1) has died</string>
+	<string name="message_resource_decay">資源が腐敗: (1)</string>
+	<string name="message_transport_decay">(1)はもう使えない</string>
+	<string name="message_tool_decay">(1)はもう使えない</string>
+	<string name="message_new_migrant">新しい住人が加わった</string>
+	<string name="message_new_human_birth">新しい住人が生まれた</string>
+	<string name="message_new_animal_birth">動物が生まれた</string>
+	<string name="message_hunt_fail">(1)は逃走</string>
+	<string name="message_raider_attack">侵入者の攻撃</string>
+	<string name="message_animal_attack">(1)が攻撃</string>
+	<string name="message_disease">(1)が病気になった</string>
+	<string name="message_infection">(1)が感染症にかかった</string>
+	<string name="message_milestone_unlocked">マイルストーンをアンロック</string>
+	<string name="message_crop_disease">病気が作物に影響を及ぼしている</string>
+	<string name="message_work_area_exhausted">作業領域が使い果たされた</string>
+	<string name="message_animal_extinct">動物が絶滅: (1)</string>
+	<string name="message_mine_exhausted">(1)が枯渇</string>
+	<string name="message_all_animals_dead">最後の(1)が死亡</string>
 
 	<!-- Key codes -->
 	<string name="arrow_right">→</string>
@@ -577,7 +577,7 @@ Do you want to play the tutorial now?
 	<string name="delete">Del</string>
 	<string name="backspace">Backspace</string>
 	<string name="space">Space</string>
-	<string name="return">Return</string>
+	<string name="return">Enter</string>
 
 	<!-- Tooltips -->
 	<string name="tooltip_population">Population: (1)(n)Capacity: (2)</string>
@@ -656,123 +656,123 @@ Do you want to play the tutorial now?
 	<string name="tooltip_storage_restrictions">(1) allowed in this store</string>
 
 	<!-- Toasts -->
-	<string name="toast_screenshot_taken">Screenshot taken</string>
-	<string name="toast_game_saved">Game saved</string>
-	<string name="toast_saving">Saving game</string>	
-	<string name="toast_invalid_entity_location">Invalid location</string>
-	<string name="toast_invalid_entity_location_isolated">Placing structure would create isolated areas</string>
+	<string name="toast_screenshot_taken">スクリーンショットを撮影</string>
+	<string name="toast_game_saved">セーブ終了</string>
+	<string name="toast_saving">セーブ中</string>	
+	<string name="toast_invalid_entity_location">無効な場所</string>
+	<string name="toast_invalid_entity_location_isolated">建物を設置すると孤立した領域が発生します</string>
 
 	<!-- Status descriptions -->
 	<!-- These are likely to cause issues with genders in some languages when (1) gets replaced by male/female names, try to avoid using articles" -->
-	<string name="description_idle">Idle</string>
-	<string name="description_resting">Resting</string>
-	<string name="description_recycling">Recycling</string>
-	<string name="description_sheltering">Sheltering</string>
-	<string name="description_animal_sheltering">Sheltering</string>
-	<string name="description_attacking_ranged">Attacking (1)</string>
-	<string name="description_attacking_melee">Attacking (1)</string>
-	<string name="description_building">Building (1)</string>
-	<string name="description_repairing">Repairing (1)</string>
-	<string name="description_butchering">Butchering (1)</string>
-	<string name="description_collecting">Collecting (1)</string>
-	<string name="description_gathering_detail">Gathering (1)</string>
-	<string name="description_gathering_prop">Gathering (1)</string>
-	<string name="description_crafting">Crafting (1)</string>
-	<string name="description_dead">Dead</string>
-	<string name="description_drinking">Drinking</string>
-	<string name="description_drinking_alcohol">Drinking Alcohol</string>
-	<string name="description_eating">Eating</string>
-	<string name="description_cooking">Cooking</string>
-	<string name="description_moving">Moving</string>
-	<string name="description_going_entity">Going to (1)</string>
-	<string name="description_going_animal">Going after (1)</string>
-	<string name="description_going_resource">Going to get (1)</string>
-	<string name="description_fishing">Fishing</string>
-	<string name="description_extracting_mud">Extracting Mud</string>
-	<string name="description_extracting_water">Extracting Water</string>
-	<string name="description_mining">Mining</string>
-	<string name="description_mining_underground">Mining Underground</string>
-	<string name="description_decaying">Decaying</string>
-	<string name="description_cutting_down">Cutting Down</string>
-	<string name="description_harvesting">Harvesting</string>
-	<string name="description_planting">Planting (1)</string>
-	<string name="description_recovering_morale">Recovering morale</string>
-	<string name="description_taming">Taming</string>
-	<string name="description_slaughtering">Slaughtering (1)</string>
-	<string name="description_milking">Milking (1)</string>
-	<string name="description_shearing">Shearing (1)</string>
-	<string name="description_being_tamed">Being Tamed</string>
-	<string name="description_being_milked">Being Milked</string>
-	<string name="description_being_sheared">Being Sheared</string>
-	<string name="description_blocked">Blocked</string>
-	<string name="description_going_to_drink">Going to drink</string>
-	<string name="description_falling">Falling</string>
-	<string name="description_celebrating">Celebrating</string>
-	<string name="description_pulling">Pulling Cart</string>
-	<string name="description_wandering">Wandering around</string>
-	<string name="description_following">Following</string>
+	<string name="description_idle">待機</string>
+	<string name="description_resting">休息</string>
+	<string name="description_recycling">リサイクル</string>
+	<string name="description_sheltering">逃走</string>
+	<string name="description_animal_sheltering">逃走</string>
+	<string name="description_attacking_ranged">(1)を攻撃</string>
+	<string name="description_attacking_melee">(1)を攻撃</string>
+	<string name="description_building">(1)を建設</string>
+	<string name="description_repairing">(1)を修理</string>
+	<string name="description_butchering">(1)を屠殺</string>
+	<string name="description_collecting">(1)を収集</string>
+	<string name="description_gathering_detail">(1)を採集</string>
+	<string name="description_gathering_prop">(1)を採集</string>
+	<string name="description_crafting">(1)を制作</string>
+	<string name="description_dead">死亡</string>
+	<string name="description_drinking">給水</string>
+	<string name="description_drinking_alcohol">飲酒</string>
+	<string name="description_eating">飲食</string>
+	<string name="description_cooking">料理</string>
+	<string name="description_moving">移動</string>
+	<string name="description_going_entity">(1)へ移動</string>
+	<string name="description_going_animal">(1)のところへ移動</string>
+	<string name="description_going_resource">(1)のところへ移動</string>
+	<string name="description_fishing">釣り</string>
+	<string name="description_extracting_mud">泥から抽出</string>
+	<string name="description_extracting_water">水を取得</string>
+	<string name="description_mining">採掘</string>
+	<string name="description_mining_underground">地下で採掘</string>
+	<string name="description_decaying">腐敗</string>
+	<string name="description_cutting_down">伐採</string>
+	<string name="description_harvesting">収穫</string>
+	<string name="description_planting">(1)を植える</string>
+	<string name="description_recovering_morale">士気の回復</string>
+	<string name="description_taming">調教</string>
+	<string name="description_slaughtering">(1)を殺害</string>
+	<string name="description_milking">(1)を搾乳</string>
+	<string name="description_shearing">(1)を刈り込み</string>
+	<string name="description_being_tamed">飼いならされている</string>
+	<string name="description_being_milked">搾乳されている</string>
+	<string name="description_being_sheared">刈り込まれている</string>
+	<string name="description_blocked">ブロックされた</string>
+	<string name="description_going_to_drink">飲みに行く</string>
+	<string name="description_falling">落下</string>
+	<string name="description_celebrating">祝う</string>
+	<string name="description_pulling">荷車を引く</string>
+	<string name="description_wandering">うろちょろ</string>
+	<string name="description_following">従う</string>
 	
 	<!-- Game actions -->
-	<string name="key_bindings">Key Bindings</string>
-	<string name="game_action_camera_move_forward">Move camera forward</string>
-	<string name="game_action_camera_move_back">Move camera back</string>
-	<string name="game_action_camera_move_left">Move camera left</string>
-	<string name="game_action_camera_move_right">Move camera right</string>
-	<string name="game_action_camera_rotate_left">Rotate camera left </string>
-	<string name="game_action_camera_rotate_right">Rotate camera right</string>
-	<string name="game_action_camera_zoom_in">Zoom in</string>
-	<string name="game_action_camera_zoom_out">Zoom out</string>
-	<string name="game_action_camera_center_town">Move camera back to the settlement</string>
+	<string name="key_bindings">キーバインド</string>
+	<string name="game_action_camera_move_forward">カメラを前へ</string>
+	<string name="game_action_camera_move_back">カメラを引く</string>
+	<string name="game_action_camera_move_left">カメラを左へ</string>
+	<string name="game_action_camera_move_right">カメラを右へ</string>
+	<string name="game_action_camera_rotate_left">カメラを左回転 </string>
+	<string name="game_action_camera_rotate_right">カメラを右回転</string>
+	<string name="game_action_camera_zoom_in">ズームイン</string>
+	<string name="game_action_camera_zoom_out">ズームアウト</string>
+	<string name="game_action_camera_center_town">カメラを村に戻す</string>
 	
-	<string name="game_action_hunter_selection">Hunter selection</string>
-	<string name="game_action_fighter_selection">Fighter selection</string>
+	<string name="game_action_hunter_selection">ハンターを選ぶ</string>
+	<string name="game_action_fighter_selection">ファイターを選ぶ</string>
 	
-	<string name="game_action_open_panel_help">Help Panel</string>
-	<string name="game_action_open_panel_stats">Stats panel</string>
-	<string name="game_action_open_panel_charts">Charts panel</string>
-	<string name="game_action_open_panel_resources">Resources panel</string>
-	<string name="game_action_open_panel_limits">Limits panel</string>
-	<string name="game_action_open_panel_domestic_animals">Domestic animals panel</string>	
-	<string name="game_action_open_panel_techs">Techs panel</string>
-	<string name="game_action_open_panel_tasks">Tasks panel</string>
-	<string name="game_action_open_panel_activity">Activity panel</string>
-	<string name="game_action_open_panel_defense">Defense panel</string>
-	<string name="game_action_open_panel_milestones">Milestones panel</string>
-	<string name="game_action_open_panel_knowledge_progress">Knowledge progress panel</string>
-	<string name="game_action_pause">Pause</string>
-	<string name="game_action_timescale1">Normal speed</string>
-	<string name="game_action_timescale2">Speed x2</string>
-	<string name="game_action_timescale4">Speed x4</string>
-	<string name="game_action_timescale8">Speed x8</string>
-	<string name="game_action_quicksave">Quicksave</string>
-	<string name="game_action_remove">Remove</string>
-	<string name="game_action_placement_modifier_minus">Rotate Left/Smaller</string>
-	<string name="game_action_placement_modifier_plus">Rotate Right/Bigger</string>
-	<string name="game_action_previous_work_area">Previous Work Area</string>
-	<string name="game_action_next_work_area">Next Work Area</string>
-	<string name="game_action_primal_vision">Primal Vision</string>
+	<string name="game_action_open_panel_help">ヘルプ</string>
+	<string name="game_action_open_panel_stats">統計</string>
+	<string name="game_action_open_panel_charts">グラフ</string>
+	<string name="game_action_open_panel_resources">資源</string>
+	<string name="game_action_open_panel_limits">上限</string>
+	<string name="game_action_open_panel_domestic_animals">家畜</string>
+	<string name="game_action_open_panel_techs">技術</string>
+	<string name="game_action_open_panel_tasks">タスク</string>
+	<string name="game_action_open_panel_activity">アクティビティ</string>
+	<string name="game_action_open_panel_defense">防衛</string>
+	<string name="game_action_open_panel_milestones">マイルストーン</string>
+	<string name="game_action_open_panel_knowledge_progress">知識</string>
+	<string name="game_action_pause">ポーズ</string>
+	<string name="game_action_timescale1">速度 x1</string>
+	<string name="game_action_timescale2">速度 x2</string>
+	<string name="game_action_timescale4">速度 x4</string>
+	<string name="game_action_timescale8">速度 x8</string>
+	<string name="game_action_quicksave">クイックセーブ</string>
+	<string name="game_action_remove">削除</string>
+	<string name="game_action_placement_modifier_minus">左回転/縮小</string>
+	<string name="game_action_placement_modifier_plus">右回転/拡大</string>
+	<string name="game_action_previous_work_area">前の作業領域</string>
+	<string name="game_action_next_work_area">次の作業領域</string>
+	<string name="game_action_primal_vision">原始の視覚</string>
 
 	<!-- Alerts -->
-	<string name="warning_no_stables">Not enough stable space for our animals</string>
-	<string name="warning_no_food">We have no food</string>
-	<string name="warning_low_food">We are low on food</string>
-	<string name="warning_no_storage">No storage slots left</string>	
-	<string name="warning_no_tools">Some of your people have no tools</string>
-	<string name="warning_no_warm_outfits">Some of your people have no warm clothing</string>
-	<string name="warning_no_light_outfits">Some of your people have no light clothing</string>
-	<string name="warning_no_fuel">We have no fuel</string>
-	<string name="warning_no_fishing_tools">We have no fishing tools</string>
-	<string name="warning_no_harvesting_tools">We have no harvesting tools</string>
-	<string name="warning_low_harvesting_tools">We are low on harvesting tools</string>
-	<string name="warning_no_picks">We have no picks</string>
-	<string name="warning_no_flint">We have no flint</string>
-	<string name="warning_no_straw">We have no straw to feed our animals</string>
-	<string name="warning_no_water">We have no water for our animals</string>
-	<string name="warning_no_knives">We have no knives</string>
-	<string name="warning_low_knives">We are low on knives</string>
-	<string name="warning_no_hunting_tools">We have no hunting tools</string>
-	<string name="warning_low_hunting_tools">We are low on hunting tools</string>	
-	<string name="warning_high_workload">Workload is too high</string>	
+	<string name="warning_no_stables">動物のための十分な場所がありません</string>
+	<string name="warning_no_food">食料がない</string>
+	<string name="warning_low_food">食料が少ない</string>
+	<string name="warning_no_storage">ストレージスロットにあきがない</string>	
+	<string name="warning_no_tools">道具を持っていない人がいる</string>
+	<string name="warning_no_warm_outfits">暖かい服を着ていない人がいる</string>
+	<string name="warning_no_light_outfits">何人かは薄い服を着ていない人がいる</string>
+	<string name="warning_no_fuel">燃料がない</string>
+	<string name="warning_no_fishing_tools">釣具がない</string>
+	<string name="warning_no_harvesting_tools">農具がない</string>
+	<string name="warning_low_harvesting_tools">農具が少ない</string>
+	<string name="warning_no_picks">ピッケルがない</string>
+	<string name="warning_no_flint">火打ち石がない</string>
+	<string name="warning_no_straw">動物を養うためのわらがない</string>
+	<string name="warning_no_water">動物を養うための水がない</string>
+	<string name="warning_no_knives">ナイフがない</string>
+	<string name="warning_low_knives">ナイフが少ない</string>
+	<string name="warning_no_hunting_tools">武器がない</string>
+	<string name="warning_low_hunting_tools">武器が少ない</string>	
+	<string name="warning_high_workload">作業負荷が高すぎる</string>	
 
 	<!-- Credits -->
 	<string name="credits_title">Dawn of Man</string>

@@ -2,241 +2,248 @@
 <strings>
 
 	<!-- Goals -->
-	<string name="scenario_tutorial">Tutorial</string>
+	<string name="scenario_tutorial">チュートリアル</string>
 	
-	<string name="goal_tutorial_move_camera">Move camera using (camera_move_keys) keys</string>
-	<string name="goal_tutorial_rotate_camera">Rotate camera using the (camera_rotate_keys) keys</string>
+	<string name="goal_tutorial_move_camera">(camera_move_keys)キーで移動</string>
+	<string name="goal_tutorial_rotate_camera">(camera_rotate_keys)キーで回転</string>
 	
-	<string name="goal_tutorial_fish">Send someone to fish: select the (b)river(/b) then click on the (b)fish button(/b)</string>
-	<string name="goal_tutorial_gather_sticks">Send someone to gather (b)Sticks(/b)</string>
-	<string name="goal_tutorial_gather_flint">Send someone to gather (b)Flint(/b)</string>
-	<string name="goal_tutorial_wait_for_fish_and_gather">Wait for your people to get 1 unit of (b)Raw Fish(/b), (b)Sticks(/b), and (b)Flint(/b)</string>
+	<string name="goal_tutorial_fish">釣りに一人割り当てる: (b)川(/b) を選択し、 (b)釣り(/b)を選ぶ</string>
+	<string name="goal_tutorial_gather_sticks">(b)棒(/b)を採集する作業に一人割り当てる</string>
+	<string name="goal_tutorial_gather_flint">(b)火打ち石(/b)を採集する作業に一人割り当てる</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather">(b)生魚(/b)、(b)棒(/b)、(b)火打ち石(/b)を手に入れるのを待つ</string>
 	
-	<string name="goal_tutorial_fish_work_area">Place a (b)fish(/b) work area</string>
-	<string name="goal_tutorial_sticks_work_area">Place a (b)gather sticks(/b)  work area</string>
-	<string name="goal_tutorial_flint_work_area">Place an (b)obtain flint(/b)  work area</string>
-	<string name="goal_tutorial_berries_work_area">Place a (b)collect and harvest wild plants(/b) work area</string>
+	<string name="goal_tutorial_fish_work_area">(b)釣り(/b)のための作業領域を設置する</string>
+	<string name="goal_tutorial_sticks_work_area">(b)棒を採集(/b)するための作業領域を設置する</string>
+	<string name="goal_tutorial_flint_work_area">(b)火打ち石を採集(/b)するための作業領域を設置する</string>
+	<string name="goal_tutorial_berries_work_area">(b)野生の植物を集めて収穫(/b)するための作業領域を設置する</string>
 
-	<string name="goal_tutorial_sticks_work_area_set_workers">Allow (b)3 workers(/b) in the (b)gather sticks(/b) work area</string>
-	<string name="goal_tutorial_flint_work_area_set_workers">Allow (b)2 workers(/b) in the (b)obtain flint(/b) work area</string>
-	<string name="goal_tutorial_wait_for_fish_and_gather2">Wait for your people to get 3 units of (b)Sticks(/b) and (b)Flint(/b).</string>
+	<string name="goal_tutorial_sticks_work_area_set_workers">(b)棒を採集(/b)するための作業領域に(b)3人の作業員(/b)を許可する</string>
+	<string name="goal_tutorial_flint_work_area_set_workers">(b)火打ち石を採集(/b)するための作業領域に(b)2人の作業員(/b)を許可する</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather2">(b)棒(/b)と(b)火打ち石(/b)を3つ手に入れるのを待つ</string>
 	
-	<string name="goal_tutorial_place_crafter">Place a (b)Crafter(/b) structure</string>
-	<string name="goal_tutorial_build_crafter">Wait for your people to build it</string>	
+	<string name="goal_tutorial_place_crafter">(b)工房(/b)を設置する</string>
+	<string name="goal_tutorial_build_crafter">工房が建設されるのを待つ</string>	
 	
-	<string name="goal_tutorial_craft_bifaces">Command your people to craft (b)3 Bifaces(/b)</string>
-	<string name="goal_tutorial_craft_wooden_spears">Command your people to craft (b)3 Wooden Spears(/b)</string>
-	<string name="goal_tutorial_wait_tools">Wait for all hunting tools to be crafted</string>
+	<string name="goal_tutorial_craft_bifaces">3つ、(b)石器(/b)を作る</string>
+	<string name="goal_tutorial_craft_wooden_spears">3つ(b)木の槍(/b)を作る</string>
+	<string name="goal_tutorial_wait_tools">道具ができるのを待つ</string>
+	<!-- TODO: primal visionってなに?-->
+	<string name="goal_tutorial_primal_vision">(b)原始の視覚(/b)モードを有効にするには, メニューのボタンを使うか(primal_vision_key)キーを押す</string>
+	<string name="goal_tutorial_hunt">緑でハイライトされた(b)簡単な獲物(/b)を狩るように伝える</string>
+	<string name="goal_tutorial_primal_vision_out">(b)原始の視覚(/b)モードから抜ける</string>
+	<string name="goal_tutorial_hunt_wait">動物を(b)狩る(/b)間(b)待つ(/b)</string>		
 	
-	<string name="goal_tutorial_primal_vision">(b)Enable primal vision(/b) mode, using menu button or pressing (primal_vision_key)</string>
-	<string name="goal_tutorial_hunt">Tell your people to (b)hunt an easy prey(/b), highlighted in green</string>
-	<string name="goal_tutorial_primal_vision_out">(b)Leave primal vision(/b) mode</string>
-	<string name="goal_tutorial_hunt_wait">(b)Wait(/b) for your people to (b)hunt(/b) the animal</string>		
-	
-	<string name="goal_tutorial_micro_hunt">Send (b)2 people(/b) to hunt the same animal: (b)select(/b) them, then (b)right click(/b) on the animal</string>		
+	<string name="goal_tutorial_micro_hunt">同じ動物を狩るために(b)2人(/b)送る：(b)選択(/b)し、(b)動物(/b)を(b)右クリック(/b)</string>		
 
-	<string name="goal_tutorial_place_skins_dryers">Place (b)2 Skins Dryers(/b)</string>		
-	<string name="goal_tutorial_wait_skins">Wait for your people to dry (b)2 Skins(/b)</string>		
+	<string name="goal_tutorial_place_skins_dryers">(b)皮乾燥機(/b)を2つ設置する</string>		
+	<string name="goal_tutorial_wait_skins">(b)皮(/b)が(n)2つ(/b)乾燥されるのを待つ</string>		
 	
-	<string name="goal_tutorial_research_food_drying">Open (b)techs panel(/b) using menu button or pressing (techs_key),(n)and research the (b)Food Drying(/b) tech</string>			
-	<string name="goal_tutorial_place_food_dryer">Place a (b)Food Dryer(/b)</string>			
-	<string name="goal_tutorial_place_storage_tent">Place a (b)Storage Tent(/b)</string>			
-	<string name="goal_tutorial_wait_food_drying">Wait for your people to produce 1 unit of (b)Cured Meat(/b) and (b)Dry Fish(/b)</string>
+	<string name="goal_tutorial_research_food_drying">メニューを使用するか(techs_key)キーを押して(b)技術パネル(/b)を開き、(n)(b)食品乾燥(/b)技術を調べる</string>			
+	<string name="goal_tutorial_place_food_dryer">(b)食品乾燥機(/b)を設置する</string>			
+	<string name="goal_tutorial_place_storage_tent">(b)収納テント(/b)を設置する</string>			
+	<string name="goal_tutorial_wait_food_drying">(b)干し肉(/b)と(b)干物(/b)が1個生産するのを待つ</string>
 
-	<string name="goal_tutorial_continuous_production_bifaces">Enable continuous production of (b)Bifaces(/b)</string>	
-	<string name="goal_tutorial_continuous_production_wooden_spears">Enable continuous production of (b)Wooden Spears(/b)</string>
-	<string name="goal_tutorial_continuous_production_wooden_harpoons">Enable continuous production of (b)Wooden Harpoons(/b)</string>	
+	<string name="goal_tutorial_continuous_production_bifaces">(b)石器(/b)の連続制作を有効にする</string>	
+	<string name="goal_tutorial_continuous_production_wooden_spears">(b)木の槍(/b)の連続制作を有効にする</string>
+	<string name="goal_tutorial_continuous_production_wooden_harpoons">(b)木の銛(/b)の連続制作を有効にする</string>	
 	
-	<string name="goals_hint_right_click">You can enable (b)continuous production(/b) of an item by (b)right clicking(/b) on it</string>	
+	<string name="goals_hint_right_click">(b)アイテムを右クリック(/b)すると、(b)アイテムの連続生産(/b)を有効にできる</string>	
 	
-	<string name="goal_tutorial_place_tents">Place (b)2 Tents(/b)</string>
-	<string name="goal_tutorial_wait_tents">Wait for your people to build the (b)Tents(/b)</string>
+	<string name="goal_tutorial_place_tents">(b)テント(/b)を(b)2つ(/b)設置</string>
+	<string name="goal_tutorial_wait_tents">(b)テント(/b)が設置されるのを待つ</string>
 
 	<!-- Messages -->
-	<string name="tutorial_settlement_name">Tutorial Settlement</string>
-	<string name="tutorial_well_done">Well done!</string>
+	<string name="tutorial_settlement_name">チュートリアルの村</string>
+	<string name="tutorial_well_done">お見事!</string>
 	
-	<string name="tutorial_welcome_title">Welcome to Dawn of Man</string>
+	<string name="tutorial_welcome_title">Dawn of Manへようこそ!</string>
 	
 	<string name="tutorial_welcome">
-In the game you control a band of (b)ancient humans(/b) striving for (b)survival(/b).
-This tutorial explains the basics, you can check the (b)in game help(/b) for more advanced directions.
+このゲームでは、あなたは(b)サバイバル(/b)をしている(b)先史時代の人々(/b)をコントロールします。
+チュートリアルでは基本的な事柄を扱います。より詳細なことについてはゲーム内の(b)ヘルプ(/b)を参照してください。
 	</string>
 
-	<string name="tutorial_camera_controls_title">Camera controls</string>
+	<string name="tutorial_camera_controls_title">カメラの操作</string>
 
 	<string name="tutorial_camera_controls">
-Dawn of Man uses FPS style camera controls.
-Move the camera using the (camera_move_keys) keys.
-Rotate the camera using the (camera_rotate_keys) keys.
-Zoom the camera using the (b)mouse wheel(/b).
+Dawn of ManではFPSと同じようにカメラの操作ができます。
+(camera_move_keys)キーで移動。
+(camera_rotate_keys)キーで回転。
+(b)マウスホイール(/b)でズーム。
 	</string>
 
 	<string name="tutorial_camera_controls_done">
-Note you can (b)pivot the camera(/b) around a point by (b)rotating and panning(/b) at the same time.
-You can check out the more advanced controls in the help section, and (b)customize the keys(/b) in the (b)settings(/b) menu.
+回転と移動を同時に行うことである地点を中心にカメラを回転させることができます。
+ゲーム内の(b)ヘルプ(/b)からより高度なカメラの操作について調べたり、(b)設定(/b)から(b)キーを変更(/b)したりできます。
 	</string>
 
 	<string name="tutorial_fish_title">
-Fishing
+釣り
 	</string>
 
 	<string name="tutorial_fish">
-Your people will need a (b)constant supply of food(/b) to stay alive.
-One of the more predictable sources of food is (b)fish(/b) from (b)rivers(/b) and (b)lakes(/b).
-To send people to fish, select a river, then click on the (b)fish button(/b).
+人々は生き続けるために食料の(b)絶え間ない供給(/b)を必要とします。
+食料源の1つは、(b)川(/b)や(b)湖(/b)からの(b)魚(/b)です。
+人々を漁に連れて行くには、川を選択してから、(b)釣り(/b)ボタンをクリックします。
 	</string>
 
 	<string name="tutorial_fish_done">
-In general you can assign tasks to your people by (b)selecting(/b) objects like (b)trees(/b), (b)rivers(/b), (b)animals(/b), (b)structures(/b)..., then choosing one of the options in the selection panel.
+(b)木(/b)、(b)川(/b)、(b)動物(/b)、(b)建造物(/b)などのオブジェクトを(b)選択(/b)し、パネルから選ぶことで人々にタスクを割り当てることができます。
 	</string>
 
 	<string name="tutorial_gather_title">
-Materials
+材料
 	</string>
 
 	<string name="tutorial_gather">
-Next you should be gathering some basic construction and crafting materials, like (b)Sticks(/b) and (b)Flint(/b).
+次に棒や火打ち石などの材料を集めます。
 	</string>
 
 	<string name="tutorial_gather_done">
-You now know how to (b)assign tasks to(/b) your people. This is a good way of (b)micromanaging(/b) them.
+あなたは人々に(b)タスクを割り当てる(/b)方法を知りました。これは人々を(b)細かく管理(/b)するのに適した方法です。
 	</string>
 
 	<string name="tutorial_work_areas_title">
-Work Areas
+作業領域
 	</string>
 
 	<string name="tutorial_work_areas">
-Too much (b)micromanagement(/b) is tedious and (b)inefficient(/b).
-(b)Work areas(/b) are a way to give general commands to your settlement that people will perform continuously.
-You can specify a (b)location(/b), a (b)resource limit(/b) and the (b)max number of people(/b) performing the action at one given time.
+あまりにも多くのマイクロマネージメントはとても面倒です。
+(b)作業領域(/b)は人々が継続して行う作業についてその問題を解決します。
+(b)場所(/b)、(b)資源上限(/b)、(b)最大人数(/b)を一度に指定することができます。
 	</string>
 	
 	<string name="tutorial_work_areas_set_workers">
-By default only one person at a time will go to any given (b)work area(/b), but you can increase this if required.
+デフォルトでは一度に一人だけがある(b)作業領域(/b)に移動しますがこれを必要に応じて増やすことができます。
 	</string>	
 	
 	<string name="tutorial_work_areas_done">
-Well done, your people will now continuously gather resources until the (b)limit(/b) is reached.
-Note that (b)Berries(/b) can only be gathered in (b)summer(/b), other resources in the game can only be gathered in a particular season.
+人々は資源上限に達するまで資源を集め続けるでしょう。
+<!--TODO: Berriesは果物? -->
+特定の季節にしか集められない資源もあります。例えば(b)ベリー(/b)は(b)夏(/b)にしか集められません。
 	</string>		
 	
 	<string name="tutorial_tools_title">
-Tools
+道具
 	</string>
 
 	<string name="tutorial_tools">
-Some tasks, like hunting, fishing, butchering, harvesting, or mining, can only be performed if your people have the right (b)tools(/b).
-These tools have to be crafted first, then your people will use them to perform the task.
+狩り、狩猟、屠殺、収穫、採掘などの一部の作業は、それに適した(b)道具(/b)が必要です。
+(b)道具(/b)は予め作成しておく必要があります。
 	</string>	
 	
 	<string name="tutorial_crafting_title">
-Crafting
+制作
 	</string>
 
 	<string name="tutorial_build_crafter">
-Now that you have some raw resources, let's craft some (b)hunting tools(/b) with them.
-The main crafting structure in the Stone Age is the (b)Crafter(/b), to build one, select the build option in the main menu, then the production button, then the crafter structure.
+いくつかの材料を手に入れたのでそれをつかって(b)武器(/b)を作りましょう。
+<!-- TODO:Crafterの訳-->
+石器時代の主な制作は(b)工房(/b)で行われます。これを作りましょう。
+メインメニューから(b)建設(/b)を選択しその後生産を選びます。そして、最後に工房を選びます。
 	</string>
 
 	<string name="tutorial_craft_resources">
-To craft tools, select the (b)Crafter(/b) then click on a tool recipe.
-The crafting task will be added to the queue and one of your people will perform it as soon as they can.
-Let's craft some (b)Wooden Spears(/b) to hunt animals and some (b)Bifaces(/b) to butcher them.
-	</string>
+道具を制作するには(b)工房(/b)から、レシピを選びます。
+製作タスクがキューに追加され、誰かができる限り早くそれを実行します。
+(b)木の槍(/b)で動物を狩り、(b)石器(/b)でそれを屠殺しましょう。	</string>
 
 	<string name="tutorial_craft_resources_done">
-We now have all the tools we need to go hunting.
+狩猟に必要なすべての道具が揃いました。
 	</string>
 	
 	<string name="tutorial_hunting_title">
-Hunting
+狩猟
 	</string>
 	
 	<string name="tutorial_hunting">
-(b)Hunting(/b) was a tricky business in the Stone Age. Killing a large animal with sticks and stones was no easy feat.
-Use (b)primal vision(/b) to find easy prey (highlighted in green), avoid large animals and carnivores until you have the right tools and manpower.
-To(b) hunt an animal(/b), select it, then click on the (b)hunting button(/b).
+石器時代、狩猟は難しい仕事でした。大きな動物を棒や石で殺すのは簡単なことではありません。
+<!-- TODO:primal visionってなに? -->
+あなたが良い道具と人的資源を手に入れるまで(b)原始の視覚(/b)を使って簡単な獲物(緑でハイライトされている)を見つけ、大きな動物を避けることをおすすめします。
+(b)動物を狩る(/b)には、それを選択してから(b)狩猟(/b)ボタンをクリックします。
 	</string>
 	
 	<string name="tutorial_hunting_done">
-Once the animal is been hunted, your people will (b)butcher(/b) it and bring the (b)resources to camp(/b).
-When hunting in this manner, your people will decide how many of them to send, based on the difficulty of the prey.
+動物を狩ったら、人々はそれを(b)屠殺(/b)し、それを(b)野営地に運びます(/b)。
+このような狩りを行うとき、人々は獲物の難易度によって、何人を狩猟に向かわせるか決定します。
 	</string>	
 	
-	<string name="tutorial_micromanagement_title">Micromanagement</string>	
+	<string name="tutorial_micromanagement_title">マイクロマネージメント</string>	
 		
 	<string name="tutorial_micromanagement">
-Sometimes, you might want more control over your people's actions.
-You can do this by (b)selecting(/b) a few people, (b)then right clicking(/b) on the terrain or target.
-This way you can (b)move people around(/b), or (b)assign(/b) one or more individuals to a particular (b)task(/b).
-This is especially useful for hunting at the beginning of the game, when resources and manpower are limited.
+時々、人々の行動をもっとコントロールしたいと思うかもしれません。
+これを行うには、少数の人を(b)選択(/b)し、地形またはターゲットを(b)右クリック(/b)します。
+このようにして、(b)人を移動させる(/ b)、または1人以上の個人を特定の(b)タスク(/b)に(b)割り当てる(/b)ことができます。
+これは、リソースと人的資源が限られているゲームの始めに狩猟をするのに特に便利です。
 	</string>
 	
 	<string name="tutorial_micromanagement_done">
-You can check out the (b)help in the game(/b) for more detailed instructions on all the possible ways of controlling your people.
+ゲーム内の(b)ヘルプ(/b)をチェックして、人々をコントロールするためにできることに関するより詳細な情報を得ることができます。
 	</string>	
 	
 	<string name="tutorial_skin_processing_title">Skins</string>		
 	
 	<string name="tutorial_skin_processing">
-One of the resources you obtain from animals are (b)Raw Skins(/b), they are used to craft clothing and build structures among other things.
-However (b)Raw Skins(/b) can not be used directly, you have to dry them first, in order to do this you need to build (b)Skins Dryers(/b).
+<!-- TODO: raw skinsの訳-->
+<!-- TODO: Skins Dryersの訳-->
+動物から得られる資源の1つは(b)生皮(/b)です、これは衣服を作り、建造物を建築するのによく使われます。
+しかし、(b)生皮(/b)を直接使用することはできません。最初に乾燥させる必要があります。これを行うには、(b)皮乾燥機(/b)を構築する必要があります。
 	</string>			
 	
 	<string name="tutorial_skin_processing_done">
-Always keep a stock of (b)Dry Skins(/b) as they are a fundamental building and crafting material in the early eras.
+<!--TODO: Dry Skinsの訳-->
+(b)皮革(/b)は原始時代の建造物や道具の材料であるため常にストックしておくようにしてください。
 	</string>
 	
-	<string name="tutorial_knowledge_title">Knowledge</string>				
+	<string name="tutorial_knowledge_title">知識</string>				
 	
 	<string name="tutorial_knowledge">
-In the game, you earn (b)knowledge points(/b) when doing certain actions: Hunting new animals, gathering new resources, reaching certain population levels, etc.
-You can then use them to (b)research new techs(/b), which unlock new structures, plants or mechanics.
+新しい動物の狩猟、新しい資源の収集、人口が条件に達するなどのイベントが起こった場合に(b)知識ポイント(/b)を獲得します。
+知識ポイントを使って(b)新しい技術(植物または力学のロックを解除する)を研究する(/b)ことができます。
 	</string>			
 
-	<string name="tutorial_food_drying_title">Knowledge</string>					
+	<string name="tutorial_food_drying_title">食料の乾燥</string>					
 	
 	<string name="tutorial_food_drying">
-The (b)Food Drying(/b) tech unlocks the (b)Food Dryer(/b), which allows you to process (b)Raw Meat(/b) and (b)Raw Fish(/b) into (b)Cured Meat(/b) and (b)Dry Fish(/b).
-These last for a lot longer and can be (b)stored for the winter(/b) in a safe place.
+(b)食品乾燥(/b)の技術は(b)食品乾燥機(/b)を開放し(b)生肉(/b)と(b)生魚(/b)を(b)干し肉(/b)と(b)干物(/b)にします。
+これらは日持ちし、(b)冬の間(/b)安全な場所に保管することができます。
 	</string>			
 	
 	<string name="tutorial_food_drying_done">
-Remember to always dry your food and keep it in a (b)storage(/b) structure to preserve it for as long as possible.
+可能な限り食料を保存するために、常に食べ物を乾かし、(b)倉庫(/b)に保管することを忘れないでください。
 	</string>				
 	
 	<string name="tutorial_continuous_production_title">
-Continuous Production
+連続生産
 	</string>				
 	
 	<string name="tutorial_continuous_production">
-Manually producing every item is tedious and (b)inefficient(/b).		
-You can (b)right click(/b) on a recipe to toggle (b)continuous production(/b).
-Your people will then keep on producing the item until the (b)resource limit(/b) is reached.
+手作業ですべての品目を生産するのは面倒です。
+レシピを(b)右クリック(/b)して(b)連続生産(/b)に切り替えることができます。
+(b)資源上限(/b)に達するまでアイテムを作り続けます。
 	</string>	
 	
 	<string name="tutorial_continuous_production_done">
-Your people will now (b)continuously(/b) produce the tools until the (b)resource limit(/b) is reached.
-Note that some recipes are set to continuous production by default.
+(b)資源上限(/b)に達するまで、(b)継続的に(/b)ツールを作成します。
+一部のレシピはデフォルトで連続生産に設定されています。
 	</string>				
 	
-	<string name="tutorial_expansion_title">Expansion</string>				
+	<string name="tutorial_expansion_title">拡張</string>				
 	
 	<string name="tutorial_expansion">
-If everyone is well fed and taken care of, your settlement will reach a high level of (b)welfare(/b) and (b)prestige(/b) and more people will want to join it.
-For new people to join the village you have to build enough residence buildings to accommodate the new population, otherwise they will not come.
+人々が健康で幸福ならば、あなたの居住地は高い(b)福祉(/b)と(b)名声(/b)に達し、多くの人が村に加わりたいと思うはずです。
+新しい人々が村に加わるためには、新たな人口を収容するのに十分な住居を建設しなければなりません。そうでなければ人口は増えません。
 	</string>		
 	
 	<string name="tutorial_expansion_done">	
-New humans will now join your settlement.
-Note that your settlement can also grow when your people reproduce, this plays a more important role when you reach larger populations, as you can have a larger number of births. 
+新たな人々が村に加わりました。
+人々が出産することでも村は成長することができます。
+出生数は、大きな人口を目指すとき、重要な役割を果たします。
 	</string>	
 	
 	<string name="tutorial_completed">
-You now know the basics on how to run a settlement. Note that there are quite a few other mechanics in the game that are not explained here.
-You can get more info from the (b)loading screen hints(/b), (b)UI tooltips(/b), or the (b)in-game(/b) help menu, that explains all the concepts in the game with a lot more detail.
+これで村の基本についてわかりました。ここでは説明していませんが、ゲーム内には他にもかなりの数の仕組みがあります。
+(b)ロード中の画面のヒント(/b)、UIの(b)ツールチップ(/b)、またはゲーム内の(b)ヘルプ(/b)から詳細な情報を入手できます。
 	</string>	
 	
 </strings>
