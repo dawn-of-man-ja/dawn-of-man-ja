@@ -36,12 +36,12 @@
 	<string name="goal_tutorial_micro_hunt">同じ動物を狩るために(b)2人(/b)送る：(b)選択(/b)し、(b)動物(/b)を(b)右クリック(/b)</string>		
 
 	<string name="goal_tutorial_place_skins_dryers">(b)皮乾燥機(/b)を2つ設置する</string>		
-	<string name="goal_tutorial_wait_skins">(b)皮(/b)が(n)2つ(/b)乾燥されるのを待つ</string>		
+	<string name="goal_tutorial_wait_skins">(b)皮(/b)が(b)2つ(/b)乾燥されるのを待つ</string>		
 	
-	<string name="goal_tutorial_research_food_drying">メニューを使用するか(techs_key)キーを押して(b)技術パネル(/b)を開き、(n)(b)食品乾燥(/b)技術を調べる</string>			
+	<string name="goal_tutorial_research_food_drying">メニューを使用するか(techs_key)キーを押して(b)技術パネル(/b)を開き、(b)食品乾燥(/b)技術を調べる</string>			
 	<string name="goal_tutorial_place_food_dryer">(b)食品乾燥機(/b)を設置する</string>			
 	<string name="goal_tutorial_place_storage_tent">(b)収納テント(/b)を設置する</string>			
-	<string name="goal_tutorial_wait_food_drying">(b)干し肉(/b)と(b)干物(/b)が1個生産するのを待つ</string>
+	<string name="goal_tutorial_wait_food_drying">(b)干し肉(/b)と(b)干物(/b)が1個生産されるのを待つ</string>
 
 	<string name="goal_tutorial_continuous_production_bifaces">(b)石器(/b)の連続制作を有効にする</string>	
 	<string name="goal_tutorial_continuous_production_wooden_spears">(b)木の槍(/b)の連続制作を有効にする</string>
@@ -173,7 +173,7 @@ Dawn of ManではFPSと同じようにカメラの操作ができます。
 	<string name="tutorial_micromanagement">
 時々、人々の行動をもっとコントロールしたいと思うかもしれません。
 これを行うには、少数の人を(b)選択(/b)し、地形またはターゲットを(b)右クリック(/b)します。
-このようにして、(b)人を移動させる(/ b)、または1人以上の個人を特定の(b)タスク(/b)に(b)割り当てる(/b)ことができます。
+このようにして、(b)人を移動させる(/b)、または1人以上の個人を特定の(b)タスク(/b)に(b)割り当てる(/b)ことができます。
 これは、リソースと人的資源が限られているゲームの始めに狩猟をするのに特に便利です。
 	</string>
 	
@@ -192,7 +192,7 @@ Dawn of ManではFPSと同じようにカメラの操作ができます。
 	
 	<string name="tutorial_skin_processing_done">
 <!--TODO: Dry Skinsの訳-->
-(b)皮革(/b)は原始時代の建造物や道具の材料であるため常にストックしておくようにしてください。
+(b)皮革(/b)は原始時代の建造物や道具の基本的な材料であるため常にストックしておくようにしてください。
 	</string>
 	
 	<string name="tutorial_knowledge_title">知識</string>				
