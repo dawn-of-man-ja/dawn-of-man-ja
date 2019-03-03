@@ -341,8 +341,8 @@
 	<string name="help_buildable_category_defensive_description">(b)侵入者(/b)または危険な(b)動物(/b)から住民と村を守るための施設</string>
 	<string name="help_buildable_category_metallurgy_description">金属の採掘と処理のための施設</string>
 	<string name="help_buildable_category_spiritual_description">
-人々の(b)士気(/b)を回復させる施設。
-(b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問する。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要。
+人々の(b)士気(/b)を回復させる施設です。
+(b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問します。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要です。
 	</string>
 	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
 	
@@ -353,7 +353,7 @@
 	<string name="tent_short_description">基本的な住処</string>
 	<string name="tent_help_description">
 利用可能な最古かつ最も基本的な住処。人々はここで(b)休み(/b)、(b)風雨をしのぐ(/b)ことができます。
-急速に劣化し、定期的なメンテナンスが必要です。
+急速に劣化し、定期的な修理が必要です。
 (b)旧石器時代(/b)から製作可能です。
 	</string>
 	
@@ -374,7 +374,7 @@
 	<string name="stables_short_description">家畜を飼う場所</string>
 	<string name="stables_help_description">
 冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための場所です。
-定期的なメンテナンスが必要です。
+定期的な修理が必要です。
 	</string>
 	
 	<!-- === Storage === -->
@@ -382,7 +382,7 @@
 	<string name="storage_tent_short_description">基本的な貯蔵所</string>
 	<string name="storage_tent_help_description">
 大きなテントは、(b)より長い間、資源を保管し、(b)保存するために建てられました。
-急速に劣化し、定期的なメンテナンスが必要です。
+急速に劣化し、定期的な修理が必要です。
 (b)旧石器時代(/b)から建てることができます。
 	</string>
 
@@ -502,214 +502,227 @@
 	
 	<!-- === Metallurgy === -->
 		
-	<string name="copper_mine_short_description">An underground structure to increase Copper Ore extraction</string>
+	<string name="copper_mine_short_description">銅鉱石の採掘量を増やすための地下施設</string>
 	<string name="copper_mine_help_description">
-An underground excavation that (b)increases(/b) the amount of (b)Copper Ore(/b) that can be extracted from a deposit.
+鉱床から採掘できる(b)銅鉱石(/b)の量を増やす地下施設。
 	</string>
 
-	<string name="tin_mine_short_description">An underground structure to increase Tin Ore extraction</string>
+	<string name="tin_mine_short_description">錫鉱石の採掘量を増やすための地下施設</string>
 	<string name="tin_mine_help_description">
-An underground excavation that (b)increases(/b) the amount of (b)Tin Ore(/b) that can be extracted from a deposit.
+鉱床から採掘できる(b)錫鉱石(/b)の量を増やす地下施設。
 	</string>
 	
-	<string name="iron_mine_short_description">An underground structure to increase Iron Ore extraction</string>
+	<string name="iron_mine_short_description">鉄鉱石の採掘量を増やすための地下施設</string>
 	<string name="iron_mine_help_description">
-An underground excavation that (b)increases(/b) the amount of (b)Iron Ore(/b) that can be extracted from a deposit.    
+鉱床から採掘できる(b)鉄鉱石(/b)の量を増やす地下施設。
 	</string>	
 	
-	<string name="charcoal_pit_short_description">A place to make Charcoal from wood</string>
+	<string name="charcoal_pit_short_description">木炭を作る施設</string>
 	<string name="charcoal_pit_help_description">
-A place to make (b)Charcoal(/b) from wood.
-(b)Charcoal(/b) is then used in the furnaces to smelt ores into metals.
+(b)木炭(/b)を作る施設。
+その後、(b)木炭(/b)を使用して鉱石を金属に製錬します。
 	</string>
 
-	<string name="pit_furnace_short_description">A place to smelt Copper and Tin Ores into Copper and Bronze</string>
+	<string name="pit_furnace_short_description">銅と錫の鉱石を銅と青銅に製錬する施設</string>
 	<string name="pit_furnace_help_description">
-A basic furnace where (b)Charcoal(/b) is used in order to attain the high temperatures required to smelt (b)Copper Ore(/b) and (b)Tin Ore(/b) into (b)Copper(/b) and (b)Bronze(/b).
+(b)銅鉱石(/b)と(b)錫鉱石(/b)を(b)銅(/b)と(b)青銅(/b)に製錬するのに必要な高温を達成するために使われる炉。
 	</string>
 	
-	<string name="metalsmith_short_description">A place to make Copper and Bronze tools</string>
+	<string name="metalsmith_short_description">銅と青銅の道具を作る施設</string>
 	<string name="metalsmith_help_description">
-A place to create (b)Copper(/b) and (b)Bronze(/b) tools and weapons.
-Note that only one person can work in it at a time, so you will usually need a few of these.
+(b)銅(/b)と(b)青銅(/b)の道具と武器を作る施設。
+一度に作業できるのは1人だけなので、通常はいくつか必要になります。
 	</string>
 
-	<string name="bloomery_short_description">A place to smelt Iron Ore into Iron and Steel</string>
+	<string name="bloomery_short_description">鉄鉱石を鉄と鋼鉄に製錬する施設</string>
 	<string name="bloomery_help_description">
-An advanced furnace, where very high temperatures can be reached in order to smelt (b)Iron Ore(/b) into (b)Iron(/b) and (b)Steel(/b).
+(b)鉄鉱石(/b)を(b)鉄(/b)と(b)鋼鉄(/b)に製錬するのに必要な高温を達成するために使われる高度な炉。
 	</string>
 
-	<string name="blacksmith_short_description">A place to make Iron and Steel tools</string>
+	<string name="blacksmith_short_description">鉄と鋼鉄の道具を作る施設</string>
 	<string name="blacksmith_help_description">
-A place to create (b)Iron(/b) and (b)Steel(/b) tools and weapons.
-Note that only one person can work in it at a time, so you will usually need a few of these.
+(b)鉄(/b)と(b)鋼鉄(/b)の道具と武器を作る施設。
+一度に作業できるのは1人だけなので、通常はいくつか必要になります。
 	</string>
 
 	<!-- === Defensive === -->
 
-	<string name="palisade_short_description">Simple wooden structure to protect the settlement</string>
+	<string name="palisade_short_description">集落を守るシンプルな木造施設</string>
 	<string name="palisade_help_description">
-Simple wooden structure to protect the settlement. It's made from (b)Logs(/b) and offers a reasonable level of protection.
+集落を守るシンプルな木造施設。 これは(b)丸太(/b)から作られており、ある程度の防御を提供します。
 	</string>
 
-	<string name="gate_short_description">Simple wooden gate, to control access to your settlement</string>
+	<string name="gate_short_description">村へのアクセスを制御するためのシンプルな木製の門</string>
 	<string name="gate_help_description">
-A simple wooden gate, that can resist attacks for a reasonable amount of time.
+ある程度の期間攻撃に耐えることができるシンプルな木製の門。
 	</string>
 
-	<string name="watchtower_short_description">Basic tower, from which to shoot at enemies</string>
+	<string name="watchtower_short_description">敵を撃つ基本的な塔</string>
 	<string name="watchtower_help_description">
-The most basic defense tower. Up to 2 people can shelter in it and (b)shoot(/b) at incoming enemies.
-They require periodic (b)repairs(/b) and maintenance.
+最も基本的な防衛塔。 2人まで収容でき、入ってくる敵を(b)攻撃(/b)する。
+定期的な(b)修理(/b)が必要です。
 	</string>
 
-	<string name="wall_short_description">A sturdy Stone wall to protect the settlement</string>
+	<string name="wall_short_description">集落を守る頑丈な石壁</string>
 	<string name="wall_help_description">
-A durable (b)Stone(/b) wall, that offers the highest level of protection available against intruders.
+丈夫な(b)石の(/b)壁。侵入者に対して最高レベルの防御を提供します。
 	</string>
 
-	<string name="reinforced_gate_short_description">A metal reinforced gate</string>
+	<string name="reinforced_gate_short_description">金属で強化した門</string>
 	<string name="reinforced_gate_help_description">
-A gate (b)reinforced(/b) with (b)metal(/b) in order to increase its resistance against attacks.
+攻撃に対する耐性を高めるために、門を(b)金属(/b)で(b)補強(/b)した。
 	</string>
 
-	<string name="guard_tower_short_description">A reinforced defense tower</string>
+	<string name="guard_tower_short_description">強化された防衛塔</string>
 	<string name="guard_tower_help_description">
-A reinforced defense tower. Up to 3 people can shelter in it and shoot at incoming enemies. 
-Guard Towers require periodic repairs and maintenance.
+強化された防衛塔。
+最大3人が中にし、入ってくる敵を攻撃することができます。
+定期的な修理が必要です。
 	</string>
 	
 	<!-- === Spiritual === -->
 
-	<string name="skull_pole_short_description">A structure in memory of the dead</string>
+	<string name="skull_pole_short_description">死者を覚えておくための施設</string>
 	<string name="skull_pole_help_description">
-A structure in memory of the dead that your people can visit in order to recover (b)Morale(/b).
+(b)士気(/b)を回復するために人々が訪れる死者を覚えておくための施設。
 	</string>
 
-	<string name="totem_short_description">A structure to honor nature</string>
+	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
-A tall, powerful symbol of both the tribe itself and its relation with nature. Your people can use it to recover (b)Morale(/b).
+村と自然との関係を象徴する大きな強力な象徴。
+人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 	
-	<string name="menhir_short_description">A standing Megalith</string>
+	<string name="menhir_short_description">立っている巨石</string>
 	<string name="menhir_help_description">
-A large standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b).
+大きな立っている巨石。
+人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 
-	<string name="dolmen_short_description">A large monument made of several stones supporting a bigger rock</string>
+	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな記念碑</string>
 	<string name="dolmen_help_description">
-A stone chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b) and boosts people's (b)Morale(/b).
+いくつかの支柱と、その上に置かれた1つ以上の石からなる石造りの部屋。 
+(b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
 	</string>
 
-	<string name="stone_circle_short_description">The ultimate megalithic structure</string>
+	<string name="stone_circle_short_description">究極の巨石建造物</string>
 	<string name="stone_circle_help_description">
-A large structure composed by several (b)Megaliths(/b) arranged in a circle. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
+円形に配置された複数の(b)メガリス(/b)で構成された大きな建造物。
+(b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しする。
 	</string>
 	
 	<!-- === Transport === -->
-	<string name="bridge_short_description">A structure to allow easier crossing of rivers</string>
+	<string name="bridge_short_description">川を渡りやすくする施設</string>
 	<string name="bridge_help_description">
-A structure in order to ease the (b)crossing of rivers(/b).
-This is especially useful for (b)Sledges(/b) and (b)Carts(/b) as otherwise they have to cross via the nearest ford.
+(b)河川の横断(/b)を容易にするための構造。
+(b)そり(/b)と(b)台車(/b)の場合は、特に便利です。
 	</string>	
 
   <!-- === RESOURCES: Categories === -->
   
 	<string name="help_category_tool_description">
-Tools are required to perform certain tasks such as hunting, butchering, mining, fishing, or harvesting. Your people will automatically fetch the right tool for the job before doing it.
-Each tool has a series of attributes that indicate how suitable the tool is to perform certain tasks:
-(b)Fighting.(/b) Hand to hand combat.
-(b)Hunting.(/b) Killing animals or ranged combat.
-(b)Butchering.(/b) Butchering dead animals and extracting their resources.
-(b)Fishing.(/b) Extracting fish from rivers or lakes.
-(b)Harvesting.(/b) Harvesting cereals or pulses.
-(b)Mining.(/b) Extracting ores from deposits or mines.
-(b)Woodcutting.(/b) Cut down trees.
-Fighting and hunting attributes affect damage dealt in combat, other attributes affect the speed at which the task is done.
+道具は、戦闘、解体、採掘、釣り、収穫などの作業を実行するために必要です。
+人々は作業する前に自動的に仕事のための適切な道具を取ってきます。
+道具には、特定の仕事を実行するのに適していることを示す以下のような属性があります。
+(b)格闘(/b)手対手の戦闘。
+(b)戦闘(/b)動物の殺害または遠隔戦闘。
+(b)解体(/b)死んだ動物を解体し資源を取り出す。
+(b)釣り(/b)川や湖からの魚の採取。
+(b)収穫(/b)収穫シリアルまたは豆類。
+(b)採掘(/b)鉱床から鉱石を採掘する。
+(b)伐採(/b)木を切り倒す。
+格闘と戦闘の属性は戦闘で与えられるダメージに影響します、他の属性はタスクが行われる速度に影響します。
 	</string>
 	
 	<string name="help_category_clothing_description">
-Clothing offers your people protection from cold, increases welfare and reduces damage sustained in combat.
-(b)Skins(/b) and (b)Wool(/b) outfits protect people up to freezing temperatures. It is (b)critical(/b) that you have one of these per inhabitant.
-When it is warm your people will prefer to wear (b)Leather(/b) or (b)Linen(/b) outfits, these increase (b)welfare(/b) levels and offer slight protection in combat.
-A typical way to ensure you have enough clothing is to set outfits to continuous production in the (b)Crafter(/b) or (b)Outfitter(/b) structures and having a resource limit set of 100%.
-When the temperature drops below the level of protection clothing offers, the temperature of the person will start to drop, at this point they will have to seek (b)shelter(/b) or they will die of (b)hypothermia(/b).	
+衣服はあなたの人々を寒さから守り、福祉を増やし、そして戦闘で被るダメージを減らします。
+(b)皮(/b)または(b)羊毛(/b)の服で、水の凍りつく気温まで保護されます。
+住民一人一人がどちらかのうち一つを持っていることが(b)重要(/b)です。
+暖かいときは、(b)革(/b)または(b)亜麻(/b)の服を着ることを好みます。
+これらは(b)福祉(/b)レベルを高め、戦闘時にわずかな保護を提供します。
+あなたが十分な服を持っていることを保証するための典型的な方法は、(b)製作所(/b)または(b)仕立て屋(/b)で、100％の資源上限を持つ連続生産に服を設定することです。
+気温が服の暖かさを下回ると、その人の体温は下がり始めます。いそいで(b)屋内(/b)に入る必要があります。
+もし間に合わなければ(b)低体温(/b)で死亡します。 
 	</string>
 	
 	<string name="help_category_food_and_drink_description">
-Resources that can be consumed to recover (b)Nutrition(/b) and (b)Hydration(/b) levels.
+(b)栄養(/b)および(b)水分(/b)を回復するために使用できる資源。
 	</string>
 	
 	<string name="help_category_material_description">
-Resources used to (b)craft(/b) or (b)build(/b) other resources or structures.
+他の資源または建造物を(b)制作(/b)または(b)建築(/b)するために使用できる資源。
 	</string>
 	
   <!-- === Tools === -->
 
-	<string name="biface_short_description">General purpose cutting tool</string>
+	<string name="biface_short_description">石器</string>
 	<string name="biface_help_description">
-Basic cutting tool, used to (b)butcher(/b) animals, (b)harvest(/b) plants or as a simple hand to hand combat (b)weapon(/b).
-Bifaces are classified as a knives rather than axes, based on the functions they perform.
+動物の(b)解体(/b)、植物の(b)収穫(/b)、または単なる戦闘用の(b)武器(/b)に使用される基本的な切削工具。
+石器は、その機能に基づいて、斧ではなくナイフとして分類されます。
 	</string>
 	
-	<string name="wooden_spear_short_description">Basic hunting tool</string>
+	<string name="wooden_spear_short_description">基本的な狩猟、遠距離戦闘用の道具</string>
 	<string name="wooden_spear_help_description">
-The most basic (b)hunting(/b) and (b)ranged combat(/b) tool. A simple wooden spear with a fire hardened tip.
+最も基本的な(b)狩猟(/b)と(b)遠距離戦闘(/b)用の道具。 尖った先端を持つ単純な木製の槍。
 	</string>	
 
-	<string name="spear_short_description">Hunting tool</string>
+	<string name="spear_short_description">狩猟、遠距離戦闘用の道具</string>
 	<string name="spear_help_description">
-Spears can be used to (b)hunt(/b) animals or (b)fight(/b) enemies. They are made out of a wooden shaft, and a head made out of a different material, like (b)Bone(/b), (b)Flint(/b) or (b)Metal(/b).
-They are better used in ranged combat, but if required can also be employed at melee range, with reduced effectiveness.
+槍は動物を狩ったり敵と戦ったりするために使うことができます。
+木製の持ち手と、(b)骨(/b)、(b)火打ち石(/b)、(b)金属(/b)のような素材でできた先端から作られています。
+それらは遠隔戦闘で使うのが最も効果的ですが、必要ならば近接戦闘でも効果は減少しますが使用することができます。
 	</string>
 
-	<string name="harpoon_short_description">Fishing tool</string>
+	<string name="harpoon_short_description">釣具</string>
 	<string name="harpoon_help_description">
-Harpoons are purpose built tools for (b)fishing(/b). They are made out of a wooden shaft and a head designed to catch fish.
+銛は(b)釣り(/b)のための道具です。 それらは木の持ちてと魚を捕まえるように設計された先端から作られています。
 	</string>  
 
-	<string name="fishing_rod_short_description">Specialized fishing tool</string>
+	<string name="fishing_rod_short_description">特殊な釣具</string>
 	<string name="fishing_rod_help_description">
-Very (b)effective fishing(/b) tool used to catch almost any kind of fish.
+ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)。
 	</string>  	
 	
-	<string name="axe_short_description">Woodcutting and fighting tool</string>
+	<string name="axe_short_description">伐採との戦闘のための道具</string>
 	<string name="axe_help_description">
-Axes are useful to (b)cut down(/b) trees or as hand to hand combat (b)weapons(/b). They have different resistances and strengths depending of whether they are made of (b)Flint(/b) or (b)metal(/b).
+斧は、(b)伐採(/b)を行うため、または敵と戦うための(b)武器(/b)として役立つ。
+(b)火打ち石(/b)または(b)金属(/b)のいずれでできているかに応じて、異なる強さと耐久を持つ。
 	</string>
 
-	<string name="pick_short_description">Tool to mine ores or rocks.</string>
+	<string name="pick_short_description">鉱石や岩石を採掘するための道具</string>
 	<string name="pick_help_description">
-Picks are used primarily for (b)breaking rocks(/b) and (b)mining(/b) various ores. They are composed of a wooden handle and a sharp, hard point made of (b)Flint(/b) or (b)metal(/b).
+ピッケルは主に(b)砕石(/b)および様々な鉱石の(b)採掘(/b)に使われます。
+木の柄と(b)火打ち石(/b)または(b)金属(/b)で作られた鋭くて硬い先端で構成されています。
 	</string>
 
-	<string name="knife_short_description">Tool used primarily to butcher animals</string>
+	<string name="knife_short_description">主に動物の解体に使用される道具</string>
 	<string name="knife_help_description">
-Knives are used mainly for (b)butchering(/b) dead animals and (b)slaughtering(/b) domestic animals.
-They can also be used in melee (b)combat(/b) if required. 
-They are made out of a wooden handle, and a blade of (b)Flint(/b) or (b)metal(/b).
+ナイフは主に動物の(b)解体(/b)と家畜の(b)屠殺(/b)に使われます。
+必要に応じて、それらは(b)近接戦闘(/b)でも使用できます。
+木製の持ち手と(b)火打ち石(/b)または(b)金属(/b)の刃から作られています。
 	</string>
 
-	<string name="sickle_short_description">Harvesting tool</string>
+	<string name="sickle_short_description">収穫具</string>
 	<string name="sickle_help_description">
-Sickles are specialized tools designed to (b)harvest(/b) crops. The better the material of the blade, the more effective the tool.
+鎌は、作物を(b)収穫(/b)するために設計された特別な道具です。 刃の材質が良いほど、工具は効果的です。
 	</string>  
 
-	<string name="bow_short_description">Hunting and ranged combat weapon</string>  
+	<string name="bow_short_description">狩猟と遠距離戦闘用の武器</string>  
 	<string name="bow_help_description">
-Excellent (b)ranged(/b) attack (b)weapon(/b), used to (b)hunt(/b) or (b)fight(/b) enemies at a distance.
-Bows have a longer range than spears, but are ineffective at close quarters.
+優れた(b)遠距離攻撃武器(/b)。
+狩猟と遠距離戦闘用の武器です。
+弓は槍よりも長距離での戦闘を可能にしますが、近距離では効果がありません。
 	</string>    
 
-	<string name="sling_short_description">Basic hunting tool</string>
+	<string name="sling_short_description">基本的な狩猟道具</string>
 	<string name="sling_help_description">
-The sling is a basic, easy to make (b)ranged(/b) weapon, used mostly for (b)hunting(/b).
-Slings have a longer range than spears, but are ineffective at close quarters.
+スリングは基本的なもので、簡単に作ることができます。(b)遠距離武器(/b)で、主に(b)狩猟(/b)に使われます。
+スリングは槍よりも長い射程距離を持っていますが、近いところでは効果がありません。
 	</string>  
 	
-	<string name="sword_short_description">Hand to hand combat weapon</string>
+	<string name="sword_short_description">近距離戦闘用の武器</string>
 	<string name="sword_help_description">
-Swords are the most effective (b)melee combat(/b) weapon of the ancient times. They consist of a wooden handle and a sharp blade made of metal.
+刀は古代で最も効果的な(b)近接戦闘(/b)の武器です。 木の持ち手と金属製の鋭い刃から成ります。
 	</string>
 
   <!-- === Materials === -->

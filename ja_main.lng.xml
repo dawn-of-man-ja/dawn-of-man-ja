@@ -411,8 +411,8 @@
 	<string name="task_hunt">戦闘</string>
 	<string name="task_capture">捕まえる</string>
 	<string name="task_cut_down">伐採</string>
-	<string name="task_butcher">屠殺</string>
-	<string name="task_slaughter">殺す</string>
+	<string name="task_butcher">解体</string>
+	<string name="task_slaughter">屠殺</string>
 	<string name="task_milk">搾乳</string>
 	<string name="task_collect">採集</string>
 	<string name="task_gather_detail">棒を採集</string>
@@ -444,8 +444,8 @@
 	<string name="context_action_mine">採掘</string>
 	<string name="context_action_hunt">戦闘</string>
 	<string name="context_action_capture">捕える</string>
-	<string name="context_action_butcher">屠殺</string>
-	<string name="context_action_slaughter">殺害</string>
+	<string name="context_action_butcher">解体</string>
+	<string name="context_action_slaughter">屠殺</string>
 	<string name="context_action_cancel_task">中止: (1)</string>
 	<string name="context_action_priority_up">優先度を上げる</string>
 	<string name="context_action_priority_down">優先度を通常に戻す</string>	
@@ -532,7 +532,7 @@
 	<string name="message_death_infection">感染症で(1)が死亡</string>
 	<string name="message_death_killed"> (1)が(2)に殺された</string>
 	<string name="message_death_thunder">(1)が雷に打たれた</string>
-	<string name="message_death_slaughtered">(1)が殺害された</string>
+	<string name="message_death_slaughtered">(1)が殺された</string>
 	
 	<string name="message_humans_death_generic">人が死亡</string>
 	<string name="message_humans_death_starvation">飢餓で人が死亡</string>
@@ -696,7 +696,7 @@
 	<string name="description_planting">(1)を植える</string>
 	<string name="description_recovering_morale">士気の回復</string>
 	<string name="description_taming">調教</string>
-	<string name="description_slaughtering">(1)を殺害</string>
+	<string name="description_slaughtering">(1)を屠殺</string>
 	<string name="description_milking">(1)を搾乳</string>
 	<string name="description_shearing">(1)を刈り込み</string>
 	<string name="description_being_tamed">飼いならされている</string>
