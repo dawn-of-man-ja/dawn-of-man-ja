@@ -472,7 +472,7 @@
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
 	<string name="disabled_reason_requires_tech">技術が必要: (1)</string>
-	<string name="disabled_no_children_allowed">子供はタスクを実行できない: (1)</string>
+	<string name="disabled_no_children_allowed">子どもはタスクを実行できない: (1)</string>
 	<string name="disabled_no_tools_available">アクションを実行するためのツールがない: (1)</string>
 	<string name="disabled_reason_exhausted">資源を使い果たしたため、補充されるまで待つ必要がある</string>
 	<string name="disabled_reason_already_planted">すでに植えられている</string>
@@ -500,7 +500,7 @@
 	
 	<!-- Structure classification -->
 	<string name="buildable_category_residence">住居</string>
-	<string name="buildable_category_storage">倉庫</string>
+	<string name="buildable_category_storage">貯蔵庫</string>
 	<string name="buildable_category_production">生産</string>
 	<string name="buildable_category_defensive">防衛</string>
 	<string name="buildable_category_metallurgy">鍛冶</string>
@@ -515,7 +515,7 @@
 	<string name="work_area_fish">釣り</string>
 	<string name="work_area_hunt">狩猟</string>
 	<string name="work_area_collect_and_harvest">野生の植物を集めて収穫</string>
-	<string name="work_area_collect_tannin">なめし革を集める</string>
+	<string name="work_area_collect_tannin">タンニンを集める</string>
 	<string name="work_area_extract_water">水を取得</string>
 	<string name="work_area_extract_mud">泥から抽出</string>
 	<string name="work_area_obtain_stone">石を採集</string>
@@ -548,7 +548,7 @@
 	<string name="message_transport_decay">(1)はもう使えない</string>
 	<string name="message_tool_decay">(1)はもう使えない</string>
 	<string name="message_new_migrant">新しい住民</string>
-	<string name="message_new_human_birth">子供が生まれた</string>
+	<string name="message_new_human_birth">子どもが生まれた</string>
 	<string name="message_new_animal_birth">動物が生まれた</string>
 	<string name="message_hunt_fail">(1)は逃走</string>
 	<string name="message_raider_attack">侵入者の攻撃</string>
@@ -584,9 +584,9 @@
 	<string name="tooltip_status_morale">士気回復: (1)</string>
 	<string name="tooltip_status_capacity">この家には(1)人が住める</string>
 	<string name="tooltip_low_stats">状態が良くないためタスクを処理する効率が下がる</string>
-	<string name="tooltip_durability">この建物に格納すると(1)程度長く使える</string>
-	<string name="tooltip_decay_time">この資源はあと(1)年使える</string>
-	<string name="tooltip_condition_decay_time">この建物はあと(1)年使える</string>
+	<string name="tooltip_durability">この建物に格納すると(1)年程度長く使える</string>
+	<string name="tooltip_decay_time">この資源は(1)年使える</string>
+	<string name="tooltip_condition_decay_time">この建物は(1)年使える</string>
 	<string name="tooltip_use_count">この道具はあと(1)回使えます</string>
 	<string name="tooltip_continuous_production">連続生産</string>
 	<string name="tooltip_craft">左クリックすると1つのアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>

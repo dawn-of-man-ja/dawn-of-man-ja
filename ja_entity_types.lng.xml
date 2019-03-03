@@ -50,7 +50,7 @@
 	<string name="structure_skins_dryer">皮乾燥機</string>
 	<string name="structure_hearth">囲炉裏</string>
 	<string name="structure_tanner">皮なめし場</string>
-	<string name="structure_mortar">モルタル製造施設</string>
+	<string name="structure_mortar">石臼</string>
 	<string name="structure_storage_hut">貯蔵小屋</string>
 	<string name="structure_roundhouse">円形住居</string>
 	<string name="structure_warehouse">倉庫</string>
@@ -127,7 +127,7 @@
 	<string name="resource_straw">藁</string>
 	<string name="resource_mud">泥</string>
 	<string name="resource_sling">投石器</string>
-	<string name="resource_tannin">なめし革</string>
+	<string name="resource_tannin">タンニン</string>
 	<string name="resource_copper_spear">銅の槍</string>
 	<string name="resource_copper_axe">銅の斧</string>
 	<string name="resource_bronze_spear">青銅の槍</string>

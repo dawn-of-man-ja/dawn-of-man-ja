@@ -72,7 +72,7 @@
 	
 	<string name="help_farming_title">農業</string>
 	<string name="help_farming_description">
-農業は(b)食糧（/ b）の生産を自動化し、村の人口を大きくすることを可能にします。
+農業は(b)食糧(/b)の生産を自動化し、村の人口を大きくすることを可能にします。
 さまざまな(b)作物(/b)を植え、収穫し加工して人々を養うことができます。作物は通常冬または春に植えられ、夏または秋に収穫されます。
 病気の影響により壊滅的な被害を抑えるため、(b)さまざまな(/b)作物を植えることが重要です。
 収穫効率を最大にするために、(b)鎌(/b)が十分にあることを確認してください。
@@ -178,72 +178,72 @@
 (b)人口に対する割合(/b): 人口に対する割合を設定します。人口の変化に応じて制限を絶えず調整する作業を回避できます。
 	</string>
 	
-  <string name="help_resource_decay_title">資源の破損</string>
+  <string name="help_resource_decay_title">資源の損耗</string>
   <string name="help_resource_decay_description">
-ほとんどの資源と道具は時間の経過とともに壊れていきます。道具が使用されると破損は進行します。
+ほとんどの資源と道具は時間の経過とともに壊れていきます。道具は使用されると破損はより進行します。
 建造物の中に貯蔵されている資源はゆっくりと破損が進行します。これは食糧にとって重要なことです。
 いくつかの食品は(b)急速に破損が進行(/b)します:フルーツ、ベリー、生肉、生魚。
 穀物、塩漬け肉、干し魚などの食品はずっと(b)長持ち(/b)します。
-あなたの人々は耐久性のある食物を保存しておくためにもっとも腐敗が進行している食糧を食べようとするでしょう。
+人々は耐久性のある食物を保存しておくためにもっとも腐敗が進行している食糧を食べようとするでしょう。
 	</string>	
 	
   <string name="help_workload_title">作業量</string>
   <string name="help_workload_description">
-The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
-If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
-It is your job do make sure the amount of work to do is reasonable and proportional to the manpower available.
-You can use the (b)tasks(/b) and (b)activity panels(/b) to see what your people are up to and how many of them are available to work.
+村の(b)作業負荷(/b)は、人々がやろうとしている仕事の量と人口の比率です。
+一度にたくさんのことをするように人々に支持を出すと、やるべき仕事を優先させることが難しくなります。
+やるべき仕事の量が合理的かつ利用可能なマンパワーに比例していることを確認することが必要です。
+(b)タスク(/b)パネルおよび(b)アクティビティ(/b)パネルを使用して、人々が何をしているのか、また何人が仕事に参加できるのかを確認できます。
 	</string>
 	
-  <string name="help_human_roles_title">Human Roles</string>
+  <string name="help_human_roles_title">年齢</string>
   <string name="help_human_roles_description">
-Depending on the age of your population they are able to perform different tasks:
-(b)Children(/b). They can carry light resources around, one at a time, and do basic tasks that don't involve the usage of tools.
-(b)Adults(/b). They are the most efficient of your people, they can carry a larger number of resources and perform any task.
-(b)Elderly(/b). They can perform the same tasks as adults, but have less health and can carry less resources.
+年齢に応じて、人々はさまざまなタスクを実行することができます。
+(b)子ども(/b): 一度に1つずつ軽いリソースを持ち運ぶことができ、道具の使用を含まない基本的なタスクを実行できます。
+(b)大人(/b): 最も効率的に仕事を行います。彼らはより多くの資源を運ぶことができ、すべてのタスクを実行することができます。
+(b)老人(/b): 彼らは大人と同じ仕事をすることができますが、健康が少なく、また大人よりも少ない資源しか運ぶことができません。
 	</string>
   
-  <string name="help_work_area_title">Work Areas</string>
+  <string name="help_work_area_title">作業領域</string>
   <string name="help_work_area_description">
-Setting (b)work areas(/b) allows you to automate many of the (b)collection(/b) and (b)mining(/b) tasks in your settlement.
-After you place an area for a given resource, people will keep collecting the resource within that area until the (b)resource limit(/b) is reached.
-By default only one person at a time will work in a particular area, but you can increase their number in the selection panel.
+(b)作業領域(/b)を設定すると、(b)収集(/b)および(b)採掘(/b)の多くを自動化できます。
+特定の資源に領域を配置した後は、(b)資源制限(/b)に達するまで、その領域内の資源を収集し続けます。
+デフォルトでは、ある領域では一度に1人の人しか作業できませんが、人数を増やすことも可能です。
   </string>
 	
-  <string name="help_foods_title">Foods</string>
+  <string name="help_foods_title">食糧</string>
   <string name="help_foods_description">
-There are are different (b)types of food(/b) that your people can consume, it is important to understand the differences between them.
-(b)Raw Fish(/b). Available all year long, every river or lake bank contains a certain amount of fish, once you exhaust it you need to wait for it to replenish. You can use the (b)Food Dryer(/b) to convert (b)Raw Fish(/b) to (b)Dry Fish(/b), which lasts a lot longer.
-(b)Raw Meat(/b). You can hunt animals for their meat all year long, but in winter there will be a lot less of them around. You can use the (b)Food Dryer(/b) to convert (b)Raw Meat(/b) to (b)Cured Meat(/b), which lasts a lot longer.
-(b)Berries(/b), (b)Fruit(/b) and (b)Nuts(/b). Available mostly in summer only, but some also in autumn. They don't last for long, but they are a good food to eat seasonally, so you can save non perishable foods for the winter.
-(b)Pulses(/b). Available in summer, they require the right harvesting tools and technology to be processed. They last for a reasonable amount of time.
-(b)Grain(/b). It lasts for an extremely long time, but requires processing to be eaten: First needs to be converted into (b)Flour(/b), then into (b)Bread(/b). This makes it quite labor intensive.
-People will try to eat the foods that are about to perish first.
+人々の食べる(b)様々な種類の食糧(/b)があります。その違いを理解することが重要です。
+(b)生魚(/b): 一年中手に入れることができ、すべての川または湖には一定量の魚がいます。しかし枯渇した場合回復を待つ必要があります。 (b)食品乾燥機(/b)を使って、(b)生魚(/b)を(b)魚の干物(/b)に加工することができます。
+(b)生肉(/b): 一年中肉を手に入れるために動物を狩ることができます。しかし冬には動物の数が減少します。(b)食品乾燥機(/b)を使って(b)生肉(/b)を(b)干し肉(/b)に加工することができます。
+(b)ベリー(/b)、(b)果実(/b)、(b)ナッツ(/b): 主に夏季に手に入れることができますが、秋季にも入手可能です。日待ちしませんが、季節的に食べるのに適しています。そうすることで冬を超えるのために食品を節約することが可能です。
+(b)豆(/b): 夏に入手可能です。適切な道具と処理するための技術が必要です。それなりに日持ちします。
+(b)穀物(/b): とても日持ちしますが食べるために処理を必要とします。最初に(b)小麦粉(/b)に加工しその後(b)パン(/b)に加工する必要があります。かなりの労働が必要です。
+人々は腐りそうなものから食べます。
 	</string>
 	
-  <string name="help_welfare_title">Welfare</string>
+  <string name="help_welfare_title">福祉</string>
   <string name="help_welfare_description">
-A measure of how well your settlement is doing.
-Depends on your people's (b)stats(/b), (b)clothing(/b) and also on the (b)food surplus(/b).
-If welfare is high (b)migrants(/b) will come to your settlement, the higher it is the more frequently they will arrive.
-Welfare also affects the (b)birth rate(/b) in your settlement.
+あなたの村がどれだけうまくいっているかをあらわしています。
+あなたの人々の(b)状態(/b)、(b)衣服(/b)、(b)食料余剰(/b)にも依存しています。
+福祉が高ければ(b)移民(/b)があなたの村に来ます。高さによって頻度が上昇します。
+福祉は、あなたの村の(b)出生率(/b)にも影響をあたえます。
 	</string>	
 	
-  <string name="help_prestige_title">Prestige</string>
+  <string name="help_prestige_title">名声</string>
   <string name="help_prestige_description">
-A measure of how well known your settlement is.
-Depends on your (b)population(/b), (b)buildings(/b) and (b)technology(/b).
-If prestige is high (b)migrants(/b) and (b)traders(/b) will come more frequently to your settlement.
-A good way to increase your settlement's (b)prestige(/b) is by constructing (b)megalithic(/b) structures.
+あなたの村がどれほどよく知られているかをあらわしています。
+(b)人口(/b)、(b)建造物(/b)、および(b)技術(/b)に依存します。
+名声が高ければ(b)移民(/b)と(b)商人(/b)が村に来る頻繁が上がります。
+あなたの居住地の(b)名声(/b)を増やす良い方法は、(b)巨石建造物(/b)を建築することです。
 	</string>		
 
 	<!-- Conditions here refers to diseases or infections-->
-  <string name="help_conditions_title">Conditions</string>
+  <string name="help_conditions_title">症状</string>
   <string name="help_conditions_description">
-Humans can be affected by conditions such as (b)diseases(/b) or (b)infections(/b).
-These are triggered from (b)going hungry(/b) repeatedly, or (b)sustaining injuries(/b).
-When a person has a condition it's health will decrease for a given amount of time, if it reaches zero the person will die.
-Survival chances are partly random and party based on how healthy the individual is.
+人間が、(b)病気(/b)、(b)感染症(/b)などの症状の影響を受けることがあります。
+これらは、(b)頻繁な飢餓(/b)、(b)怪我(/b)などによって引き起こされます。
+人に症状があるとき、健康が一定時間の間減少し続け、ゼロになった場合、死亡します。
+生存の可能性は一部ランダムで、個人の健康状態に基づきます。
 	</string>
 	
 	<string name="help_controls_title">操作</string>	
@@ -279,70 +279,70 @@ Survival chances are partly random and party based on how healthy the individual
 
 	</string>
 	
-	<string name="help_customizable_panels_title">Customizable Panels</string>	
+	<string name="help_customizable_panels_title">パネルのカスタマイズ</string>	
 	<string name="help_customizable_panels_description">
-By pressing the (b)+(/b) buttons on the top part of the screen, you can (b)customize the info panels(/b).
-You can get the UI to display the most (b)relevant information(/b) depending on your current situation.
+画面上部の(b)+(/b)ボタンを押すと、(b)情報パネル(/b)をカスタマイズできます。
+現在の状況に応じて、UIに最も関連性の高い情報を表示させることができます。
 	</string>
 	
-	<string name="help_transport_title">Transportation</string>	
+	<string name="help_transport_title">輸送</string>	
 	<string name="help_transport_description">
-(b)Transports(/b) will greatly increase the efficiency of your settlement.
-Some resources, like (b)Logs(/b), (b)Stone(/b), (b)Copper Ore(/b), (b)Tin Ore(/b) or (b)Iron Ore(/b) are heavy and difficult to carry around.
-Only adults can transport these, at a very slow speed, one at a time, and with a penalty to morale.
-(b)Sledges(/b) and (b)Carts(/b) solve this problem, they allow you to transport several (b)heavy resources(/b) at a time a lot more efficiently.
+(b)輸送器具(/b)を使うと村の生産性が大きく上がります。
+丸太、石、銅鉱石、錫鉱山、鉄鉱石のような重くて運ぶのが難しい資源は大人だけがゆっくりと一度に一つずつ、士気を減らしながら運ぶことができます。
+(b)そり(/b)と(b)台車(/b)は、この問題を解決します。(b)重い資源(/b)を一度にもっと効率よく輸送することを可能にします。
 	</string>
 	
-	<string name="help_fuel_title">Fuel</string>	
+	<string name="help_fuel_title">燃料</string>	
 	<string name="help_fuel_description">
-In order to (b)cook food(/b) and stay warm you need to fuel your (b)Hearths(/b), (b)Huts(/b), (b)Roundhouses(/b) and (b)Ovens(/b).
-You can use (b)Sticks(/b) or (b)Logs(/b) for this purpose. Your people will automatically refuel all structures unless you disable it in each structure.
+(b)囲炉裏(/b)、(b)小屋(/b)、(b)円形住居(/b)、(b)オーブン(/b)で食べ物を(b)調理(/b)し暖を取るには燃料が必要です。
+そのため人々は各建造物で無効にしない限り、自動的に(b)棒(/b)または(b)丸太(/b)を自動的に補給します。
 	</string>
 	
   <!-- === Main categories === -->
   
-	<string name="help_structures_title">Structures</string>
+	<string name="help_structures_title">建造物</string>
 	<string name="help_structures_description">
-You can build many different structures in your settlement. Initially only a few are available, but you will unlock many more as the game progresses.</string>
-	
-	<string name="help_resources_title">Resources</string>
-	<string name="help_resources_description">
-You will need to manage a variety of Resources to keep your settlement running.
-Most resources will decay and eventually become unusable, so you will need to continuously produce them.
+あなたはあなたの村に多くの建造物を建築することができます。 最初は数個しか選択できませんが、ゲームが進むにつれてさらに多くのがアンロックされます。
 	</string>
 	
-	<string name="help_techs_title">Techs</string>
+	<string name="help_resources_title">資源</string>
+	<string name="help_resources_description">
+村を滅ぼさないためには様々な資源を管理していく必要があります。
+ほとんどの資源は損耗し、最終的には使用できなくなるので、それらを継続的に生産する必要があります。
+	</string>
+	
+	<string name="help_techs_title">技術</string>
 	<string name="help_techs_description">
-Techs allow you to produce (b)more resources(/b), build (b)new structures(/b), and (b)move forward(/b) through the ages.
-To research and unlock new techs, you need to spend knowledge points in the tech panel.
-You earn (b)knowledge points(/b) when doing actions such as hunting animals, gathering resources, or achieving higher populations.
-You can only unlock a Tech if you've previously unlocked it's (b)prerequisite techs(/b) and the (b)era(/b) it belongs to.
-To unlock a new Era you need to unlock it's Era Tech, which requires twice as many Knowledge points to unlock.
+技術は、より(b)多くのリソース(/b)の生産、(b)新しい建造物の建築(/b)、および(b)時代の進行(/b)を可能にします。
+新しい技術を調査してロックを解除するには、技術パネルで知識ポイントを使う必要があります。
+動物を狩る、資源を集める、あるいはより大きな人口に到達するなどによって、(b)知識ポイント(/b)を獲得できます。
+技術をアンロックできるのは、(b)前提技術(/b)と(b)時代(/b)がアンロックされている場合のみです。
+新しい時代をアンロックするには、2倍の知識ポイントを必要とする時代の技術をアンロックする必要があります。
     </string>
 	
-	<string name="help_animals_title">Animals</string>
+	<string name="help_animals_title">動物</string>
 	<string name="help_animals_description">	
-Animals are the source of many key goods, such as (b)Raw Meat(/b), (b)Bones(/b), or (b)Raw Skins(/b). 
-In (b)winter(/b) most animals will hibernate or migrate to warmer climates, so there will be less of them around.
-Once you research the right domestication techs, you can capture young animals in order to breed them yourself.
+動物は、(b)生肉(/b)、(b)骨(/b)、(b)生皮(/b)など、多くの重要な資源の供給源です。
+(b)冬(/b)には、ほとんどの動物は冬眠するか、より暖かい気候に移動するため、周りの動物は少なくなります。
+適切な家畜化に関する技術を研究したら、人々の手によって動物を繁殖させるために若い動物を捕獲することができます。
 	</string>
 
-	<string name="help_transports_title">Transports</string>
+	<string name="help_transports_title">輸送器具</string>
 	<string name="help_transports_description">
-Transports allow people to (b)carry resources(/b) much faster than they would otherwise do. Specialized transports are also required to move (b)Megaliths(/b).
+輸送器具により、人々は他の方法よりもはるかに速く(b)資源を運ぶ(/b)ことができます。また(b)巨石(/b)を移動するには特殊な輸送方法を用いる必要があります。
 	</string>
 	
 	
   <!-- === STRUCTURES: categories === -->
   
-	<string name="help_buildable_category_residence_description">Structures that provide shelter for people or animals.</string>
-	<string name="help_buildable_category_storage_description">Structures to store resources.</string>
-	<string name="help_buildable_category_production_description">Structures to process resources.</string>
-	<string name="help_buildable_category_defensive_description">Structures to help protect your settlement against (b)raiders(/b) or dangerous (b)predators(/b).</string>
-	<string name="help_buildable_category_metallurgy_description">Structures for mining and processing metals.</string>
+	<string name="help_buildable_category_residence_description">人や動物の住処</string>
+	<string name="help_buildable_category_storage_description">資源を格納するための施設</string>
+	<string name="help_buildable_category_production_description">資源を処理するための施設</string>
+	<string name="help_buildable_category_defensive_description">(b)侵入者(/b)または危険な(b)動物(/b)から住民と村を守るための施設</string>
+	<string name="help_buildable_category_metallurgy_description">金属の採掘と処理のための施設</string>
 	<string name="help_buildable_category_spiritual_description">
-Structures that improve your people's (b)Morale(/b).
-When low on (b)Morale(/b), your people will visit a spiritual structure in order to recover it. Note that a person can not use the same type of structure too often, so it is important to build variety of these.
+人々の(b)士気(/b)を回復させる施設。
+(b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問する。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要。
 	</string>
 	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
 	
@@ -350,152 +350,154 @@ When low on (b)Morale(/b), your people will visit a spiritual structure in order
 
 	<!-- === Residence === -->
 	
-	<string name="tent_short_description">A basic shelter</string>
+	<string name="tent_short_description">基本的な住処</string>
 	<string name="tent_help_description">
-The earliest and most basic accommodation available, people can (b)rest(/b) and (b)shelter(/b) from the cold in it.
-It deteriorates quickly and needs periodic maintenance.
-It can be built from the (b)Paleolithic(/b).
+利用可能な最古かつ最も基本的な住処。人々はここで(b)休み(/b)、(b)風雨をしのぐ(/b)ことができます。
+急速に劣化し、定期的なメンテナンスが必要です。
+(b)旧石器時代(/b)から製作可能です。
 	</string>
 	
-	<string name="hut_short_description">A hut with a thatched roof</string>
+	<string name="hut_short_description">茅葺き屋根の小屋</string>
 	<string name="hut_help_description">
-A construction made out of (b)Mud(/b) with a thatched (b)Straw(/b) roof, people can (b)rest(/b), (b)shelter(/b) and (b)cook(/b) in it.
-It is more durable than a (b)Tent(/b) and can house more people.
-It require the (b)Thatching(/b) tech in order to be built.
+(b)わら(/b)葺きの(b)泥(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができる。
+(b)テント(/b)より耐久性があり、多くの人を収容することができます。
+建築に(b)茅葺き(/b)の技術を必要とします。
 	</string> 
 
-	<string name="roundhouse_short_description">A circular stone house</string>
+	<string name="roundhouse_short_description">円形の石造りの家</string>
 	<string name="roundhouse_help_description">
-A construction made of (b)Stone(/b) with a thatched (b)Straw(/b) roof, people can (b)rest(/b), (b)shelter(/b) and (b)cook(/b) in it.
-It is more durable than a (b)Hut(/b) and can house more people.
-It requires the (b)Masonry(/b) tech in order to be built.
+(b)わら(/b)葺きの(b)石(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができる。
+(b)小屋(/b)より耐久性があり、多くの人を収容することができます。
+建築に(b)石材(/b)の技術を必要とします。
 	</string>
 	
-	<string name="stables_short_description">A place to keep domestic animals</string>
+	<string name="stables_short_description">家畜を飼う場所</string>
 	<string name="stables_help_description">
-A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and watered.
-It needs periodic maintenance.
+冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための場所です。
+定期的なメンテナンスが必要です。
 	</string>
 	
 	<!-- === Storage === -->
 	
-	<string name="storage_tent_short_description">A basic storage structure</string>
+	<string name="storage_tent_short_description">基本的な貯蔵所</string>
 	<string name="storage_tent_help_description">
-A large tent built for storing and (b)preserving resources(/b) for longer.
-It deteriorates quickly and needs periodic maintenance.
-It can be built from the (b)Paleolithic(/b).
+大きなテントは、(b)より長い間、資源を保管し、(b)保存するために建てられました。
+急速に劣化し、定期的なメンテナンスが必要です。
+(b)旧石器時代(/b)から建てることができます。
 	</string>
 
-	<string name="wood_pile_short_description">A place to store Sticks and Logs</string>
+	<string name="wood_pile_short_description">棒と丸太を保管する場所</string>
 	<string name="wood_pile_help_description">
-A place to stack (b)Sticks(/b) or (b)Logs(/b), rather than using residence or other storage structures, which wastes valuable space.
+貴重なスペースを無駄にしないよう住居や他の貯蔵庫を使用するのではなくこちらを使用するのが良い選択です。
+(b)棒(/b)または(b)丸太(/b)を積み重ねて保管します。
 	</string>
 	
-	<string name="haystack_short_description">A place to store Straw</string>
+	<string name="haystack_short_description">わらを保管する場所</string>
 	<string name="haystack_help_description">
-A place to store (b)Straw(/b), rather than using residence or other storage structures, which wastes valuable space.
+貴重なスペースを無駄にしないよう住居や他の貯蔵庫を使用するのではなくこちらを使用するのが良い選択です。
+(b)わら(/b)を保管します。
 	</string>
 	
-	<string name="storage_hut_short_description">A hut to store and preserve resources</string>
+	<string name="storage_hut_short_description">資源を保管するための小屋</string>
 	<string name="storage_hut_help_description">
-A large construction made out of (b)Mud(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
-It is more durable than a (b)Storage Tent(/b) and can store more resources for longer.
-Requires the (b)Thatching(/b) tech in order to be built.
+(b)わら(/b)葺きの(b)泥(/b)でできた大きな建造物です。資源をより長く保管し保存することができます。
+建築に(b)茅葺き(/b)の技術を必要とします。
 	</string>
 	
-	<string name="granary_short_description">A structure to preserve food</string>
+	<string name="granary_short_description">食糧を保管するための施設</string>
 	<string name="granary_help_description">
-A raised hut, purpose built to keep food dry and preserved for (b)as long as possible(/b).  
-Granaries are reasonably durable, but they need repairing from time to time.
-Requires the (b)Thatching(/b) tech in order to be built.
+高床式倉庫は、食物を乾いた状態に保ち、できるだけ長く保存するために作られました。
+そこそこ丈夫ですが、時々修理する必要があります。
+建築に(b)茅葺き(/b)の技術を必要とします。
 	</string>
 	
-	<string name="rock_pile_short_description">A place to store Flint, Stone or Ores</string>
+	<string name="rock_pile_short_description">火打ち石、石、鉱石を保管する場所</string>
 	<string name="rock_pile_help_description">
-A place to store (b)Flint(/b), (b)Stone(/b) or (b)ores(/b), rather than using residence or other storage structures, which wastes valuable space.
+貴重なスペースを無駄にしないよう住居や他の貯蔵庫を使用するのではなくこちらを使用するのが良い選択です。
+(b)火打ち石(/b)、(b)石(/b)、(b)鉱石(/b)を保管します。
 	</string>
 
-	<string name="warehouse_short_description">A stone house to store and preserve resources</string>
+	<string name="warehouse_short_description">資源を保存するための石造りの建物</string>
 	<string name="warehouse_help_description">
-A large construction made out of (b)Stone(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
-It is more durable than a (b)Storage Hut(/b) and can store more resources for longer.
-Requires the (b)Masonry(/b) tech in order to be built.
+(b)わら(/b)葺きの(b)石(/b)でできた大きな建造物です。資源をより長く保管し保存することができます。
+(b)貯蔵小屋(/b)よりも多くの資源を長く保管することができます。
+建築に(b)石材(/b)の技術を必要とします。
 	</string>	
 	
 	<!-- === Production === -->
 	
-	<string name="hearth_short_description">A place to cook, make bread and socialize</string>
+	<string name="hearth_short_description">調理、パン作り、社交の場</string>
 	<string name="hearth_help_description">
-A common place where to cook food and make bread.
+食べ物を作ったりパンを作ったりする一般的な場所。
 	</string>	
 	
-	<string name="crafter_short_description">A place to create tools and clothing</string>
+	<string name="crafter_short_description">道具や服を作る施設</string>
 	<string name="crafter_help_description">
-The Crafter is the main production structure in the (b)Stone Age(/b).
-In it your people can create all the (b)tools(/b) and (b)clothing(/b) they will need in the early eras.
-It is a good idea to use (b)automated production(/b) (by right clicking on an item) and (b)resource limits(/b) in order to avoid to have to manually craft tools every time you need them.
+(b)石器時代(/b)の主な生産施設です。
+人々は初期に必要とするすべての(b)道具(/b)と(b)服(/b)を作ることができます。
+必要になるたびに手作業で道具を作成する手間を省くために、(アイテムを右クリックして)(b)自動生産(/b)を行い(b)リソース制限(/b)を使用することをお勧めします。
 	</string>
 	
-	<string name="skins_dryer_short_description">A place to dry skins</string>
+	<string name="skins_dryer_short_description">皮を乾燥させる施設</string>
 	<string name="skins_dryer_help_description">
-A structure where your people will transform (b)Raw Skins(/b) into (b)Dry Skins(/b), that are more durable and usable.
+(b)生皮(/b)を丈夫で使いやすい(b)皮(/b)に加工する施設。
 	</string>
 	
-	<string name="food_dryer_short_description">A place to dry food</string>
+	<string name="food_dryer_short_description">食品を乾燥させる施設</string>
 	<string name="food_dryer_help_description">
-A structure where (b)Raw Meat(/b) and (b)Fish(/b) can be processed into (b)Cured Meat(/b) and (b)Dry Fish(/b).
+(b)生肉(/b)と(b)魚(/b)を(b)干し肉(/b)と(b)魚の干物(/b)に加工できる施設。
 	</string>
 
-	<string name="mortar_short_description">A rock to crush Grain into Flour</string>
+	<string name="mortar_short_description">小麦粉に穀物を粉砕するための施設</string>
 	<string name="mortar_help_description">
-A rock to crush (b)Grain(/b) into (b)Flour(/b). This is quite a labor intensive process. 
+(b)穀物(/b)を(b)小麦粉(/b)に粉砕するための石臼。 かなりの労働が必要です。
 	</string>
 	
-	<string name="tanner_short_description">A place to make Leather from Raw Skins</string>
+	<string name="tanner_short_description">生皮から革を作る施設</string>
 	<string name="tanner_help_description">
-A place where (b)Raw Skins(/b) can be treated with (b)Tannin(/b) in order to make (b)Leather(/b).
+(b)革(/b)を作るために(b)生皮(/b)を(b)タンニン(/b)で処理できる場所。	
 	</string>
 
-	<string name="well_short_description">A hole in the ground to extract water</string>
+	<string name="well_short_description">水を汲み出すための地面に掘った穴</string>
 	<string name="well_help_description">
-Wells provide settlements with a steady source of (b)Water(/b), they can be placed within the settlement's walls in order to avoid people having to go to the nearest river or lake.
+井戸は(b)水(/b)の安定した供給源を居住地に提供し、人々が最寄りの川や湖に行かなくても済むように村の壁の中に置くことができます。
 	</string>
 	
-	<string name="flint_mine_short_description">An underground structure to increase Flint extraction</string>
+	<string name="flint_mine_short_description">火打ち石の採掘量をを増加させるための地下施設</string>
 	<string name="flint_mine_help_description">
-(b)Increases(/b) the amount of (b)Flint(/b) that can be extracted from a deposit.
+採掘できる(b)火打ち石(/b)の量を増やす(/b)。
 	</string>
 	
-	<string name="weaver_short_description">A place to make cloth</string>
+	<string name="weaver_short_description">布、服を作る施設</string>
 	<string name="weaver_help_description">
-A place where (b)Linen(/b) and (b)Wool(/b) are woven to create cloth, that can then be used to make outfits.
+(b)亜麻(/b)と(b)羊毛(/b)を織って布を作り、それを使って服を作る施設。
 	</string>
 
-	<string name="outfitter_short_description">A place to create clothing</string>
+	<string name="outfitter_short_description">服を作る施設</string>
 	<string name="outfitter_help_description">
-A place where outfits are made from (b)Linen Cloth(/b) and (b)Wool Cloth(/b).
+(b)亜麻布(/b)と(b)羊毛の布(/b)で服を作る施設。
 	</string>	
 
-	<string name="brewery_short_description">A place to brew Beer</string>
+	<string name="brewery_short_description">ビールを醸造する施設</string>
 	<string name="brewery_help_description">
-A facility where your people can make (b)Beer(/b) from (b)Grain(/b) and (b)Water(/b).
-(b)Beer(/b) increases morale in your settlement.
+(b)穀物(/b)と(b)水(/b)から(b)ビール(/b)を作ることができる施設。
+(b)ビール(/b)は人々の士気を高めます。
 	</string>
 
-	<string name="watermill_short_description">A place to crush grain using hydropower</string>
+	<string name="watermill_short_description">水力を使って穀物を粉砕する施設</string>
 	<string name="watermill_help_description">
-A place where to efficiently crush large quantities of (b)Grain(/b) into (b)Flour(/b) using hydropower.
+水力で大量の(b)穀物(/b)をに効率よく粉砕し、(b)小麦粉(/b)にする施設。
 	</string>
 
-	<string name="oven_short_description">A communal oven to bake Bread in large quantities</string>
+	<string name="oven_short_description">パンを焼くための共同オーブン</string>
 	<string name="oven_help_description">
-A place where to efficiently bake large quantities of (b)Bread(/b).
+(b)パン(/b)を大量に効率よく焼く施設。
 	</string>
 	
-	<string name="workshop_short_description">A place to make miscellaneous tools</string>
+	<string name="workshop_short_description">様々な道具を作る場所</string>
 	<string name="workshop_help_description">
-A place to make tools from the (b)Copper Age(/b) onwards.
-This structure in combination with the (b)Metalsmith(/b) or (b)Blacksmith(/b) serves as replacement for the (b)Crafter(/b).
+(b)銅器時代(/b)以降の道具を作る場所。
+(b)金工(/b)または(b)鍛冶屋(/b)と組み合わせたこの施設は、(b)製作所(/b)の代わりになります。
 	</string>	
 	
 	<!-- === Metallurgy === -->
