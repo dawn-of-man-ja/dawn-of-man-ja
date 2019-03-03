@@ -26,7 +26,7 @@
 	<string name="help_crafted_from">制作するのに使う資源</string>
 	<string name="help_built_using">建築するのに使う資源</string>	
 	<string name="help_produced_from">生産するのに使う資源</string>
-	<string name="help_created_entities">作成に使うもの</string>
+	<string name="help_created_entities">次のものに使用</string>
 	<string name="help_produced_resources">作り出される資源</string>
 	<string name="help_input_resources">使う資源</string>
 
@@ -108,87 +108,86 @@
 	
 	<string name="help_hydration_title">水分</string>	
 	<string name="help_hydration_description">
-これは喉の渇きを表すステータスです。低くなりすぎると、(b)健康(/b)は低下し始め、最終的に死にます。
+これは喉の渇きを表すステータスです。低くなりすぎると、(b)健康(/b)が低下し始め、最終的に死にます。
 (b)水分(/b)は(b)川(/b)、(b)湖(/b)、(b)井戸(/b)、(b)貯水(/b)などから摂取することで回復することができます。
     </string>	
 	
 	<string name="help_rest_title">睡眠</string>	
 	<string name="help_rest_description">
-これは、睡眠をあらわしています。低くなれば、仕事の効率が低下します。
-(b)睡眠(/b)は、(b)テント(/b)、(b)小屋(/b)または(b)円形住居(/b)で眠ることによって回復することができます。
+これは、睡眠をあらわしています。睡眠が低下すると仕事の効率が低下します。
+(b)睡眠(/b)は、(b)テント(/b)、(b)小屋(/b)、(b)円形住居(/b)で眠ることによって回復することができます。
     </string>
 	
 	<string name="help_temperature_title">体温</string>	
 	<string name="help_temperature_description">
-This is a measure of the body temperature of a person. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-To warm themselves up, humans can wear thicker clothing or shelter inside a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
+これは体温を表しています。低くなりすぎると、(b)健康(/b)が低下し始め、最終的に死にます。
+暖を取るために(b)テント(/b)、(b)小屋(/b)、(b)円形住居(/b)に入るか暖かい服を着ることができます。
     </string>		
 	
-	<string name="help_stamina_title">Stamina</string>	
+	<string name="help_stamina_title">活力</string>	
 	<string name="help_stamina_description">
-This is a measure of how out of breath a person is. if it goes too low, the human won't be able to run. It is an important factor in combat or when hunting.
-(b)Stamina(/b) recovers automatically when idle.
+これは人の息切れの度合いを表す尺度です。 低すぎると、人間は走れなくなります。 戦闘や狩猟を行うときにに重要な要素です。
+(b)スタミナ(/b)はアイドル時に自動的に回復します。
     </string>		
 	
-	<string name="help_morale_title">Morale</string>	
+	<string name="help_morale_title">士気</string>	
 	<string name="help_morale_description">
-This is a measure of the psychological health of a person. If morale goes low, they will be (b)less effective at work(/b). Keeping morale high is therefore critical to the success of your settlement.
-Morale can go down due to (b)hunger(/b), (b)deaths(/b), or performing (b)tedious tasks(/b), such as farming or carrying heavy loads.
-Morale is increased by visiting one of the morale recovering structures like the (b)Skull Pole(/b), (b)Totem(/b), (b)Menhir(/b), (b)Dolmen(/b) or (b)Stone Circle(/b). More advanced morale structures recover more morale. 
-A person has to wait a period of time before recovering again from the same type of structure, so it is important to build a variety of these.
-Later in the game you can also produce (b)Beer(/b), which recovers a lot of morale, but needs to be made from Grain. 
+これは人の心理的健康を表しています。 士気が低下すると、仕事の(b)効率(/b)が低下します。 したがって、士気を高く保つことは重要なことです。
+(b)飢餓(/b)、(b)死亡(/b)、耕作や重い荷物の運搬などの(b)面倒な作業(/b)を行うと、士気が低下することがあります。
+士気は、(b)頭蓋骨のポール(/b)、(b)トーテム(/b)、(b)メンヒル(/b)、(b)支石墓(/b)、(b)ストーンサークル(/b)などで回復することができます。 高度な建造物は士気を大きく回復することができます。
+人は同じタイプの建造物から士気を回復する前にしばらく待つ必要があります。したがってさまざまな建造物を作ることが重要です。
+ゲームの終盤では醸造所を作ることができます。これは士気を大きく回復しますが穀物を使用します。
 	</string>			
 	
-  <string name="help_knowledge_title">Knowledge</string>
+  <string name="help_knowledge_title">知識ポイント</string>
   <string name="help_knowledge_description">
-You can earn (b)knowledge points(/b) in the game by achieving various goals:
-• Reaching larger populations
-• Building different types of structures
-• Hunting different types of animals
-• Acquiring the various resources
-• Killing raiders
-• Unlocking milestones
-• Surviving more years
-You can then use these points to unlock new (b)techs(/b), which allow you to advance your settlement and be able to sustain larger populations.
+さまざまな目標を達成することで、(b)知識ポイント(/b)を獲得できます。
+•より大きな人口に達する
+•さまざまなタイプの建造物を建築
+•さまざまな種類の動物を狩猟
+•さまざまなリソースの入手
+•侵入者を殺す
+•マイルストーンのアンロック
+•生存し続ける
+知識ポイントを使用して新しい(b)技術(/b)をアンロックすることができます。これにより、村を進歩させ、人口をより大きくすることができます。
   </string>
 	
-	<string name="help_crafting_title">Crafting</string>
+	<string name="help_crafting_title">制作</string>
   <string name="help_crafting_description">
-Your people can craft a variety of resources in the settlement's structures.
-To craft a resource, select a (b)crafting structure(/b) and click on a recipe. If the resources are available, one of your people will craft it.
-You can also right click on a recipe to toggle (b)continuous production(/b). When enabled your people will automatically produce the resource until the (b)resource limit(/b) is reached.
+人々は、村の中で様々な資源を制作することができます。
+資源を作成するには、(b)製作所(/b)を選択してレシピをクリックしてください。 資源が利用可能であるならば、誰かがそれを作ります。
+レシピを右クリックして(b)連続生産(/b)に切り替えることもできます。 有効にすると、(b)資源制限(/b)に達するまで、自動的に資源を生産します。
   </string>
 	
-	<string name="help_expanding_title">Expanding</string>
+	<string name="help_expanding_title">拡張</string>
   <string name="help_expanding_description">
-If your (b)welfare(/b) is high enough and you have enough capacity in your settlement, new people will come and join it, and your women will give (b)birth(/b) to new children.
-You can increase your housing capacity by building (b)Tents(/b), (b)Huts(/b) or (b)Roundhouses(/b).
-The frequency of migrant arrivals depends on your (b)welfare(/b) and (b)prestige(/b).
-The fertility of your people also depends on your (b)welfare(/b) level.
+(b)福祉(/b)が十分に高く、十分な能力を持っているならば、新しい人々が来て村に加わり、女性は(b)出産(/b)し子供が増えます。
+(b)テント(/b)、(b)小屋(/b)、または(b)円形住居(/b)を建てることによって、住民の上限を増やすことができます。
+移民の到着頻度は、あなたの(b)福祉(/b)と(b)名声(/b)に依存します。
+また、出生率は(b)福祉(/b)に依存します。
   </string>	
   
-  <string name="help_resource_limits_title">Resource Limits</string>
+  <string name="help_resource_limits_title">資源制限</string>
 	<string name="help_resource_limits_description">
-Resource Limits are a powerful way to automate work in your settlement.
-You can set a (b)resource limit(/b), then mark a recipe for continuous production or place a work area: your people will keep on collecting or producing that resource until the limit is reached. 
-When resources are consumed and the amounts fall below the limit again, your people will go back to work.
-You can set any limit to 3 types of values:
-(b)Infinity(/b). There's no limit to production, it will continue as long as there are materials available.
-(b)Fixed amount(/b). Sets a limit defined by a specific number of units. Production stops once the number of units of that particular resource reaches the value.
-(b)Population percentage(/b). Sets a limit defined by a percentage of the current population. Setting a percentage limit is useful to avoid having to constantly adjust the limits as the population changes.
-Note that limits only affect work areas and automatic crafting, if you explicitly give an order, the limit is ignored.
+資源制限は村の作業を自動化するための強力な方法です。
+(b)資源制限(/b)を設定してから、連続生産用のレシピをマークするか、作業領域を配置することができます。
+制限に達するまで、人々はその資源を収集または生産し続けます。
+制限は3種類の方法で設定できます。
+(b)無制限(/b): 生産に制限はありません。利用可能な材料がある限り生産し続けます。
+(b)定数(/b): 具体的な個数で設定します。設定した個数になると生産は停止します。
+(b)人口に対する割合(/b): 人口に対する割合を設定します。人口の変化に応じて制限を絶えず調整する作業を回避できます。
 	</string>
 	
-  <string name="help_resource_decay_title">Resource Decay</string>
+  <string name="help_resource_decay_title">資源の破損</string>
   <string name="help_resource_decay_description">
-Most resources and tools (b)decay(/b) over time, decay is also accelerated when tools are used.
-Resources stored inside a structure, decay slowly. This is especially important for food, as it can mean the difference between having a good winter or massive starvation.
-Some foods (b)decay very quickly(/b) like: Fruit, Berries or Raw Meat and Raw Fish.
-Some foods (b)last a lot longer(/b) like: Grain, Cured Meat and Dry Fish.
-Your people will try to eat the food that is going to decay sooner in order to preserve more durable food for later.
+ほとんどの資源と道具は時間の経過とともに壊れていきます。道具が使用されると破損は進行します。
+建造物の中に貯蔵されている資源はゆっくりと破損が進行します。これは食糧にとって重要なことです。
+いくつかの食品は(b)急速に破損が進行(/b)します:フルーツ、ベリー、生肉、生魚。
+穀物、塩漬け肉、干し魚などの食品はずっと(b)長持ち(/b)します。
+あなたの人々は耐久性のある食物を保存しておくためにもっとも腐敗が進行している食糧を食べようとするでしょう。
 	</string>	
 	
-  <string name="help_workload_title">Workload</string>
+  <string name="help_workload_title">作業量</string>
   <string name="help_workload_description">
 The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
 If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
@@ -247,36 +246,36 @@ When a person has a condition it's health will decrease for a given amount of ti
 Survival chances are partly random and party based on how healthy the individual is.
 	</string>
 	
-	<string name="help_controls_title">Controls</string>	
+	<string name="help_controls_title">操作</string>	
 	<string name="help_controls_description">
-(b)CAMERA(/b)
+(b)カメラ(/b)
 
-Move: (camera_move_keys)
-Rotate: (camera_rotate_keys)
-Zoom: (b)Mouse Wheel(/b)
-
-
-(b)SELECTION(/b)
-
-Select entity: (b)Left mouse click(/b)
-Select nearby similar entities: (b)Left mouse double click(/b)
-Add/remove to/from selection:(b) Shift + Left mouse click(/b)
-
-Select multiple entities: (b)Drag left mouse(/b)
-Select hunters only: (b)Drag left mouse(/b) while holding the (hunter_selection_key) key
-Select fighters only: (b)Drag left mouse(/b) while holding the (fighter_selection_key) key
-
-Give command: (b)Right mouse click(/b)
-Give command to sprint: (b)Right double click(/b)
+移動: (camera_move_keys)
+回転: (camera_rotate_keys)
+ズーム: (b)Mouse Wheel(/b)
 
 
-(b)MANAGEMENT(/b)
+(b)選択(/b)
 
-Quick Save: (b)F9(/b)
-Main Menu: (b)F10(/b)
+エンティティを選択: (b)左クリック(/b)
+近くのエンティティを選択: (b)左ダブルクリック(/b)
+選択/選択解除:(b) Shift + 左クリック(/b)
+
+複数のエンティティを選択: (b)ドラッグ(/b)
+ハンターだけ選択: (b)ドラッグ(/b) + (hunter_selection_key)キー
+ファイターだけ選択: (b)ドラッグ(/b) + (fighter_selection_key)キー
+
+指示: (b)右クリック(/b)
+走るように指示: (b)右ダブルクリック(/b)
 
 
-(b)KEY BINDINGS(/b)
+(b)管理(/b)
+
+クイックセーブ: (b)F9(/b)
+メインメニュー: (b)F10(/b)
+
+
+(b)操作(/b)
 
 	</string>
 	

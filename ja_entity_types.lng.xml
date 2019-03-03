@@ -66,10 +66,10 @@
 	<string name="structure_pit_furnace">ピット炉</string>
 	<string name="structure_bloomery">塊鉄炉</string>
 	<string name="structure_totem">トーテム</string>
-	<string name="structure_skull_pole">骸骨のポール</string>
+	<string name="structure_skull_pole">頭蓋骨のポール</string>
 	<string name="structure_stables">馬小屋</string>
 	<string name="structure_weaver">織工</string>
-	<string name="structure_outfitter">商店(装備屋?)</string><!--TODO-->
+	<string name="structure_outfitter">仕立て屋</string><!--TODO-->
 	<string name="structure_well">井戸</string>
 	<string name="structure_menhir">メンヒル</string>
 	<string name="structure_dolmen">支石墓</string>

@@ -96,7 +96,7 @@
 	<string name="quick_panel_grouped_resources">分類された資源</string> <!-- Shows all your resources goruped by type -->
 	<string name="quick_panel_defense">防衛</string>
 	<string name="quick_panel_speed">速度</string>
-	<string name="quick_panel_transports">物流</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_transports">輸送</string> <!-- Show the amount of carts and sledges you have in the town -->
 	<string name="quick_panel_animals">動物</string>
 	<string name="quick_panel_food_chart">食糧の推移</string>
 	<string name="quick_panel_straw_chart">わらの推移</string>	
@@ -341,7 +341,7 @@
 	<string name="human_count_female_old">老婆</string>
 	<string name="pregnant">妊婦</string>
 	<string name="animals">動物</string>
-	<string name="transport">物流</string>
+	<string name="transport">輸送</string>
 	
 	<!-- Domestic animals panel -->
 	<string name="animal_count_total">合計</string>
@@ -505,7 +505,7 @@
 	<string name="buildable_category_defensive">防衛</string>
 	<string name="buildable_category_metallurgy">鍛冶</string>
 	<string name="buildable_category_spiritual">信仰</string>
-	<string name="buildable_category_transport">物流</string>
+	<string name="buildable_category_transport">輸送</string>
 
 	<!-- Work areas -->
 	<string name="work_area">作業領域</string>
@@ -585,8 +585,8 @@
 	<string name="tooltip_status_capacity">この家には(1)人が住める</string>
 	<string name="tooltip_low_stats">状態が良くないためタスクを処理する効率が下がる</string>
 	<string name="tooltip_durability">この建物に格納すると(1)程度長く使える</string>
-	<string name="tooltip_decay_time">この資源はあと(1)年間年間使える</string>
-	<string name="tooltip_condition_decay_time">この建物はあと(1)年間使える</string>
+	<string name="tooltip_decay_time">この資源はあと(1)年使える</string>
+	<string name="tooltip_condition_decay_time">この建物はあと(1)年使える</string>
 	<string name="tooltip_use_count">この道具はあと(1)回使えます</string>
 	<string name="tooltip_continuous_production">連続生産</string>
 	<string name="tooltip_craft">左クリックすると1つのアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>
