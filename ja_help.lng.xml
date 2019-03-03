@@ -2,11 +2,11 @@
 <strings>
 	<string name="help">ヘルプ</string>
 	<string name="plants">植物</string>
-	<string name="topics">話題</string>
+	<string name="topics">一般的なこと</string>
 	<string name="general">一般</string>
-	<string name="advanced_topics">発展的な話題</string>
+	<string name="advanced_topics">発展的なこと</string>
 	<string name="wild_animals">野生の動物</string>
-	<string name="see_also">参照</string>
+	<string name="see_also">関連</string>
 	<string name="entities">エンティティ</string>
 	<string name="requirements">要求</string>
 	<string name="loading_hints">ヒント</string>
@@ -19,7 +19,7 @@
 	<string name="help_recurrent_production">継続生産</string>
 	<string name="help_related_resources">関連する資源</string>
 	<string name="help_production">生産された資源</string>
-	<string name="help_byproducts">生産された資源</string>
+	<string name="help_byproducts">得られる資源</string>
 	<string name="help_domestic_variant">Domestic Variant</string>
 	<string name="help_wild_variant">Wild Variant</string>
 	<string name="help_domestication_tech">家畜化の技術</string>
@@ -62,63 +62,63 @@
 
   <!-- === Topics === -->
 
-	<string name="help_hunting_title">Hunting</string>
+	<string name="help_hunting_title">狩猟</string>
 	<string name="help_hunting_description">
-Using specialized tools, your people can hunt animals in order to obtain (b)food(/b) and (b)resources(/b) from them.
-To start a hunt, select an animal in the environment and then click on the (b)hunt button(/b). Depending on the difficulty of the prey, and the availability of tools, a certain number of people will go after the animal.
-Animals will react in different ways when being hunted: some will try to (b)escape(/b), others will protect their offspring or will try to (b)retaliate(/b).
-You can control the hunt in more detail by selecting one or more adults and right clicking on a target animal.
+適した道具を使って、(b)食物(/b)と(b)資源(/b)を得るために動物を狩ることができます。
+狩猟を開始するには、環境内の動物を選択してから(b)狩猟(/b)をクリックします。獲物の難しさと道具の入手可能性によって狩りを行う人数が決定されます。
+動物は(b)逃走(/b)、子供の保護、(b)報復(/b)などの反応をします。
+1人または複数の大人を選択し、目的の動物を右クリックすることで、より細かくに制御すこともできます。
 	</string>	
 	
-	<string name="help_farming_title">Farming</string>
+	<string name="help_farming_title">農業</string>
 	<string name="help_farming_description">
-Farming allows you to automate the production of (b)food(/b), and sustain more people in your settlement.
-You can plant a variety of (b)crops(/b), then harvest and process them to feed your people. Crops are usually planted in winter or spring and collected in summer or autumn.
-It is important to plant a (b)variety(/b) of crops as diseases can easily wipe out all the individuals of a single species.
-In order to maximize the efficiency of the harvest, make sure you have enough (b)Sickles(/b) around.
-Of all crops, (b)cereals(/b) are probably the most important, they are not only a source of (b)Grain(/b) but also (b)Straw(/b), which is a vital resource both as a building material and also as animal food.
+農業は(b)食糧（/ b）の生産を自動化し、村の人口を大きくすることを可能にします。
+さまざまな(b)作物(/b)を植え、収穫し加工して人々を養うことができます。作物は通常冬または春に植えられ、夏または秋に収穫されます。
+病気の影響により壊滅的な被害を抑えるため、(b)さまざまな(/b)作物を植えることが重要です。
+収穫効率を最大にするために、(b)鎌(/b)が十分にあることを確認してください。
+(b)穀物(/b)だけでなく(b)わら(/b)も生産するため(b)穀物(/b)はすべての作物の中で最も重要です。
 	</string>
 			
-	<string name="help_defense_title">Defense</string>
+	<string name="help_defense_title">防衛</string>
 	<string name="help_defense_description">
-One of the keys to survival is to defend your settlement against hostile (b)animals(/b) and (b)raiders(/b).
-During the (b)stone age(/b), the main threats are wild animals and sporadic bands of raiders. Make sure you have enough weapons and people to defend the settlement against them.
-In the (b)metal age(/b) things will get more serious, and large bands of attackers will try to destroy your settlement. It is highly recommended that you build (b)fortifications(/b) and (b)defensive structures(/b).
-At any time you can trigger an (b)alert(/b) in the defense panel, your people will then run back the settlement, get the best weapons available and man the towers.
+生き残るために重要なことの一つはは敵対的な(b)動物(/b)や(b)侵入者(/b)からあなたの村を守ることです。
+(b)石器時代(/b)の間、主な脅威は野生動物と侵入者の散発的な攻撃です。村を守るために十分な武器と人口を持っていることを確認してください。
+(b)金属時代(/b)では事態はさらに深刻になり、大勢の侵入者が村を破壊しようとするでしょう。 (b)要塞(/b)と(b)防衛施設(/b)を建設することを強くお勧めします。
+いつでも防御パネルで(b)警報(/b)をだすことができます。人々は急いで村に戻り、利用可能な武器を手に入れそして防衛施設に向かいます。
 	</string>	
 	
-	<string name="help_human_status_title">Human Status</string>
+	<string name="help_human_status_title">健康状態</string>
 	<string name="help_human_status_description">
-Humans have (b)health(/b), (b)nutrition(/b), (b)hydration(/b), (b)rest(/b), (b)temperature(/b), (b)stamina(/b) and (b)morale(/b) indicators that reflect their current status.
-When an status indicator is low, a (b)warning sign(/b) will appear on top of that person, highlighting what's wrong with them.
-Having sub-optimal status will make your people less effective, and eventually cause them to die. You need to monitor your people at all times and make sure their needs are fulfilled.
+人々は(b)健康(/b)、(b)栄養(/b)、(b)水分(/b)、(b)休息(/b)、(b)体温(/b)、(b)活力(/b)、(b)士気(/b)などのステータスを持っています。
+ステータスが低い場合、その人の上に(b)警告サイン(/b)が表示され、何が問題なのかが強調されます。
+ステータスの低い状態は作業効率を低下させ、最終的には死に至らしめるでしょう。あなたは常に人々を観察し、彼らのニーズが満たされているか確認する必要があります。
 	</string>	
 	
-	<string name="help_health_title">Health</string>	
+	<string name="help_health_title">健康</string>	
 	<string name="help_health_description">
-This is a measure of the physical health of a person. If it goes too low, the human will die.
-(b)Health(/b) slowly recovers by itself in normal circumstances, unless the other status indicators are low or the human is affected by a (b)condition(/b).
+健康さをあらわします。低すぎると死亡します。
+(b)健康(/b)は、通常の状況では、他のステータスが低いか、または(b)状態(/b)によって影響を受けていない限り、ゆっくりと自然に回復します。
     </string>	
 	
-	<string name="help_nutrition_title">Nutrition</string>	
+	<string name="help_nutrition_title">栄養</string>	
 	<string name="help_nutrition_description">
-This is a measure of how well fed a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-(b)Nutrition(/b) can be recovered by eating food, which can be obtained from a variety of sources.
+これは人がどれだけ食糧を食べているかのステータスです。低くなりすぎると、(b)健康(/b)が低下し始め、最終的に死にます。
+(b)栄養(/b)は食糧を食べることで回復することができます。
     </string>		
 	
-	<string name="help_hydration_title">Hydration</string>	
+	<string name="help_hydration_title">水分</string>	
 	<string name="help_hydration_description">
-This is a measure of how thirsty a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-(b)Hydration(/b) can be recovered by drinking from a (b)river(/b), (b)lake(/b), (b)well(/b), or (b)stored water(/b).
+これは喉の渇きを表すステータスです。低くなりすぎると、(b)健康(/b)は低下し始め、最終的に死にます。
+(b)水分(/b)は(b)川(/b)、(b)湖(/b)、(b)井戸(/b)、(b)貯水(/b)などから摂取することで回復することができます。
     </string>	
 	
-	<string name="help_rest_title">Rest</string>	
+	<string name="help_rest_title">睡眠</string>	
 	<string name="help_rest_description">
-This is a measure how tired a person is. If it goes low, humans will be less effective at work.
-(b)Rest(/b) can be recovered by sleeping in a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
+これは、睡眠をあらわしています。低くなれば、仕事の効率が低下します。
+(b)睡眠(/b)は、(b)テント(/b)、(b)小屋(/b)または(b)円形住居(/b)で眠ることによって回復することができます。
     </string>
 	
-	<string name="help_temperature_title">Temperature</string>	
+	<string name="help_temperature_title">体温</string>	
 	<string name="help_temperature_description">
 This is a measure of the body temperature of a person. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
 To warm themselves up, humans can wear thicker clothing or shelter inside a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).

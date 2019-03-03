@@ -353,11 +353,11 @@
 	<string name="stat_fuel">薪</string>								<!-- How much fuel (wood) there is in this structure -->
 	
 	<!-- Human stats -->
-	<string name="stat_health">健康状態</string>						<!-- The level of wellbeing of a person -->
+	<string name="stat_health">健康</string>						<!-- The level of wellbeing of a person -->
 	<string name="stat_nutrition">栄養</string>			<!-- The level of nutrition of a person -->
 	<string name="stat_hydration">水分</string>			<!-- The level of hydration of a person -->
 	<string name="stat_temperature">体温</string>	<!-- The body temperature of a person -->
-	<string name="stat_rest">休息</string>								<!-- How rested a person is -->
+	<string name="stat_rest">睡眠</string>								<!-- How rested a person is -->
 	<string name="stat_stamina">活力</string>					<!-- How much stamina a person has -->
 	<string name="stat_morale">士気</string>						<!-- The level of happiness of a person -->
 	
@@ -663,7 +663,7 @@
 	<!-- Status descriptions -->
 	<!-- These are likely to cause issues with genders in some languages when (1) gets replaced by male/female names, try to avoid using articles" -->
 	<string name="description_idle">待機</string>
-	<string name="description_resting">休息</string>
+	<string name="description_resting">睡眠</string>
 	<string name="description_recycling">解体</string>
 	<string name="description_sheltering">逃走</string>
 	<string name="description_animal_sheltering">逃走</string>
