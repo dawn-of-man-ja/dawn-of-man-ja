@@ -15,52 +15,50 @@
 	<string name="save_panel_population">人口</string>
 	
 	<!-- Selection panel UI -->
-	<string name="raider">Raider</string>
-	<string name="build_progress">Build Progress</string>
-	<string name="extractable_resources">Extractable Resources</string>
-	<string name="pending_repair_materials">Needed Repair Materials</string>
-	<string name="fish_amount">Fish Amount</string>
-	<string name="mud_amount">Mud Amount</string>
-	<string name="no_recipe">No tasks in queue</string>
-	<string name="planting_progress">Planting Progress</string>
-	<string name="action_progress">Action Progress</string>
-	<string name="recycle_progress">Recycle Progress</string>
-	<string name="pending_construction_materials">Pending Materials</string>
+	<string name="raider">侵入者</string>
+	<string name="build_progress">建築の進行状況</string>
+	<string name="extractable_resources">出力する資源</string>
+	<string name="pending_repair_materials">修理に必要な資源</string>
+	<string name="fish_amount">魚の割合</string>
+	<string name="mud_amount">泥の割合</string>
+	<string name="no_recipe">タスクがキューにない</string>
+	<string name="planting_progress">植え付けの進行状況</string>
+	<string name="action_progress">行動の進行状況</string>
+	<string name="recycle_progress">解体の進行状況</string>
+	<string name="pending_construction_materials">資源を待機</string>
 	
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
-You are about enter the (b)Metal Age(/b).
-
-It is highly recommended that you (b)fortify(/b) your (b)settlement(/b) and have enough people and weapons to defend from raiders.
-
-Are you sure you want to proceed?
-</string>
+(b)金属時代(/b)に入ろうとしています。
+敵から村を守るため、防御を固め、十分な武器と人口を持つことをおすすめします。
+続行してもよろしいですか?
+	</string>
 	
 	<!-- Game over dialog -->
 	<string name="game_over_title">Game Over</string>
 	<string name="game_over_text">
-All adults are dead, you failed to build a viable settlement.
-But don't be disappointed, this is part of the learning experience, you can try a different play style next time.
+すべての大人が死亡し村を存続することが不可能になりました。
+しかし、がっかりする必要はありません。次回は別のプレイスタイルを試してみることもできます。
 	</string>
 	
 	<!-- Resource limit set to infinity, leave as is -->
 	<string name="inf">∞</string>
 	
 	<!-- Resource limit set to population, needs to use 3 letters max -->
-	<string name="pop">Pop</string> 
+	<string name="pop">人</string> 
 
 	<!-- Tracked variables -->
 	<string name="tracked_variable_population">人口</string>
-	<string name="tracked_variable_food">食料</string>
+	<string name="tracked_variable_food">食糧</string>
 	<string name="tracked_variable_domestic_animals">家畜</string>
-	<string name="tracked_variable_workload">作業負荷</string>
+	<string name="tracked_variable_workload">仕事量</string>
 
 	<!-- Key Bindings screen -->
-	<string name="binding_title_action">Action</string>
-	<string name="binding_title_control">Control</string>
-	<string name="binding_title_alternative">Alternative</string>
-	<string name="binding_press_key">Press valid keyboard key</string>
-	<string name="bindings_reset">Reset to defaults</string>
+	<string name="binding_title_action">アクション</string>
+	<string name="binding_title_control">メイン</string>
+	<string name="binding_title_alternative">サブ</string>
+	<string name="binding_press_key">割り当てるキーを押してください</string>
+	<string name="bindings_reset">デフォルトにリセット</string>
 
 	<!-- GameModes -->
 	<string name="game_mode">ゲームモード</string>
@@ -70,7 +68,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="game_mode_normal_description">
 - いくらでもセーブできる
 - ポーズできる
-- 他の村の技術レベルとあなたの村の技術レベルが合っている
+- あなたの村の技術レベルに他の村があわせる
 - 通常の侵入者数
 - 動物の攻撃性を軽減
 	</string>
@@ -92,42 +90,42 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="disaster_blizzard">吹雪</string>
 
 	<!-- Quick panels -->
-	<string name="quick_panel_general">全般</string>
-	<string name="quick_panel_food">食料</string>
+	<string name="quick_panel_general">一般</string>
+	<string name="quick_panel_food">食糧</string>
 	<string name="quick_panel_resources">資源</string>
 	<string name="quick_panel_grouped_resources">分類された資源</string> <!-- Shows all your resources goruped by type -->
 	<string name="quick_panel_defense">防衛</string>
 	<string name="quick_panel_speed">速度</string>
 	<string name="quick_panel_transports">物流</string> <!-- Show the amount of carts and sledges you have in the town -->
 	<string name="quick_panel_animals">動物</string>
-	<string name="quick_panel_food_chart">食料グラフ</string>
-	<string name="quick_panel_straw_chart">Straw Chart</string>	
+	<string name="quick_panel_food_chart">食糧の推移</string>
+	<string name="quick_panel_straw_chart">わらの推移</string>	
 	
 	<!-- Trading -->
 	<string name="trade">取引</string>
 	<string name="trader">商人</string>
 	<string name="trader_arrived">商人が到着</string>
 	<string name="trader_stock">商人の在庫</string>
-	<string name="trader_trade">商人と取引</string>
-	<string name="settlement_trade">村と取引</string>
+	<string name="trader_trade">商 取引</string>
+	<string name="settlement_trade">村 取引</string>
 	<string name="settlement_stock">村の在庫</string>
 	<string name="no_items">アイテムがない</string>
 	<string name="ok">取引</string>
 	<string name="cancel">キャンセル</string>
 	<string name="trade_value">数量</string>
 	<string name="trade_commission">手数料</string>
-	<string name="trade_including_commission">手数料を含む合計金額。</string>
-	<string name="commission_low">低い</string>
-	<string name="commission_average">平均的</string>
-	<string name="commission_high">高い</string>
+	<string name="trade_including_commission">手数料を含む合計金額</string>
+	<string name="commission_low">低</string>
+	<string name="commission_average">中</string>
+	<string name="commission_high">高</string>
 
 	<!-- Placement -->
-	<string name="structure_placement_text">左クリックで設置。(n)(1)キーと(2)キーで回転。(n)Shift+クリックで連続で設置。</string>
-	<string name="mine_placement_text">左クリックで設置。(n)(1)の周囲に設置する必要がある。</string>
-	<string name="field_placement_text">クリックしたままにしてフィールドを設置。</string>
-	<string name="wall_placement_text">クリックしたままにして壁を設置。形状を変更するには、(1)キーと(2)キーを使用。</string>
-	<string name="bridge_placement_text">クリックしたままにして橋を設置。</string>
-	<string name="work_area_placement_text">左クリックで設置(n)(1)と(2)キーでサイズを変更(n)Shift+クリックで連続で設置。</string>
+	<string name="structure_placement_text">左クリックで設置。(n)(1)キーと(2)キーで回転。(n)Shift+クリックで連続設置。</string>
+	<string name="mine_placement_text">左クリックで設置。(n)(1) 鉱脈の周辺に設置する必要がある。</string>
+	<string name="field_placement_text">左クリック長押しで設置。</string>
+	<string name="wall_placement_text">左クリック長押しで壁を設置。形状を変更するには、(1)キーと(2)キーを使用。</string>
+	<string name="bridge_placement_text">左クリック長押しで橋を設置。</string>
+	<string name="work_area_placement_text">左クリックで設置。(n)(1)キーと(2)キーでサイズを変更(n)Shift+クリックで連続で設置。</string>
 	<string name="place_confirm">設置</string>
 	<string name="place_cancel">キャンセル</string>
 
@@ -148,8 +146,8 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="super_era_metal_age">金属時代</string>	
 
 	<!-- Knowledge -->
-	<string name="knowledge">知識</string>
-	<string name="knowledge_earned">知識 +(1)</string>
+	<string name="knowledge">知識ポイント</string>
+	<string name="knowledge_earned">知識ポイント +(1)</string>
 	<string name="knowledge_population">人口が(1)に到達</string>
 	<string name="knowledge_animal_population">動物の数が(1)に到達</string>
 	<string name="knowledge_first_structure_built">新しい建造物: (1)</string>
@@ -162,7 +160,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="knowledge_resources_produced">生産: (1) x(2)</string>
 	<string name="knowledge_animals_hunted">狩猟: (1) x(2)</string>
 	<string name="knowledge_resources_acquired">獲得: (1) x(2)</string>
-	<string name="knowledge_winter_survived">冬を生き延びた</string>
+	<string name="knowledge_winter_survived">冬を乗り越えた</string>
 	
 	<!-- Tech messages. These could be translated as: "Tech Unlocked: (1)", "Era Unlocked: (1)" and "Unlocks Era: (1)" in order to avoid problems with genders  -->
 	<string name="tech_unlocked">技術がアンロックされた: (1)</string>
@@ -170,21 +168,21 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="era_tech">時代をアンロック: (1)</string>
 
 	<!-- Game panels -->
-	<string name="new_save">セーブ</string>
+	<string name="new_save">新規セーブ</string>
 	<string name="main">メイン</string>
 	<string name="welfare">福祉</string>
 	<string name="prestige">名声</string>
 	<string name="build">建設</string>
-	<string name="plant">植える</string>
+	<string name="plant">植物</string>
 	<string name="place_work_area">作業領域を設置</string>
 	<string name="manage">管理</string>
 	<string name="primal_vision">原始の視覚</string>
 	<string name="quicksave">クイックセーブ</string>
 	<string name="techs">技術</string>
-	<string name="knowledge_progress">知識の進行状況</string>
-	<string name="click_to_unlock">アンロック</string>
+	<string name="knowledge_progress">知識ポイントの進行状況</string>
+	<string name="click_to_unlock">左クリックでアンロック</string>
 	<string name="requires">条件</string>
-	<string name="required_for">条件:</string>	
+	<string name="required_for">次のものに必要</string>	
 	<string name="already_unlocked">すでにアンロックされている</string>
 	<string name="charts">チャート</string>
 	<string name="stats">統計</string>
@@ -194,25 +192,25 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="activity">アクティビティ</string>
 	<string name="active_tasks">作業中のタスク</string>
 	<string name="pending_tasks">待機中のタスク</string>
-	<string name="workload">作業負荷</string>
+	<string name="workload">仕事量</string>
 	<string name="performers">パフォーマンス</string>
 	<string name="target">対象</string>
 	<string name="no_tasks">タスクがない</string>
-	<string name="limits">上限</string>
-	<string name="population_limit">人口の上限</string>
+	<string name="limits">制限</string>
+	<string name="population_limit">人口の制限</string>
 	<string name="allow_new_humans">新しい住人の許可</string>
 	<string name="domestic_animals">家畜</string>
 	<string name="panel_defense">防衛</string>
-	<string name="defense_alert_level">警告レベル</string>
+	<string name="defense_alert_level">警報レベル</string>
 	<string name="defense_gates">門</string>
-	<string name="task_target_none">なし</string>
+	<string name="task_target_none">なにもない</string>
 	
 	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
-	<string name="progress_general">全体</string>
-	<string name="progress_raiders_killed">侵入者を殺害</string>
-	<string name="progress_hunted_animals">動物を狩猟</string>
-	<string name="progress_built_structures">建物を建築</string>
-	<string name="progress_resources_acquired">資源を獲得</string>
+	<string name="progress_general">一般</string>
+	<string name="progress_raiders_killed">殺害した侵入者の数</string>
+	<string name="progress_hunted_animals">狩猟した動物の数</string>
+	<string name="progress_built_structures">建造物</string>
+	<string name="progress_resources_acquired">獲得した資源</string>
 	
 	<!-- Milestones-->
 	<string name="panel_milestones">マイルストーン</string>
@@ -222,7 +220,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 
 	<!-- Game menu -->
 	<string name="game_menu">メニュー</string>
-	<string name="save_name_title">セーブ</string>
+	<string name="save_name_title">セーブ名</string>
 	<string name="confirm_title">決定</string>
 	<string name="confirm_text">終了しますか?</string>
 	<string name="yes">はい</string>
@@ -249,10 +247,10 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<!-- Menus -->
 	<string name="menu">メニュー</string>
 	<string name="menu_new_game">新しいゲーム</string>
-	<string name="menu_video_settings">Video</string>
-	<string name="menu_audio_settings">Audio</string>
-	<string name="menu_misc_settings">Misc</string>
-	<string name="menu_gameplay_settings">Gameplay</string>
+	<string name="menu_video_settings">ビデオ</string>
+	<string name="menu_audio_settings">サウンド</string>
+	<string name="menu_misc_settings">その他</string>
+	<string name="menu_gameplay_settings">ゲームプレイ</string>
 	<string name="menu_settings">設定</string>
 	<string name="menu_select_scenario">シナリオを選択</string>
 	<string name="select_location">場所を選択</string>
@@ -261,10 +259,10 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="menu_load">ロード</string>
 	<string name="menu_tutorial">チュートリアル</string>
 	<string name="menu_save">セーブ</string>
-	<string name="scenario_category_freeplay">Freeplay</string>
-	<string name="scenario_category_challenge">Challenges</string>
-	<string name="scenario_category_development">Development</string>
-	<string name="scenario_category_community">Community</string>
+	<string name="scenario_category_freeplay">フリープレイ</string>
+	<string name="scenario_category_challenge">チャレンジ</string>
+	<string name="scenario_category_development">開発</string>
+	<string name="scenario_category_community">コミュニティー</string>
 	<string name="menu_start">スタート</string>
 	<string name="menu_misc_scenarios">シナリオ</string>
 	<string name="menu_back">戻る</string>
@@ -277,7 +275,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="confirm_delete">(1)を消去してもよろしいですか?</string>
 	<string name="controls">操作</string>
 	<string name="language">言語</string>
-	<string name="requires_milestones">条件</string>
+	<string name="requires_milestones">必要</string>
 	<string name="settlement_name">村の名前</string>
 	
 	<string name="tutorial_advice">
@@ -290,57 +288,57 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="resolution">解像度</string>
 
 	<string name="quality">描画品質</string>
-	<string name="quality_level_low">Low</string>
-	<string name="quality_level_medium">Medium</string>
-	<string name="quality_level_high">High</string>
-	<string name="quality_level_ultra">Ultra</string>
+	<string name="quality_level_low">低</string>
+	<string name="quality_level_medium">中</string>
+	<string name="quality_level_high">高</string>
+	<string name="quality_level_ultra">最高</string>
 
 	<string name="vsync">垂直同期</string>
-	<string name="fps_limit">FPS上限</string>
+	<string name="fps_limit">FPS制限</string>
 	<string name="anti_aliasing">アンチエイリアス</string>	
-	<string name="vsync_on">On</string>
-	<string name="vsync_off">Off</string>
-	<string name="antialiasing_on">On</string>
-	<string name="antialiasing_off">Off</string>		
+	<string name="vsync_on">オン</string>
+	<string name="vsync_off">オフ</string>
+	<string name="antialiasing_on">オン</string>
+	<string name="antialiasing_off">オフ</string>		
 
 	<string name="sfx_volume">効果音</string>
 	<string name="music_volume">BGM</string>
 
 	<!-- Ages and Genders-->
-	<string name="gender_male">男性</string>
-	<string name="gender_female">女性</string>		
+	<string name="gender_male">男</string>
+	<string name="gender_female">女</string>		
 		
 	<string name="human_male_young">男の子</string>
 	<string name="human_male_adult">男性</string>
-	<string name="human_male_old">おじいさん</string>
+	<string name="human_male_old">老爺</string>
 	
 	<string name="human_female_young">女の子</string>
 	<string name="human_female_adult">女性</string>
-	<string name="human_female_old">おばあさん</string>	
+	<string name="human_female_old">老婆</string>	
 	
 	<string name="animal_age_young">若い</string>
 	<string name="animal_age_adult">大人</string>
-	<string name="animal_age_old">年寄り</string>
+	<string name="animal_age_old">老いている</string>
 	
 	<string name="animal_male_young">若いオス</string>
 	<string name="animal_male_adult">大人のオス</string>
-	<string name="animal_male_old">歳をとったオス</string>	
+	<string name="animal_male_old">老いたオス</string>	
 	
 	<string name="animal_female_young">若いメス</string>
 	<string name="animal_female_adult">大人のオス</string>
-	<string name="animal_female_old">歳をとったメス</string>
+	<string name="animal_female_old">老いたメス</string>
 	
 	<string name="years_old">歳</string>		
 
 	<!-- Stats panel -->
-	<string name="humans">人間</string>
+	<string name="humans">人々</string>
 	<string name="human_total">人口</string>
 	<string name="human_count_male_young">男の子</string>
 	<string name="human_count_male_adult">男性</string>
-	<string name="human_count_male_old">おじいさん</string>
+	<string name="human_count_male_old">老爺</string>
 	<string name="human_count_female_young">女の子</string>
 	<string name="human_count_female_adult">女性</string>
-	<string name="human_count_female_old">おばあさん</string>
+	<string name="human_count_female_old">老婆</string>
 	<string name="pregnant">妊婦</string>
 	<string name="animals">動物</string>
 	<string name="transport">物流</string>
@@ -352,7 +350,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 
 	<!-- Structure stats -->
 	<string name="stat_condition">状態</string>			<!-- How well preserved the structure is -->
-	<string name="stat_fuel">燃料</string>								<!-- How much fuel (wood) there is in this structure -->
+	<string name="stat_fuel">薪</string>								<!-- How much fuel (wood) there is in this structure -->
 	
 	<!-- Human stats -->
 	<string name="stat_health">健康状態</string>						<!-- The level of wellbeing of a person -->
@@ -360,7 +358,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="stat_hydration">水分</string>			<!-- The level of hydration of a person -->
 	<string name="stat_temperature">体温</string>	<!-- The body temperature of a person -->
 	<string name="stat_rest">休息</string>								<!-- How rested a person is -->
-	<string name="stat_stamina">元気</string>					<!-- How much stamina a person has -->
+	<string name="stat_stamina">活力</string>					<!-- How much stamina a person has -->
 	<string name="stat_morale">士気</string>						<!-- The level of happiness of a person -->
 	
 	<!-- Animal stats -->
@@ -370,21 +368,21 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	
 	<!-- These define how good tools are at doing certain tasks -->
 	<string name="attribute_butchering">屠殺</string>			<!-- Extracting meat from animals -->
-	<string name="attribute_fighting">格闘</string>					<!-- Hand to hand combat -->
-	<string name="attribute_fishing">釣り</string>
-	<string name="attribute_hunting">戦闘</string>						<!-- Hunting and ranged combat -->
-	<string name="attribute_woodcutting">伐採</string>
-	<string name="attribute_mining">採掘</string>
-	<string name="attribute_harvesting">収穫</string>
+	<string name="attribute_fighting">格闘中</string>					<!-- Hand to hand combat -->
+	<string name="attribute_fishing">釣りをしている</string>
+	<string name="attribute_hunting">戦闘中</string>						<!-- Hunting and ranged combat -->
+	<string name="attribute_woodcutting">伐採中</string>
+	<string name="attribute_mining">採掘中</string>
+	<string name="attribute_harvesting">収穫中</string>
 	
 	<!-- These are for clothing -->
-	<string name="attribute_warmth">保温性</string>							<!-- How warm is this outfit -->
-	<string name="attribute_style">デザイン性</string>								<!-- How stylish is this outfit -->
+	<string name="attribute_warmth">暖かさ</string>							<!-- How warm is this outfit -->
+	<string name="attribute_style">見た目</string>								<!-- How stylish is this outfit -->
 
-	<string name="attribute_bonus_speed">速度: (1)x</string>
-	<string name="attribute_bonus_damage">ダメージ: (1)</string>
+	<string name="attribute_bonus_speed">作業速度: (1)x</string>
+	<string name="attribute_bonus_damage">頑丈さ: (1)</string>
 	<string name="attribute_bonus_temperature">耐寒性: (1)</string>
-	<string name="attribute_bonus_style">デザインの有効性: (1)</string>
+	<string name="attribute_bonus_style">ふさわしい時代: (1)</string>
 	
 	<string name="attribute_description_butchering">動物を殺してそれらから資源を得る</string>
 	<string name="attribute_description_fighting">襲撃者や動物に対する近接戦闘</string>
@@ -394,7 +392,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="attribute_description_mining">地表の鉱床や鉱山から採掘する</string>
 	<string name="attribute_description_harvesting">野生の穀物や豆類の収穫</string>
 	<string name="attribute_description_warmth">防寒</string>
-	<string name="attribute_description_style">この衣装のスタイリッシュさは：昔ながらの服を着ると幸福が減る</string>
+	<string name="attribute_description_style">この衣装のデザイン：昔ながらの服を着ると幸福が減る</string>
 	
 	<!-- Seasons -->
 	<string name="season_spring">春</string>
@@ -403,7 +401,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="season_winter">冬</string>
 	
 	<!-- Activity -->
-	<string name="activity_category_unproductive">不毛</string>
+	<string name="activity_category_unproductive">ひま</string>
 	<string name="activity_category_subsisting">食べる</string>
 	<string name="activity_category_resources">運搬</string>
 	<string name="activity_category_tasks">作業中</string>
@@ -411,32 +409,32 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<!-- Tasks. These are all verbs. -->
 	<string name="task_plant">植える</string> 
 	<string name="task_hunt">戦闘</string>
-	<string name="task_capture">捕える</string>
+	<string name="task_capture">捕まえる</string>
 	<string name="task_cut_down">伐採</string>
 	<string name="task_butcher">屠殺</string>
-	<string name="task_slaughter">殺害</string>
+	<string name="task_slaughter">殺す</string>
 	<string name="task_milk">搾乳</string>
 	<string name="task_collect">採集</string>
 	<string name="task_gather_detail">棒を採集</string>
 	<string name="task_gather_prop">資源を採集</string>
 	<string name="task_harvest">収穫</string>
-	<string name="task_extract_mud">泥から抽出</string>
-	<string name="task_extract_water">水を入手</string>
+	<string name="task_extract_mud">泥を取り出す</string>
+	<string name="task_extract_water">水を汲む</string>
 	<string name="task_mine">採掘</string>
-	<string name="task_mine_underground">地下で採掘</string>
+	<string name="task_mine_underground">地下の採掘</string>
 	<string name="task_build">建築</string>
 	<string name="task_repair">修理</string>
 	<string name="task_craft">制作</string>
 	<string name="task_go">移動</string>
-	<string name="task_recycle">リサイクル</string>
+	<string name="task_recycle">解体</string>
 	<string name="task_upgrade">アップグレード</string>
 	<string name="task_shear">刈り込み</string>
 	<string name="task_fish">釣り</string>
-	<string name="task_fuel">燃料</string>
+	<string name="task_fuel">燃料を補給</string>
 	<string name="task_keep_animals">牧畜</string>
 
 	<!-- Context actions. These are all verbs. -->
-	<string name="context_action_refuel">補給</string>
+	<string name="context_action_refuel">燃料を補給</string>
 	<string name="context_action_keep_animals">餌やり</string>
 	<string name="context_action_repair">修理</string>
 	<string name="context_action_cut_down">伐採</string>
@@ -449,16 +447,16 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="context_action_butcher">屠殺</string>
 	<string name="context_action_slaughter">殺害</string>
 	<string name="context_action_cancel_task">中止: (1)</string>
-	<string name="context_action_priority_up">高優先度に設定する</string>
-	<string name="context_action_priority_down">優先度を戻す</string>	
+	<string name="context_action_priority_up">優先度を上げる</string>
+	<string name="context_action_priority_down">優先度を通常に戻す</string>	
 	<string name="context_action_remove_work_area">作業領域を撤去</string>
 	<string name="context_action_edit_work_area">作業領域を編集</string>
 	<string name="context_action_remove_plant">植物を除去</string>
-	<string name="context_action_recycle">リサイクル</string>
+	<string name="context_action_recycle">解体</string>
 	<string name="context_action_upgrade">(1)にアップグレード</string>
-	<string name="context_action_fish">釣り</string>
-	<string name="context_action_extract_mud">泥から抽出</string>
-	<string name="context_action_extract_water">水を入手</string>
+	<string name="context_action_fish">釣りをする</string>
+	<string name="context_action_extract_mud">泥を取り出す</string>
+	<string name="context_action_extract_water">水を汲む</string>
 	<string name="context_action_harvest">収穫</string>
 	<string name="context_action_plant">植える</string>
 	<string name="context_action_open_close">開閉</string>
@@ -466,26 +464,26 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="context_action_previous_work_area">前の作業領域</string>
 	<string name="context_action_next_work_area">次の作業領域</string>
 	<string name="context_action_cancel_construction">キャンセル</string>
-	<string name="context_action_limits">関連するリソース制限を表示</string>
+	<string name="context_action_limits">関連する資源の制限</string>
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
-	<string name="context_action_empty">Empty contents</string>
+	<string name="context_action_empty">中身がない</string>
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
 	<string name="disabled_reason_requires_tech">技術が必要: (1)</string>
 	<string name="disabled_no_children_allowed">子供はタスクを実行できない: (1)</string>
 	<string name="disabled_no_tools_available">アクションを実行するためのツールがない: (1)</string>
-	<string name="disabled_reason_exhausted">リソースを使い果たしたため、補充されるまで待つ必要があります</string>
-	<string name="disabled_reason_already_planted">すでに植えられています</string>
-	<string name="disabled_reason_no_animals">範囲内に動物がいません</string>
-	<string name="disabled_reason_not_young">若い動物ではありません</string>
+	<string name="disabled_reason_exhausted">資源を使い果たしたため、補充されるまで待つ必要がある</string>
+	<string name="disabled_reason_already_planted">すでに植えられている</string>
+	<string name="disabled_reason_no_animals">範囲内に動物がいない</string>
+	<string name="disabled_reason_not_young">若い動物ではない</string>
 	<string name="disabled_reason_not_grown">木が十分に成長していません</string>
-	<string name="disabled_reason_tree_busy">他の誰かがその木に取り組んでいます</string>	
-	<string name="disabled_reason_not_damaged">この建物は損傷していません</string>
-	<string name="disabled_reason_not_operational">建物は機能していません</string>
+	<string name="disabled_reason_tree_busy">他の誰かがその木に取り組んでいる</string>	
+	<string name="disabled_reason_not_damaged">この建物は損傷していない</string>
+	<string name="disabled_reason_not_operational">建物は機能していない</string>
 
-	<string name="error_location_not_reachable">到達できない場所です</string>
+	<string name="error_location_not_reachable">到達できない場所</string>
 	
 	<!-- Resource categories -->
 	<string name="sub_category_meat">肉</string>
@@ -513,15 +511,15 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="work_area">作業領域</string>
 	<string name="work_area_gather_sticks">棒を採集</string>
 	<string name="work_area_obtain_flint">火打ち石を採集</string>
-	<string name="work_area_cut_down">木を伐採</string>
+	<string name="work_area_cut_down">伐採</string>
 	<string name="work_area_fish">釣り</string>
 	<string name="work_area_hunt">狩猟</string>
 	<string name="work_area_collect_and_harvest">野生の植物を集めて収穫</string>
-	<string name="work_area_collect_tannin">タンニンを集める</string>
+	<string name="work_area_collect_tannin">なめし革を集める</string>
 	<string name="work_area_extract_water">水を取得</string>
 	<string name="work_area_extract_mud">泥から抽出</string>
 	<string name="work_area_obtain_stone">石を採集</string>
-	<string name="work_area_mine_ore">Mine ore</string>
+	<string name="work_area_mine_ore">採掘</string>
 
 	<!-- Messages -->
 	<!-- Feeel free to reagange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
@@ -532,37 +530,37 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="message_death_old_age">寿命で(1)が死亡</string>
 	<string name="message_death_disease">病気で(1)が死亡</string>
 	<string name="message_death_infection">感染症で(1)が死亡</string>
-	<string name="message_death_killed"> (2)が(1)に殺された</string>
+	<string name="message_death_killed"> (1)が(2)に殺された</string>
 	<string name="message_death_thunder">(1)が雷に打たれた</string>
 	<string name="message_death_slaughtered">(1)が殺害された</string>
 	
-	<string name="message_humans_death_generic">数人が死亡</string>
-	<string name="message_humans_death_starvation">飢餓で数人が死亡</string>
-	<string name="message_humans_death_dehydration">脱水で数人が死亡</string>
-	<string name="message_humans_death_hypothermia">低体温で数人が死亡</string>
-	<string name="message_humans_death_old_age">寿命で数人が死亡</string>
-	<string name="message_humans_death_disease">怪我で数人が死亡</string>
-	<string name="message_humans_death_infection">感染症で数人が死亡</string>
-	<string name="message_humans_death_killed">数人が殺された</string>
-	<string name="message_humans_death_thunder">数人が雷に打たれた</string>
+	<string name="message_humans_death_generic">人が死亡</string>
+	<string name="message_humans_death_starvation">飢餓で人が死亡</string>
+	<string name="message_humans_death_dehydration">脱水で人が死亡</string>
+	<string name="message_humans_death_hypothermia">低体温で人が死亡</string>
+	<string name="message_humans_death_old_age">寿命で人が死亡</string>
+	<string name="message_humans_death_disease">怪我で人が死亡</string>
+	<string name="message_humans_death_infection">感染症で人が死亡</string>
+	<string name="message_humans_death_killed">人が殺された</string>
+	<string name="message_humans_death_thunder">人が雷に打たれた</string>
 
 	<string name="message_resource_decay">資源が腐敗: (1)</string>
 	<string name="message_transport_decay">(1)はもう使えない</string>
 	<string name="message_tool_decay">(1)はもう使えない</string>
-	<string name="message_new_migrant">新しい住人が加わった</string>
-	<string name="message_new_human_birth">新しい住人が生まれた</string>
+	<string name="message_new_migrant">新しい住民</string>
+	<string name="message_new_human_birth">子供が生まれた</string>
 	<string name="message_new_animal_birth">動物が生まれた</string>
 	<string name="message_hunt_fail">(1)は逃走</string>
 	<string name="message_raider_attack">侵入者の攻撃</string>
-	<string name="message_animal_attack">(1)が攻撃</string>
+	<string name="message_animal_attack">(1)の攻撃</string>
 	<string name="message_disease">(1)が病気になった</string>
-	<string name="message_infection">(1)が感染症にかかった</string>
+	<string name="message_infection">(1)が感染した</string>
 	<string name="message_milestone_unlocked">マイルストーンをアンロック</string>
 	<string name="message_crop_disease">病気が作物に影響を及ぼしている</string>
-	<string name="message_work_area_exhausted">作業領域が使い果たされた</string>
+	<string name="message_work_area_exhausted">作業領域の資源が枯渇</string>
 	<string name="message_animal_extinct">動物が絶滅: (1)</string>
 	<string name="message_mine_exhausted">(1)が枯渇</string>
-	<string name="message_all_animals_dead">最後の(1)が死亡</string>
+	<string name="message_all_animals_dead">すべての家畜の(1)が死亡</string>
 
 	<!-- Key codes -->
 	<string name="arrow_right">→</string>
@@ -580,80 +578,80 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="return">Enter</string>
 
 	<!-- Tooltips -->
-	<string name="tooltip_population">Population: (1)(n)Capacity: (2)</string>
-	<string name="tooltip_fireplace">Raw food can be cooked and eaten here, also provides heat</string>
-	<string name="tooltip_status_prestige">Prestige: (1)</string>
-	<string name="tooltip_status_morale">Morale Recovery: (1)</string>
-	<string name="tooltip_status_capacity">This structure can house (1) people</string>
-	<string name="tooltip_low_stats">This human has low stats, they will perform tasks at reduced efficiency</string>
-	<string name="tooltip_durability">Resources will last (1) times longer when stored in this structure</string>
-	<string name="tooltip_decay_time">Resource lasts for (1) years</string>
-	<string name="tooltip_condition_decay_time">Structure lasts for (1) years</string>
-	<string name="tooltip_use_count">Resource can be used (1) times</string>
-	<string name="tooltip_continuous_production">Continuous production</string>
-	<string name="tooltip_craft">Left click to produce one item.(n)(b)Right click(/b) to toggle continuous production.</string>
-	<string name="tooltip_crafting_progress">(1)(n)Right click to cancel</string>
-	<string name="tooltip_slot">This slot can contain one item</string>
-	<string name="tooltip_slot_human">Space for one Human</string>
-	<string name="tooltip_slot_animal">Space for one Animal</string>
-	<string name="tooltip_slot_multi">This slot can contain up to (1) items of the same type</string>
-	<string name="tooltip_slot_tool">This slot can contain a tool</string>
-	<string name="tooltip_slot_food">This slot can contain food or ingredients</string>
-	<string name="tooltip_slot_animal_food">This slot can contain animal food</string>
-	<string name="tooltip_slot_clothing">This slot can contain an item of clothing</string>
-	<string name="tooltip_slot_single_resource">This slot can contain resource: (1)</string>
-	<string name="tooltip_slot_wood">This slot can contain wood</string>
-	<string name="tooltip_slot_rock">This slot can contain rocks</string>
-	<string name="tooltip_knowledge_points">Available knowledge points</string>
-	<string name="tooltip_message">Left click to focus.(n)Right click to dismiss</string>
-	<string name="tooltip_focus_camera">Focus Camera</string>
-	<string name="tooltip_help">Help</string>
-	<string name="tooltip_resource_limit_amount">Production limit for: (1), is set to (2) units</string>
-	<string name="tooltip_resource_limit_percentage">Production limit for: (1), is set to (2)% of the population</string>
-	<string name="tooltip_resource_limit_infinity">Production limit for: (1), is set to unlimited</string>
-	<string name="tooltip_work_area_max_people">Maximum number of people working in this area</string>
-	<string name="tooltip_task">Right click to cancel task.</string>
-	<string name="tooltip_performer">Left click to focus</string>
-	<string name="tooltip_welfare">Welfare: (1)(n)A measure of how well your settlement is doing.(n)Depends on your people's stats, clothing and also on the food surplus.(n)Affects migrant arrival frequency and birth rate.</string>
-	<string name="tooltip_prestige">Prestige: (1)(n)A measure of how well known your settlement is.(n)Depends on your population, buildings and technology.(n)Affects immigration and trader arrival frequency.</string>
-	<string name="tooltip_resource_trade">(1)(n)Value: (2)(n)Click to trade(n)Shift+click to trade multiple</string>
-	<string name="tooltip_no_alert">No Alert: Default behavior, your people go about their lives normally</string>
-	<string name="tooltip_alert"> Alert: Everyone with a weapon will assume combat roles, everyone else will get inside a building.</string>
-	<string name="tooltip_open_all_gates">Open All Gates</string>
-	<string name="tooltip_close_all_gates">Close all gates</string>
-	<string name="tooltip_milestones">Total milestones</string>
-	<string name="tooltip_heavy">Heavy: This resource has to be transported one by one, or using sledges or carts</string>
-	<string name="tooltip_very_heavy">Very Heavy: This resource has to be transported using a special device</string>
-	<string name="tooltip_context_action_multiple">Left click to do once.(n)Right click to toggle auto-perform.</string>
-	<string name="tooltip_disease">Affected by disease</string>
-	<string name="tooltip_plant_disease">This plant is affected by a disease, and can not be harvested</string>
-	<string name="tooltip_infection">Affected by infection</string>
-	<string name="tooltip_multiselected_entity">Click to deselect others.(n)Shift+click to deselect.</string>
-	<string name="tooltip_no_structures">No structures of this type can be built yet.</string>
-	<string name="tooltip_max_performers">Desired number of people assigned to task: (1)</string>
-	<string name="tooltip_techs_unlockable">New techs can be unlocked</string>
-	<string name="tooltip_total_population">Total population</string>
-	<string name="tooltip_housing">Total housing.(n)For new people to come to the settlement, you need to have capacity for them.</string>
-	<string name="tooltip_no_housing">No space for more people,(n)your population will not expand further.</string>
-	<string name="tooltip_animal_count">Animals</string>
-	<string name="tooltip_sheltering_animals">Animals that need shelter</string>
-	<string name="tooltip_animal_capacity">Total shelter space</string>
+	<string name="tooltip_population">人口: (1)(n)上限: (2)</string>
+	<string name="tooltip_fireplace">生の食品はここで調理して食べることができる。(n)熱を提供する。</string>
+	<string name="tooltip_status_prestige">名声: (1)</string>
+	<string name="tooltip_status_morale">士気回復: (1)</string>
+	<string name="tooltip_status_capacity">この家には(1)人が住める</string>
+	<string name="tooltip_low_stats">状態が良くないためタスクを処理する効率が下がる</string>
+	<string name="tooltip_durability">この建物に格納すると(1)程度長く使える</string>
+	<string name="tooltip_decay_time">この資源はあと(1)年間年間使える</string>
+	<string name="tooltip_condition_decay_time">この建物はあと(1)年間使える</string>
+	<string name="tooltip_use_count">この道具はあと(1)回使えます</string>
+	<string name="tooltip_continuous_production">連続生産</string>
+	<string name="tooltip_craft">左クリックすると1つのアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>
+	<string name="tooltip_crafting_progress">(1)(n)右クリックでキャンセル</string>
+	<string name="tooltip_slot">このスロットにはアイテムを1つ入れることができる</string>
+	<string name="tooltip_slot_human">一人分のスペース</string>
+	<string name="tooltip_slot_animal">一匹分のスベース</string>
+	<string name="tooltip_slot_multi">このスロットには、同じタイプのアイテムを最大(1)つ入れることができる</string>
+	<string name="tooltip_slot_tool">このスロットにはツールを入れることができる</string>
+	<string name="tooltip_slot_food">このスロットは食べ物や食材を入れることができる</string>
+	<string name="tooltip_slot_animal_food">このスロットには動物の食べ物を入れることができる</string>
+	<string name="tooltip_slot_clothing">このスロットには衣服を入れることができる</string>
+	<string name="tooltip_slot_single_resource">このスロットには次の資源を入れることができる: (1)</string>
+	<string name="tooltip_slot_wood">このスロットには木材を入れることができる</string>
+	<string name="tooltip_slot_rock">このスロットには石材を入れることができる</string>
+	<string name="tooltip_knowledge_points">利用可能な知識ポイント</string>
+	<string name="tooltip_message">左クリックでフォーカス(n)右クリックで閉じる</string>
+	<string name="tooltip_focus_camera">フォーカス</string>
+	<string name="tooltip_help">ヘルプ</string>
+	<string name="tooltip_resource_limit_amount">生産の制限: (1), (2)個に設定</string>
+	<string name="tooltip_resource_limit_percentage">生産の制限: (1), 人口の(2)%に設定</string>
+	<string name="tooltip_resource_limit_infinity">生産の制限: (1), 無制限</string>
+	<string name="tooltip_work_area_max_people">この領域で働ける最大人数</string>
+	<string name="tooltip_task">右クリックでタスクをキャンセル</string>
+	<string name="tooltip_performer">左クリックでフォーカス</string>
+	<string name="tooltip_welfare">福祉:(1)(n)あなたの村がどれだけうまく行っているかを表す。(n)人々の状態、衣服、食糧余剰にも依存する。(n)移住者の到着頻度と出生率に影響を与える。</string>
+	<string name="tooltip_prestige">名声:(1)(n)あなたの村がどれだけ知られているかを表す。(n)人口、建物、技術に依存する。(n)移住者と商人の到着頻度に影響を与える。</string>
+	<string name="tooltip_resource_trade">(1)(n)取引量：(2)(n)クリックして取引する(n)Shiftキーを押しながらクリックして複数取引</string>
+	<string name="tooltip_no_alert">警報なし:人々は通常の生活をする</string>
+	<string name="tooltip_alert"> 警報:武器を持っている人は戦闘に向かい、他の人は全員建物の中に避難する</string>
+	<string name="tooltip_open_all_gates">全ての門を開ける</string>
+	<string name="tooltip_close_all_gates">全ての門を占める</string>
+	<string name="tooltip_milestones">マイルストーンの合計</string>
+	<string name="tooltip_heavy">重い:この資源は一つずつ、またはそりや荷車を使って運ばなければならない</string>
+	<string name="tooltip_very_heavy">とても重い:この資源は特別な装置を使って運ばなければならない</string>
+	<string name="tooltip_context_action_multiple">左クリックで一回実行(n)右クリックで連続実行</string>
+	<string name="tooltip_disease">病気の影響を受ける</string>
+	<string name="tooltip_plant_disease">病気の影響を受けており、収穫することはできない</string>
+	<string name="tooltip_infection">感染による影響</string>
+	<string name="tooltip_multiselected_entity">Shiftキーを押しながらクリックして選択を解除</string>
+	<string name="tooltip_no_structures">このタイプの建造物はまだ立てることができない</string>
+	<string name="tooltip_max_performers">タスクに割り当てられた人数: (1)</string>
+	<string name="tooltip_techs_unlockable">新しい技術のロックを解除することができる</string>
+	<string name="tooltip_total_population">総人口</string>
+	<string name="tooltip_housing">居住可能な人口。(n)新しい人々が定住するためには、空きが必要</string>
+	<string name="tooltip_no_housing">もう住む場所がない(n)そのため人口は増加しない</string>
+	<string name="tooltip_animal_count">動物</string>
+	<string name="tooltip_sheltering_animals">小屋が必要な動物</string>
+	<string name="tooltip_animal_capacity">小屋のスペース</string>
 	<string name="tooltip_steam_workshop_scenarios">Download scenarios from the Steam Workshop</string>
 	<string name="tooltip_steam_workshop_languages">Download languages from the Steam Workshop</string>	
-	<string name="tooltip_scenario_not_completed">Scenario not completed</string>
-	<string name="tooltip_scenario_completed">Scenario completed</string>
-	<string name="tooltip_scenario_completed_hardcore">Scenario completed in hardcore mode</string>
-	<string name="tooltip_requires_scenario">You have to complete (1) scenario to unlock this one</string>
+	<string name="tooltip_scenario_not_completed">シナリオを未クリア</string>
+	<string name="tooltip_scenario_completed">シナリオをクリア</string>
+	<string name="tooltip_scenario_completed_hardcore">ハードコアでシナリオをクリア</string>
+	<string name="tooltip_requires_scenario">あなたはこれをアンロックするために(1)シナリオを完了しなければならない</string>
 	<string name="tooltip_available_soon">Available Soon</string>
-	<string name="tooltip_requires_milestones">You have to unlock (1) Milestones to play this scenario.(n)Earn milestones by playing freeplay scenarios.</string>
-	<string name="tooltip_requires_milestones_short">Requires (1) Milestones</string>
-	<string name="tooltip_workload">The ratio between the number of tasks and the number of people in your settlement. Try to keep it below 150%. </string>
-	<string name="tooltip_retaliates">This animal might retaliate when attacked.</string>
-	<string name="tooltip_draught">This animal can be used to pull carts.</string>
-	<string name="tooltip_predator">This animal might attack humans.</string>
-	<string name="tooltip_requires_shelter">This animal needs to be sheltered in winter.</string>
-	<string name="tooltip_knowledge_earned">You will earn (1) knowledge points when hunting this animal</string>
-	<string name="tooltip_storage_restrictions">(1) allowed in this store</string>
+	<string name="tooltip_requires_milestones">このシナリオをプレイするには、(1)マイルストーンのロックを解除する必要がある。(n)フリープレイのシナリオをプレイすることで、マイルストーンを獲得できる。</string>
+	<string name="tooltip_requires_milestones_short">(1)マイルストーンが必要</string>
+	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨 </string>
+	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
+	<string name="tooltip_draught">この動物は台車を引くのに使うことができる</string>
+	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
+	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります。</string>
+	<string name="tooltip_knowledge_earned">この動物を狩ると(1)の知識ポイントが得られます</string>
+	<string name="tooltip_storage_restrictions">この貯蔵庫に入れることを許可:(1)</string>
 
 	<!-- Toasts -->
 	<string name="toast_screenshot_taken">スクリーンショットを撮影</string>
@@ -666,7 +664,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<!-- These are likely to cause issues with genders in some languages when (1) gets replaced by male/female names, try to avoid using articles" -->
 	<string name="description_idle">待機</string>
 	<string name="description_resting">休息</string>
-	<string name="description_recycling">リサイクル</string>
+	<string name="description_recycling">解体</string>
 	<string name="description_sheltering">逃走</string>
 	<string name="description_animal_sheltering">逃走</string>
 	<string name="description_attacking_ranged">(1)を攻撃</string>
@@ -729,9 +727,9 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	
 	<string name="game_action_open_panel_help">ヘルプ</string>
 	<string name="game_action_open_panel_stats">統計</string>
-	<string name="game_action_open_panel_charts">グラフ</string>
+	<string name="game_action_open_panel_charts">チャート</string>
 	<string name="game_action_open_panel_resources">資源</string>
-	<string name="game_action_open_panel_limits">上限</string>
+	<string name="game_action_open_panel_limits">制限</string>
 	<string name="game_action_open_panel_domestic_animals">家畜</string>
 	<string name="game_action_open_panel_techs">技術</string>
 	<string name="game_action_open_panel_tasks">タスク</string>
@@ -754,8 +752,8 @@ But don't be disappointed, this is part of the learning experience, you can try 
 
 	<!-- Alerts -->
 	<string name="warning_no_stables">動物のための十分な場所がありません</string>
-	<string name="warning_no_food">食料がない</string>
-	<string name="warning_low_food">食料が少ない</string>
+	<string name="warning_no_food">食糧がない</string>
+	<string name="warning_low_food">食糧が少ない</string>
 	<string name="warning_no_storage">ストレージスロットにあきがない</string>	
 	<string name="warning_no_tools">道具を持っていない人がいる</string>
 	<string name="warning_no_warm_outfits">暖かい服を着ていない人がいる</string>

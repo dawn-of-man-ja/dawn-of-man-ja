@@ -21,8 +21,8 @@
 	<string name="goal_tutorial_flint_work_area_set_workers">(b)火打ち石を採集(/b)するための作業領域に(b)2人の作業員(/b)を許可する</string>
 	<string name="goal_tutorial_wait_for_fish_and_gather2">(b)棒(/b)と(b)火打ち石(/b)を3つ手に入れるのを待つ</string>
 	
-	<string name="goal_tutorial_place_crafter">(b)工房(/b)を設置する</string>
-	<string name="goal_tutorial_build_crafter">工房が建設されるのを待つ</string>	
+	<string name="goal_tutorial_place_crafter">(b)製作所(/b)を設置する</string>
+	<string name="goal_tutorial_build_crafter">製作所が建設されるのを待つ</string>	
 	
 	<string name="goal_tutorial_craft_bifaces">3つ、(b)石器(/b)を作る</string>
 	<string name="goal_tutorial_craft_wooden_spears">3つ(b)木の槍(/b)を作る</string>
@@ -139,12 +139,12 @@ Dawn of ManではFPSと同じようにカメラの操作ができます。
 	<string name="tutorial_build_crafter">
 いくつかの材料を手に入れたのでそれをつかって(b)武器(/b)を作りましょう。
 <!-- TODO:Crafterの訳-->
-石器時代の主な制作は(b)工房(/b)で行われます。これを作りましょう。
-メインメニューから(b)建設(/b)を選択しその後生産を選びます。そして、最後に工房を選びます。
+石器時代の主な制作は(b)製作所(/b)で行われます。これを作りましょう。
+メインメニューから(b)建設(/b)を選択しその後生産を選びます。そして、最後に製作所を選びます。
 	</string>
 
 	<string name="tutorial_craft_resources">
-道具を制作するには(b)工房(/b)から、レシピを選びます。
+道具を制作するには(b)製作所(/b)から、レシピを選びます。
 製作タスクがキューに追加され、誰かができる限り早くそれを実行します。
 (b)木の槍(/b)で動物を狩り、(b)石器(/b)でそれを屠殺しましょう。	</string>
 
@@ -187,12 +187,12 @@ Dawn of ManではFPSと同じようにカメラの操作ができます。
 <!-- TODO: raw skinsの訳-->
 <!-- TODO: Skins Dryersの訳-->
 動物から得られる資源の1つは(b)生皮(/b)です、これは衣服を作り、建造物を建築するのによく使われます。
-しかし、(b)生皮(/b)を直接使用することはできません。最初に乾燥させる必要があります。これを行うには、(b)皮乾燥機(/b)を構築する必要があります。
+しかし、(b)生皮(/b)を直接使用することはできません。最初に乾燥させる必要があります。これを行うには、(b)皮乾燥機(/b)を建設する必要があります。
 	</string>			
 	
 	<string name="tutorial_skin_processing_done">
 <!--TODO: Dry Skinsの訳-->
-(b)皮革(/b)は原始時代の建造物や道具の基本的な材料であるため常にストックしておくようにしてください。
+(b)皮(/b)は原始時代の建造物や道具の基本的な材料であるため常にストックしておくようにしてください。
 	</string>
 	
 	<string name="tutorial_knowledge_title">知識</string>				
@@ -205,7 +205,7 @@ Dawn of ManではFPSと同じようにカメラの操作ができます。
 	<string name="tutorial_food_drying_title">食料の乾燥</string>					
 	
 	<string name="tutorial_food_drying">
-(b)食品乾燥(/b)の技術は(b)食品乾燥機(/b)を開放し(b)生肉(/b)と(b)生魚(/b)を(b)干し肉(/b)と(b)干物(/b)にします。
+(b)食品乾燥(/b)の技術は(b)食品乾燥機(/b)を開放し(b)生肉(/b)と(b)生魚(/b)を(b)干し肉(/b)と(b)魚の干物(/b)にします。
 これらは日持ちし、(b)冬の間(/b)安全な場所に保管することができます。
 	</string>			
 	
