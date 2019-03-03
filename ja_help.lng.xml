@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="help">Help</string>
-	<string name="plants">Plants</string>
-	<string name="topics">Topics</string>
-	<string name="general">General</string>
-	<string name="advanced_topics">Advanced Topics</string>
-	<string name="wild_animals">Wild Animals</string>
-	<string name="see_also">See Also</string>
-	<string name="entities">Entities</string>
-	<string name="requirements">Requirements</string>
-	<string name="loading_hints">Hints</string>
-	<string name="help_upgrades">Upgrades</string>
-	<string name="defense">Defense</string>
-	<string name="help_stats">Stats</string>
-	<string name="help_cost">Costs</string>
-	<string name="help_main">Main Topic</string>
-	<string name="help_categories">Categories</string>
-	<string name="help_recurrent_production">Recurrent Production</string>
-	<string name="help_related_resources">Related Resources</string>
-	<string name="help_production">Resources Produced</string>
-	<string name="help_byproducts">Resources Produced</string>
+	<string name="help">ヘルプ</string>
+	<string name="plants">植物</string>
+	<string name="topics">話題</string>
+	<string name="general">一般</string>
+	<string name="advanced_topics">発展的な話題</string>
+	<string name="wild_animals">野生の動物</string>
+	<string name="see_also">参照</string>
+	<string name="entities">エンティティ</string>
+	<string name="requirements">要求</string>
+	<string name="loading_hints">ヒント</string>
+	<string name="help_upgrades">アップグレード</string>
+	<string name="defense">防衛</string>
+	<string name="help_stats">統計</string>
+	<string name="help_cost">コスト</string>
+	<string name="help_main">主要な話題</string>
+	<string name="help_categories">カテゴリー</string>
+	<string name="help_recurrent_production">継続生産</string>
+	<string name="help_related_resources">関連する資源</string>
+	<string name="help_production">生産された資源</string>
+	<string name="help_byproducts">生産された資源</string>
 	<string name="help_domestic_variant">Domestic Variant</string>
 	<string name="help_wild_variant">Wild Variant</string>
-	<string name="help_domestication_tech">Domestication Tech</string>
-	<string name="help_crafted_from">Crafted from</string>
-	<string name="help_built_using">Built using</string>	
-	<string name="help_produced_from">Produced from</string>
-	<string name="help_created_entities">Used to create</string>
-	<string name="help_produced_resources">Produced Resources</string>
-	<string name="help_input_resources">Used Resources</string>
+	<string name="help_domestication_tech">家畜化の技術</string>
+	<string name="help_crafted_from">制作するのに使う資源</string>
+	<string name="help_built_using">建築するのに使う資源</string>	
+	<string name="help_produced_from">生産するのに使う資源</string>
+	<string name="help_created_entities">作成に使うもの</string>
+	<string name="help_produced_resources">作り出される資源</string>
+	<string name="help_input_resources">使う資源</string>
 
 	<string name="hint_0">Gather (b)Berries(/b) and (b)Fruit(/b) during summer and save longer lasting resources such as (b)Cured Meat(/b), (b)Dry Fish(/b), and (b)Grain(/b) for winter.</string>
 	<string name="hint_1">(b)Avoid(/b) targeting (b)healthy adult(/b) animals when hunting in the (b)early game(/b), as they are hard to kill and might fight back.</string>
@@ -56,9 +56,9 @@
 
 	<string name="help_main_title">Dawn of Man</string>
 	<string name="help_main_description">
-In (b)Dawn of Man(/b) you guide a settlement of ancient humans in their struggle for survival.
-You will have to (b)hunt(/b), (b)gather(/b), (b)craft tools(/b), (b)fight(/b), research new (b)techs(/b) and face the challenges the environment will throw at you.
-</string>
+(b)Dawn of Man(/b)では原始人の村を導きます。
+(b)狩猟(/b)、(b)採集(/b)、(b)道具の製作(/b)、(b)戦闘(/b)、新しい(b)技術(/b)の研究などを行い困難な環境を乗り越えていく必要があります。
+	</string>
 
   <!-- === Topics === -->
 
