@@ -359,21 +359,21 @@
 	
 	<string name="hut_short_description">茅葺き屋根の小屋</string>
 	<string name="hut_help_description">
-(b)わら(/b)葺きの(b)泥(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができる。
+(b)わら(/b)葺きの(b)泥(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができます。
 (b)テント(/b)より耐久性があり、多くの人を収容することができます。
 建築に(b)茅葺き(/b)の技術を必要とします。
 	</string> 
 
 	<string name="roundhouse_short_description">円形の石造りの家</string>
 	<string name="roundhouse_help_description">
-(b)わら(/b)葺きの(b)石(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができる。
+(b)わら(/b)葺きの(b)石(/b)でできた家で(b)休息をとる(/b)こと、(b)風雨をしのぐ(/b)こと、(b)調理をする(/b)ことができます。
 (b)小屋(/b)より耐久性があり、多くの人を収容することができます。
 建築に(b)石材(/b)の技術を必要とします。
 	</string>
 	
 	<string name="stables_short_description">家畜を飼う場所</string>
 	<string name="stables_help_description">
-冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための場所です。
+冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための施設です。
 定期的な修理が必要です。
 	</string>
 	
@@ -428,7 +428,7 @@
 	
 	<string name="hearth_short_description">調理、パン作り、社交の場</string>
 	<string name="hearth_help_description">
-食べ物を作ったりパンを作ったりする一般的な場所。
+食べ物を作ったりパンを作ったりする一般的な施設です。
 	</string>	
 	
 	<string name="crafter_short_description">道具や服を作る施設</string>
@@ -440,22 +440,22 @@
 	
 	<string name="skins_dryer_short_description">皮を乾燥させる施設</string>
 	<string name="skins_dryer_help_description">
-(b)生皮(/b)を丈夫で使いやすい(b)皮(/b)に加工する施設。
+(b)生皮(/b)を丈夫で使いやすい(b)皮(/b)に加工する施設です。
 	</string>
 	
 	<string name="food_dryer_short_description">食品を乾燥させる施設</string>
 	<string name="food_dryer_help_description">
-(b)生肉(/b)と(b)魚(/b)を(b)干し肉(/b)と(b)魚の干物(/b)に加工できる施設。
+(b)生肉(/b)と(b)魚(/b)を(b)干し肉(/b)と(b)魚の干物(/b)に加工できる施設です。
 	</string>
 
 	<string name="mortar_short_description">小麦粉に穀物を粉砕するための施設</string>
 	<string name="mortar_help_description">
-(b)穀物(/b)を(b)小麦粉(/b)に粉砕するための石臼。 かなりの労働が必要です。
+(b)穀物(/b)を(b)小麦粉(/b)に粉砕するための石臼です。 かなりの労働が必要です。
 	</string>
 	
 	<string name="tanner_short_description">生皮から革を作る施設</string>
 	<string name="tanner_help_description">
-(b)革(/b)を作るために(b)生皮(/b)を(b)タンニン(/b)で処理できる場所。	
+(b)革(/b)を作るために(b)生皮(/b)を(b)タンニン(/b)で処理できる施設です。	
 	</string>
 
 	<string name="well_short_description">水を汲み出すための地面に掘った穴</string>
@@ -465,38 +465,38 @@
 	
 	<string name="flint_mine_short_description">火打ち石の採掘量をを増加させるための地下施設</string>
 	<string name="flint_mine_help_description">
-採掘できる(b)火打ち石(/b)の量を増やす(/b)。
+採掘できる(b)火打ち石(/b)の量を増やします。
 	</string>
 	
 	<string name="weaver_short_description">布、服を作る施設</string>
 	<string name="weaver_help_description">
-(b)亜麻(/b)と(b)羊毛(/b)を織って布を作り、それを使って服を作る施設。
+(b)亜麻(/b)と(b)羊毛(/b)を織って布を作り、それを使って服を作る施設です。
 	</string>
 
 	<string name="outfitter_short_description">服を作る施設</string>
 	<string name="outfitter_help_description">
-(b)亜麻布(/b)と(b)羊毛の布(/b)で服を作る施設。
+(b)亜麻布(/b)と(b)羊毛の布(/b)で服を作る施設です。
 	</string>	
 
 	<string name="brewery_short_description">ビールを醸造する施設</string>
 	<string name="brewery_help_description">
-(b)穀物(/b)と(b)水(/b)から(b)ビール(/b)を作ることができる施設。
+(b)穀物(/b)と(b)水(/b)から(b)ビール(/b)を作ることができる施設です。
 (b)ビール(/b)は人々の士気を高めます。
 	</string>
 
 	<string name="watermill_short_description">水力を使って穀物を粉砕する施設</string>
 	<string name="watermill_help_description">
-水力で大量の(b)穀物(/b)をに効率よく粉砕し、(b)小麦粉(/b)にする施設。
+水力で大量の(b)穀物(/b)をに効率よく粉砕し、(b)小麦粉(/b)にする施設です。
 	</string>
 
 	<string name="oven_short_description">パンを焼くための共同オーブン</string>
 	<string name="oven_help_description">
-(b)パン(/b)を大量に効率よく焼く施設。
+(b)パン(/b)を大量に効率よく焼く施設です。
 	</string>
 	
-	<string name="workshop_short_description">様々な道具を作る場所</string>
+	<string name="workshop_short_description">様々な道具を作る施設</string>
 	<string name="workshop_help_description">
-(b)銅器時代(/b)以降の道具を作る場所。
+(b)銅器時代(/b)以降の道具を作る施設です。
 (b)金工(/b)または(b)鍛冶屋(/b)と組み合わせたこの施設は、(b)製作所(/b)の代わりになります。
 	</string>	
 	
@@ -504,44 +504,44 @@
 		
 	<string name="copper_mine_short_description">銅鉱石の採掘量を増やすための地下施設</string>
 	<string name="copper_mine_help_description">
-鉱床から採掘できる(b)銅鉱石(/b)の量を増やす地下施設。
+鉱床から採掘できる(b)銅鉱石(/b)の量を増やす地下施設です。
 	</string>
 
 	<string name="tin_mine_short_description">錫鉱石の採掘量を増やすための地下施設</string>
 	<string name="tin_mine_help_description">
-鉱床から採掘できる(b)錫鉱石(/b)の量を増やす地下施設。
+鉱床から採掘できる(b)錫鉱石(/b)の量を増やす地下施設です。
 	</string>
 	
 	<string name="iron_mine_short_description">鉄鉱石の採掘量を増やすための地下施設</string>
 	<string name="iron_mine_help_description">
-鉱床から採掘できる(b)鉄鉱石(/b)の量を増やす地下施設。
+鉱床から採掘できる(b)鉄鉱石(/b)の量を増やす地下施設です。
 	</string>	
 	
 	<string name="charcoal_pit_short_description">木炭を作る施設</string>
 	<string name="charcoal_pit_help_description">
-(b)木炭(/b)を作る施設。
+(b)木炭(/b)を作る施設です。
 その後、(b)木炭(/b)を使用して鉱石を金属に製錬します。
 	</string>
 
 	<string name="pit_furnace_short_description">銅と錫の鉱石を銅と青銅に製錬する施設</string>
 	<string name="pit_furnace_help_description">
-(b)銅鉱石(/b)と(b)錫鉱石(/b)を(b)銅(/b)と(b)青銅(/b)に製錬するのに必要な高温を達成するために使われる炉。
+(b)銅鉱石(/b)と(b)錫鉱石(/b)を(b)銅(/b)と(b)青銅(/b)に製錬するのに必要な高温を達成するために使われる炉です。
 	</string>
 	
 	<string name="metalsmith_short_description">銅と青銅の道具を作る施設</string>
 	<string name="metalsmith_help_description">
-(b)銅(/b)と(b)青銅(/b)の道具と武器を作る施設。
+(b)銅(/b)と(b)青銅(/b)の道具と武器を作る施設です。
 一度に作業できるのは1人だけなので、通常はいくつか必要になります。
 	</string>
 
 	<string name="bloomery_short_description">鉄鉱石を鉄と鋼鉄に製錬する施設</string>
 	<string name="bloomery_help_description">
-(b)鉄鉱石(/b)を(b)鉄(/b)と(b)鋼鉄(/b)に製錬するのに必要な高温を達成するために使われる高度な炉。
+(b)鉄鉱石(/b)を(b)鉄(/b)と(b)鋼鉄(/b)に製錬するのに必要な高温を達成するために使われる高度な炉です。
 	</string>
 
 	<string name="blacksmith_short_description">鉄と鋼鉄の道具を作る施設</string>
 	<string name="blacksmith_help_description">
-(b)鉄(/b)と(b)鋼鉄(/b)の道具と武器を作る施設。
+(b)鉄(/b)と(b)鋼鉄(/b)の道具と武器を作る施設です。
 一度に作業できるのは1人だけなので、通常はいくつか必要になります。
 	</string>
 
@@ -549,12 +549,13 @@
 
 	<string name="palisade_short_description">集落を守るシンプルな木造施設</string>
 	<string name="palisade_help_description">
-集落を守るシンプルな木造施設。 これは(b)丸太(/b)から作られており、ある程度の防御を提供します。
+集落を守るシンプルな木造施設です。
+これは(b)丸太(/b)から作られており、ある程度の防御を提供します。
 	</string>
 
 	<string name="gate_short_description">村へのアクセスを制御するためのシンプルな木製の門</string>
 	<string name="gate_help_description">
-ある程度の期間攻撃に耐えることができるシンプルな木製の門。
+ある程度の期間攻撃に耐えることができるシンプルな木製の門です。
 	</string>
 
 	<string name="watchtower_short_description">敵を撃つ基本的な塔</string>
@@ -570,12 +571,12 @@
 
 	<string name="reinforced_gate_short_description">金属で強化した門</string>
 	<string name="reinforced_gate_help_description">
-攻撃に対する耐性を高めるために、門を(b)金属(/b)で(b)補強(/b)した。
+攻撃に対する耐性を高めるために、(b)金属(/b)で(b)補強(/b)した門です。
 	</string>
 
 	<string name="guard_tower_short_description">強化された防衛塔</string>
 	<string name="guard_tower_help_description">
-強化された防衛塔。
+強化された防衛塔です。
 最大3人が中にし、入ってくる敵を攻撃することができます。
 定期的な修理が必要です。
 	</string>
@@ -584,37 +585,37 @@
 
 	<string name="skull_pole_short_description">死者を覚えておくための施設</string>
 	<string name="skull_pole_help_description">
-(b)士気(/b)を回復するために人々が訪れる死者を覚えておくための施設。
+(b)士気(/b)を回復するために人々が訪れる死者を覚えておくための施設です。
 	</string>
 
 	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
-村と自然との関係を象徴する大きな強力な象徴。
+村と自然との関係を象徴する大きな強力な象徴です。
 人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 	
 	<string name="menhir_short_description">立っている巨石</string>
 	<string name="menhir_help_description">
-大きな立っている巨石。
+大きな立っている巨石です。
 人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 
 	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな記念碑</string>
 	<string name="dolmen_help_description">
-いくつかの支柱と、その上に置かれた1つ以上の石からなる石造りの部屋。 
+いくつかの支柱と、その上に置かれた1つ以上の石からなる石造りの部屋です。 
 (b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
 	</string>
 
 	<string name="stone_circle_short_description">究極の巨石建造物</string>
 	<string name="stone_circle_help_description">
-円形に配置された複数の(b)メガリス(/b)で構成された大きな建造物。
-(b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しする。
+円形に配置された複数の(b)メガリス(/b)で構成された大きな建造物です。
+(b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
 	</string>
 	
 	<!-- === Transport === -->
 	<string name="bridge_short_description">川を渡りやすくする施設</string>
 	<string name="bridge_help_description">
-(b)河川の横断(/b)を容易にするための構造。
+(b)河川の横断(/b)を容易にするための構造です。
 (b)そり(/b)と(b)台車(/b)の場合は、特に便利です。
 	</string>	
 
@@ -624,13 +625,13 @@
 道具は、戦闘、解体、採掘、釣り、収穫などの作業を実行するために必要です。
 人々は作業する前に自動的に仕事のための適切な道具を取ってきます。
 道具には、特定の仕事を実行するのに適していることを示す以下のような属性があります。
-(b)格闘(/b)手対手の戦闘。
-(b)戦闘(/b)動物の殺害または遠隔戦闘。
-(b)解体(/b)死んだ動物を解体し資源を取り出す。
-(b)釣り(/b)川や湖からの魚の採取。
-(b)収穫(/b)収穫シリアルまたは豆類。
-(b)採掘(/b)鉱床から鉱石を採掘する。
-(b)伐採(/b)木を切り倒す。
+(b)格闘(/b):近接戦闘。
+(b)戦闘(/b):狩猟または遠隔戦闘。
+(b)解体(/b):死んだ動物を解体し資源を取り出す。
+(b)釣り(/b):川や湖からの魚の採取。
+(b)収穫(/b):豆類または穀物の収穫。
+(b)採掘(/b):鉱床から鉱石を採掘する。
+(b)伐採(/b):木を切り倒す。
 格闘と戦闘の属性は戦闘で与えられるダメージに影響します、他の属性はタスクが行われる速度に影響します。
 	</string>
 	
@@ -646,24 +647,24 @@
 	</string>
 	
 	<string name="help_category_food_and_drink_description">
-(b)栄養(/b)および(b)水分(/b)を回復するために使用できる資源。
+(b)栄養(/b)および(b)水分(/b)を回復するために使用できる資源です。
 	</string>
 	
 	<string name="help_category_material_description">
-他の資源または建造物を(b)制作(/b)または(b)建築(/b)するために使用できる資源。
+他の資源または建造物を(b)制作(/b)または(b)建築(/b)するために使用できる資源です。
 	</string>
 	
   <!-- === Tools === -->
 
 	<string name="biface_short_description">石器</string>
 	<string name="biface_help_description">
-動物の(b)解体(/b)、植物の(b)収穫(/b)、または単なる戦闘用の(b)武器(/b)に使用される基本的な切削工具。
+動物の(b)解体(/b)、植物の(b)収穫(/b)、または単なる戦闘用の(b)武器(/b)に使用される基本的な切削工具です。
 石器は、その機能に基づいて、斧ではなくナイフとして分類されます。
 	</string>
 	
 	<string name="wooden_spear_short_description">基本的な狩猟、遠距離戦闘用の道具</string>
 	<string name="wooden_spear_help_description">
-最も基本的な(b)狩猟(/b)と(b)遠距離戦闘(/b)用の道具。 尖った先端を持つ単純な木製の槍。
+最も基本的な(b)狩猟(/b)と(b)遠距離戦闘(/b)用の尖った先端を持つ単純な木製の槍です。
 	</string>	
 
 	<string name="spear_short_description">狩猟、遠距離戦闘用の道具</string>
@@ -675,17 +676,17 @@
 
 	<string name="harpoon_short_description">釣具</string>
 	<string name="harpoon_help_description">
-銛は(b)釣り(/b)のための道具です。 それらは木の持ちてと魚を捕まえるように設計された先端から作られています。
+銛は(b)釣り(/b)のための道具です。 木の持ち手と魚を捕まえるように設計された先端から作られています。
 	</string>  
 
 	<string name="fishing_rod_short_description">特殊な釣具</string>
 	<string name="fishing_rod_help_description">
-ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)。
+ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)です。
 	</string>  	
 	
 	<string name="axe_short_description">伐採との戦闘のための道具</string>
 	<string name="axe_help_description">
-斧は、(b)伐採(/b)を行うため、または敵と戦うための(b)武器(/b)として役立つ。
+斧は、(b)伐採(/b)を行うため、または敵と戦うための(b)武器(/b)として役立ちます。
 (b)火打ち石(/b)または(b)金属(/b)のいずれでできているかに応じて、異なる強さと耐久を持つ。
 	</string>
 
@@ -709,7 +710,7 @@
 
 	<string name="bow_short_description">狩猟と遠距離戦闘用の武器</string>  
 	<string name="bow_help_description">
-優れた(b)遠距離攻撃武器(/b)。
+優れた(b)遠距離攻撃武器(/b)です。
 狩猟と遠距離戦闘用の武器です。
 弓は槍よりも長距離での戦闘を可能にしますが、近距離では効果がありません。
 	</string>    
@@ -728,113 +729,115 @@
   <!-- === Materials === -->
   
 	<string name="sticks_help_description">
-Used as crafting or construction materials or as fuel in (b)Hearths(/b), (b)Huts(/b), (b)Ovens(/b) or (b)Roundhouses(/b).
+(b)囲炉裏(/b)、(b)小屋(/b)、(b)かまど(/b)、(b)円形住居(/b)で、建材または燃料として使用されます。
 	</string>
 
 	<string name="log_help_description">
-Logs can be used in construction or as fuel in (b)Hearths(/b), (b)Huts(/b), (b)Ovens(/b) or (b)Roundhouses(/b).
+(b)囲炉裏(/b)、(b)小屋(/b)、(b)かまど(/b)、(b)円形住居(/b)で、建材または燃料として使用されます。
 	</string>
 
 	<string name="flint_help_description">
-A valuable crafting material, used to make all sorts of (b)tools(/b) in the (b)Stone Age(/b).
+(b)石器時代(/b)のあらゆる(b)道具(/b)を作るために使用される貴重な材料です。
 	</string>
 
 	<string name="stone_help_description">
-A large rock used to construct sturdy structures.
+頑丈な建造物を作るために使用される大きな岩です。
 	</string>
 
 	<string name="megalith_help_description">
-A giant rock that can be used to build (b)megalithic structures(/b).
-Megaliths need to be mined first, then get ready for transport and finally pulled by humans to the construction site.
-You can use (b)primal vision(/b) in order to find and track megaliths.
+(b)巨石構造物(/b)を建造するのに使用できる巨大な岩です。
+巨石は最初に採掘され、それから輸送の準備をし、最後に建設現場に輸送される必要があります。
+巨石を見つけるために、(b)原始の視覚(/b)を使うことができます。
 	</string>
 	
 	<string name="bone_help_description">
-Used as a crafting or construction material.
+材料や建材として使用されます。
 	</string>
 
 	<string name="raw_skin_help_description">
-Raw skin from an animal, it needs to be (b)dried(/b) or (b)treated(/b) before it can be used.
+動物の生皮は、使用する前に(b)乾燥(/b)または(b)処理(/b)をする必要があります。
 	</string>
 	
-	<string name="dry_skin_short_description">A dry skin</string>	
+	<string name="dry_skin_short_description">皮</string>	
 	<string name="dry_skin_help_description">
-A dry skin, used for (b)crafting(/b) tools or (b)building(/b) structures.
+(b)道具を作る(/b)ため、または(b)建築(/b)を行うために使用される。
 	</string>
 	
-	<string name="leather_short_description">A skin which has been tanned to make it more durable</string>	
+	<string name="leather_short_description">頑丈にするためになめされた皮</string>	
 	<string name="leather_help_description">
-A (b)skin(/b) which has been (b)tanned(/b) to make it more (b)durable(/b). Leather can be used used to craft clothing and tools or construct structures.
+(b)タンニンで処理(/b)したより耐久性のある(b)皮(/b)です。 革は、衣服や道具を作るために、あるいは建造物を作るために使用することができます。
 	</string>
 	
 	<string name="tannin_help_description">
-A substance used to treat (b)Raw Skins(/b) in order to make (b)Leather(/b). It is obtained from the bark of some trees, such as (b)Oaks(/b) and (b)Firs(/b). 
+(b)革(/b)を作るために(b)生皮(/b)を処理するために使用される物質です。 (b)オーク(/b)や(b)モミ(/b)のようないくつかの木の樹皮から得られます。
 	</string>
 	
 	<string name="straw_help_description">
-(b)Straw(/b) is obtained when harvesting cereals. It is a very important resource from the Neolithic onward, both as a (b)construction(/b) material and as (b)animal fodder(/b).
+(b)わら(/b)は、穀物を収穫するときに得られます。 新石器時代以降、(b)建材(/b)として、および(b)飼料(/b)として非常に重要な資源です。
 	</string>
 	
 	<string name="mud_help_description">
-Used as (b)construction material(/b), mud can be (b)extracted(/b) from (b)rivers(/b) and (b)lakes(/b).
+(b)建材(/b)として使用され、(b)川(/b)および(b)湖(/b)から得られます。
 	</string>
 
 	<string name="wool_help_description">
-A textile fiber obtained from the hair of sheep, used to make (b)warm clothing(/b).
+(b)暖かい服(/b)を作るのに使用される、羊の毛から得られた繊維です。
 	</string>
 	
 	<string name="linen_help_description">
-A textile fiber obtained from linen, used to make clothing and other resources.
+亜麻から得られた繊維で、服やその他の資源を作るのに使われます。
 	</string>
 
-	<string name="wool_cloth_short_description">Cloth used to make warm outfits</string>	
+	<string name="wool_cloth_short_description">暖かい服を作るために使用される布</string>	
 	<string name="wool_cloth_help_description">
-Cloth with excellent insulating properties used to create (b)warm clothing(/b).
+(b)暖かい衣類(/b)をつくるのに使用される優れた断熱性能を有する布です。
 	</string>
 
-	<string name="linen_cloth_short_description">Cloth used in light outfits</string>
+	<string name="linen_cloth_short_description">薄手の服で使用される布</string>
 	<string name="linen_cloth_help_description">
-Cloth used to make light outfits.
+布は、薄手の服を作るために使用されます。
 	</string>
 
-	<string name="charcoal_short_description">Used in furnaces in order to smelt ores</string>
+	<string name="charcoal_short_description">鉱石を精錬するために炉で使用される</string>
 	<string name="charcoal_help_description">
-A byproduct of (b)wood(/b) heated in the absence of oxygen, it is required for the furnaces to reach the high temperatures required for the (b)smelting(/b) of (b)ores(/b).
+酸素のない状態で(b)木材(/b)を加熱して作られます。
+(b)鉱石(/b)の(b)製錬(/b)に使用できる。
 	</string>
 
 	<string name="copper_ore_help_description">
-An ore containing copper. Can be smelted into (b)Copper(/b), or mixed with (b)Tin Ore(/b) to make (b)Bronze(/b).
+銅を含む鉱石です。 (b)銅(/b)に製錬するか、(b)錫鉱石(/b)と混合して(b)青銅(/b)にすることができます。
 	</string>	
 	
 	<string name="tin_ore_help_description">
-An ore containing tin. Can be mixed with (b)Copper Ore(/b) to produce (b)Bronze(/b).
+錫を含む鉱石です。 (b)銅鉱石(/b)と混合して(b)青銅(/b)を精錬することができます。
 	</string>		
 	
 	<string name="iron_ore_help_description">
-An ore containing iron. Can be smelted to produce (b)Iron(/b) or (b)Steel(/b).
+鉄を含む鉱石です。 (b)鉄(/b)または(b)鋼鉄(/b)に製錬することができます。
 	</string>
 
-	<string name="copper_short_description">A soft metal</string>
+	<string name="copper_short_description">柔らかい金属</string>
 	<string name="copper_help_description">
-A (b)soft metal(/b), easy to obtain and work into basic tools.
+入手が容易で基本的な道具に加工できる、(b)柔らかい金属(/b)。
 	</string>	
 
-	<string name="bronze_short_description">A hard and durable metal</string>
+	<string name="bronze_short_description">硬くて丈夫な金属</string>
 	<string name="bronze_help_description">
-An alloy of (b)Copper Ore(/b) and (b)Tin Ore(/b), much harder than (b)Copper(/b).
-(b)Bronze(/b) is as hard as (b)Iron(/b) but it requires tin to be created, which is not a widely available as (b)Iron Ore(/b).
+(b)銅鉱石(/b)と(b)錫鉱石(/b)の合金で、(b)銅(/b)よりはるかに硬いです。
+(b)青銅(/b)は(b)鉄(/b)と同じぐらい硬いですが、それは錫の製造を必要とし、(b)鉄鉱石(/b)ほど多くは入手できません。
 	</string>
 
-	<string name="iron_short_description">A hard and durable metal</string>		
+	<string name="iron_short_description">硬くて丈夫な金属</string>		
 	<string name="iron_help_description">
-Iron is a (b)hard and durable(/b) metal, used to craft many tools, weapons and also used in construction.
-It requires higher temperatures to be smelted when compared to (b)Bronze(/b), so it has to be produced in special furnaces.
-Its main advantage over (b)Bronze(/b) is that (b)Iron Ore(/b) is a lot more abundant than (b)Tin Ore(/b).
+鉄は(b)硬くて丈夫な(/b)金属で、多くの道具や武器を作るのに使われ、また建設にも使われます。
+また、(b)青銅(/b)と比較してより高い温度の製錬が必要であるので、特別な炉で精錬する必要があります。
+(b)青銅(/b)に対するその主な利点は、(b)鉄鉱石(/b)が(b)錫鉱石(/b)よりもはるかに豊富であることです。
 	</string>
 	
 	<string name="steel_short_description">A very hard and durable metal</string>			
 	<string name="steel_help_description">
-(b)Steel(/b) is obtained by carefully controlling the amount of carbon mixed with the iron in the smelting process. It is the (b)hardest and most durable(/b) metal available.
+製錬工程において鉄と混合される炭素の量を注意深く制御することによって(b)鋼(/b)が得られます。 
+これは入手可能な(b)最も硬くそして最も耐久性のある(/b)金属です。
 	</string>
 	
   <!-- === Food and drink === -->
