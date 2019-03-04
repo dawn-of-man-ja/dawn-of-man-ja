@@ -16,6 +16,6 @@ environment:
     secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
-  - git log -1 --pretty=%B --encoding=utf8
-  - git log -1 --pretty=%B
+  - "git log -1 --encoding=utf-8 --pretty=%B "
+  - "git log -1 --pretty=%B"
   - ps: ./workshop/deploy.ps1
