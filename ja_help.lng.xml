@@ -904,7 +904,7 @@
 	
 	<string name="water_help_description">
 川、湖、井戸から水を集めてためておくことは、一人ひとりが毎回水源に行くよりも効率的です。
-(b)家畜(/b)は(b)冬(/b)に(b)水(/b)を与える必要があります。さもなければ喉の渇きで死亡します。
+(b)冬(/b)に厩舎にいる(b)動物(/b)には(b)水(/b)を与える必要があります。さもなければ喉の渇きで死亡します。
 	</string>
 	
 	<string name="beer_short_description">士気と水分を回復</string>		
@@ -944,66 +944,66 @@
   <!-- === TECHS: categories === -->
 	
 	<string name="help_era_paleolithic_description">
-A period where humans lived mostly in (b)hunter-gatherer(/b) bands that used tools made of (b)stone(/b).
+(b)石(/b)で作られた道具を使った(b)狩猟や採集(/b)を行って人々が暮らしていた時代です。
 	</string>
 	
 	<string name="help_era_mesolithic_description">
-A period where humans started to make (b)pottery(/b) and more sophisticated (b)stone tools(/b).    
+人間が(b)陶器(/b)と、より洗練された(b)石器(/b)を作り始めた時代です。
 	</string>
 	
 	<string name="help_era_neolithic_description">
-A period where humans started to (b)domesticate plants(/b) and (b)animals(/b) and made rapid technological advances.  
+人間が(b)農業(/b)および(b)畜産(/b)を始め、急速な技術的進歩を遂げた時代です。
 	</string>
 	
 	<string name="help_era_copper_age_description">
-A period where humans discovered how to (b)smelt copper(/b) in order to create the first metal tools.
+人間が(b)銅(/b)を製錬する方法を発見し、金属製の道具を作り始めた時代です。
 	</string>
 	
 	<string name="help_era_bronze_age_description">
-A period where humans discovered how to mix tin and copper and lead to the widespread use of (b)Bronze(/b) tools and objects.
+人間が銅と錫の混合方法を発見し、(b)青銅(/b)の道具や物が広く使われるようになった時代です。
 	</string>
 
 	<string name="help_era_iron_age_description">
-A period characterized by the widespread use of (b)Iron(/b) tools and objects. 
+(b)鉄(/b)製の道具や物が広く使われていることを特徴とする時代です。
 	</string>
 
 	<!-- === Generic === -->
 	
 	<string name="domestication_tech_help_description">
-Domestication techs allow you to (b)tame wild animals(/b).
-Once the tech is researched you will be able to (b)capture wild animals(/b) or (b)purchase(/b)  them from traders.
-To capture a wild animal you need to select a young animal of the right type and then click on the capture button.
-Make sure to have enough capacity in your (b)Stables(/b), otherwise the animals will die in winter.
+家畜化技術は野生動物を(b)飼いならす(/b)ことを可能にします。
+技術が研究されれば(b)野生動物を捕獲(/b)するか(b)トレーダーから購入(/b)ことができるようになります。
+野生動物を捕獲するには、若い動物を選択してから捕獲ボタンをクリックする必要があります。
+(b)厩舎(/b)に十分な容量があることを確認してください。さもなければ、動物は冬に死亡します。
 	</string>
 	
 	<!-- === Paleolithic === -->
 
 	<string name="bone_tools_help_description">
-Unlocks the creation of (b)tools(/b) made using animal (b)bones(/b), which are effective for certain tasks.
+動物の(b)骨(/b)を使用して作られた(b)道具(/b)の作成を解除します。これはいくらか作業に有効です。
 	</string> 
 	
 	<string name="composite_tools_help_description">
-Unlocks the creation of tools composed of (b)several parts(/b). Composite tools are very useful for (b)hunting(/b) larger animals or (b)cutting down(/b) trees.
+いくつかの(b)パーツ(/b)で構成される道具の作成を解除します。 複合道具は、(b)大型動物の狩猟(/b)または(b)木の伐採(/b)に非常に便利です。
 	</string> 	
 	
 	<string name="slingmaking_help_description">
-Allows you to make (b)Slings(/b), which are basic hunting tools.
+基本的な狩猟用具である(b)スリング(/b)を作ることを可能にします。	
 	</string> 
 	
 	<string name="food_drying_help_description">
-Unlocks the construction of the (b)Food Dryer(/b), where you can produce (b)Cured Meat(/b) and (b)Dry Fish(/b), which are the only long lasting foods available in the (b)Paleolithic(/b).
+(b)干し肉(/b)と(b)魚の干物(/b)を製造できる(b)食品乾燥機(/b)のロックを解除します。 これは(b)旧石器時代(/b)に長持ちする食糧を作る唯一の方法です。
 	</string> 
 	
 	<string name="dog_domestication_help_description">
-Unlocks the domestication of (b)Dogs(/b). Dogs will slowly come to the settlement and will help you protect it.
+(b)犬(/b)の家畜化を解除します。 犬はゆっくりと村に来て、あなたが村を守るのを助けます。
 	</string> 
 	
 	<string name="tanning_help_description">
-Unlocks the (b)Tanner(/b), where you can produce (b)Leather(/b).
+(b)革(/b)を生産できる(b)なめし(/b)のロックを解除します。
 	</string>
 
 	<string name="spirituality_help_description">
-Unlocks the construction of the (b)Totem(/b) structure, which helps with keeping morale high in the settlement.
+(b)トーテム(/b)の建設を行えるようになります。これは、村において士気を高く保つのに役立ちます。
 	</string> 	
  
  <!-- === Mesolithic === -->
