@@ -12,10 +12,10 @@ Write-Host "publishedfileid:$publishedfileid"
 Write-Host "changenote:$changenote"
 $content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote) 
 #$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-$path=[IO.Path]::GetFullPath(".\workshop_item.vdf")
+$path=[IO.Path]::Combine([IO.Directory]::GetCurrentDirectory(),".\workshop_item.vdf")
 Write-Host "path:$path"
 
-[System.IO.File]::WriteAllLines($path, $content)
+[IO.File]::WriteAllLines($path, $content)
 
 Write-Host "changenote:$content"
 
