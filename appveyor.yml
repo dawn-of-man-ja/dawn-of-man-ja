@@ -10,5 +10,5 @@ environment:
     secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
-  - echo %changenote%
+  - echo %APPVEYOR_REPO_COMMIT_MESSAGE%
   - ./workshop/deploy.ps1
