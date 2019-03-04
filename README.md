@@ -1,4 +1,4 @@
-<img src="https://ci.appveyor.com/api/projects/status/github/tignear/dawn-of-man-ja?branch=master/">
+[<img src="https://ci.appveyor.com/api/projects/status/github/tignear/dawn-of-man-ja?branch=master/">](https://ci.appveyor.com/project/tignear/dawn-of-man-ja)
 
 # Dawn Of Manの日本語訳
 
