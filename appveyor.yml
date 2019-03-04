@@ -10,4 +10,5 @@ environment:
     secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
-  - ps: ./workshop/deploy.ps1
+  - echo %changenote%
+  - ./workshop/deploy.ps1
