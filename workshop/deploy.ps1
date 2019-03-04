@@ -1,4 +1,5 @@
-Write-Host $OutputEncoding.EncodingName
+#APPVEYOR_REPO_COMMITの文字化け対策
+[Console]::OutputEncoding = [Text.Encoding]::UTF8;
 if(Test-Path Variable:env:publishedfileid){
     $publishedfileid=$env:publishedfileid
 }else{
