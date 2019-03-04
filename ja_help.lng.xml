@@ -49,8 +49,8 @@
 	<string name="hint_17">(b)F9(/b)キーでクイックセーブが可能です。</string>
 	<string name="hint_18">植物、建物を(b)左ダブルクリック(/b)して、近くにあるすべての同じ種類の(b)エンティティ(/b)を選択します。</string>
 	<string name="hint_19">カメラを村に戻すには、(camera_center_town_key)キーを押します。</string>
-	<string name="hint_20">マウスをドラッグしながら(hunter_selection_key)キーと(fighter_selection_key)キーを押したままにすると、(b)格闘(b)または(b)戦闘(b)ようの道具をもった人のみを選択できます。</string>
-	<string name="hint_21">(b)原始の視覚(b)を使用して、(b)作業領域(b)を強調表示することができます。</string>
+	<string name="hint_20">マウスをドラッグしながら(hunter_selection_key)キーと(fighter_selection_key)キーを押したままにすると、(b)格闘(/b)または(b)戦闘(/b)用の道具をもった人のみを選択できます。</string>
+	<string name="hint_21">(b)原始の視覚(/b)を使用して、(b)作業領域(/b)を強調表示することができます。</string>
 
 
 	<string name="help_main_title">Dawn of Man</string>
@@ -449,7 +449,7 @@
 
 	<string name="mortar_short_description">小麦粉に穀物を粉砕するための施設</string>
 	<string name="mortar_help_description">
-(b)穀物(/b)を(b)小麦粉(/b)に粉砕するための石臼です。 かなりの労働が必要です。
+(b)穀物(/b)を(b)小麦粉(/b)に粉砕するための臼です。 かなりの労働が必要です。
 	</string>
 	
 	<string name="tanner_short_description">生皮から革を作る施設</string>
@@ -842,103 +842,103 @@
   <!-- === Food and drink === -->
   
 	<string name="raw_meat_help_description">
-Meat that hasn't been processed in any way, will (b)decay quickly(/b) if left as is.
-It can be (b)cooked(/b) in order to be eaten. In extreme cases it could be eaten as is, but this will cause morale to decay.
+何も処理されていない肉は、そのまま放置すると(b)急速に腐敗(b)します。
+(b)調理(b)することができます。 危機的な場合にはそのまま食べることができますが、士気を低下させます。
 	</string>
 
-	<string name="cured_meat_short_description">Meat that has been cured. Lasts for a long time</string>
+	<string name="cured_meat_short_description">干した肉。長持ちする</string>
 	<string name="cured_meat_help_description">
-Meat that has been processed in the (b)Food Dryer(/b). It lasts a (b)lot longer(/b) than (b)Raw Meat(/b).
+(b)食品乾燥機(/b)で処理された肉です。 (b)生肉(/b)よりもずっと(b)長持ち(/b)します。
 	</string>	
 	
 	<string name="raw_fish_help_description">
-Fish hasn't been processed in any way since capture. (b)Decays very quickly(/b).
-It can be (b)cooked(/b) in order to be eaten. In extreme cases it could be eaten as is, but this will cause morale to decay.
+何も処理をされていない魚です。 急速に(b)腐敗(/b)します。
+(b)調理(/b)することができます。 危機的な場合にはそのまま食べることができますが、士気を低下させます。
 	</string>
 
-	<string name="dry_fish_short_description">Fish that has been dried. Lasts for a long time</string>		
+	<string name="dry_fish_short_description">魚の干物。長持ちする</string>		
 	<string name="dry_fish_help_description">
-Fish that has been processed in the (b)Food Dryer(/b). It lasts a (b)lot longer(/b) than (b)Raw Fish(/b).
+(b)食品乾燥機(/b)で処理された魚です。 (b)生魚(/b)よりもずっと(b)長持ち(/b)します。
 	</string>
 	
 	<string name="berries_help_description">
-Seasonal fruits produced by some wild plants. 
-They don't last for long, but are good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+植物によって生産されたベリーです。
+日持ちしないため、冬のためにより長持ちする食べ物をとっておくために(b)季節(/b)的にに(b)食べる(/b)がよい方法です。
 	</string>
 	
 	<string name="fruit_help_description">
-Seasonal fruit produced by some wild trees. 
-It doesn't last for long, but is good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+植物によって生産された果物です。
+日持ちしないため、冬のためにより長持ちする食べ物をとっておくために(b)季節(/b)的にに(b)食べる(/b)がよい方法です。
 	</string>
 	
 	<string name="nuts_help_description">
-Seasonal nuts produced by some wild trees. 
-They don't last for long, but are good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+植物によって生産された豆です。
+日持ちしないため、冬のためにより長持ちする食べ物をとっておくために(b)季節(/b)的にに(b)食べる(/b)がよい方法です。
 	</string>
 	
 	<string name="grain_help_description">
-Used to make (b)Flour(/b), which in turn can be transformed into (b)Bread(/b). It is also a key ingredient in (b)Beer(/b), which boosts morale.
-It is the (b)most durable(/b) type of food available, and the best resource to feed (b)large amounts of people(/b), even if processing it is quite labor intensive.
-It can also serve as animal fodder if required, but it is better to use (b)Straw(/b) instead.
+(b)小麦粉(/b)を作るのに使われ、小麦粉を(b)パン(/b)にすることができます。 また、士気を高める(b)ビール(/b)の材料でもあります。
+(b)入手可能な最も日持ちする(/b)食糧であり、加工することがかなり大変な労働であっても(b)大量の人々に食糧を供給する(/b)のに最適な資源です。
+必要に応じて動物の餌としても使用できますが、代わりに(b)わら(/b)を使用することをお勧めします。
 	</string>
 	
-	<string name="flour_short_description">The main ingredient of Bread</string>	
+	<string name="flour_short_description">パンの主な原料</string>	
 	<string name="flour_help_description">
-A powder obtained from crushing (b)Grain(/b) either in a (b)Mortar(/b) or a (b)Watermill(/b). 
-It is the main ingredient of (b)Bread(/b).
+(b)臼(/b)または(b)水車(/b)のいずれかで(b)穀物(/b)を粉砕して得られる粉末です。
+(b)パン(/b)の主な原料となります。
 	</string>
 	
-	<string name="bread_short_description">Simple flour bread</string>		
+	<string name="bread_short_description">シンプルな小麦粉のパン</string>		
 	<string name="bread_help_description">
-A food obtained by baking (b)Flour(/b) and water in a (b)Hearth(/b) or (b)Oven(/b).
-It doesn't last for long so it's better to store (b)Grain(/b) and only produce (b)Bread(/b) right before it is consumed.
+(b)小麦粉(/b)と水をこねて、(b)囲炉裏(/b)または(b)かまど(/b)で焼いた食べ物です。
+長持ちしないため、(b)穀物(/b)を貯蔵しておき、消費される直前に、(b)パン(/b)を生産するのがより良い方法です。
 	</string>
 	
 	<string name="pulses_help_description">
-The seeds of many types of legume fruits. They need to be (b)cooked(/b) before they can be eaten.
+マメ。 食べる前に(b)調理(/b)する必要があります。
 	</string>
 	
 	<string name="milk_help_description">
-A nutritious drink obtained from domestic (b)Goats(/b) or (b)Cattle(/b).
+(b)ヤギ(/b)または(b)牛(/b)から得た栄養価の高い飲み物です。
 	</string>
 	
 	<string name="water_help_description">
-Having dedicated water collectors that carry water from rivers, lakes, or wells is more (b)efficient(/b) that having everyone go to the water source every time.
-Stabled (b)animals(/b) need to be brought (b)Water(/b) in (b)winter(/b), or they will die of thirst.
+川、湖、井戸から水を集めてためておくことは、一人ひとりが毎回水源に行くよりも効率的です。
+(b)家畜(/b)は(b)冬(/b)に(b)水(/b)を与える必要があります。さもなければ喉の渇きで死亡します。
 	</string>
 	
-	<string name="beer_short_description">Recovers morale and hydration</string>		
+	<string name="beer_short_description">士気と水分を回復</string>		
 	<string name="beer_help_description">
-A mild alcoholic drink obtained by brewing (b)Grain(/b) with (b)Water(/b). It boosts the (b)Morale(/b) of your people.
+(b)穀物(/b)と(b)水(/b)を醸造して得られるアルコール飲料です。人々の(b)士気(/b)を高めます。
 	</string>
 	
 	
   <!-- === Clothing === -->
 
-	<string name="skins_outfit_short_description">Warm outfit made of animal hide</string>
+	<string name="skins_outfit_short_description">動物の皮から作られた暖かい衣装</string>
 	<string name="skins_outfit_help_description">
-An outfit made from animal (b)skins(/b), which offers excellent (b)protection(/b) against the (b)cold(/b) in winter.
-It also increases (b)welfare(/b), and offers slight protection in combat.
+冬の(b)寒さ(/b)に対して優れた(b)保護(/b)を提供する動物の(b)皮(/b)から作られた服です。
+(b)福祉(/b)を増加させ、そして戦闘においてわずかな保護を提供します。
 	</string>
 
-	<string name="leather_outfit_short_description">Light outfit made of leather</string>
+	<string name="leather_outfit_short_description">革でできた薄手の服</string>
 	<string name="leather_outfit_help_description">
-Clothing made from (b)Leather(/b), to be worn during warm seasons.
-It also increases (b)welfare(/b), and offers slight protection in combat.
+暖かい季節に着用する、(b)革(/b)から作られた服です。
+(b)福祉(/b)を増加させ、そして戦闘においてわずかな保護を提供します。
 	</string>
 	
-	<string name="wool_outfit_short_description">Warm and stylish outfit</string>
+	<string name="wool_outfit_short_description">暖かくスタイルの良い衣装</string>
 	<string name="wool_outfit_help_description">
-A warm outfit to (b)protect(/b) from the (b)cold(/b) in low temperatures.
-It also increases (b)welfare(/b), and offers slight protection in combat.
-(b)Wool Outfits(/b) are more (b)durable(/b) than (b)Skins Outfits(/b), and provide more (b)welfare(/b).
+冬の(b)寒さ(/b)に対して(b)保護(/b)を提供する服です。
+(b)福祉(/b)を増加させ、そして戦闘においてわずかな保護を提供します。
+また、(b)羊毛の服(/b)は、(b)皮の服(/b)よりも(b)耐久性(/b)が高く、そして多くの(b)福祉(/b)を提供します。
 	</string>
 	
-	<string name="linen_outfit_short_description">Light and stylish outfit</string>
+	<string name="linen_outfit_short_description">亜麻でできた薄手の服</string>
 	<string name="linen_outfit_help_description">
-A light outfit to wear in warm temperatures.
-It also increases (b)welfare(/b), and offers slight protection in combat.
-(b)Linen Outfits(/b) are more (b)durable(/b) than (b)Leather Outfits(/b), and provide more (b)welfare(/b).
+暖かいときに着用するための薄手の服です。
+(b)福祉(/b)を増加させ、そして戦闘においてわずかな保護を提供します。
+また、(b)リネンの服(/b)は(b)革の服(/b)よりも(b)の耐久性(/b)が高く、そして多くの(b)福祉(/b)を提供します。
 	</string>	
 	
   <!-- === TECHS: categories === -->
