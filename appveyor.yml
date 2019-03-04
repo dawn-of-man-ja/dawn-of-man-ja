@@ -1,5 +1,8 @@
 skip_branch_with_pr: true
 build: off
+init:
+- ps: Set-WinSystemLocale ja-JP
+- ps: Restart-Computer
 only_commits:
   message: /\[release\]/
 #please disable steam guard

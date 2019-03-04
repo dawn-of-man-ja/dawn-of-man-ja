@@ -1,6 +1,5 @@
 $ErrorActionPreference="Stop"
-chcp 65001
-Set-Item env:LANG -Value ja_JP.UTF-8
+#Set-Item env:LANG -Value ja_JP.UTF-8
 #APPVEYOR_REPO_COMMITの文字化け対策
 
 if(Test-Path Variable:env:changenote){
