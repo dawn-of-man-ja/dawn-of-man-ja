@@ -2,7 +2,7 @@ skip_branch_with_pr: true
 image: Visual Studio 2017
 build: off
 init: 
-  - git --global config i18n.commitEncoding utf-8
+  - git config --global i18n.commitEncoding utf-8
 #- ps: Set-WinSystemLocale ja-JP
 #- ps: Start-Sleep -s 5
 #- ps: Restart-Computer
