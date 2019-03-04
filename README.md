@@ -5,5 +5,7 @@
 ## 編集する人向け
 ```
 git clone https://github.com/tignear/dawn-of-man-ja.git <dir>
-mklink /D <dir>/Strings Documents\DawnOfMan\Strings
+mklink /D <dir>\Strings Documents\DawnOfMan\Strings
 ```
+
+煮るなり焼くなり好きにしてください。
