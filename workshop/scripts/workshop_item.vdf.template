@@ -1,7 +1,7 @@
 "workshopitem"
 {
 	"appid"             "858810"                                    // ID for Dawn of Man, do not modify
-	"publishedfileid"   "<publishedfileid>"                                 		// Should be 0 to create a new item, or the item ID to update
+	"publishedfileid"   "1673010962"                                 		// Should be 0 to create a new item, or the item ID to update
 	"contentfolder"     "..\..\Strings"                                // Folder where the xml files are
 	"previewfile"       "..\..\preview.png"                    // Path for the preview image
 	"visibility"        "0"                                         // 0 = public, 1 = friends, 2 = private
