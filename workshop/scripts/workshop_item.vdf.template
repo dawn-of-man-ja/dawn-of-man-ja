@@ -6,6 +6,5 @@
 	"previewfile"       "..\..\preview.png"                    // Path for the preview image
 	"visibility"        "0"                                         // 0 = public, 1 = friends, 2 = private
 	"title"             "Dawn Of Man日本語化"  								// This will be the title of the item in the Steam Workshop
-	"description"       "Dawn Of Manの日本語化modです。CIのテスト中"                               // This will be the description of the item the Steam Workshop
 	"changenote"        "<changenote>"                             // This will appear as release notes for this version
 }
