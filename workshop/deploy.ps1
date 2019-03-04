@@ -1,4 +1,4 @@
-$OutputEncoding = [System.Text.Encoding]::GetEncoding('shift_jis')
+Write-Host $OutputEncoding.EncodingName
 if(Test-Path Variable:env:publishedfileid){
     $publishedfileid=$env:publishedfileid
 }else{
