@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--ci test dummy-->
 <strings>
-
 	<string name="achievement_completed">達成した実績: (1)</string>
 
 	<string name="achievement_launch_forth">Launch Forth</string>
