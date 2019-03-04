@@ -10,5 +10,5 @@ environment:
     secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
-  - "chcp 65001;echo %APPVEYOR_REPO_COMMIT_MESSAGE%"
+  - "chcp 65001 && echo %APPVEYOR_REPO_COMMIT_MESSAGE%"
   - ps: ./workshop/deploy.ps1
