@@ -110,7 +110,7 @@
 	<string name="settlement_trade">村 取引</string>
 	<string name="settlement_stock">村の在庫</string>
 	<string name="no_items">アイテムがない</string>
-	<string name="ok">取引</string>
+	<string name="ok">はい</string>
 	<string name="cancel">キャンセル</string>
 	<string name="trade_value">数量</string>
 	<string name="trade_commission">手数料</string>
