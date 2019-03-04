@@ -1,4 +1,4 @@
-chcp 65001
+$OutputEncoding = [System.Text.Encoding]::GetEncoding('shift_jis')
 if(Test-Path Variable:env:publishedfileid){
     $publishedfileid=$env:publishedfileid
 }else{
