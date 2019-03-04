@@ -1,7 +1,7 @@
 skip_branch_with_pr: true
 build: off
 only_commits:
-  message: /[release]/
+  message: /\[release\]/
 #please disable steam guard
 environment:
   steam_user:
