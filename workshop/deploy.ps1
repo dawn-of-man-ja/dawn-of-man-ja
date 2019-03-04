@@ -9,7 +9,7 @@ if(Test-Path Variable:env:changenote){
     Write-Host "query:$query"
     $res=Invoke-RestMethod -Uri $query -Method GET
    
-    $changenote=$res.message
+    $changenote=$res.message.Replace("[release]","")
 }
 
 Write-Host "changenote:$changenote"
