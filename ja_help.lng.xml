@@ -30,28 +30,27 @@
 	<string name="help_produced_resources">作り出される資源</string>
 	<string name="help_input_resources">使う資源</string>
 
-	<string name="hint_0">Gather (b)Berries(/b) and (b)Fruit(/b) during summer and save longer lasting resources such as (b)Cured Meat(/b), (b)Dry Fish(/b), and (b)Grain(/b) for winter.</string>
-	<string name="hint_1">(b)Avoid(/b) targeting (b)healthy adult(/b) animals when hunting in the (b)early game(/b), as they are hard to kill and might fight back.</string>
-	<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
-	<string name="hint_3">Don't (b)expand(/b) too fast if you don't have the (b)infrastructure(/b) to feed your people.</string>
-	<string name="hint_4">(b)Domestic animals(/b) need to be (b)fed(/b) and given (b)water(/b) in (b)winter(/b). Avoid having too many if you can not maintain them.</string>
-	<string name="hint_5">In (b)paleolithic(/b) hunter-gatherer societies, (b)conflict(/b) was (b)rare(/b), as the human populations were sparse. From the (b)neolithic onward(/b), though, you really need to be prepared for (b)battle(/b).</string>
-	<string name="hint_6">It's (b)hard(/b) to achieve (b)large populations(/b) in the (b)early(/b) eras. Only with farming and other technologies will you be able to sustain a large settlement.</string>
-	<string name="hint_7">Make sure that when (b)winter(/b) comes you have plenty of (b)non perishable food(/b) in storage, otherwise starvation will be a serious problem.</string>
-	<string name="hint_8">Getting someone to go to rivers, lakes, or wells to (b)collect and store water(/b) is way more (b)efficient(/b) than having your people go drink away from the settlement every time.</string>
-	<string name="hint_9">You can (b)customize(/b) the panels at the top of the screen by clicking on the (b)+(/b) buttons next to them.</string>	
-	<string name="hint_10">(b)Pivot the camera(/b) around a point by pressing both (b)pan(/b) and (b)rotate(/b) keys at the same time.</string>
-	<string name="hint_11">In (b)standard(/b) difficulty, raider (b)technology(/b) will (b)match(/b) your current era, so be careful before advancing too quickly.</string>
-	<string name="hint_12">In (b)hardcore(/b) difficulty, attackers will advance their (b)technology(/b) at their (b)own pace(/b), so you should not take too long to progress through the eras.</string>
-	<string name="hint_13">You can tell your people to go (b)rest(/b) or (b)shelter(/b) by selecting them and (b)right clicking(/b) on a (b)structure(/b).</string>
-	<string name="hint_14">When people get (b)hurt(/b) there is a chance they might catch an (b)infection(/b), which could be fatal.</string>
-	<string name="hint_15">You can give (b)commands(/b) to your people by (b)selecting(/b) them and (b)right clicking(/b) on the terrain or on an object.</string>
-	<string name="hint_16">You can (b)command(/b) your people to (b)sprint(/b) to a location by selecting them and (b)double right clicking(/b) on the terrain.</string>
-	<string name="hint_17">You can (b)quicksave(/b) the game by pressing (b)F9(/b).</string>
-	<string name="hint_18">(b)Double click(/b) on a plant, being or building to select all similar (b)nearby entities(/b).</string>
-	<string name="hint_19">You can press the (camera_center_town_key) key to move the camera back to town.</string>
-	<string name="hint_20">You can hold the (hunter_selection_key) and (fighter_selection_key) keys while dragging the mouse to select people with (b)hunting(/b) or (b)fighting(/b) tools only.</string>
-	<string name="hint_21">You can use (b)primal vision(/b) mode to highlight (b)work areas(/b).</string>
+	<string name="hint_0">夏には(b)ベリー(/b)や(b)果物(/b)を採取して食べることで、(b)干し肉(/b)、(b)魚の干物(/b)、(b)穀物(/b)などの日持ちする食材を冬に備えてとっておくことができます。</string>
+	<string name="hint_1">ゲーム初期の狩猟の際、殺すのが難しく反撃を受ける可能性もあるため、健康な大人の動物を狩るのは避けてください。<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
+	<string name="hint_3">(b)インフラ(/b)に見合わない(b)拡張(/b)をしないでください。	</string>
+	<string name="hint_4">(b)家畜(/b)に、(b)冬(/b)に(b餌(/b)と(b)水(/b)を与える必要があるため、家畜を増やしすぎないようにしてください。</string>
+	<string name="hint_5">(b)旧石器時代(/b)の狩猟採集社会では、人口がまばらであったため、(b)紛争(/b)は(b)まれ(/b)な出来事でした。しかし、(b)新石器時代(/b)からは、(b)戦い(/b)への備えが必要です。</string>
+	<string name="hint_6">(b)初期の(/b)時代に(b)大きな人口(/b)を達成するのは(b)難しい(/b)ことです。 農業や他の技術がなければ大規模な村を維持することができません。</string>
+	<string name="hint_7">(b)冬(/b)が来る前に、(b)腐りにくい食べ物(/b)がたくさんあることを確認してください。そうしないと、飢餓が深刻な問題になります。</string>
+	<string name="hint_8">川、湖、井戸などから(b)水を汲んで貯めておく(/b)このは、村から人々が毎回、川、湖、井戸などに水を飲みに行くよりも効率的です。</string>
+	<string name="hint_9">パネルの横にある(b)+(/b)ボタンをクリックして、画面上部のパネルを(b)カスタマイズ(/b)できます。</string>	
+	<string name="hint_10">(b)移動(/b)キーと(b)回転(/b)キーを同時に押して、カメラを一点の周りで(b)回転(/b)させます。</string>
+	<string name="hint_11">(b)ノーマル(/b)では、侵入者の(b)技術(/b)は(b)あなたの現在の時代と一致する(/b)ので、注意深く時代を進めてください。</string>
+	<string name="hint_12">(b)ハードコア(/b)では、侵入者は(b)自分のペース(/b)で自分の(b)技術(/b)を進歩させるでしょう。</string>
+	<string name="hint_13">人々を選択し(b)建造物を右クリック(/b)することでその建物で(b休息(/b)をとるかその建物に(b)避難(/b)するように指示することができます。</string>
+	<string name="hint_14">人が(b)けが(/b)をすると(/b)、(b)感染を引き起こす(/b)可能性があります。これは致命的な場合があります。</string>
+	<string name="hint_15">人々を(b)選択(/b)し。地形またはオブジェクト上で(b)右クリック(/b)することによって、(b)指示(/b)を与えることができます。</string>
+	<string name="hint_16">(b)右ダブルクリック(/b)することで人々に(b)走って(/b)そこに行くように(b)指示(/b)することができます。</string>
+	<string name="hint_17">(b)F9(/b)キーでクイックセーブが可能です。</string>
+	<string name="hint_18">植物、建物を(b)左ダブルクリック(/b)して、近くにあるすべての同じ種類の(b)エンティティ(/b)を選択します。</string>
+	<string name="hint_19">カメラを村に戻すには、(camera_center_town_key)キーを押します。</string>
+	<string name="hint_20">マウスをドラッグしながら(hunter_selection_key)キーと(fighter_selection_key)キーを押したままにすると、(b)格闘(b)または(b)戦闘(b)ようの道具をもった人のみを選択できます。</string>
+	<string name="hint_21">(b)原始の視覚(b)を使用して、(b)作業領域(b)を強調表示することができます。</string>
 
 
 	<string name="help_main_title">Dawn of Man</string>
@@ -801,7 +800,7 @@
 	<string name="charcoal_short_description">鉱石を精錬するために炉で使用される</string>
 	<string name="charcoal_help_description">
 酸素のない状態で(b)木材(/b)を加熱して作られます。
-(b)鉱石(/b)の(b)製錬(/b)に使用できる。
+(b)鉱石(/b)の(b)製錬(/b)に使用できます。
 	</string>
 
 	<string name="copper_ore_help_description">
@@ -818,7 +817,7 @@
 
 	<string name="copper_short_description">柔らかい金属</string>
 	<string name="copper_help_description">
-入手が容易で基本的な道具に加工できる、(b)柔らかい金属(/b)。
+入手が容易で基本的な道具に加工できる、(b)柔らかい金属(/b)です。
 	</string>	
 
 	<string name="bronze_short_description">硬くて丈夫な金属</string>
