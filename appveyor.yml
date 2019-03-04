@@ -1,11 +1,13 @@
 skip_branch_with_pr: true
+build: off
 only_commits:
   message: /[release]/
 #please disable steam guard
 environment:
   steam_user:
     secure: OPbou3AawqwL3tBdRIcIyA==
-  steam_passwoed:
+  steam_password:
     secure: vFVCpC2RGPS9OufyEfTTlg==
+  
 deploy_script:
-  - ps: ./workshop/build.ps1
+  - ps: ./workshop/deploy.ps1
