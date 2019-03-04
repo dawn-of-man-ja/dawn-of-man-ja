@@ -1,7 +1,14 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ae8dy648sar8hknr?svg=true)](https://ci.appveyor.com/project/tignear/dawn-of-man-ja)
+
 # Dawn Of Manの日本語訳
+
 煮るなり焼くなり好きにしてください。
-## 普通に使う
-右上のClone Or downloadからDownload zipを押してダウンロード。
+
+## SteamWorkShop
+[SteamWorkShopのページ](https://steamcommunity.com/sharedfiles/filedetails/?id=1673010962)
+
+## ダウンロードして使う
+右上のClone Or downloadからDownload zipを押してダウンロード。  
 そして展開。その後Stringsフォルダの中身をDocuments\DawnOfMan\Stringsにコピー。
 ## 編集する人向け
 ```
