@@ -707,7 +707,7 @@
 	<string name="description_falling">落下</string>
 	<string name="description_celebrating">祝う</string>
 	<string name="description_pulling">荷車を引く</string>
-	<string name="description_wandering">うろちょろ</string>
+	<string name="description_wandering">うろうろ</string>
 	<string name="description_following">従う</string>
 	
 	<!-- Game actions -->
