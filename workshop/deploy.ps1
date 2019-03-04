@@ -1,5 +1,4 @@
 $ErrorActionPreference="Stop"
-chcp 65001
 #APPVEYOR_REPO_COMMITの文字化け対策
 
 
