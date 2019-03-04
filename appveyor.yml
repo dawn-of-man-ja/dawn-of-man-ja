@@ -1,7 +1,8 @@
 skip_branch_with_pr: true
 image: Visual Studio 2017
 build: off
-init:
+init: 
+  - "git config --global core.quotepath true"
 #- ps: Set-WinSystemLocale ja-JP
 #- ps: Start-Sleep -s 5
 #- ps: Restart-Computer
