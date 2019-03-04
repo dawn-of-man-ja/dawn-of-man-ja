@@ -1,6 +1,7 @@
 $ErrorActionPreference="Stop"
 #APPVEYOR_REPO_COMMITの文字化け対策
-Set-Item env:LANG -Value ja_JP.sjis
+chcp 65001
+$env:LANG = "en_US.UTF-8";
 
 if(Test-Path Variable:env:changenote){
     $changenote=$env:changenote
