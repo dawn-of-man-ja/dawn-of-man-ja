@@ -5,13 +5,13 @@ $env:LANG = "en_US.UTF-8";
 if(Test-Path Variable:env:changenote){
     $changenote=$env:changenote
 }else{
-    $changenote=git log -1 --pretty=%B
+    $changenote=git log -1 --pretty=%B --encoding=utf8
 }
 
 Write-Host "changenote:$changenote"
 $content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<changenote>",$changenote) 
 #$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-$scriptDir=Split-Path $myInvocation.MyCommand.Path -Parent
+$scriptDir=Split-Path $myInvocation.MyCommand.Path -Parent 
 $path=[IO.Path]::Combine($scriptDir,".\workshop_item.vdf")
 Write-Host "path:$path"
 
