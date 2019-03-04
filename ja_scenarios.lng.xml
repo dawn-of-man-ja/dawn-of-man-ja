@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="scenario_the_steppes">The Steppes</string>
-	<string name="scenario_the_steppes_subtitle">Difficult</string>
-	<string name="scenario_neolithic_village">Neolithic Village</string>
-	<string name="scenario_neolithic_village_subtitle">Start from neolithic</string>
-	<string name="scenario_metal_age_village">Metal Age Village</string>
-	<string name="scenario_metal_age_village_subtitle">Metal Age test</string>
-	<string name="scenario_stress_test">Stress Test</string>
-	<string name="scenario_stress_test_subtitle">GPU/CPU stress test</string>
-	<string name="scenario_model_test">Model Test</string>
-	<string name="scenario_model_test_subtitle">Work with models</string>
+	<string name="scenario_the_steppes">ステップ</string>
+	<string name="scenario_the_steppes_subtitle">難しい</string>
+	<string name="scenario_neolithic_village">新石器時代の村</string>
+	<string name="scenario_neolithic_village_subtitle">新石器時代から始める</string>
+	<string name="scenario_metal_age_village">金属時代の村</string>
+	<string name="scenario_metal_age_village_subtitle">金属時代のテスト</string>
+	<string name="scenario_stress_test">ストレステスト</string>
+	<string name="scenario_stress_test_subtitle">GPU/CPUストレステスト</string>
+	<string name="scenario_model_test">モデル試験</string>
+	<string name="scenario_model_test_subtitle">モデルを操作する</string>
 	
-	<string name="goal_pending">Pending</string>
-	<string name="goal_completed">Completed</string>	
+	<string name="goal_pending">待機</string>
+	<string name="goal_completed">完了</string>	
 	
-	<string name="speed_hint">Use button or press (timescale8_key) to set game speed to 8x.</string>	
+	<string name="speed_hint">ボタンを使用するか(timescale8_key)を押してゲーム速度を8倍に設定できます。</string>	
 </strings>

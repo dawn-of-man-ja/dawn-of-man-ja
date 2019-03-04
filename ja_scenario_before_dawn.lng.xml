@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="scenario_before_dawn">Before Dawn</string>
-	<string name="scenario_before_dawn_subtitle">Extreme</string>
-	<string name="scenario_before_dawn_description">Build a Paleolithic Settlement. Very few techs are available.</string>
-	<string name="scenario_before_dawn_context">About 22,000 years ago, the last glacial period was at it's peak. Most of the planet was covered in ice and life was extremely harsh.</string>
+	<string name="scenario_before_dawn">夜明け前に</string>
+	<string name="scenario_before_dawn_subtitle">とても難しい</string>
+	<string name="scenario_before_dawn_description">旧石器時代の村を作ります。 利用できる技術はほとんどありません。</string>
+	<string name="scenario_before_dawn_context">約22、000年前、地球は最後の氷河期のピークでした。地球の大部分は氷で覆われていて、人生は非常に過酷でした。</string>
 	
-	<string name="goal_before_dawn_main">Reach a population of 50</string>	
+	<string name="goal_before_dawn_main">人口が50人に到達</string>	
 	
-	<string name="before_dawn_well_done">Well done</string>	
-	<string name="before_dawn_completed">You've survived the scenario</string>		
+	<string name="before_dawn_well_done">よくやった。</string>	
+	<string name="before_dawn_completed">あなたはシナリオを生き残った</string>		
 </strings>

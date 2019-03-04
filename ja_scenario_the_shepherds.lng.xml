@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="scenario_the_shepherds">The Shepherds</string>
-	<string name="scenario_the_shepherds_subtitle">Difficult</string>
+	<string name="scenario_the_shepherds">羊飼い</string>
+	<string name="scenario_the_shepherds_subtitle">難しい</string>
 	<string name="scenario_the_shepherds_description">
-Develop your own herd:
-• Reach 50 animal population
-• Build 4 stables
+自分の群れを作る:
+•50個体数に達する
+•4つの馬小屋を造る
 	</string>
 	<string name="scenario_the_shepherds_context">
-Your village hunted down nearby animals for years, but their populations have now dwindled drastically, now you need to domesticate and protect your own herd.
+村が何年もの間近くの動物を狩りつづけたため周辺の動物は劇的に減少しています。
 	</string>
 	
-	<string name="goal_the_shepherds_herd">Reach 50 animal population</string>
-	<string name="goal_the_shepherds_stables">Build 4 stables</string>
+	<string name="goal_the_shepherds_herd">動物が50体に達する</string>
+	<string name="goal_the_shepherds_stables">4つ厩舎を建てる</string>
 
-	<string name="the_shepherds_well_done">Well done</string>	
-	<string name="the_shepherds_completed">You will now be able to survive in this environment.</string>		
+	<string name="the_shepherds_well_done">よくやった</string>	
+	<string name="the_shepherds_completed">あなたは今この環境で生き残ることができるでしょう。</string>		
 </strings>

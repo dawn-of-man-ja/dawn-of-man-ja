@@ -82,8 +82,8 @@
 	</string>
 	
 	<!-- Community -->
-	<string name="community_workshop_text">No community scenarios available.(n)(n)Use button at the bottom of this screen to download scenarios from the Steam Workshop.</string>
-	<string name="community_generic_text">No community scenarios available.(n)(n)You can download community scenarios and place them in the Documents/DawnOfMan/Scenarios folder.</string>
+	<string name="community_workshop_text">利用可能なコミュニティシナリオはありません。(n)(n)Steam Workshopからシナリオをダウンロードするには、この画面の下部にあるボタンを使用します。</string>
+	<string name="community_generic_text">利用可能なコミュニティシナリオはありません。(n)(n)コミュニティシナリオをダウンロードして、Documents/DawnOfMan/Scenariosフォルダに配置できます。</string>
 
 	<!-- Disasters -->
 	<string name="disaster_storm">嵐</string>
@@ -502,7 +502,7 @@
 	<string name="buildable_category_residence">住居</string>
 	<string name="buildable_category_storage">貯蔵庫</string>
 	<string name="buildable_category_production">生産</string>
-	<string name="buildable_category_defensive">防衛</string>
+	<string name="buildable_category_defensive">防衛施設</string>
 	<string name="buildable_category_metallurgy">鍛冶</string>
 	<string name="buildable_category_spiritual">信仰</string>
 	<string name="buildable_category_transport">輸送</string>
@@ -636,8 +636,8 @@
 	<string name="tooltip_animal_count">動物</string>
 	<string name="tooltip_sheltering_animals">小屋が必要な動物</string>
 	<string name="tooltip_animal_capacity">小屋のスペース</string>
-	<string name="tooltip_steam_workshop_scenarios">Download scenarios from the Steam Workshop</string>
-	<string name="tooltip_steam_workshop_languages">Download languages from the Steam Workshop</string>	
+	<string name="tooltip_steam_workshop_scenarios">Steam Workshopからシナリオをダウンロードする</string>
+	<string name="tooltip_steam_workshop_languages">Steam Workshopから言語をダウンロードする</string>	
 	<string name="tooltip_scenario_not_completed">シナリオを未クリア</string>
 	<string name="tooltip_scenario_completed">シナリオをクリア</string>
 	<string name="tooltip_scenario_completed_hardcore">ハードコアでシナリオをクリア</string>

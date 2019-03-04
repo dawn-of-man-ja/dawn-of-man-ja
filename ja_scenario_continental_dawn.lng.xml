@@ -8,40 +8,40 @@
 	<string name="mountain_lake">Mountain Lake</string>	
 	<string name="merging_streams">Merging Streams</string>
 
-	<string name="scenario_continental_dawn">Continental Dawn</string>
-	<string name="scenario_continental_dawn_subtitle">Accessible</string>
-	<string name="scenario_continental_dawn_description">Grow and evolve your settlement, from the Paleolithic to the Iron Age.</string>
-	<string name="scenario_continental_dawn_context">About 12,000 years ago the last glacial period had just ended. This made most of continental Europe a lot easier to inhabit, human populations thrived and the Neolithic revolution started.</string>
+	<string name="scenario_continental_dawn">大陸の夜明け</string>
+	<string name="scenario_continental_dawn_subtitle">簡単</string>
+	<string name="scenario_continental_dawn_description">旧石器時代から鉄器時代まで、あなたの村を成長させてください。</string>
+	<string name="scenario_continental_dawn_context">約1万2千年前、最後の氷河期が終わったばかりの頃です。 これにより、ヨーロッパ大陸の大部分が住みやすくなり、人口が増え、新石器時代が始まりました。</string>
 
-	<string name="milestone_hunting_and_gathering">Hunting and Gathering</string>
-	<string name="milestone_hunting_and_gathering_description">Accumulate 3 units of Raw Meat and 3 units of Berries</string>
-	<string name="milestone_hunting_and_gathering_text">You now know the basics</string>
+	<string name="milestone_hunting_and_gathering">狩猟と収集</string>
+	<string name="milestone_hunting_and_gathering_description">3つの生肉と3つの果実をもつ</string>
+	<string name="milestone_hunting_and_gathering_text">あなたは基本を抑えている</string>
 	
-	<string name="milestone_survival">Survival</string>
-	<string name="milestone_survival_description">Survive 2 years</string>
+	<string name="milestone_survival">サバイバル</string>
+	<string name="milestone_survival_description">2年生き延びる</string>
 
-	<string name="milestone_humble_beginnings">Humble Beginnings</string>
-	<string name="milestone_humble_beginnings_description">Unlock the Mesolithic era</string>
+	<string name="milestone_humble_beginnings">ささやかな始まり</string>
+	<string name="milestone_humble_beginnings_description">中石器時代に突入する</string>
 	
-	<string name="milestone_expansion">Expansion</string>
-	<string name="milestone_expansion_description">Get 20 people in your settlement</string>
+	<string name="milestone_expansion">拡張</string>
+	<string name="milestone_expansion_description">人口が20人に到達</string>
 
-	<string name="milestone_neofarmer">Neofarmer</string>
-	<string name="milestone_neofarmer_description">Unlock all neolithic founder crops</string>
+	<string name="milestone_neofarmer">農家</string>
+	<string name="milestone_neofarmer_description">新石器時代の作物の栽培の技術のロックをすべて解除</string>
 
-	<string name="milestone_megalomania">Megalomania</string>
-	<string name="milestone_megalomania_description">Build stone circle</string>
+	<string name="milestone_megalomania">誇大妄想</string><!--TODO-->
+	<string name="milestone_megalomania_description">ストーンサークルを作る</string>
 
-	<string name="milestone_animal_control">Animal Control</string>
-	<string name="milestone_animal_control_description">Get 20 domestic animals</string>
+	<string name="milestone_animal_control">動物の管理</string>
+	<string name="milestone_animal_control_description">家畜を20匹得る</string>
 
-	<string name="milestone_metal_alloy">Metal Alloy</string>
-	<string name="milestone_metal_alloy_description">Obtain 1 unit of Bronze</string>
+	<string name="milestone_metal_alloy">合金</string>
+	<string name="milestone_metal_alloy_description">青銅を1つ手に入れる</string>
 
-	<string name="milestone_the_riddle_of_steel">The Riddle of Steel</string>
-	<string name="milestone_the_riddle_of_steel_description">Obtain 1 unit of Steel</string>
+	<string name="milestone_the_riddle_of_steel">鋼の謎</string>
+	<string name="milestone_the_riddle_of_steel_description">鋼鉄を1つ手に入れる</string>
 
-	<string name="milestone_consolidation">Consolidation</string>
-	<string name="milestone_consolidation_description">Get 100 people in your settlement</string>
+	<string name="milestone_consolidation">つながり</string>
+	<string name="milestone_consolidation_description">人口が100人に到達</string>
 
 </strings>

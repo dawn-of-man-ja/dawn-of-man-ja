@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="scenario_ancient_warriors">Ancient Warriors</string>
-	<string name="scenario_ancient_warriors_subtitle">Difficult</string>
-	<string name="scenario_ancient_warriors_description">Develop your settlement in a hostile environment.</string>	
-	<string name="scenario_ancient_warriors_context">In some regions, the lack of resources and overcrowding resulted in violent conflicts between the human populations.</string>		
+	<string name="scenario_ancient_warriors">古代の戦士</string>
+	<string name="scenario_ancient_warriors_subtitle">難しい</string>
+	<string name="scenario_ancient_warriors_description">難しい環境であなたの村を発展させてください。</string>	
+	<string name="scenario_ancient_warriors_context">いくつかの地域では、資源の不足と過密のために、人々の間に激しい衝突が生じました。</string>		
 	<string name="canyon_of_slaughter">Canyon of Slaughter</string>
 	<string name="blood_river">Blood River</string>
 	<string name="plains_of_conflict">Plains of Conflict</string>
 	<string name="blood_lake">Blood Lake</string>	
 	
-	<string name="milestone_first_blood">First Blood</string>	
-	<string name="milestone_first_blood_description">Kill 1 Raider</string>
+	<string name="milestone_first_blood">最初の流血</string>	
+	<string name="milestone_first_blood_description">侵入者を1人殺す</string>
 	
-	<string name="milestone_basic_defense">Basic Defense</string>	
-	<string name="milestone_basic_defense_description">Build 5 Watchtowers</string>
+	<string name="milestone_basic_defense">基本的な防衛体制</string>	
+	<string name="milestone_basic_defense_description">見張り台を5つ建てる</string>
 	
-	<string name="milestone_advanced_defense">Advanced Defense</string>	
-	<string name="milestone_advanced_defense_description">Build 5 Guard Towers</string>
+	<string name="milestone_advanced_defense">発展的な防衛体制</string>	
+	<string name="milestone_advanced_defense_description">監視塔を5つ建てる</string>
 	
-	<string name="milestone_weapon_production">Weapon Production</string>	
-	<string name="milestone_weapon_production_description">Build Workshop and Metalsmith</string>	
+	<string name="milestone_weapon_production">武器の生産</string>	
+	<string name="milestone_weapon_production_description">工房と金工を建てる</string>	
 	
-	<string name="milestone_rivers_of_blood">Rivers of Blood</string>	
-	<string name="milestone_rivers_of_blood_description">Kill 100 Raiders</string>
+	<string name="milestone_rivers_of_blood">血の川</string>	
+	<string name="milestone_rivers_of_blood_description">侵入者を100人殺す</string>
 	
-	<string name="milestone_swordmaking">Swordmaking</string>	
-	<string name="milestone_swordmaking_description">Accumulate 5 Bronze Swords</string>
+	<string name="milestone_swordmaking">剣の製造</string>	
+	<string name="milestone_swordmaking_description">青銅の剣を5つ持つ</string>
 	
-	<string name="milestone_swordmastery">Swordmastery</string>	
-	<string name="milestone_swordmastery_description">Accumulate 20 Steel Swords</string>	
+	<string name="milestone_swordmastery">刀使い</string>	
+	<string name="milestone_swordmastery_description">鋼鉄の剣を20個もつ</string>	
 	
-	<string name="milestone_warrior_settlement">Warrior Settlement</string>
-	<string name="milestone_warrior_settlement_description">Get 150 people in your settlement</string>
+	<string name="milestone_warrior_settlement">戦士の村</string>
+	<string name="milestone_warrior_settlement_description">人口が150人に到達</string>
 </strings>

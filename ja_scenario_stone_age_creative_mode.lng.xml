@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
-	<string name="creative_mode">Creative Mode</string>
+	<string name="creative_mode">クリエイティブモード</string>
 	
-	<string name="scenario_stone_age_creative_mode">Stone Age Creative Mode</string>
-	<string name="scenario_stone_age_creative_mode_short_title">Stone Age</string>
-	<string name="scenario_stone_age_creative_mode_subtitle">Easy</string>
+	<string name="scenario_stone_age_creative_mode">クリエイティブモード(石器時代)</string>
+	<string name="scenario_stone_age_creative_mode_short_title">石器時代</string>
+	<string name="scenario_stone_age_creative_mode_subtitle">簡単</string>
 	<string name="scenario_stone_age_creative_mode_description">
-Creative Mode, starting in the Stone Age.
-• Plenty of resources
-• No attacks
-• No disasters
-• Short winters
-• No achievements
+石器時代から始まるクリエイティブモード。
+•豊富なリソース
+•攻撃なし
+•災害なし
+•短い冬
+•実績なし
 	</string>
 	<string name="scenario_stone_age_creative_mode_context"></string>
 

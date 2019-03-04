@@ -6,33 +6,33 @@
 	<string name="twin_lakes">Twin Lakes</string>
 	<string name="chill_lake">Chill Lake</string>	
 	
-	<string name="scenario_the_northlands">The Northlands</string>
-	<string name="scenario_the_northlands_subtitle">Challenging</string>
-	<string name="scenario_the_northlands_description">Grow and evolve your settlement in a harsh environment.</string>
-	<string name="scenario_the_northlands_context">In the northern regions, long winters, short summers and sparse resources made survival a lot harder, and only the most determined humans could thrive.</string>
+	<string name="scenario_the_northlands">北の大地</string>
+	<string name="scenario_the_northlands_subtitle">挑戦的</string>
+	<string name="scenario_the_northlands_description">過酷な環境であなたの居住地を成長させてください。</string>
+	<string name="scenario_the_northlands_context">北部では、長い冬、短い夏、そしてまばらな資源が生存をより困難にし、そして最も強い人々だけが繁栄することができました。</string>
 
-	<string name="milestone_protein_hoarding">Protein Hoarding</string>
-	<string name="milestone_protein_hoarding_description">Accumulate 5 units of Cured meat and Dry Fish</string>
+	<string name="milestone_protein_hoarding">タンパク質の貯蔵</string>
+	<string name="milestone_protein_hoarding_description">干し肉と魚の干物を5個集める</string>
 
-	<string name="milestone_northern_survival">Northern Survival</string>
-	<string name="milestone_northern_survival_description">Survive 5 years</string>
+	<string name="milestone_northern_survival">ノーザンサバイバル</string>
+	<string name="milestone_northern_survival_description">5年生き延びる</string>
 	
-	<string name="milestone_winter_resistance">Winter Resistance</string>
-	<string name="milestone_winter_resistance_description">Accumulate 10 Skins Outfits</string>
+	<string name="milestone_winter_resistance">耐冬性</string>
+	<string name="milestone_winter_resistance_description">10個の皮の衣装を作る</string>
 	
-	<string name="milestone_winter_hunt">Winter Hunt</string>
-	<string name="milestone_winter_hunt_description">Hunt a Mammoth a Woolly Rhino and a Cave Bear</string>
+	<string name="milestone_winter_hunt">ウィンターハント</string>
+	<string name="milestone_winter_hunt_description">マンモス、ケブカサイとホラアナグマを狩る</string>
 	
-	<string name="milestone_winter_domestication">Winter Domestication</string>
-	<string name="milestone_winter_domestication_description">Have 10 Sheep at one time</string>
+	<string name="milestone_winter_domestication">冬の家畜化</string>
+	<string name="milestone_winter_domestication_description">一度に10匹の羊を飼う</string>
 	
-	<string name="milestone_extra_warmth">Extra Warmth</string>
-	<string name="milestone_extra_warmth_description">Unlock Brewing Tech</string>
+	<string name="milestone_extra_warmth">とても暖かい</string>
+	<string name="milestone_extra_warmth_description">醸造の技術のロックを解除する</string>
 
-	<string name="milestone_technocracy">Technocracy</string>
-	<string name="milestone_technocracy_description">Research all techs</string>	
+	<string name="milestone_technocracy">技術</string>
+	<string name="milestone_technocracy_description">すべての技術を研究</string>	
 	
-	<string name="milestone_north_settlement">North Settlement</string>
-	<string name="milestone_north_settlement_description">Build 30 Roundhouses and achieve a population of 150</string>			
+	<string name="milestone_north_settlement">北の村</string>
+	<string name="milestone_north_settlement_description">30個の円形住居を建設し、人口が150人に到達する</string>			
 	
 </strings>

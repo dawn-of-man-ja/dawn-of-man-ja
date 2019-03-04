@@ -2,29 +2,29 @@
 <strings>
 	<string name="bygone_tales">Bygone Tales</string>
 
-	<string name="scenario_the_long_march">The Long March</string>
-	<string name="scenario_the_long_march_subtitle">Accessible</string>
-	<string name="scenario_the_long_march_description">Guide the herd to the migration location.</string>
-	<string name="scenario_the_long_march_context">In this long glacial winter, even the Woolly Mammoth has to migrate in search for food.</string>
+	<string name="scenario_the_long_march">長い3月</string>
+	<string name="scenario_the_long_march_subtitle">やりやすい</string>
+	<string name="scenario_the_long_march_description">マンモスの群れを導く</string>
+	<string name="scenario_the_long_march_context">この長い氷河期の冬には、マンモスでさえ食料を求めて移動しなければなりません。</string>
 	
-	<string name="goal_the_long_march_location1">Reach the river fork</string>	
-	<string name="goal_the_long_march_location2">Reach the big lake</string>	
-	<string name="goal_the_long_march_location3">Reach the small lake</string>	
-	<string name="goal_the_long_march_location4">Reach the plains</string>		
-	<string name="goals_hint_the_long_march">Every Mammoth must survive</string>		
+	<string name="goal_the_long_march_location1">川の分岐点に達する</string>	
+	<string name="goal_the_long_march_location2">大きな湖に達する</string>	
+	<string name="goal_the_long_march_location3">小さな湖に達する</string>	
+	<string name="goal_the_long_march_location4">平野に達する</string>		
+	<string name="goals_hint_the_long_march">すべてのマンモスが生き残らなければなりません</string>		
 	
-	<string name="the_long_march_intro_title">The Long March</string>	
+	<string name="the_long_march_intro_title">長い3月</string>	
 	<string name="the_long_march_intro">
-In this scenario you control a (b)herd of Mammoths(/b).
-You can select them, then issue various commands:
-• (b)Right click(/b) on (b)terrain(/b): go there (double right click to sprint).
-• (b)Right click(/b) on other (b)animals(/b): attack.
-Beware of predators.
+このシナリオでは、(b)マンモスの群れ(/b)をコントロールします。
+マンモスを選択して、さまざまな指示を出せます。
+•(b)地形(/b)を(b)右クリック(/b)：そこへ移動。
+•(b)他の動物(/b)を(b)右クリック(/b)：攻撃。
+捕食者に注意してください。
 	</string>		
 	
-	<string name="the_long_march_well_done">Well done!</string>	
-	<string name="the_long_march_completed">Your herd has survived the march</string>		
+	<string name="the_long_march_well_done">よくやった!</string>	
+	<string name="the_long_march_completed">群れは3月を生き残った</string>		
 	
-	<string name="the_long_march_failed_title">Failed!</string>	
-	<string name="the_long_march_failed">Animals in your herd have died.</string>			
+	<string name="the_long_march_failed_title">失敗!</string>	
+	<string name="the_long_march_failed">群れの中の動物が死んでしまった。</string>			
 </strings>

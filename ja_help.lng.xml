@@ -32,9 +32,9 @@
 
 	<string name="hint_0">夏には(b)ベリー(/b)や(b)果物(/b)を採取して食べることで、(b)干し肉(/b)、(b)魚の干物(/b)、(b)穀物(/b)などの日持ちする食材を冬に備えてとっておくことができます。</string>
 	<string name="hint_1">ゲーム初期の狩猟の際、殺すのが難しく反撃を受ける可能性もあるため、健康な大人の動物を狩るのは避けてください。</string>
-	<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
+	<string name="hint_2">(b)作業領域(/b)と(b)リソース制限(/b)を組み合わせて、できるだけ自動化してください。</string>
 	<string name="hint_3">(b)インフラ(/b)に見合わない(b)拡張(/b)をしないでください。	</string>
-	<string name="hint_4">(b)家畜(/b)に、(b)冬(/b)に(b餌(/b)と(b)水(/b)を与える必要があるため、家畜を増やしすぎないようにしてください。</string>
+	<string name="hint_4">(b)冬(/b)に、(b)家畜(/b)に、(b)餌(/b)と(b)水(/b)を与える必要があるため、家畜を増やしすぎないようにしてください。</string>
 	<string name="hint_5">(b)旧石器時代(/b)の狩猟採集社会では、人口がまばらであったため、(b)紛争(/b)は(b)まれ(/b)な出来事でした。しかし、(b)新石器時代(/b)からは、(b)戦い(/b)への備えが必要です。</string>
 	<string name="hint_6">(b)初期の(/b)時代に(b)大きな人口(/b)を達成するのは(b)難しい(/b)ことです。 農業や他の技術がなければ大規模な村を維持することができません。</string>
 	<string name="hint_7">(b)冬(/b)が来る前に、(b)腐りにくい食べ物(/b)がたくさんあることを確認してください。そうしないと、飢餓が深刻な問題になります。</string>
@@ -43,9 +43,9 @@
 	<string name="hint_10">(b)移動(/b)キーと(b)回転(/b)キーを同時に押して、カメラを一点の周りで(b)回転(/b)させます。</string>
 	<string name="hint_11">(b)ノーマル(/b)では、侵入者の(b)技術(/b)は(b)あなたの現在の時代と一致する(/b)ので、注意深く時代を進めてください。</string>
 	<string name="hint_12">(b)ハードコア(/b)では、侵入者は(b)自分のペース(/b)で自分の(b)技術(/b)を進歩させるでしょう。</string>
-	<string name="hint_13">人々を選択し(b)建造物を右クリック(/b)することでその建物で(b休息(/b)をとるかその建物に(b)避難(/b)するように指示することができます。</string>
-	<string name="hint_14">人が(b)けが(/b)をすると(/b)、(b)感染を引き起こす(/b)可能性があります。これは致命的な場合があります。</string>
-	<string name="hint_15">人々を(b)選択(/b)し。地形またはオブジェクト上で(b)右クリック(/b)することによって、(b)指示(/b)を与えることができます。</string>
+	<string name="hint_13">人々を選択し(b)建造物を右クリック(/b)することでその建物で(b)休息(/b)をとるかその建物に(b)避難(/b)するように指示することができます。</string>
+	<string name="hint_14">人が(b)けが(/b)をすると、(b)感染を引き起こす(/b)可能性があります。これは致命的な場合があります。</string>
+	<string name="hint_15">人々を(b)選択(/b)し、地形またはオブジェクト上で(b)右クリック(/b)することによって、(b)指示(/b)を与えることができます。</string>
 	<string name="hint_16">(b)右ダブルクリック(/b)することで人々に(b)走って(/b)そこに行くように(b)指示(/b)することができます。</string>
 	<string name="hint_17">(b)F9(/b)キーでクイックセーブが可能です。</string>
 	<string name="hint_18">植物、建物を(b)左ダブルクリック(/b)して、近くにあるすべての同じ種類の(b)エンティティ(/b)を選択します。</string>
@@ -302,7 +302,7 @@
   
 	<string name="help_structures_title">建造物</string>
 	<string name="help_structures_description">
-あなたはあなたの村に多くの建造物を建築することができます。 最初は数個しか選択できませんが、ゲームが進むにつれてさらに多くのがアンロックされます。
+村に多くの建造物を建築することができます。 最初は数個しか選択できませんが、ゲームが進むにつれてさらに多くのものがアンロックされます。
 	</string>
 	
 	<string name="help_resources_title">資源</string>
