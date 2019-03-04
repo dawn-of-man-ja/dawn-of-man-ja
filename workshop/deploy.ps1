@@ -1,25 +1,36 @@
 #APPVEYOR_REPO_COMMITの文字化け対策
-[Console]::OutputEncoding = [Text.Encoding]::UTF8;
-if(Test-Path Variable:env:publishedfileid){
-    $publishedfileid=$env:publishedfileid
-}else{
-    $publishedfileid=$env:APPVEYOR_BUILD_NUMBER
+# 現在のエンコードを保管しておく
+$enc = [Console]::OutputEncoding;
+try
+{
+    # コンソールの出力を utf-8 に変更する
+    [Console]::OutputEncoding = [Text.Encoding]::UTF8;
+    if(Test-Path Variable:env:publishedfileid){
+        $publishedfileid=$env:publishedfileid
+    }else{
+        $publishedfileid=$env:APPVEYOR_BUILD_NUMBER
+    }
+    if(Test-Path Variable:env:changenote){
+        $changenote=$env:changenote
+    }else{
+        $changenote=($env:APPVEYOR_REPO_COMMIT_MESSAGE).Replace("[release]","")
+    }
 }
-if(Test-Path Variable:env:changenote){
-    $changenote=$env:changenote
-}else{
-    $changenote=($env:APPVEYOR_REPO_COMMIT_MESSAGE).Replace("[release]","")
+finally
+{
+    # エンコードを元に戻す
+    [Console]::OutputEncoding = $enc;
 }
-Write-Host "publishedfileid:$publishedfileid"
-Write-Host "changenote:$changenote"
-$content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote) 
-#$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-$scriptDir=Split-Path $myInvocation.MyCommand.Path -Parent
-$path=[IO.Path]::Combine($scriptDir,".\workshop_item.vdf")
-Write-Host "path:$path"
+    Write-Host "publishedfileid:$publishedfileid"
+    Write-Host "changenote:$changenote"
+    $content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote) 
+    #$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
+    $scriptDir=Split-Path $myInvocation.MyCommand.Path -Parent
+    $path=[IO.Path]::Combine($scriptDir,".\workshop_item.vdf")
+    Write-Host "path:$path"
 
-[IO.File]::WriteAllLines($path, $content)
+    [IO.File]::WriteAllLines($path, $content)
 
-Write-Host "content:\n$content"
+    Write-Host "content:\n$content"
 
 .\workshop\bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item $path +quit
