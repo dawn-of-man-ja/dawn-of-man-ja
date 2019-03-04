@@ -1037,112 +1037,114 @@
  <!-- === Neolithic === -->
  
 	<string name="underground_mining_help_description">
-Allows you to build mines on top of deposits. Mines dramatically (b)increase(/b) the amount of (b)resources(/b) you can extract from a (b)deposit(/b).
+鉱床の上に鉱山を建設することができるようになります。 
+鉱山は(b)鉱床(/b)から入手できる(b)資源の量(/b)を劇的に増加させます。
 	</string> 
 	
 	<string name="thatching_help_description">
-Unlocks (b)thatched structures(/b), which are in general more durable and advanced than skins structures.
+皮の建物よりも高度で頑丈な茅葺きの建物の建設を可能にします。
 	</string> 
 
 	<string name="well_digging_help_description">
-Allows you to make (b)Wells(/b), that are more efficient than having to go collect water from the nearest river or lake.
+	(b)井戸(/b)を作ることを可能にします。近い川や湖から水を集めることよりも効率的です。
 	</string> 
 	
 	<string name="fortifications_help_description">
-Unlocks the construction of basic (b)defensive structures(/b) that can be used to protect your settlement against (b)raiders(/b) and (b)predators(/b) in order to minimize the loss of life.
+(b)侵略者(/b)および(b)捕食者(/b)の被害を最小限に抑えるために、あなたの村を守るために使用できる基本的な(b)防衛施設(/b)の構築を解除します。
 	</string> 
 	
 	<string name="reinforced_fortifications_help_description">
-Unlocks the construction of (b)Reinforced Gates(/b) and (b)Guard Towers(/b).
-These are more durable than their wooden counterparts, and in the case of the (b)Guard Tower(/b) can hold more people.
+(b)強化門(/b)と(b)監視塔(/b)の建設を解除します。
+これは、木製の施設よりも耐久性があり、そして(b)監視塔(/b)の場合にはより多くの人々を収容することができる。
 	</string> 	
 	
 	<string name="cereal_domestication_help_description">
-It allows you to (b)plant(/b) and (b)harvest cereals(/b), unlocking the (b)Neolithic(/b) era.
-It and dramatically (b)increases(/b) the amount of (b)people(/b) you can reliably (b)feed(/b) every year.
-This is one of the most important techs in the history of mankind.
+(b)新石器時代(/b)に突入します。
+この技術によって穀物を植え収穫することが可能になります。よって、より多くの人口を支えることが可能になります。
+これは人類の歴史の中でも特に重要な技術の一つです。
 	</string> 
 	
 	<string name="pulse_domestication_help_description">
-Allows you to (b)plant(/b) and (b)harvest pulses(/b). 
-Pulses are usually harvested in summer, so they are a good complement to cereals which are harvested in the fall.
+この技術によって豆を植え収穫することが可能になります。
+豆は通常夏に収穫されるため、秋に収穫される穀物の補助として適しています。
 	</string>
 	
 	<string name="flax_domestication_help_description">
-Allows you to plant (b)Flax(/b), which is used to produce (b)Linen Cloth(/b).
+(b)亜麻(/b)を植えることを可能にします。(b)亜麻布(/b)を生産するのに使用されます。
 	</string>
 
 	<string name="weaving_help_description">
-Allows you to make cloth and outfits made of (b)Linen(/b) and (b)Wool(/b).
+(b)亜麻(/b)や(b)羊毛(/b)で作られた布や衣装を作ることを可能にします。
 	</string>
 	
 	<string name="stilting_help_description">
-Allows you to build (b)Bridges(/b).
+(b)橋(/b)を建てることを可能にします。
 	</string>
 	
 	<string name="megalithism_help_description">
-Allows you to build (b)megalithic structures(/b) that increase the settlement's (b)prestige(/b) and help improve (b)morale(/b).
+村の(b)名声(/b)を高め、(b)士気(/b)を向上させる手助けをする(b)巨石建造物(/b)を作ることができます。
 	</string>
 	
  <!-- === Copper Age === -->
  
 	<string name="copper_smelting_help_description">
-Unlocks the production of (b)Copper(/b) in (b)Pit Furnaces(/b), the (b)Metalsmith(/b) structure and the creation of (b)Copper(/b) tools and weapons.
-Unlocks the (b)Copper Age(/b).
+(b)ピット炉(/b)での銅の製造を可能にします。
+(b金工(/b)で銅製の道具と武器の製造が可能です。
+(b)銅器時代(/b)に突入します。
 	</string>
 	
 	<string name="fruit_tree_domestication_help_description">
-Allows you to plant (b)fruit trees(/b).
+(b)果樹(/b)を植えることができるようになります。
 	</string>
 	
 	<string name="rye_domestication_help_description">
-Allows you to plant and harvest rye, increasing the crop variety is a good way to protect against (b)diseases(/b).
+ライムギを植えて収穫することを可能にします。様々な品種の植物を植えることは(b)病気(/b)の影響を抑えるための良い方法です。
 	</string>
 		
 	<string name="wheel_help_description">
-Unlocks the construction of (b)Carts(/b) which will allow you to (b)transport(/b) a large amount of (b)resources(/b).
+(b)大量の(b)資源(/b)を輸送する(b)ことを可能にする(b)台車(/b)の製造を可能にします。
 	</string>
 	
  <!-- === Bronze Age === -->
  
 	<string name="bronze_smelting_help_description">
-Unlocks the production of (b)Bronze(/b) in (b)Pit Furnaces(/b) and the creation of (b)Bronze(/b) tools and weapons.
-Unlocks the (b)Bronze Age(/b).
+(b)ピット炉(/b)での(b)青銅(/b)の生産と(b)青銅(/b)製の道具と武器の作成を可能にします。
+(b)青銅器時代(/b)に突入します。
 	</string>
 	
 	<string name="masonry_help_description">
-Unlocks (b)Stone(/b) structures that are in general more (b)durable(/b) and advanced than (b)Mud(/b) structures.
+(b)泥(/b)の建造物よりも高度で高い(b)耐久性(/b)をもつ(b)石(/b)の建造物の建築を可能にします。	
 	</string>
 	
 	<string name="swordmaking_help_description">
-Unlocks (b)Swords(/b), which are the most (b)effective melee weapon(/b).
+最も効果的な(b)近接武器(/b)である(b)剣(/b)をアンロックします。
 	</string>
 	
 	<string name="composite_archery_help_description">
-Unlocks (b)Composite Bows(/b), which are the most effective (b)hunting weapon(/b).
+最も効果的な(b)遠距離戦闘用の武器(/b)である(b)コンポジットボウ(/b)のロックを解除します。
 	</string>
 	
 	<string name="brewing_help_description">
-Unlocks the production of (b)Beer(/b), which can help boost (b)Morale(/b) in the settlement.
+(b)ビール(/b)の生産を可能にします。(b)士気(/b)を回復するのに役立ちます。
 	</string>
 	
  <!-- === Iron Age === -->
  
 	<string name="iron_smelting_help_description">
-Unlocks the smelting of (b)Iron(/b) in (b)Bloomeries(/b), the (b)Blacksmith(/b) structure and the creation of (b)Iron(/b) tools and weapons.
-Unlocks the (b)Iron Age(/b).
+(b)塊鉄炉(/b)での(b)鉄(/b)の精錬を可能にします。(b)鍛冶屋(/b)で鉄製の道具や武器の製造ができます。
+(b)鉄器時代(/b)に突入します。
 	</string>
 	
 	<string name="steelmaking_help_description">
-Unlocks the production of (b)Steel(/b), which is the (b)hardest(/b) and (b)most durable(/b) material available in ancient times.
+(b)最も硬く耐久性のある(/b)材料である(b)鋼鉄(/b)の生産を可能にします。
 	</string>
 	
 	<string name="hydropower_help_description">
-Unlocks the construction of (b)Watermills(/b), which can greatly speed up the production of (b)Flour(/b).
+(b)小麦粉(/b)の生産を大幅にスピードアップすることができる(b)水車(/b)の構築を可能にします。
 	</string>
 	
 	<string name="baking_help_description">
-Unlocks the construction of (b)Ovens(/b), which can greatly speed up the production of (b)Bread(/b).
+(b)パン(/b)の生産を大幅にスピードアップすることができる(b)かまど(/b)の建築を可能にします。
 	</string>
 
   <!-- === ANIMALS: categories === -->	
