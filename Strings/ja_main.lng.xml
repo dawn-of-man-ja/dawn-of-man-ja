@@ -655,7 +655,7 @@
 
 	<!-- Toasts -->
 	<string name="toast_screenshot_taken">スクリーンショットを撮影</string>
-	<string name="toast_game_saved">セーブ終了</string>
+	<string name="toast_game_saved">セーブ完了</string>
 	<string name="toast_saving">セーブ中</string>	
 	<string name="toast_invalid_entity_location">無効な場所</string>
 	<string name="toast_invalid_entity_location_isolated">建物を設置すると孤立した領域が発生します</string>
