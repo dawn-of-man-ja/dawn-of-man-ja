@@ -1,10 +1,6 @@
 skip_branch_with_pr: true
 image: Visual Studio 2017
 build: off
-init: 
-  - git config --global core.pager=LC_ALL=en_US.UTF-8 less -Sx4
-  - git config --global i18n.commitEncoding utf-8
-  - git config --global core.quotepath false
 #- ps: Set-WinSystemLocale ja-JP
 #- ps: Start-Sleep -s 5
 #- ps: Restart-Computer
@@ -20,6 +16,4 @@ environment:
     secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
-  - git config --list
-  - git config --global --list
   - ps: ./workshop/deploy.ps1
