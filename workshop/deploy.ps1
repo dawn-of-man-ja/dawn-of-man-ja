@@ -6,7 +6,7 @@ chcp 65001
 if(Test-Path Variable:env:changenote){
     $changenote=$env:changenote
 }else{
-    $changenote=[System.Environment]::GetEnvironmentVariable("APPVEYOR_REPO_COMMIT_MESSAGE")
+    $changenote=git log --format=%B -n 1
 }
 
 Write-Host "changenote:$changenote"
