@@ -7,7 +7,7 @@ environment:
   steam_user:
     secure: hsxtc+FBD98/Nhk5qCeiWg==
   steam_password:
-    secure: p4UejzoRF0RG/uSkgl3qyw==
+    secure: vFVCpC2RGPS9OufyEfTTlg==
   
 deploy_script:
   - ps: ./workshop/deploy.ps1

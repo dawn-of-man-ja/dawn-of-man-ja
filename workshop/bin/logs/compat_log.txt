@@ -187,3 +187,45 @@
 [2019-03-04 20:36:48] Ignoring tool proton_37_beta as it's for a different target platform linux.
 [2019-03-04 20:36:48] Registering tool proton_37, AppID 858280
 [2019-03-04 20:36:48] Ignoring tool proton_37 as it's for a different target platform linux.
+
+
+[2019-03-04 21:08:37] No local tool list detected at C:\Users\tignear\Documents\DawnOfMant\workshop\bin/compatibilitytools.vdf.
+
+
+[2019-03-04 21:08:42] No local tool list detected at C:\Users\tignear\Documents\DawnOfMant\workshop\bin/compatibilitytools.vdf.
+[2019-03-04 21:09:03] Processing tool list from AppID 891390
+[2019-03-04 21:09:03] Registering tool proton_316_beta, AppID 996510
+[2019-03-04 21:09:03] Ignoring tool proton_316_beta as it's for a different target platform linux.
+[2019-03-04 21:09:03] Registering tool proton_316, AppID 961940
+[2019-03-04 21:09:03] Ignoring tool proton_316 as it's for a different target platform linux.
+[2019-03-04 21:09:03] Registering tool proton_37_beta, AppID 930400
+[2019-03-04 21:09:03] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2019-03-04 21:09:03] Registering tool proton_37, AppID 858280
+[2019-03-04 21:09:03] Ignoring tool proton_37 as it's for a different target platform linux.
+
+
+[2019-03-04 21:16:20] No local tool list detected at C:\Users\tignear\Documents\DawnOfMant\workshop\bin/compatibilitytools.vdf.
+
+
+[2019-03-04 21:16:41] No local tool list detected at C:\Users\tignear\Documents\DawnOfMant\workshop\bin/compatibilitytools.vdf.
+[2019-03-04 21:17:14] Processing tool list from AppID 891390
+[2019-03-04 21:17:14] Registering tool proton_316_beta, AppID 996510
+[2019-03-04 21:17:14] Ignoring tool proton_316_beta as it's for a different target platform linux.
+[2019-03-04 21:17:14] Registering tool proton_316, AppID 961940
+[2019-03-04 21:17:14] Ignoring tool proton_316 as it's for a different target platform linux.
+[2019-03-04 21:17:14] Registering tool proton_37_beta, AppID 930400
+[2019-03-04 21:17:14] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2019-03-04 21:17:14] Registering tool proton_37, AppID 858280
+[2019-03-04 21:17:14] Ignoring tool proton_37 as it's for a different target platform linux.
+
+
+[2019-03-04 21:19:22] No local tool list detected at C:\Users\tignear\Documents\DawnOfMant\workshop\bin/compatibilitytools.vdf.
+[2019-03-04 21:19:26] Processing tool list from AppID 891390
+[2019-03-04 21:19:26] Registering tool proton_316_beta, AppID 996510
+[2019-03-04 21:19:26] Ignoring tool proton_316_beta as it's for a different target platform linux.
+[2019-03-04 21:19:26] Registering tool proton_316, AppID 961940
+[2019-03-04 21:19:26] Ignoring tool proton_316 as it's for a different target platform linux.
+[2019-03-04 21:19:26] Registering tool proton_37_beta, AppID 930400
+[2019-03-04 21:19:26] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2019-03-04 21:19:26] Registering tool proton_37, AppID 858280
+[2019-03-04 21:19:26] Ignoring tool proton_37 as it's for a different target platform linux.

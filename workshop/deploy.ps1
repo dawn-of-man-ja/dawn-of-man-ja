@@ -14,7 +14,6 @@ $content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.te
 #$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
 $path=[IO.Path]::Combine([IO.Directory]::GetCurrentDirectory(),".\workshop_item.vdf")
 Write-Host "path:$path"
-Write-Host "$env:steam_user,$env:steam_password"
 
 [IO.File]::WriteAllLines($path, $content)
 

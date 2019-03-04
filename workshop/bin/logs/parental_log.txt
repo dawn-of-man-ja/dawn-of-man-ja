@@ -244,3 +244,30 @@
 
 [2019-03-04 20:36:43] Failed to get ParentalSettings\Settings from config file for account ID 238452673
 [2019-03-04 20:36:44] Got parental settings for account ID 238452673
+
+
+[2019-03-04 21:09:02] Validating parental settings
+[2019-03-04 21:09:02] Settings dump:
+[2019-03-04 21:09:02] 	Account ID: 238452673
+[2019-03-04 21:09:02] 	Enabled: false
+[2019-03-04 21:09:02] 	Base list: 0 ()
+[2019-03-04 21:09:02] 	No custom list
+[2019-03-04 21:09:02] 	No enabled features
+
+
+[2019-03-04 21:17:13] Validating parental settings
+[2019-03-04 21:17:13] Settings dump:
+[2019-03-04 21:17:13] 	Account ID: 238452673
+[2019-03-04 21:17:13] 	Enabled: false
+[2019-03-04 21:17:13] 	Base list: 0 ()
+[2019-03-04 21:17:13] 	No custom list
+[2019-03-04 21:17:13] 	No enabled features
+
+
+[2019-03-04 21:19:25] Validating parental settings
+[2019-03-04 21:19:25] Settings dump:
+[2019-03-04 21:19:25] 	Account ID: 238452673
+[2019-03-04 21:19:25] 	Enabled: false
+[2019-03-04 21:19:25] 	Base list: 0 ()
+[2019-03-04 21:19:25] 	No custom list
+[2019-03-04 21:19:25] 	No enabled features
