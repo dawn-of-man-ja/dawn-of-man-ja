@@ -12,11 +12,12 @@ Write-Host "publishedfileid:$publishedfileid"
 Write-Host "changenote:$changenote"
 $content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote) 
 #$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-$path=[IO.Path]::Combine([IO.Directory]::GetCurrentDirectory(),".\workshop_item.vdf")
+$scriptDir=Split-Path $myInvocation.MyCommand.Path -Parent
+$path=[IO.Path]::Combine($scriptDir,".\workshop_item.vdf")
 Write-Host "path:$path"
 
 [IO.File]::WriteAllLines($path, $content)
 
-Write-Host "changenote:$content"
+Write-Host "content:\n$content"
 
 .\workshop\bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item $path +quit

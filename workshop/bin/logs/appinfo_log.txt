@@ -327,3 +327,15 @@
 [2019-03-04 21:19:26] UpdatesJob: finished OK, nAppsUpdated 1 (8 KB), nPackagesUpdated 0 (0 KB)
 [2019-03-04 21:19:27] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
 [2019-03-04 21:19:30] Starting async write C:\Users\tignear\Documents\DawnOfMant\workshop\bin/appcache/appinfo.vdf (1293764 bytes)
+
+
+[2019-03-04 21:30:08] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-03-04 21:30:08] Packages changed: 
+[2019-03-04 21:30:08] Apps changed: 
+[2019-03-04 21:30:08] Change number 5900845->5900886, apps: 0/35, packages: 0/3
+[2019-03-04 21:30:08] Requesting 22 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-03-04 21:30:08] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-03-04 21:30:09] Requested 21 access tokens, 0 received, 21 denied
+[2019-03-04 21:30:09] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2019-03-04 21:30:09] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-03-04 21:30:09] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)

@@ -121,3 +121,6 @@
 
 
 [2019-03-04 21:19:22] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 21:30:05] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".

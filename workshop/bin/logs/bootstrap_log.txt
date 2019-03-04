@@ -512,3 +512,15 @@
 [2019-03-04 21:19:21] Performing checksum verification of executable files
 [2019-03-04 21:19:21] Verification complete
 [2019-03-04 21:19:30] Shutdown
+
+
+[2019-03-04 21:30:05] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 21:30:05] Checking for update on startup
+[2019-03-04 21:30:05] 更新を確認中...
+[2019-03-04 21:30:05] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 21:30:05] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 21:30:05] Nothing to do
+[2019-03-04 21:30:05] インストール状況を確認中...
+[2019-03-04 21:30:05] Performing checksum verification of executable files
+[2019-03-04 21:30:05] Verification complete
+[2019-03-04 21:30:17] Shutdown

@@ -422,3 +422,15 @@
 [2019-03-04 21:19:26] Flushed store 'install' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf'
 [2019-03-04 21:19:27] Flushed store 'userlocal' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf'
 [2019-03-04 21:19:30] Flushed store 'userlocal' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf'
+
+
+[2019-03-04 21:30:05] Loaded store 'install' from 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf' successfully
+[2019-03-04 21:30:05] Loaded store 'install' from 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf' successfully
+[2019-03-04 21:30:06] Loaded store 'install' from 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf' successfully
+[2019-03-04 21:30:06] Loaded store 'userlocal' from 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf' successfully
+[2019-03-04 21:30:06] Flushed store 'install' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf'
+[2019-03-04 21:30:08] Flushed store 'install' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf'
+[2019-03-04 21:30:08] Flushed store 'userlocal' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf'
+[2019-03-04 21:30:09] Flushed store 'install' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\config\config.vdf'
+[2019-03-04 21:30:09] Flushed store 'userlocal' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf'
+[2019-03-04 21:30:17] Flushed store 'userlocal' to 'C:\Users\tignear\Documents\DawnOfMant\workshop\bin\userdata\238452673\config\localconfig.vdf'

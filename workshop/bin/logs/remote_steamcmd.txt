@@ -226,3 +226,12 @@
 [2019-03-04 21:19:22] BAcceptConnection: 192.168.1.122:59637
 [2019-03-04 21:19:22] Incoming connection accepted: 0x9 192.168.1.122:59637
 [2019-03-04 21:19:24] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 21:30:06] Loaded client id: 6917325667104572803
+[2019-03-04 21:30:06] Listening for IPv4 broadcast on: 27036
+[2019-03-04 21:30:06] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 21:30:06] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 21:30:06] BAcceptConnection: 192.168.1.122:59802
+[2019-03-04 21:30:06] Incoming connection accepted: 0x9 192.168.1.122:59802
+[2019-03-04 21:30:09] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
