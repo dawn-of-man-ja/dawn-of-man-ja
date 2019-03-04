@@ -1,3 +1,4 @@
+chcp 65001
 if(Test-Path Variable:env:publishedfileid){
     $publishedfileid=$env:publishedfileid
 }else{
