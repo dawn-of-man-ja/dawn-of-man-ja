@@ -1,0 +1,53 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"DesktopShortcutCheck"		"0"
+				"StartMenuShortcutCheck"		"0"
+				"Apps"
+				{
+					"372800"
+					{
+						"cloudenabled"		"1"
+					}
+					"255710"
+					{
+						"cloudenabled"		"1"
+					}
+					"344850"
+					{
+						"cloudenabled"		"1"
+					}
+					"287980"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"SteamDefaultDialog"		"#app_store"
+				"SurveyDate"		"2018-10-13"
+				"SurveyDateVersion"		"9108294631992014268"
+				"FriendsUI"
+				{
+					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":false,\"bNotifications_ShowMessage\":true,\"bNotifications_EventsAndAnnouncements\":true,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":true,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":0,\"bRememberOpenChats\":true,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":true,\"bSounds_PlayChatRoomNotification\":true,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":true,\"nChatFontSize\":2,\"b24HourClock\":false}"
+				}
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+}

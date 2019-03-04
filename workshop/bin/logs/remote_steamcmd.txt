@@ -74,3 +74,123 @@
 [2019-01-21 15:13:50] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
 [2019-01-21 15:14:13] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
 [2019-01-21 15:14:14] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+
+
+[2019-03-04 20:12:31] Loaded client id: 6917325667104572803
+[2019-03-04 20:12:31] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:12:31] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:12:31] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:12:35] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:12:50] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:20:50] Loaded client id: 6917325667104572803
+[2019-03-04 20:20:50] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:20:50] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:20:50] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:20:50] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:20:50] BAcceptConnection: 192.168.1.122:61409
+[2019-03-04 20:20:50] Incoming connection accepted: 0x9 192.168.1.122:61409
+[2019-03-04 20:20:52] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:20:53] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:21:11] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:21:35] Loaded client id: 6917325667104572803
+[2019-03-04 20:21:35] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:21:35] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:21:35] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:21:35] BAcceptConnection: 192.168.1.122:61415
+[2019-03-04 20:21:35] Incoming connection accepted: 0x9 192.168.1.122:61415
+[2019-03-04 20:21:38] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:22:59] Loaded client id: 6917325667104572803
+[2019-03-04 20:22:59] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:22:59] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:22:59] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:22:59] BAcceptConnection: 192.168.1.122:61458
+[2019-03-04 20:22:59] Incoming connection accepted: 0x9 192.168.1.122:61458
+[2019-03-04 20:23:02] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:24:17] Loaded client id: 6917325667104572803
+[2019-03-04 20:24:17] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:24:17] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:24:17] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:24:17] BAcceptConnection: 192.168.1.122:61515
+[2019-03-04 20:24:17] Incoming connection accepted: 0x9 192.168.1.122:61515
+[2019-03-04 20:24:19] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:24:36] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:27:19] Loaded client id: 6917325667104572803
+[2019-03-04 20:27:19] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:27:19] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:27:19] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:27:19] BAcceptConnection: 192.168.1.122:61578
+[2019-03-04 20:27:19] Incoming connection accepted: 0x9 192.168.1.122:61578
+[2019-03-04 20:27:21] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:29:27] Loaded client id: 6917325667104572803
+[2019-03-04 20:29:27] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:29:27] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:29:27] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:29:27] BAcceptConnection: 192.168.1.122:61620
+[2019-03-04 20:29:27] Incoming connection accepted: 0x9 192.168.1.122:61620
+[2019-03-04 20:29:30] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:32:05] Loaded client id: 6917325667104572803
+[2019-03-04 20:32:05] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:32:05] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:32:05] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:32:05] BAcceptConnection: 192.168.1.122:61660
+[2019-03-04 20:32:05] Incoming connection accepted: 0x9 192.168.1.122:61660
+[2019-03-04 20:32:10] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:32:26] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:32:39] Loaded client id: 6917325667104572803
+[2019-03-04 20:32:39] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:32:39] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:32:39] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:32:39] BAcceptConnection: 192.168.1.122:61664
+[2019-03-04 20:32:39] Incoming connection accepted: 0x9 192.168.1.122:61664
+[2019-03-04 20:32:42] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:33:08] Loaded client id: 6917325667104572803
+[2019-03-04 20:33:08] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:33:08] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:33:08] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:33:08] BAcceptConnection: 192.168.1.122:61684
+[2019-03-04 20:33:09] Incoming connection accepted: 0x9 192.168.1.122:61684
+[2019-03-04 20:33:13] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:33:33] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:34:18] Loaded client id: 6917325667104572803
+[2019-03-04 20:34:18] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:34:18] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:34:18] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:34:18] BAcceptConnection: 192.168.1.122:61701
+[2019-03-04 20:34:18] Incoming connection accepted: 0x9 192.168.1.122:61701
+
+
+[2019-03-04 20:34:40] Loaded client id: 6917325667104572803
+[2019-03-04 20:34:40] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:34:40] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:34:40] BAcceptConnection: 192.168.1.122:61715
+[2019-03-04 20:34:40] Incoming connection accepted: 0x9 192.168.1.122:61715
+[2019-03-04 20:34:47] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:34:48] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+
+
+[2019-03-04 20:36:43] Loaded client id: 6917325667104572803
+[2019-03-04 20:36:43] Listening for IPv4 broadcast on: 27036
+[2019-03-04 20:36:43] Listening for connections on: 0.0.0.0:27037
+[2019-03-04 20:36:43] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:36:47] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036
+[2019-03-04 20:37:03] Received broadcast message from client 14026842498000669649 (DESKTOP-T): 192.168.1.122:27036

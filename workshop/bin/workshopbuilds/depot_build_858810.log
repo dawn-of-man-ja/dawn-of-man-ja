@@ -1,16 +1,27 @@
-[2019-01-21 15:13:47]: Building file listing for depot 858810 ...
-[2019-01-21 15:13:47]: Found 6 files for mapping: ..\content * -> .
-[2019-01-21 15:13:47]: Found 6 files (0 MB) for depot 858810
-[2019-01-21 15:13:48]: Building depot 858810, no baseline manifest
-[2019-01-21 15:13:48]: Found 5 new chunks (0 old ones existed) for depot 858810, took 0 minutes, 0 seconds
+[2019-03-04 20:36:49]: Building file listing for depot 858810 ...
+[2019-03-04 20:36:49]: Found 16 files for mapping: ..\..\Strings * -> .
+[2019-03-04 20:36:49]: Found 16 files (0 MB) for depot 858810
+[2019-03-04 20:36:49]: Building depot 858810, no baseline manifest
+[2019-03-04 20:36:49]: Found 16 chunks ( 0 used previously ) for depot 858810, took 0 minutes, 0 seconds
 
-[2019-01-21 15:13:48]: Changes to baseline manifest:
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon" 0 kB ,Flags: 64
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\en_scenario_temple_of_the_moon.lng.xml" 2 kB 
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\es_scenario_temple_of_the_moon.lng.xml" 2 kB 
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\image_temple_of_the_moon.png" 573 kB 
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\temple_of_the_moon.scn.xml" 7 kB 
-[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\thumbnail_temple_of_the_moon.png" 106 kB 
-[2019-01-21 15:13:48]: Summary: 6 files added, 0 files changed, 0 files removed
-[2019-01-21 15:13:48]: Uploading new manifest to 208.64.201.57:80 (handle 6185605939802017881, 1253 bytes).
-[2019-01-21 15:13:50]: Success! New manifestID 2653589811301267333 created and 0 new chunks uploaded.
+[2019-03-04 20:36:49]: Changes to baseline manifest:
+[2019-03-04 20:36:49]: Added  : "ja_achievements.lng.xml" 4 kB 
+[2019-03-04 20:36:49]: Added  : "ja_entity_types.lng.xml" 13 kB 
+[2019-03-04 20:36:49]: Added  : "ja_help.lng.xml" 75 kB 
+[2019-03-04 20:36:49]: Added  : "ja_main.lng.xml" 47 kB 
+[2019-03-04 20:36:49]: Added  : "ja_presence.lng.xml" 1 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenarios.lng.xml" 2 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_ancient_warriors.lng.xml" 2 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_before_dawn.lng.xml" 1 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_continental_dawn.lng.xml" 3 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_metal_age_creative_mode.lng.xml" 1 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_stone_age_creative_mode.lng.xml" 1 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_temple_of_the_sun.lng.xml" 2 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_the_long_march.lng.xml" 2 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_the_northlands.lng.xml" 3 kB 
+[2019-03-04 20:36:49]: Added  : "ja_scenario_the_shepherds.lng.xml" 1 kB 
+[2019-03-04 20:36:49]: Added  : "ja_tutorial.lng.xml" 14 kB 
+[2019-03-04 20:36:49]: Summary: 16 files added, 0 files changed, 0 files removed
+[2019-03-04 20:36:50]: Uploading new manifest to 208.64.201.57:80 (handle 13650765622428560734, 2526 bytes).
+[2019-03-04 20:36:50]: Uploading 15 out of 15 missing chunks.
+[2019-03-04 20:36:53]: Success! New manifestID 336640305610616932 created and 15 new chunks uploaded.

@@ -178,3 +178,120 @@
 [2019-01-21 15:13:44] Creating shader cache directory: E:\Development\svn_madrugaworks_dawnofman\DawnOfMan\Workshop\WorkshopUploader\bin\shader_cache_temp_dir_gl_32
 [2019-01-21 15:13:44] Unknown shader cache type, ignoring.
 [2019-01-21 15:13:45] Found 0 current buckets:
+
+
+[2019-03-04 20:11:45] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:11:45] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:11:45] Unknown shader cache type, ignoring.
+[2019-03-04 20:11:46] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:11:46] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:11:46] Unknown shader cache type, ignoring.
+[2019-03-04 20:11:46] Found 0 current buckets:
+
+
+[2019-03-04 20:20:50] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:20:50] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:20:50] Unknown shader cache type, ignoring.
+[2019-03-04 20:20:50] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:20:50] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:20:50] Unknown shader cache type, ignoring.
+[2019-03-04 20:20:51] Found 0 current buckets:
+
+
+[2019-03-04 20:21:34] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:21:34] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:21:35] Unknown shader cache type, ignoring.
+[2019-03-04 20:21:35] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:21:35] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:21:35] Unknown shader cache type, ignoring.
+[2019-03-04 20:21:36] Found 0 current buckets:
+
+
+[2019-03-04 20:22:59] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:22:59] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:22:59] Unknown shader cache type, ignoring.
+[2019-03-04 20:23:00] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:23:00] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:23:00] Unknown shader cache type, ignoring.
+[2019-03-04 20:23:00] Found 0 current buckets:
+
+
+[2019-03-04 20:24:17] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:24:17] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:24:17] Unknown shader cache type, ignoring.
+[2019-03-04 20:24:18] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:24:18] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:24:18] Unknown shader cache type, ignoring.
+[2019-03-04 20:24:18] Found 0 current buckets:
+
+
+[2019-03-04 20:27:19] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:27:19] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:27:19] Unknown shader cache type, ignoring.
+[2019-03-04 20:27:20] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:27:20] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:27:20] Unknown shader cache type, ignoring.
+[2019-03-04 20:27:20] Found 0 current buckets:
+
+
+[2019-03-04 20:29:27] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:29:27] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:29:27] Unknown shader cache type, ignoring.
+[2019-03-04 20:29:27] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:29:27] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:29:27] Unknown shader cache type, ignoring.
+[2019-03-04 20:29:28] Found 0 current buckets:
+
+
+[2019-03-04 20:32:05] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:32:05] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:32:05] Unknown shader cache type, ignoring.
+[2019-03-04 20:32:06] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:32:06] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:32:06] Unknown shader cache type, ignoring.
+[2019-03-04 20:32:06] Found 0 current buckets:
+
+
+[2019-03-04 20:32:38] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:32:38] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:32:39] Unknown shader cache type, ignoring.
+[2019-03-04 20:32:39] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:32:39] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:32:39] Unknown shader cache type, ignoring.
+[2019-03-04 20:32:40] Found 0 current buckets:
+
+
+[2019-03-04 20:33:08] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:33:08] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:33:08] Unknown shader cache type, ignoring.
+[2019-03-04 20:33:09] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:33:09] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:33:09] Unknown shader cache type, ignoring.
+[2019-03-04 20:33:09] Found 0 current buckets:
+
+
+[2019-03-04 20:34:18] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:34:18] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:34:18] Unknown shader cache type, ignoring.
+[2019-03-04 20:34:19] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:34:19] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:34:19] Unknown shader cache type, ignoring.
+[2019-03-04 20:34:19] Found 0 current buckets:
+
+
+[2019-03-04 20:34:40] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:34:40] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:34:40] Unknown shader cache type, ignoring.
+[2019-03-04 20:34:41] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:34:41] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:34:41] Unknown shader cache type, ignoring.
+[2019-03-04 20:34:41] Found 0 current buckets:
+
+
+[2019-03-04 20:36:24] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:36:24] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_64
+[2019-03-04 20:36:24] Unknown shader cache type, ignoring.
+[2019-03-04 20:36:24] Attempting to find current bucket; temporary dir: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:36:24] Creating shader cache directory: C:\Users\tignear\Documents\DawnOfMant\workshop\bin\shader_cache_temp_dir_gl_32
+[2019-03-04 20:36:24] Unknown shader cache type, ignoring.
+[2019-03-04 20:36:25] Found 0 current buckets:

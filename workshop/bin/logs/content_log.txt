@@ -67,3 +67,42 @@
 
 [2019-01-21 15:13:44] Loaded 0 apps from install folder "E:\Development\svn_madrugaworks_dawnofman\DawnOfMan\Workshop\WorkshopUploader\bin\steamapps\appmanifest_*.acf".
 [2019-01-21 15:13:45] Got 100 content servers from directory
+
+
+[2019-03-04 20:11:45] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:20:50] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:21:34] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:22:59] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:24:17] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:27:19] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:29:27] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:32:05] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:32:38] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:33:08] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:34:18] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:34:40] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".
+
+
+[2019-03-04 20:36:24] Loaded 0 apps from install folder "C:\Users\tignear\Documents\DawnOfMant\workshop\bin\steamapps\appmanifest_*.acf".

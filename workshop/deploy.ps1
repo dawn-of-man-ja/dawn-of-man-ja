@@ -9,6 +9,14 @@ if(Test-Path Variable:env:changenote){
     $changenote=($env:APPVEYOR_REPO_COMMIT_MESSAGE).Replace("[release]","")
 }
 Write-Host "publishedfileid:$publishedfileid"
-$(Get-Content ".\workshop\scripts\workshop_item.vdf.template").Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote)  > workshop_item.vdf
+Write-Host "changenote:$changenote"
+$content = $(Get-Content -Encoding UTF8 ".\workshop\scripts\workshop_item.vdf.template" ).Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote) 
+#$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
+$path=[IO.Path]::GetFullPath(".\workshop_item.vdf")
+Write-Host "path:$path"
 
-.\workshop\bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item ..\workshop_item.vdf
+[System.IO.File]::WriteAllLines($path, $content)
+
+Write-Host "changenote:$content"
+
+.\workshop\bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item $path +quit

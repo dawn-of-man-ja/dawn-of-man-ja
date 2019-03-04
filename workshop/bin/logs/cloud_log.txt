@@ -198,3 +198,182 @@
 [2019-01-21 15:13:50] [AppID 858810] Starting sync (init)
 [2019-01-21 15:13:51] [AppID 858810] HTTP upload for file 'previewfile_1631346450.png' beginning . . .
 [2019-01-21 15:13:52] [AppID 858810] HTTP upload for file 'previewfile_1631346450.png' (offset=0, length=492396) to host 'steamcloud-ugc.storage.googleapis.com', path /C2/50/00/12/858810/034_B_1A6BFFF4_60FDA_1.dat?GoogleAccessId=1034790105812-5bdngop952i7sjvk3q8dm3nur4tlg4vb@developer.gserviceaccount.com&Expires=1548083630&Signature=ZiojVIvxj%2FRb4utmPc%2FumjSQgj4ivquIoz2NCUdhOqQM8mrkKOZpmJo6HJGRmrRYTN%2BGlep9Ezo%2BDQ13%2Fo18%2BgG%2BceCBQ0insd8l4gPEyMCE2yDJlJ05W0dry5cSsrfDXk0bEKkrpnaGe46A6MzSaEYufcreAMnTGwZPdtZPaM0%3D - success.
+
+
+[2019-03-04 20:12:31] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:12:31] Starting sync job
+[2019-03-04 20:12:31] [AppID 7] Starting sync (eval)
+[2019-03-04 20:12:32] [AppID 7] Eval complete
+[2019-03-04 20:12:32] Starting sync job
+[2019-03-04 20:12:32] [AppID 7] Starting sync (download)
+[2019-03-04 20:12:32] [AppID 7] Download complete in build list
+[2019-03-04 20:12:32] Starting sync job
+[2019-03-04 20:12:32] [AppID 7] Starting sync (eval)
+[2019-03-04 20:12:32] [AppID 7] Eval complete
+
+
+[2019-03-04 20:20:50] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:20:50] Starting sync job
+[2019-03-04 20:20:50] [AppID 7] Starting sync (init)
+[2019-03-04 20:20:52] Starting sync job
+[2019-03-04 20:20:52] [AppID 7] Starting sync (eval)
+[2019-03-04 20:20:52] [AppID 7] Eval complete
+[2019-03-04 20:20:53] Starting sync job
+[2019-03-04 20:20:53] [AppID 7] Starting sync (download)
+[2019-03-04 20:20:53] [AppID 7] Download complete in build list
+[2019-03-04 20:20:53] Starting sync job
+[2019-03-04 20:20:53] [AppID 7] Starting sync (eval)
+[2019-03-04 20:20:53] [AppID 7] Eval complete
+
+
+[2019-03-04 20:21:35] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:21:35] Starting sync job
+[2019-03-04 20:21:35] [AppID 7] Starting sync (init)
+[2019-03-04 20:21:39] Starting sync job
+[2019-03-04 20:21:39] [AppID 7] Starting sync (eval)
+[2019-03-04 20:21:39] [AppID 7] Eval complete
+[2019-03-04 20:21:40] Starting sync job
+[2019-03-04 20:21:40] [AppID 7] Starting sync (download)
+[2019-03-04 20:21:40] [AppID 7] Download complete in build list
+[2019-03-04 20:21:40] Starting sync job
+[2019-03-04 20:21:40] [AppID 7] Starting sync (eval)
+[2019-03-04 20:21:40] [AppID 7] Eval complete
+
+
+[2019-03-04 20:22:59] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:22:59] Starting sync job
+[2019-03-04 20:22:59] [AppID 7] Starting sync (init)
+[2019-03-04 20:23:05] Starting sync job
+[2019-03-04 20:23:05] [AppID 7] Starting sync (eval)
+
+
+[2019-03-04 20:24:17] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:24:17] Starting sync job
+[2019-03-04 20:24:17] [AppID 7] Starting sync (init)
+[2019-03-04 20:24:23] Starting sync job
+[2019-03-04 20:24:23] [AppID 7] Starting sync (eval)
+[2019-03-04 20:24:23] [AppID 7] Eval complete
+[2019-03-04 20:24:23] Starting sync job
+[2019-03-04 20:24:23] [AppID 7] Starting sync (download)
+[2019-03-04 20:24:23] [AppID 7] Download complete in build list
+[2019-03-04 20:24:23] Starting sync job
+[2019-03-04 20:24:23] [AppID 7] Starting sync (eval)
+[2019-03-04 20:24:23] [AppID 7] Eval complete
+
+
+[2019-03-04 20:27:19] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:27:19] Starting sync job
+[2019-03-04 20:27:19] [AppID 7] Starting sync (init)
+[2019-03-04 20:27:25] Starting sync job
+[2019-03-04 20:27:25] [AppID 7] Starting sync (eval)
+[2019-03-04 20:27:25] [AppID 7] Eval complete
+[2019-03-04 20:27:25] Starting sync job
+[2019-03-04 20:27:25] [AppID 7] Starting sync (download)
+[2019-03-04 20:27:25] [AppID 7] Download complete in build list
+[2019-03-04 20:27:25] Starting sync job
+[2019-03-04 20:27:25] [AppID 7] Starting sync (eval)
+[2019-03-04 20:27:25] [AppID 7] Eval complete
+
+
+[2019-03-04 20:29:27] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:29:27] Starting sync job
+[2019-03-04 20:29:27] [AppID 7] Starting sync (init)
+[2019-03-04 20:29:29] Starting sync job
+[2019-03-04 20:29:29] [AppID 7] Starting sync (eval)
+[2019-03-04 20:29:29] [AppID 7] Eval complete
+[2019-03-04 20:29:29] Starting sync job
+[2019-03-04 20:29:29] [AppID 7] Starting sync (download)
+[2019-03-04 20:29:29] [AppID 7] Download complete in build list
+[2019-03-04 20:29:30] Starting sync job
+[2019-03-04 20:29:30] [AppID 7] Starting sync (eval)
+[2019-03-04 20:29:30] [AppID 7] Eval complete
+
+
+[2019-03-04 20:32:05] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:32:05] Starting sync job
+[2019-03-04 20:32:05] [AppID 7] Starting sync (init)
+[2019-03-04 20:32:07] Starting sync job
+[2019-03-04 20:32:07] [AppID 7] Starting sync (eval)
+[2019-03-04 20:32:08] [AppID 7] Eval complete
+[2019-03-04 20:32:08] Starting sync job
+[2019-03-04 20:32:08] [AppID 7] Starting sync (download)
+[2019-03-04 20:32:08] [AppID 7] Download complete in build list
+[2019-03-04 20:32:08] Starting sync job
+[2019-03-04 20:32:08] [AppID 7] Starting sync (eval)
+[2019-03-04 20:32:08] [AppID 7] Eval complete
+
+
+[2019-03-04 20:32:39] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:32:39] Starting sync job
+[2019-03-04 20:32:39] [AppID 7] Starting sync (init)
+[2019-03-04 20:32:43] Starting sync job
+[2019-03-04 20:32:43] [AppID 7] Starting sync (eval)
+[2019-03-04 20:32:44] [AppID 7] Eval complete
+[2019-03-04 20:32:44] Starting sync job
+[2019-03-04 20:32:44] [AppID 7] Starting sync (download)
+[2019-03-04 20:32:44] [AppID 7] Download complete in build list
+[2019-03-04 20:32:44] Starting sync job
+[2019-03-04 20:32:44] [AppID 7] Starting sync (eval)
+[2019-03-04 20:32:44] [AppID 7] Eval complete
+
+
+[2019-03-04 20:33:09] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:33:09] Starting sync job
+[2019-03-04 20:33:09] [AppID 7] Starting sync (init)
+[2019-03-04 20:33:11] Starting sync job
+[2019-03-04 20:33:11] [AppID 7] Starting sync (eval)
+[2019-03-04 20:33:11] [AppID 7] Eval complete
+[2019-03-04 20:33:11] Starting sync job
+[2019-03-04 20:33:11] [AppID 7] Starting sync (download)
+[2019-03-04 20:33:11] [AppID 7] Download complete in build list
+[2019-03-04 20:33:11] Starting sync job
+[2019-03-04 20:33:11] [AppID 7] Starting sync (eval)
+[2019-03-04 20:33:11] [AppID 7] Eval complete
+
+
+[2019-03-04 20:34:18] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:34:18] Starting sync job
+[2019-03-04 20:34:18] [AppID 7] Starting sync (init)
+
+
+[2019-03-04 20:34:40] [U:1:969757624] [AppID 7] Init cache request complete
+[2019-03-04 20:34:40] Starting sync job
+[2019-03-04 20:34:40] [AppID 7] Starting sync (init)
+[2019-03-04 20:34:43] Starting sync job
+[2019-03-04 20:34:43] [AppID 7] Starting sync (eval)
+[2019-03-04 20:34:43] [AppID 7] Eval complete
+[2019-03-04 20:34:43] Starting sync job
+[2019-03-04 20:34:43] [AppID 7] Starting sync (download)
+[2019-03-04 20:34:43] [AppID 7] Download complete in build list
+[2019-03-04 20:34:43] Starting sync job
+[2019-03-04 20:34:43] [AppID 7] Starting sync (eval)
+[2019-03-04 20:34:43] [AppID 7] Eval complete
+
+
+[2019-03-04 20:36:43] [U:1:238452673] [AppID 7] Init cache request complete
+[2019-03-04 20:36:43] Starting sync job
+[2019-03-04 20:36:43] [AppID 7] Starting sync (eval)
+[2019-03-04 20:36:44] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2019-03-04 20:36:44] [AppID 7] Need to download file sharedconfig.vdf
+[2019-03-04 20:36:44] [AppID 7] Eval complete
+[2019-03-04 20:36:44] Starting sync job
+[2019-03-04 20:36:44] [AppID 7] Starting sync (download)
+[2019-03-04 20:36:44] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2019-03-04 20:36:44] [AppID 7] Need to download file sharedconfig.vdf
+[2019-03-04 20:36:45] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-tokyo.storage.googleapis.com' beginning. . .
+[2019-03-04 20:36:45] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-tokyo.storage.googleapis.com' - Success.
+[2019-03-04 20:36:45] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2019-03-04 20:36:45] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloudlrsosaka.blob.core.windows.net' beginning. . .
+[2019-03-04 20:36:46] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloudlrsosaka.blob.core.windows.net' - Success.
+[2019-03-04 20:36:46] [AppID 7] Download OK for file sharedconfig.vdf
+[2019-03-04 20:36:46] [AppID 7] Download complete, result OK
+[2019-03-04 20:36:47] Starting sync job
+[2019-03-04 20:36:47] [AppID 7] Starting sync (download)
+[2019-03-04 20:36:47] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2019-03-04 20:36:47] [AppID 7] File is in sync sharedconfig.vdf
+[2019-03-04 20:36:47] [AppID 7] Download complete in build list
+[2019-03-04 20:36:53] [U:1:238452673] [AppID 858810] Init cache request complete
+[2019-03-04 20:36:53] Starting sync job
+[2019-03-04 20:36:53] [AppID 858810] Starting sync (init)
+[2019-03-04 20:36:53] [AppID 858810] HTTP upload for file 'previewfile_1673010962.png' beginning . . .
+[2019-03-04 20:36:54] [AppID 858810] HTTP upload for file 'previewfile_1673010962.png' (offset=0, length=137987) to host 'steamcloud-ugc.storage.googleapis.com', path /C1/7F/36/0E/858810/036_C_1AA56A6E_1FE38_1.dat?GoogleAccessId=1034790105812-5bdngop952i7sjvk3q8dm3nur4tlg4vb@developer.gserviceaccount.com&Expires=1551703013&Signature=U6n7gGRILnW2s%2BkvSNFbLUQoorT%2BZak%2FrlWAUEePRBXRcjtfgrY3palfuBQ6MbIcFxdx270nHanXUloO4jcPDhToDTI0cnYQyzXQici8dJkVM%2FrCBTYfWKEU2%2B30OZ42Iyi%2B1c61aaDzI5pB3lpRJ%2FYy2aAEY3M%2FJg6iV1SlXic%3D - success.

@@ -258,3 +258,198 @@
 [2019-01-21 15:13:43] Performing checksum verification of executable files
 [2019-01-21 15:13:43] Verification complete
 [2019-01-21 15:14:16] Shutdown
+
+
+[2019-03-04 20:10:58] Startup - updater built Mar 19 2018 11:58:07
+[2019-03-04 20:10:58] Checking for update on startup
+[2019-03-04 20:10:58] 更新を確認中...
+[2019-03-04 20:10:58] Package file steamcmd_public_all.zip.vz.4a8c2fb2d68bf59aec8230abce89cfb44bbb5c54_27309 missing or incorrect size
+[2019-03-04 20:10:58] Package file steamcmd_bins_win32.zip.vz.0e95cfe43d4f9bb4d66e2d03ec00e332b1928f50_5190567 missing or incorrect size
+[2019-03-04 20:10:58] Package file steamcmd_steamservice_win32.zip.vz.393736161c1e183497e2ad194b73bcf698eb1025_1053676 missing or incorrect size
+[2019-03-04 20:10:58] Package file steamcmd_steamerrorreporter_win32.zip.9934d57c663e8c51c4cd201b27e7f87ecee6b79c missing or incorrect size
+[2019-03-04 20:10:58] Package file steamcmd_siteserverui_win32.zip.vz.02682d92926ca8203442e075962f1613ed75aba3_32552604 missing or incorrect size
+[2019-03-04 20:10:58] Package file steamcmd_win32.zip.vz.b46b41fd71f5a507fe77c46e7c90f14b03e57a91_1142524 missing or incorrect size
+[2019-03-04 20:10:58] 更新をダウンロード中（140 / 39,204 KB）...
+[2019-03-04 20:10:58] 更新をダウンロード中（2,302 / 39,204 KB）...
+[2019-03-04 20:10:59] 更新をダウンロード中（3,982 / 39,204 KB）...
+[2019-03-04 20:10:59] 更新をダウンロード中（5,441 / 39,204 KB）...
+[2019-03-04 20:10:59] 更新をダウンロード中（7,303 / 39,204 KB）...
+[2019-03-04 20:10:59] 更新をダウンロード中（8,585 / 39,204 KB）...
+[2019-03-04 20:11:00] 更新をダウンロード中（9,044 / 39,204 KB）...
+[2019-03-04 20:11:00] 更新をダウンロード中（10,952 / 39,204 KB）...
+[2019-03-04 20:11:00] 更新をダウンロード中（13,904 / 39,204 KB）...
+[2019-03-04 20:11:00] 更新をダウンロード中（16,023 / 39,204 KB）...
+[2019-03-04 20:11:01] 更新をダウンロード中（18,358 / 39,204 KB）...
+[2019-03-04 20:11:01] 更新をダウンロード中（20,150 / 39,204 KB）...
+[2019-03-04 20:11:01] 更新をダウンロード中（22,191 / 39,204 KB）...
+[2019-03-04 20:11:01] 更新をダウンロード中（24,184 / 39,204 KB）...
+[2019-03-04 20:11:02] 更新をダウンロード中（26,277 / 39,204 KB）...
+[2019-03-04 20:11:02] 更新をダウンロード中（28,683 / 39,204 KB）...
+[2019-03-04 20:11:02] 更新をダウンロード中（31,303 / 39,204 KB）...
+[2019-03-04 20:11:02] 更新をダウンロード中（33,867 / 39,204 KB）...
+[2019-03-04 20:11:03] 更新をダウンロード中（36,189 / 39,204 KB）...
+[2019-03-04 20:11:03] 更新をダウンロード中（38,536 / 39,204 KB）...
+[2019-03-04 20:11:04] 更新をダウンロード中（39,204 / 39,204 KB）...
+[2019-03-04 20:11:04] ダウンロードが終了しました。
+[2019-03-04 20:11:04] uninstalled manifest found in C:\Users\tignear\Documents\DawnOfMant\workshop\bin\package\steam_cmd_win32 (1).
+[2019-03-04 20:11:04] Found pending update
+[2019-03-04 20:11:04] 更新をインストール中...
+[2019-03-04 20:11:04] パッケージを抽出中...
+[2019-03-04 20:11:21] 更新をインストール中...
+[2019-03-04 20:11:38] Committing NTFS transaction (0 non-transactional backup files)
+[2019-03-04 20:11:39] クリーンアップ中...
+[2019-03-04 20:11:39] 更新が完了しました。Steamcmd を起動します...
+[2019-03-04 20:11:39] Shutdown
+
+
+[2019-03-04 20:11:40] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:11:40] Checking for update on startup
+[2019-03-04 20:11:40] 更新を確認中...
+[2019-03-04 20:11:40] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:11:40] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:11:40] Nothing to do
+[2019-03-04 20:11:40] インストール状況を確認中...
+[2019-03-04 20:11:40] Performing checksum verification of executable files
+[2019-03-04 20:11:45] Verification complete
+[2019-03-04 20:13:14] Shutdown
+
+
+[2019-03-04 20:20:49] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:20:49] Checking for update on startup
+[2019-03-04 20:20:49] 更新を確認中...
+[2019-03-04 20:20:49] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:20:49] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:20:49] Nothing to do
+[2019-03-04 20:20:49] インストール状況を確認中...
+[2019-03-04 20:20:49] Performing checksum verification of executable files
+[2019-03-04 20:20:50] Verification complete
+[2019-03-04 20:21:13] Shutdown
+
+
+[2019-03-04 20:21:34] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:21:34] Checking for update on startup
+[2019-03-04 20:21:34] 更新を確認中...
+[2019-03-04 20:21:34] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:21:34] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:21:34] Nothing to do
+[2019-03-04 20:21:34] インストール状況を確認中...
+[2019-03-04 20:21:34] Performing checksum verification of executable files
+[2019-03-04 20:21:34] Verification complete
+[2019-03-04 20:21:42] Shutdown
+
+
+[2019-03-04 20:22:58] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:22:58] Checking for update on startup
+[2019-03-04 20:22:58] 更新を確認中...
+[2019-03-04 20:22:58] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:22:59] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:22:59] Nothing to do
+[2019-03-04 20:22:59] インストール状況を確認中...
+[2019-03-04 20:22:59] Performing checksum verification of executable files
+[2019-03-04 20:22:59] Verification complete
+
+
+[2019-03-04 20:24:16] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:24:16] Checking for update on startup
+[2019-03-04 20:24:16] 更新を確認中...
+[2019-03-04 20:24:16] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:24:17] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:24:17] Nothing to do
+[2019-03-04 20:24:17] インストール状況を確認中...
+[2019-03-04 20:24:17] Performing checksum verification of executable files
+[2019-03-04 20:24:17] Verification complete
+[2019-03-04 20:27:17] Shutdown
+
+
+[2019-03-04 20:27:18] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:27:18] Checking for update on startup
+[2019-03-04 20:27:18] 更新を確認中...
+[2019-03-04 20:27:18] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:27:19] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:27:19] Nothing to do
+[2019-03-04 20:27:19] インストール状況を確認中...
+[2019-03-04 20:27:19] Performing checksum verification of executable files
+[2019-03-04 20:27:19] Verification complete
+[2019-03-04 20:27:29] Shutdown
+
+
+[2019-03-04 20:29:26] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:29:26] Checking for update on startup
+[2019-03-04 20:29:26] 更新を確認中...
+[2019-03-04 20:29:26] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:29:26] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:29:26] Nothing to do
+[2019-03-04 20:29:26] インストール状況を確認中...
+[2019-03-04 20:29:26] Performing checksum verification of executable files
+[2019-03-04 20:29:26] Verification complete
+[2019-03-04 20:29:35] Shutdown
+
+
+[2019-03-04 20:32:04] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:32:04] Checking for update on startup
+[2019-03-04 20:32:04] 更新を確認中...
+[2019-03-04 20:32:04] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:32:05] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:32:05] Nothing to do
+[2019-03-04 20:32:05] インストール状況を確認中...
+[2019-03-04 20:32:05] Performing checksum verification of executable files
+[2019-03-04 20:32:05] Verification complete
+[2019-03-04 20:32:36] Shutdown
+
+
+[2019-03-04 20:32:38] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:32:38] Checking for update on startup
+[2019-03-04 20:32:38] 更新を確認中...
+[2019-03-04 20:32:38] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:32:38] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:32:38] Nothing to do
+[2019-03-04 20:32:38] インストール状況を確認中...
+[2019-03-04 20:32:38] Performing checksum verification of executable files
+[2019-03-04 20:32:38] Verification complete
+
+
+[2019-03-04 20:33:08] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:33:08] Checking for update on startup
+[2019-03-04 20:33:08] 更新を確認中...
+[2019-03-04 20:33:08] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:33:08] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:33:08] Nothing to do
+[2019-03-04 20:33:08] インストール状況を確認中...
+[2019-03-04 20:33:08] Performing checksum verification of executable files
+[2019-03-04 20:33:08] Verification complete
+[2019-03-04 20:34:17] Shutdown
+
+
+[2019-03-04 20:34:17] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:34:18] Checking for update on startup
+[2019-03-04 20:34:18] 更新を確認中...
+[2019-03-04 20:34:18] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:34:18] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:34:18] Nothing to do
+[2019-03-04 20:34:18] インストール状況を確認中...
+[2019-03-04 20:34:18] Performing checksum verification of executable files
+[2019-03-04 20:34:18] Verification complete
+
+
+[2019-03-04 20:34:40] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:34:40] Checking for update on startup
+[2019-03-04 20:34:40] 更新を確認中...
+[2019-03-04 20:34:40] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:34:40] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:34:40] Nothing to do
+[2019-03-04 20:34:40] インストール状況を確認中...
+[2019-03-04 20:34:40] Performing checksum verification of executable files
+[2019-03-04 20:34:40] Verification complete
+[2019-03-04 20:34:51] Shutdown
+
+
+[2019-03-04 20:36:23] Startup - updater built Feb 18 2019 14:12:15
+[2019-03-04 20:36:23] Checking for update on startup
+[2019-03-04 20:36:23] 更新を確認中...
+[2019-03-04 20:36:23] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2019-03-04 20:36:23] Download skipped: /client/steam_cmd_win32 version 1550604018, installed version 1550604018
+[2019-03-04 20:36:23] Nothing to do
+[2019-03-04 20:36:23] インストール状況を確認中...
+[2019-03-04 20:36:23] Performing checksum verification of executable files
+[2019-03-04 20:36:24] Verification complete
+[2019-03-04 20:37:06] Shutdown

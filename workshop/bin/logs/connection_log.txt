@@ -524,3 +524,425 @@
 [2019-01-21 15:14:15] [3,2] LogOff()
 [2019-01-21 15:14:15] [2,2] AsyncDisconnect()
 [2019-01-21 15:14:15] [2,2] Log session ended
+
+
+[2019-03-04 20:11:45] Log session started
+[2019-03-04 20:11:45] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:11:45] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:11:45] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:11:45] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:11:45] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:11:46] [0,0] Server says 50% of connections should be websockets, we rolled 48 - using WebSockets as default.
+[2019-03-04 20:11:46] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:46] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:443) starting...
+[2019-03-04 20:11:46] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27021) starting...
+[2019-03-04 20:11:46] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:443) starting...
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27021) starting...
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27021) starting...
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM04-STO.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM04-STO.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:47] [0,0] PingWebSocketCM() (CM03-FRA.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM03-STO.cm.steampowered.com:443) starting...
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM03-STO.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:443) starting...
+[2019-03-04 20:11:48] [0,0] PingWebSocketCM() (CM03-FRA.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:49] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:49] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:49] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:11:49] [1,3] Connect() starting connection (eNetQOSLevelHigh, CM02-LON.cm.steampowered.com:27020, WebSocket)
+[2019-03-04 20:11:50] [1,3] ConnectionCompleted() (162.254.196.83:27020, WebSocket)
+[2019-03-04 20:11:51] [1,3] RecvMsgClientLogOnResponse() : [I:0:0] 'Account Logon Denied'
+[2019-03-04 20:11:51] [1,3] AsyncDisconnect()
+[2019-03-04 20:11:51] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'Account Logon Denied' (162.254.196.83:27020, WebSocket)
+[2019-03-04 20:11:51] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2019-03-04 20:12:30] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:12:30] [0,0] Server says 50% of connections should be websockets, we rolled 71 - using UDP as default.
+[2019-03-04 20:12:30] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.68:27017, UDP)
+[2019-03-04 20:12:31] [1,2] ConnectionCompleted() (162.254.192.109:27018, UDP)
+[2019-03-04 20:12:31] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:13:13] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551697993 seconds ago)
+[2019-03-04 20:13:13] [3,2] LogOff()
+[2019-03-04 20:13:13] [2,2] AsyncDisconnect()
+[2019-03-04 20:13:13] [2,2] Log session ended
+
+
+[2019-03-04 20:20:50] Log session started
+[2019-03-04 20:20:50] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:20:50] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:20:50] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:20:50] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:20:50] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:20:50] [0,0] Server says 50% of connections should be websockets, we rolled 94 - using UDP as default.
+[2019-03-04 20:20:50] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.69:27017, UDP)
+[2019-03-04 20:20:51] [1,2] ConnectionCompleted() (162.254.192.101:27019, UDP)
+[2019-03-04 20:20:52] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:21:13] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551698473 seconds ago)
+[2019-03-04 20:21:13] [3,2] LogOff()
+[2019-03-04 20:21:13] [2,2] AsyncDisconnect()
+[2019-03-04 20:21:13] [2,2] Log session ended
+
+
+[2019-03-04 20:21:34] Log session started
+[2019-03-04 20:21:34] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:21:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:21:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:21:35] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:21:35] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:21:35] [0,0] Server says 50% of connections should be websockets, we rolled 43 - using WebSockets as default.
+[2019-03-04 20:21:35] [0,0] Existing WebSocket ping data (CM02-LUX.cm.steampowered.com:27021) results: 100000.0000ms + load 0.0000 (587 seconds ago)
+[2019-03-04 20:21:35] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:27020) starting...
+[2019-03-04 20:21:35] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:35] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:21:35] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM02-IAD.cm.steampowered.com:27021) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM02-VIE.cm.steampowered.com:27021) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM02-IAD.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (CM02-VIE.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:36] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:443) results: 199.9462ms + load 26.0000
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:443) starting...
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:37] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27021) starting...
+[2019-03-04 20:21:38] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:38] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:38] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:21:38] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm4-iad1.cm.steampowered.com:443, WebSocket)
+[2019-03-04 20:21:38] [1,3] ConnectionCompleted() (162.254.192.109:443, WebSocket)
+[2019-03-04 20:21:39] [1,3] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:21:42] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551698502 seconds ago)
+[2019-03-04 20:21:42] [3,3] LogOff()
+[2019-03-04 20:21:42] [2,3] AsyncDisconnect()
+[2019-03-04 20:21:42] [2,3] Log session ended
+
+
+[2019-03-04 20:22:59] Log session started
+[2019-03-04 20:22:59] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:22:59] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:22:59] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:22:59] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:22:59] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:23:00] [0,0] Server says 50% of connections should be websockets, we rolled 22 - using WebSockets as default.
+[2019-03-04 20:23:00] [0,0] Existing WebSocket ping data (CM02-LON.cm.steampowered.com:27021) results: 100000.0000ms + load 0.0000 (673 seconds ago)
+[2019-03-04 20:23:00] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:23:00] [0,0] PingWebSocketCM() (CM03-FRA.cm.steampowered.com:443) starting...
+[2019-03-04 20:23:00] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:00] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (CM03-LON.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (CM03-FRA.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (CM02-STO.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:443) starting...
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (CM02-STO.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:01] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27021) starting...
+[2019-03-04 20:23:02] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:443) starting...
+[2019-03-04 20:23:03] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:03] [0,0] PingWebSocketCM() (cm-02-ams1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:03] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:03] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:23:03] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm4-sto1.cm.steampowered.com:27020, WebSocket)
+[2019-03-04 20:23:04] [1,3] ConnectionCompleted() (162.254.198.133:27020, WebSocket)
+[2019-03-04 20:23:05] [1,3] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+
+
+[2019-03-04 20:24:17] Log session started
+[2019-03-04 20:24:17] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:24:17] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:24:17] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:24:17] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:24:17] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:24:17] [0,0] Server says 50% of connections should be websockets, we rolled 29 - using WebSockets as default.
+[2019-03-04 20:24:17] [0,0] Existing WebSocket ping data (CM02-IAD.cm.steampowered.com:27021) results: 100000.0000ms + load 0.0000 (161 seconds ago)
+[2019-03-04 20:24:17] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:443) starting...
+[2019-03-04 20:24:17] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:17] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:443) starting...
+[2019-03-04 20:24:17] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:24:18] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:443) starting...
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm-03-ams1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:443) starting...
+[2019-03-04 20:24:20] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (CM02-IAD.cm.steampowered.com:27021) starting...
+[2019-03-04 20:24:21] [0,0] PingWebSocketCM() (CM02-IAD.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:24:21] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm2-mad1.cm.steampowered.com:443, WebSocket)
+[2019-03-04 20:24:22] [1,3] ConnectionCompleted() (155.133.246.69:443, WebSocket)
+[2019-03-04 20:24:22] [1,3] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:27:16] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551698836 seconds ago)
+[2019-03-04 20:27:16] [3,3] LogOff()
+[2019-03-04 20:27:16] [2,3] AsyncDisconnect()
+[2019-03-04 20:27:16] [2,3] Log session ended
+
+
+[2019-03-04 20:27:19] Log session started
+[2019-03-04 20:27:19] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:27:19] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:27:19] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:27:19] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:27:19] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:27:20] [0,0] Server says 50% of connections should be websockets, we rolled 46 - using WebSockets as default.
+[2019-03-04 20:27:20] [0,0] Existing WebSocket ping data (cm1-mad1.cm.steampowered.com:27021) results: 100000.0000ms + load 0.0000 (258 seconds ago)
+[2019-03-04 20:27:20] [0,0] Existing WebSocket ping data (cm2-sto1.cm.steampowered.com:27020) results: 100000.0000ms + load 0.0000 (180 seconds ago)
+[2019-03-04 20:27:20] [0,0] Existing WebSocket ping data (cm1-sto1.cm.steampowered.com:443) results: 100000.0000ms + load 0.0000 (342 seconds ago)
+[2019-03-04 20:27:20] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:27:20] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:27:20] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:443) starting...
+[2019-03-04 20:27:20] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:27021) results: 198.6891ms + load 28.0000
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:27021) starting...
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:27021) starting...
+[2019-03-04 20:27:21] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:443) starting...
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (CM01-FRA.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (CM-02-WAW1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (CM02-LON.cm.steampowered.com:443) results: 250.2289ms + load 64.0000
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:443) starting...
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (CM04-LON.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:443) starting...
+[2019-03-04 20:27:22] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:27:23] [0,0] PingWebSocketCM() (CM-02-WAW1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:23] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:27:23] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:23] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:23] [0,0] PingWebSocketCM() (cm2-sto1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:24] [0,0] PingWebSocketCM() (cm1-mad1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:27:24] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm4-iad1.cm.steampowered.com:27021, WebSocket)
+[2019-03-04 20:27:24] [1,3] ConnectionCompleted() (162.254.192.109:27021, WebSocket)
+[2019-03-04 20:27:24] [1,3] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:27:28] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551698848 seconds ago)
+[2019-03-04 20:27:28] [3,3] LogOff()
+[2019-03-04 20:27:28] [2,3] AsyncDisconnect()
+[2019-03-04 20:27:28] [2,3] Log session ended
+
+
+[2019-03-04 20:29:27] Log session started
+[2019-03-04 20:29:27] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:29:27] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:29:27] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:29:27] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:29:27] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:29:27] [0,0] Server says 50% of connections should be websockets, we rolled 96 - using UDP as default.
+[2019-03-04 20:29:27] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.69:27019, UDP)
+[2019-03-04 20:29:28] [1,2] ConnectionCompleted() (162.254.192.100:27019, UDP)
+[2019-03-04 20:29:29] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:29:35] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551698975 seconds ago)
+[2019-03-04 20:29:35] [3,2] LogOff()
+[2019-03-04 20:29:35] [2,2] AsyncDisconnect()
+[2019-03-04 20:29:35] [2,2] Log session ended
+
+
+[2019-03-04 20:32:05] Log session started
+[2019-03-04 20:32:05] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:32:05] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:32:05] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:32:05] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:32:05] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:32:06] [0,0] Server says 50% of connections should be websockets, we rolled 86 - using UDP as default.
+[2019-03-04 20:32:06] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.68:27017, UDP)
+[2019-03-04 20:32:07] [1,2] ConnectionCompleted() (162.254.192.101:27019, UDP)
+[2019-03-04 20:32:07] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:32:36] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551699156 seconds ago)
+[2019-03-04 20:32:36] [3,2] LogOff()
+[2019-03-04 20:32:36] [2,2] AsyncDisconnect()
+[2019-03-04 20:32:36] [2,2] Log session ended
+
+
+[2019-03-04 20:32:38] Log session started
+[2019-03-04 20:32:38] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:32:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:32:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:32:39] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:32:39] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:32:39] [0,0] Server says 50% of connections should be websockets, we rolled 47 - using WebSockets as default.
+[2019-03-04 20:32:39] [0,0] Existing WebSocket ping data (cm2-mad1.cm.steampowered.com:443) results: 100000.0000ms + load 0.0000 (501 seconds ago)
+[2019-03-04 20:32:39] [0,0] Existing WebSocket ping data (CM-01-WAW1.cm.steampowered.com:443) results: 100000.0000ms + load 0.0000 (1250 seconds ago)
+[2019-03-04 20:32:39] [0,0] Existing WebSocket ping data (CM02-LON.cm.steampowered.com:443) results: 250.0000ms + load 64.0000 (317 seconds ago)
+[2019-03-04 20:32:39] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:443) starting...
+[2019-03-04 20:32:39] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:32:39] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:32:39] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:443) starting...
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27021) results: 190.4937ms + load 25.0000
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:443) results: 249.3162ms + load 67.0000
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:40] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:27020) results: 201.6454ms + load 28.0000
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:27021) starting...
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27021) results: 199.3916ms + load 28.0000
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:443) starting...
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:443) starting...
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:41] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:443) starting...
+[2019-03-04 20:32:42] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:42] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:42] [0,0] PingWebSocketCM() (CM-01-WAW1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:42] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:32:42] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm3-iad1.cm.steampowered.com:27021, WebSocket)
+[2019-03-04 20:32:42] [1,3] ConnectionCompleted() (162.254.192.108:27021, WebSocket)
+[2019-03-04 20:32:43] [1,3] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+
+
+[2019-03-04 20:33:08] Log session started
+[2019-03-04 20:33:08] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:33:08] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:33:08] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:33:08] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:33:08] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:33:09] [0,0] Server says 50% of connections should be websockets, we rolled 56 - using UDP as default.
+[2019-03-04 20:33:09] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.69:27019, UDP)
+[2019-03-04 20:33:10] [1,2] ConnectionCompleted() (162.254.192.101:27017, UDP)
+[2019-03-04 20:33:10] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:34:16] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551699256 seconds ago)
+[2019-03-04 20:34:16] [3,2] LogOff()
+[2019-03-04 20:34:16] [2,2] AsyncDisconnect()
+[2019-03-04 20:34:16] [2,2] Log session ended
+
+
+[2019-03-04 20:34:18] Log session started
+[2019-03-04 20:34:18] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:34:18] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:34:18] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:34:18] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:34:18] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:34:19] [0,0] Server says 50% of connections should be websockets, we rolled 3 - using WebSockets as default.
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (cm1-vie1.cm.steampowered.com:443) results: 100000.0000ms + load 0.0000 (601 seconds ago)
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (CM02-LUX.cm.steampowered.com:27021) results: 100000.0000ms + load 0.0000 (761 seconds ago)
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (CM01-LON.cm.steampowered.com:27020) results: 100000.0000ms + load 0.0000 (763 seconds ago)
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (CM02-LON.cm.steampowered.com:443) results: 250.0000ms + load 64.0000 (417 seconds ago)
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (CM01-LON.cm.steampowered.com:443) results: 249.0000ms + load 67.0000 (99 seconds ago)
+[2019-03-04 20:34:19] [0,0] Existing WebSocket ping data (cm1-iad1.cm.steampowered.com:27020) results: 201.0000ms + load 28.0000 (98 seconds ago)
+[2019-03-04 20:34:19] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:443) starting...
+[2019-03-04 20:34:19] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:34:19] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:443) starting...
+[2019-03-04 20:34:19] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:443) starting...
+[2019-03-04 20:34:20] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (cm2-vie1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (CM02-LUX.cm.steampowered.com:27021) starting...
+[2019-03-04 20:34:21] [0,0] PingWebSocketCM() (cm1-vie1.cm.steampowered.com:443) starting...
+
+
+[2019-03-04 20:34:40] Log session started
+[2019-03-04 20:34:40] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:34:40] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:34:40] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:34:40] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:34:40] [0,0] SetSteamID( [U:1:969757624] )
+[2019-03-04 20:34:41] [0,0] Server says 50% of connections should be websockets, we rolled 89 - using UDP as default.
+[2019-03-04 20:34:41] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.68:27019, UDP)
+[2019-03-04 20:34:42] [1,2] ConnectionCompleted() (162.254.192.101:27019, UDP)
+[2019-03-04 20:34:42] [1,2] RecvMsgClientLogOnResponse() : [U:1:969757624] 'OK'
+[2019-03-04 20:34:51] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551699291 seconds ago)
+[2019-03-04 20:34:51] [3,2] LogOff()
+[2019-03-04 20:34:51] [2,2] AsyncDisconnect()
+[2019-03-04 20:34:51] [2,2] Log session ended
+
+
+[2019-03-04 20:36:24] Log session started
+[2019-03-04 20:36:24] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:36:24] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:36:24] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2019-03-04 20:36:24] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:36:24] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:36:24] [0,0] Server says 50% of connections should be websockets, we rolled 23 - using WebSockets as default.
+[2019-03-04 20:36:24] [0,0] Existing WebSocket ping data (CM01-LON.cm.steampowered.com:27020) results: 100000.0000ms + load 0.0000 (888 seconds ago)
+[2019-03-04 20:36:24] [0,0] Existing WebSocket ping data (cm-01-ams1.cm.steampowered.com:27020) results: 100000.0000ms + load 0.0000 (543 seconds ago)
+[2019-03-04 20:36:24] [0,0] Existing WebSocket ping data (CM02-LON.cm.steampowered.com:443) results: 250.0000ms + load 64.0000 (542 seconds ago)
+[2019-03-04 20:36:24] [0,0] Existing WebSocket ping data (CM01-LON.cm.steampowered.com:443) results: 249.0000ms + load 67.0000 (224 seconds ago)
+[2019-03-04 20:36:24] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:27020) starting...
+[2019-03-04 20:36:24] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:443) starting...
+[2019-03-04 20:36:24] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:36:24] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (CM01-LUX.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm1-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm3-sto1.cm.steampowered.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (CM-02-WAW1.cm.steampowered.com:443) starting...
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:36:25] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27021) starting...
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27021) results: 249.4874ms + load 29.0000
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27020) starting...
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (cm2-mad1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (CM-02-WAW1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (cm1-par1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:443) starting...
+[2019-03-04 20:36:26] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) starting...
+[2019-03-04 20:36:27] [0,0] PingWebSocketCM() (cm-01-ams1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:27] [0,0] PingWebSocketCM() (CM01-LON.cm.steampowered.com:27020) results: 247.1535ms + load 60.0000
+[2019-03-04 20:36:27] [0,0] PingWebSocketCM() (cm-04-ams1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2019-03-04 20:36:27] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm2-iad1.cm.steampowered.com:27021, WebSocket)
+[2019-03-04 20:36:28] [1,3] ConnectionCompleted() (162.254.192.101:27021, WebSocket)
+[2019-03-04 20:36:28] [1,3] RecvMsgClientLogOnResponse() : [I:0:0] 'Account logon denied, need two-factor code'
+[2019-03-04 20:36:28] [1,3] AsyncDisconnect()
+[2019-03-04 20:36:28] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'Account logon denied, need two-factor code' (162.254.192.101:27021, WebSocket)
+[2019-03-04 20:36:28] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2019-03-04 20:36:42] [0,0] SetSteamID( [U:1:0] )
+[2019-03-04 20:36:42] [0,0] Server says 50% of connections should be websockets, we rolled 98 - using UDP as default.
+[2019-03-04 20:36:42] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.246.69:27017, UDP)
+[2019-03-04 20:36:43] [1,2] ConnectionCompleted() (162.254.192.100:27019, UDP)
+[2019-03-04 20:36:43] [1,2] RecvMsgClientLogOnResponse() : [U:1:238452673] 'OK'
+[2019-03-04 20:37:05] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1551699425 seconds ago)
+[2019-03-04 20:37:05] [3,2] LogOff()
+[2019-03-04 20:37:05] [2,2] AsyncDisconnect()
+[2019-03-04 20:37:05] [2,2] Log session ended
