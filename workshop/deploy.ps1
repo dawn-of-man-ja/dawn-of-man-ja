@@ -6,6 +6,7 @@ if(Test-Path Variable:env:changenote){
     $changenote=$env:changenote
 }else{
     $query= "https://api.github.com/r/repos/$env:APPVEYOR_REPO_NAME/git/commits/$env:APPVEYOR_REPO_COMMIT";
+    Write-Host "query:$query"
     $res=Invoke-RestMethod -Uri $query -Method GET
    
     $changenote=$res.message
