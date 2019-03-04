@@ -467,7 +467,7 @@
 	<string name="context_action_limits">関連する資源の制限</string>
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
-	<string name="context_action_empty">中身がない</string>
+	<string name="context_action_empty">中身をなくす</string>
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
