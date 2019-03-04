@@ -1,0 +1,76 @@
+
+
+[2018-05-28 12:15:54] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:16:45] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:19:14] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:21:29] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:28:06] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:30:06] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:31:43] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:35:17] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:36:19] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 12:44:11] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 13:22:44] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 13:27:04] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 15:19:02] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 15:19:48] Couldn't bind to broadcast port 27036
+
+
+[2018-05-28 15:51:39] Couldn't bind to broadcast port 27036
+
+
+[2019-01-21 15:11:54] Generated client id: 6917325667104572803
+[2019-01-21 15:11:54] Listening for IPv4 broadcast on: 27036
+[2019-01-21 15:11:54] Listening for connections on: 0.0.0.0:27037
+[2019-01-21 15:11:54] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:11:54] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:11:58] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:11:58] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:12:10] Received offline message from client 1620138312183881302 at 192.168.1.68:27036
+[2019-01-21 15:12:15] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:12:17] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:12:17] Received discovery message from client 1620138312183881302 at 192.168.1.68:27036
+[2019-01-21 15:12:17] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:12:19] Received discovery message from client 1620138312183881302 at 192.168.1.68:27036
+[2019-01-21 15:12:20] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:12:21] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:12:23] Received discovery message from client 1620138312183881302 at 192.168.1.68:27036
+[2019-01-21 15:12:38] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:12:39] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+
+
+[2019-01-21 15:13:45] Loaded client id: 6917325667104572803
+[2019-01-21 15:13:45] Listening for IPv4 broadcast on: 27036
+[2019-01-21 15:13:45] Listening for connections on: 0.0.0.0:27037
+[2019-01-21 15:13:45] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:13:45] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:13:49] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036
+[2019-01-21 15:13:50] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:14:13] Received broadcast message from client 1620138312183881302 (DESKTOP-6K60Q9Q): 192.168.1.68:27036
+[2019-01-21 15:14:14] Received broadcast message from client 8493478412878083042 (MSIGE40): 192.168.1.102:27036

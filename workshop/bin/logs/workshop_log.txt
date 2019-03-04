@@ -1,0 +1,111 @@
+
+
+[2018-05-28 12:15:54] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+
+
+[2018-05-28 12:16:45] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:16:48] [AppID 858810] Create new workshop item for AppID 858810 : 1396810620 (OK)
+[2018-05-28 12:16:48] [AppID 858810] Upload starting for workshop item 1396810620 by AppID 858810
+[2018-05-28 12:16:48] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:19:14] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:19:16] [AppID 858810] Create new workshop item for AppID 858810 : 1396811721 (OK)
+[2018-05-28 12:19:16] [AppID 858810] Upload starting for workshop item 1396811721 by AppID 858810
+[2018-05-28 12:19:17] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:21:29] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:21:32] [AppID 858810] Create new workshop item for AppID 858810 : 1396812877 (OK)
+[2018-05-28 12:21:32] [AppID 858810] Upload starting for workshop item 1396812877 by AppID 858810
+[2018-05-28 12:21:32] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:28:06] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:28:08] [AppID 858810] Create new workshop item for AppID 858810 : 1396815558 (OK)
+[2018-05-28 12:28:08] [AppID 858810] Upload starting for workshop item 1396815558 by AppID 858810
+[2018-05-28 12:28:08] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:30:06] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:30:08] [AppID 858810] Create new workshop item for AppID 858810 : 1396816311 (OK)
+[2018-05-28 12:30:08] [AppID 858810] Upload starting for workshop item 1396816311 by AppID 858810
+[2018-05-28 12:30:08] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:31:43] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:31:45] [AppID 858810] Create new workshop item for AppID 858810 : 1396817003 (OK)
+[2018-05-28 12:31:45] [AppID 858810] Upload starting for workshop item 1396817003 by AppID 858810
+[2018-05-28 12:31:46] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:35:17] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:35:19] [AppID 858810] Create new workshop item for AppID 858810 : 1396818509 (OK)
+[2018-05-28 12:35:19] [AppID 858810] Upload starting for workshop item 1396818509 by AppID 858810
+[2018-05-28 12:35:20] [AppID 858810] Upload workshop item failed, no workshop depot found
+
+
+[2018-05-28 12:36:19] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:36:20] [AppID 858810] Upload starting for workshop item 1396818509 by AppID 858810
+[2018-05-28 12:36:24] [AppID 858810] Uploaded new content ( ManifestID 6116830948973521665 ) for item 1396818509.
+[2018-05-28 12:36:29] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 12:36:30] [AppID 858810] Upload finished for workshop item 1396818509 : OK
+
+
+[2018-05-28 12:44:11] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 12:44:13] [AppID 858810] Create new workshop item for AppID 858810 : 1396822320 (OK)
+[2018-05-28 12:44:13] [AppID 858810] Upload starting for workshop item 1396822320 by AppID 858810
+[2018-05-28 12:44:19] [AppID 858810] Uploaded new content ( ManifestID 2028450706098529436 ) for item 1396822320.
+[2018-05-28 12:44:23] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 12:44:24] [AppID 858810] Upload finished for workshop item 1396822320 : OK
+
+
+[2018-05-28 13:22:44] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 13:22:46] [AppID 858810] Create new workshop item for AppID 858810 : 1396839997 (OK)
+[2018-05-28 13:22:46] [AppID 858810] Upload starting for workshop item 1396839997 by AppID 858810
+[2018-05-28 13:22:49] [AppID 858810] Uploaded new content ( ManifestID 1789567383894533879 ) for item 1396839997.
+[2018-05-28 13:22:52] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 13:22:52] [AppID 858810] Upload finished for workshop item 1396839997 : OK
+
+
+[2018-05-28 13:27:04] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 13:27:06] [AppID 858810] Create new workshop item for AppID 858810 : 1396842148 (OK)
+[2018-05-28 13:27:06] [AppID 858810] Upload starting for workshop item 1396842148 by AppID 858810
+[2018-05-28 13:27:09] [AppID 858810] Uploaded new content ( ManifestID 1146052680587387568 ) for item 1396842148.
+[2018-05-28 13:27:11] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 13:27:12] [AppID 858810] Upload finished for workshop item 1396842148 : OK
+
+
+[2018-05-28 15:19:02] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 15:19:03] [AppID 1396839997] Create new workshop item for AppID 1396839997 : 18446744073709551615 (Failure)
+
+
+[2018-05-28 15:19:48] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 15:19:49] [AppID 858810] Upload starting for workshop item 1396839997 by AppID 858810
+[2018-05-28 15:19:52] [AppID 858810] Uploaded new content ( ManifestID 5023855768430675033 ) for item 1396839997.
+[2018-05-28 15:19:53] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 15:19:54] [AppID 858810] Upload finished for workshop item 1396839997 : OK
+
+
+[2018-05-28 15:51:39] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2018-05-28 15:51:40] [AppID 858810] Create new workshop item for AppID 858810 : 1396924116 (OK)
+[2018-05-28 15:51:40] [AppID 858810] Upload starting for workshop item 1396924116 by AppID 858810
+[2018-05-28 15:51:44] [AppID 858810] Uploaded new content ( ManifestID 8510939614325618998 ) for item 1396924116.
+[2018-05-28 15:51:45] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2018-05-28 15:51:46] [AppID 858810] Upload finished for workshop item 1396924116 : OK
+
+
+[2019-01-21 15:11:54] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2019-01-21 15:11:57] [AppID 858810] Create new workshop item for AppID 858810 : 1631345181 (OK)
+[2019-01-21 15:11:57] [AppID 858810] Upload starting for workshop item 1631345181 by AppID 858810
+[2019-01-21 15:12:02] [AppID 858810] Uploaded new content ( ManifestID 8959579786994014550 ) for item 1631345181.
+[2019-01-21 15:12:05] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2019-01-21 15:12:06] [AppID 858810] Upload finished for workshop item 1631345181 : OK
+
+
+[2019-01-21 15:13:45] Loading workshop items for 0 installed apps for user [U:1:302010562]:
+[2019-01-21 15:13:47] [AppID 858810] Create new workshop item for AppID 858810 : 1631346450 (OK)
+[2019-01-21 15:13:47] [AppID 858810] Upload starting for workshop item 1631346450 by AppID 858810
+[2019-01-21 15:13:50] [AppID 858810] Uploaded new content ( ManifestID 2653589811301267333 ) for item 1631346450.
+[2019-01-21 15:13:52] [AppID 858810] Uploaded new workshop preview file ..\preview\preview.png
+[2019-01-21 15:13:53] [AppID 858810] Upload finished for workshop item 1631346450 : OK

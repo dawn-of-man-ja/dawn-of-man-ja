@@ -1,0 +1,260 @@
+
+
+[2018-05-28 12:10:04] Startup - updater built Dec  2 2013 18:43:44
+[2018-05-28 12:10:04] Checking for update on startup
+[2018-05-28 12:10:04] Checking for available update...
+[2018-05-28 12:10:05] Package file steamcmd_public_all.zip.606b15b49dcbcfa43421eb3c1a874b838edc2e1b missing or incorrect size
+[2018-05-28 12:10:05] Package file steamcmd_bins_win32.zip.4c7f1dd9f3c15ba9be14c78bec4ed1da2a1ecfcb missing or incorrect size
+[2018-05-28 12:10:05] Package file steamcmd_steamservice_win32.zip.cf9fac5b4b3a07a55d6089760bab79d64c240905 missing or incorrect size
+[2018-05-28 12:10:05] Package file steamcmd_steamerrorreporter_win32.zip.0acdd2e63310a31775130c7e59e951da278b29c0 missing or incorrect size
+[2018-05-28 12:10:05] Package file steamcmd_win32.zip.a9b2bef4d70a096fb2ac9168e283695ade2f7b21 missing or incorrect size
+[2018-05-28 12:10:05] Downloading update (0 of 10,245 KB)...
+[2018-05-28 12:10:05] Downloading update (59 of 10,245 KB)...
+[2018-05-28 12:10:06] Downloading update (190 of 10,245 KB)...
+[2018-05-28 12:10:06] Downloading update (1,315 of 10,245 KB)...
+[2018-05-28 12:10:06] Downloading update (2,951 of 10,245 KB)...
+[2018-05-28 12:10:06] Downloading update (3,898 of 10,245 KB)...
+[2018-05-28 12:10:07] Downloading update (4,626 of 10,245 KB)...
+[2018-05-28 12:10:07] Downloading update (6,360 of 10,245 KB)...
+[2018-05-28 12:10:07] Downloading update (7,074 of 10,245 KB)...
+[2018-05-28 12:10:07] Downloading update (7,787 of 10,245 KB)...
+[2018-05-28 12:10:08] Downloading update (8,434 of 10,245 KB)...
+[2018-05-28 12:10:08] Downloading update (8,946 of 10,245 KB)...
+[2018-05-28 12:10:08] Downloading update (9,402 of 10,245 KB)...
+[2018-05-28 12:10:08] Downloading update (10,003 of 10,245 KB)...
+[2018-05-28 12:10:09] Downloading update (10,245 of 10,245 KB)...
+[2018-05-28 12:10:09] Download Complete.
+[2018-05-28 12:10:09] uninstalled manifest found in E:\Development\svn_madrugaworks_dawnofman\DawnOfMan\WorkshopUploader\bin\package\steam_cmd_win32 (1).
+[2018-05-28 12:10:09] Found pending update
+[2018-05-28 12:10:09] Applying update...
+[2018-05-28 12:10:09] Extracting package...
+[2018-05-28 12:10:11] Installing update...
+[2018-05-28 12:10:12] Committing NTFS transaction (0 non-transactional backup files)
+[2018-05-28 12:10:12] Cleaning up...
+[2018-05-28 12:10:12] Update complete, launching...
+[2018-05-28 12:10:12] Shutdown
+
+
+[2018-05-28 12:12:07] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:12:07] Checking for update on startup
+[2018-05-28 12:12:07] Checking for available updates...
+[2018-05-28 12:12:10] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:12:10] Nothing to do
+[2018-05-28 12:12:10] Verifying installation...
+[2018-05-28 12:12:10] Performing checksum verification of executable files
+[2018-05-28 12:12:10] Verification complete
+[2018-05-28 12:12:28] Shutdown
+
+
+[2018-05-28 12:12:46] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:12:46] Checking for update on startup
+[2018-05-28 12:12:46] Checking for available updates...
+[2018-05-28 12:12:47] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:12:47] Nothing to do
+[2018-05-28 12:12:47] Verifying installation...
+[2018-05-28 12:12:47] Performing checksum verification of executable files
+[2018-05-28 12:12:47] Verification complete
+[2018-05-28 12:16:24] Shutdown
+
+
+[2018-05-28 12:16:38] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:16:38] Checking for update on startup
+[2018-05-28 12:16:38] Checking for available updates...
+[2018-05-28 12:16:39] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:16:39] Nothing to do
+[2018-05-28 12:16:39] Verifying installation...
+[2018-05-28 12:16:39] Performing checksum verification of executable files
+[2018-05-28 12:16:39] Verification complete
+[2018-05-28 12:19:02] Shutdown
+
+
+[2018-05-28 12:19:09] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:19:09] Checking for update on startup
+[2018-05-28 12:19:09] Checking for available updates...
+[2018-05-28 12:19:10] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:19:10] Nothing to do
+[2018-05-28 12:19:10] Verifying installation...
+[2018-05-28 12:19:10] Performing checksum verification of executable files
+[2018-05-28 12:19:10] Verification complete
+[2018-05-28 12:21:07] Shutdown
+
+
+[2018-05-28 12:21:25] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:21:25] Checking for update on startup
+[2018-05-28 12:21:25] Checking for available updates...
+[2018-05-28 12:21:27] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:21:27] Nothing to do
+[2018-05-28 12:21:27] Verifying installation...
+[2018-05-28 12:21:27] Performing checksum verification of executable files
+[2018-05-28 12:21:27] Verification complete
+[2018-05-28 12:27:54] Shutdown
+
+
+[2018-05-28 12:28:03] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:28:03] Checking for update on startup
+[2018-05-28 12:28:03] Checking for available updates...
+[2018-05-28 12:28:04] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:28:04] Nothing to do
+[2018-05-28 12:28:04] Verifying installation...
+[2018-05-28 12:28:04] Performing checksum verification of executable files
+[2018-05-28 12:28:04] Verification complete
+[2018-05-28 12:29:52] Shutdown
+
+
+[2018-05-28 12:30:02] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:30:02] Checking for update on startup
+[2018-05-28 12:30:02] Checking for available updates...
+[2018-05-28 12:30:04] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:30:04] Nothing to do
+[2018-05-28 12:30:04] Verifying installation...
+[2018-05-28 12:30:04] Performing checksum verification of executable files
+[2018-05-28 12:30:04] Verification complete
+[2018-05-28 12:31:15] Shutdown
+
+
+[2018-05-28 12:31:21] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:31:21] Checking for update on startup
+[2018-05-28 12:31:21] Checking for available updates...
+[2018-05-28 12:31:22] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:31:22] Nothing to do
+[2018-05-28 12:31:22] Verifying installation...
+[2018-05-28 12:31:22] Performing checksum verification of executable files
+[2018-05-28 12:31:22] Verification complete
+[2018-05-28 12:31:32] Shutdown
+
+
+[2018-05-28 12:31:39] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:31:39] Checking for update on startup
+[2018-05-28 12:31:39] Checking for available updates...
+[2018-05-28 12:31:40] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:31:40] Nothing to do
+[2018-05-28 12:31:40] Verifying installation...
+[2018-05-28 12:31:40] Performing checksum verification of executable files
+[2018-05-28 12:31:40] Verification complete
+[2018-05-28 12:35:01] Shutdown
+
+
+[2018-05-28 12:35:14] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:35:14] Checking for update on startup
+[2018-05-28 12:35:14] Checking for available updates...
+[2018-05-28 12:35:15] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:35:15] Nothing to do
+[2018-05-28 12:35:15] Verifying installation...
+[2018-05-28 12:35:15] Performing checksum verification of executable files
+[2018-05-28 12:35:15] Verification complete
+[2018-05-28 12:36:01] Shutdown
+
+
+[2018-05-28 12:36:15] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:36:15] Checking for update on startup
+[2018-05-28 12:36:15] Checking for available updates...
+[2018-05-28 12:36:16] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:36:16] Nothing to do
+[2018-05-28 12:36:16] Verifying installation...
+[2018-05-28 12:36:16] Performing checksum verification of executable files
+[2018-05-28 12:36:16] Verification complete
+[2018-05-28 12:36:41] Shutdown
+
+
+[2018-05-28 12:44:07] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 12:44:07] Checking for update on startup
+[2018-05-28 12:44:07] Checking for available updates...
+[2018-05-28 12:44:08] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 12:44:08] Nothing to do
+[2018-05-28 12:44:08] Verifying installation...
+[2018-05-28 12:44:08] Performing checksum verification of executable files
+[2018-05-28 12:44:08] Verification complete
+
+
+[2018-05-28 13:22:42] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 13:22:42] Checking for update on startup
+[2018-05-28 13:22:42] Checking for available updates...
+[2018-05-28 13:22:42] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 13:22:42] Nothing to do
+[2018-05-28 13:22:42] Verifying installation...
+[2018-05-28 13:22:42] Performing checksum verification of executable files
+[2018-05-28 13:22:42] Verification complete
+
+
+[2018-05-28 13:27:02] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 13:27:02] Checking for update on startup
+[2018-05-28 13:27:02] Checking for available updates...
+[2018-05-28 13:27:02] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 13:27:02] Nothing to do
+[2018-05-28 13:27:02] Verifying installation...
+[2018-05-28 13:27:02] Performing checksum verification of executable files
+[2018-05-28 13:27:02] Verification complete
+
+
+[2018-05-28 15:19:00] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 15:19:00] Checking for update on startup
+[2018-05-28 15:19:00] Checking for available updates...
+[2018-05-28 15:19:00] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 15:19:00] Nothing to do
+[2018-05-28 15:19:00] Verifying installation...
+[2018-05-28 15:19:00] Performing checksum verification of executable files
+[2018-05-28 15:19:00] Verification complete
+
+
+[2018-05-28 15:19:46] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 15:19:46] Checking for update on startup
+[2018-05-28 15:19:46] Checking for available updates...
+[2018-05-28 15:19:46] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 15:19:46] Nothing to do
+[2018-05-28 15:19:46] Verifying installation...
+[2018-05-28 15:19:46] Performing checksum verification of executable files
+[2018-05-28 15:19:46] Verification complete
+
+
+[2018-05-28 15:51:36] Startup - updater built Mar 19 2018 11:58:07
+[2018-05-28 15:51:36] Checking for update on startup
+[2018-05-28 15:51:36] Checking for available updates...
+[2018-05-28 15:51:37] Download skipped: /client/steam_cmd_win32 version 1521654438, installed version 1521654438
+[2018-05-28 15:51:37] Nothing to do
+[2018-05-28 15:51:37] Verifying installation...
+[2018-05-28 15:51:37] Performing checksum verification of executable files
+[2018-05-28 15:51:37] Verification complete
+
+
+[2019-01-21 15:11:46] Startup - updater built Mar 19 2018 11:58:07
+[2019-01-21 15:11:46] Checking for update on startup
+[2019-01-21 15:11:46] Checking for available updates...
+[2019-01-21 15:11:46] Package file steamcmd_public_all.zip.vz.8df6e83ae92e7b5f593a46473360582975f9eb1e_26194 missing or incorrect size
+[2019-01-21 15:11:46] Package file steamcmd_bins_win32.zip.vz.96e4b6b56042ce6b9bfc3b886ea3b87d264cd53b_4634848 missing or incorrect size
+[2019-01-21 15:11:46] Package file steamcmd_steamservice_win32.zip.vz.a5960a38934a35f29e85ce0936102eb264b26440_1048478 missing or incorrect size
+[2019-01-21 15:11:46] Package file steamcmd_steamerrorreporter_win32.zip.8629ffac15ce2348c6e555c272c4509e0c09ea3a missing or incorrect size
+[2019-01-21 15:11:46] Package file steamcmd_win32.zip.vz.72e6ae2805b1d6d2a27e97f1dd6336077fe57193_1071735 missing or incorrect size
+[2019-01-21 15:11:46] Downloading update (686 of 6,796 KB)...
+[2019-01-21 15:11:47] Downloading update (5,292 of 6,796 KB)...
+[2019-01-21 15:11:47] Downloading update (6,796 of 6,796 KB)...
+[2019-01-21 15:11:47] Download complete.
+[2019-01-21 15:11:47] uninstalled manifest found in E:\Development\svn_madrugaworks_dawnofman\DawnOfMan\Workshop\WorkshopUploader\bin\package\steam_cmd_win32 (1).
+[2019-01-21 15:11:47] Found pending update
+[2019-01-21 15:11:47] Installing update...
+[2019-01-21 15:11:47] Extracting package...
+[2019-01-21 15:11:49] Installing update...
+[2019-01-21 15:11:50] Committing NTFS transaction (0 non-transactional backup files)
+[2019-01-21 15:11:50] Cleaning up...
+[2019-01-21 15:11:50] Update complete, launching Steamcmd...
+[2019-01-21 15:11:50] Shutdown
+
+
+[2019-01-21 15:11:50] Startup - updater built Jul 24 2018 11:28:53
+[2019-01-21 15:11:50] Checking for update on startup
+[2019-01-21 15:11:50] Checking for available updates...
+[2019-01-21 15:11:51] Download skipped: /client/steam_cmd_win32 version 1532461524, installed version 1532461524
+[2019-01-21 15:11:51] Nothing to do
+[2019-01-21 15:11:51] Verifying installation...
+[2019-01-21 15:11:51] Performing checksum verification of executable files
+[2019-01-21 15:11:52] Verification complete
+
+
+[2019-01-21 15:13:43] Startup - updater built Jul 24 2018 11:28:53
+[2019-01-21 15:13:43] Checking for update on startup
+[2019-01-21 15:13:43] Checking for available updates...
+[2019-01-21 15:13:43] Download skipped: /client/steam_cmd_win32 version 1532461524, installed version 1532461524
+[2019-01-21 15:13:43] Nothing to do
+[2019-01-21 15:13:43] Verifying installation...
+[2019-01-21 15:13:43] Performing checksum verification of executable files
+[2019-01-21 15:13:43] Verification complete
+[2019-01-21 15:14:16] Shutdown

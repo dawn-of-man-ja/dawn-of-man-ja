@@ -1,0 +1,16 @@
+[2019-01-21 15:13:47]: Building file listing for depot 858810 ...
+[2019-01-21 15:13:47]: Found 6 files for mapping: ..\content * -> .
+[2019-01-21 15:13:47]: Found 6 files (0 MB) for depot 858810
+[2019-01-21 15:13:48]: Building depot 858810, no baseline manifest
+[2019-01-21 15:13:48]: Found 5 new chunks (0 old ones existed) for depot 858810, took 0 minutes, 0 seconds
+
+[2019-01-21 15:13:48]: Changes to baseline manifest:
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon" 0 kB ,Flags: 64
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\en_scenario_temple_of_the_moon.lng.xml" 2 kB 
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\es_scenario_temple_of_the_moon.lng.xml" 2 kB 
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\image_temple_of_the_moon.png" 573 kB 
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\temple_of_the_moon.scn.xml" 7 kB 
+[2019-01-21 15:13:48]: Added  : "TempleOfTheMoon\thumbnail_temple_of_the_moon.png" 106 kB 
+[2019-01-21 15:13:48]: Summary: 6 files added, 0 files changed, 0 files removed
+[2019-01-21 15:13:48]: Uploading new manifest to 208.64.201.57:80 (handle 6185605939802017881, 1253 bytes).
+[2019-01-21 15:13:50]: Success! New manifestID 2653589811301267333 created and 0 new chunks uploaded.

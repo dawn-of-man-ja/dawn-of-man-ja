@@ -1,0 +1,148 @@
+
+
+[2018-05-28 12:15:54] Failed to get ParentalSettings\Settings from config file for account ID 302010562
+[2018-05-28 12:15:55] Got parental settings for account ID 302010562
+
+
+[2018-05-28 12:16:45] Validating parental settings
+[2018-05-28 12:16:45] Settings dump:
+[2018-05-28 12:16:45] 	Account ID: 302010562
+[2018-05-28 12:16:45] 	Enabled: false
+[2018-05-28 12:16:45] 	Base list: 0 ()
+[2018-05-28 12:16:45] 	No custom list
+[2018-05-28 12:16:45] 	No enabled features
+
+
+[2018-05-28 12:19:14] Validating parental settings
+[2018-05-28 12:19:14] Settings dump:
+[2018-05-28 12:19:14] 	Account ID: 302010562
+[2018-05-28 12:19:14] 	Enabled: false
+[2018-05-28 12:19:14] 	Base list: 0 ()
+[2018-05-28 12:19:14] 	No custom list
+[2018-05-28 12:19:14] 	No enabled features
+
+
+[2018-05-28 12:21:29] Validating parental settings
+[2018-05-28 12:21:29] Settings dump:
+[2018-05-28 12:21:29] 	Account ID: 302010562
+[2018-05-28 12:21:29] 	Enabled: false
+[2018-05-28 12:21:29] 	Base list: 0 ()
+[2018-05-28 12:21:29] 	No custom list
+[2018-05-28 12:21:29] 	No enabled features
+
+
+[2018-05-28 12:28:06] Validating parental settings
+[2018-05-28 12:28:06] Settings dump:
+[2018-05-28 12:28:06] 	Account ID: 302010562
+[2018-05-28 12:28:06] 	Enabled: false
+[2018-05-28 12:28:06] 	Base list: 0 ()
+[2018-05-28 12:28:06] 	No custom list
+[2018-05-28 12:28:06] 	No enabled features
+
+
+[2018-05-28 12:30:06] Validating parental settings
+[2018-05-28 12:30:06] Settings dump:
+[2018-05-28 12:30:06] 	Account ID: 302010562
+[2018-05-28 12:30:06] 	Enabled: false
+[2018-05-28 12:30:06] 	Base list: 0 ()
+[2018-05-28 12:30:06] 	No custom list
+[2018-05-28 12:30:06] 	No enabled features
+
+
+[2018-05-28 12:31:43] Validating parental settings
+[2018-05-28 12:31:43] Settings dump:
+[2018-05-28 12:31:43] 	Account ID: 302010562
+[2018-05-28 12:31:43] 	Enabled: false
+[2018-05-28 12:31:43] 	Base list: 0 ()
+[2018-05-28 12:31:43] 	No custom list
+[2018-05-28 12:31:43] 	No enabled features
+
+
+[2018-05-28 12:35:17] Validating parental settings
+[2018-05-28 12:35:17] Settings dump:
+[2018-05-28 12:35:17] 	Account ID: 302010562
+[2018-05-28 12:35:17] 	Enabled: false
+[2018-05-28 12:35:17] 	Base list: 0 ()
+[2018-05-28 12:35:17] 	No custom list
+[2018-05-28 12:35:17] 	No enabled features
+
+
+[2018-05-28 12:36:19] Validating parental settings
+[2018-05-28 12:36:19] Settings dump:
+[2018-05-28 12:36:19] 	Account ID: 302010562
+[2018-05-28 12:36:19] 	Enabled: false
+[2018-05-28 12:36:19] 	Base list: 0 ()
+[2018-05-28 12:36:19] 	No custom list
+[2018-05-28 12:36:19] 	No enabled features
+
+
+[2018-05-28 12:44:11] Validating parental settings
+[2018-05-28 12:44:11] Settings dump:
+[2018-05-28 12:44:11] 	Account ID: 302010562
+[2018-05-28 12:44:11] 	Enabled: false
+[2018-05-28 12:44:11] 	Base list: 0 ()
+[2018-05-28 12:44:11] 	No custom list
+[2018-05-28 12:44:11] 	No enabled features
+
+
+[2018-05-28 13:22:44] Validating parental settings
+[2018-05-28 13:22:44] Settings dump:
+[2018-05-28 13:22:44] 	Account ID: 302010562
+[2018-05-28 13:22:44] 	Enabled: false
+[2018-05-28 13:22:44] 	Base list: 0 ()
+[2018-05-28 13:22:44] 	No custom list
+[2018-05-28 13:22:44] 	No enabled features
+
+
+[2018-05-28 13:27:04] Validating parental settings
+[2018-05-28 13:27:04] Settings dump:
+[2018-05-28 13:27:04] 	Account ID: 302010562
+[2018-05-28 13:27:04] 	Enabled: false
+[2018-05-28 13:27:04] 	Base list: 0 ()
+[2018-05-28 13:27:04] 	No custom list
+[2018-05-28 13:27:04] 	No enabled features
+
+
+[2018-05-28 15:19:02] Validating parental settings
+[2018-05-28 15:19:02] Settings dump:
+[2018-05-28 15:19:02] 	Account ID: 302010562
+[2018-05-28 15:19:02] 	Enabled: false
+[2018-05-28 15:19:02] 	Base list: 0 ()
+[2018-05-28 15:19:02] 	No custom list
+[2018-05-28 15:19:02] 	No enabled features
+
+
+[2018-05-28 15:19:48] Validating parental settings
+[2018-05-28 15:19:48] Settings dump:
+[2018-05-28 15:19:48] 	Account ID: 302010562
+[2018-05-28 15:19:48] 	Enabled: false
+[2018-05-28 15:19:48] 	Base list: 0 ()
+[2018-05-28 15:19:48] 	No custom list
+[2018-05-28 15:19:48] 	No enabled features
+
+
+[2018-05-28 15:51:39] Validating parental settings
+[2018-05-28 15:51:39] Settings dump:
+[2018-05-28 15:51:39] 	Account ID: 302010562
+[2018-05-28 15:51:39] 	Enabled: false
+[2018-05-28 15:51:39] 	Base list: 0 ()
+[2018-05-28 15:51:39] 	No custom list
+[2018-05-28 15:51:39] 	No enabled features
+
+
+[2019-01-21 15:11:54] Validating parental settings
+[2019-01-21 15:11:54] Settings dump:
+[2019-01-21 15:11:54] 	Account ID: 302010562
+[2019-01-21 15:11:54] 	Enabled: false
+[2019-01-21 15:11:54] 	Base list: 0 ()
+[2019-01-21 15:11:54] 	No custom list
+[2019-01-21 15:11:54] 	No enabled features
+
+
+[2019-01-21 15:13:45] Validating parental settings
+[2019-01-21 15:13:45] Settings dump:
+[2019-01-21 15:13:45] 	Account ID: 302010562
+[2019-01-21 15:13:45] 	Enabled: false
+[2019-01-21 15:13:45] 	Base list: 0 ()
+[2019-01-21 15:13:45] 	No custom list
+[2019-01-21 15:13:45] 	No enabled features
