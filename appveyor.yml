@@ -11,4 +11,4 @@ environment:
   
 deploy_script:
   - "chcp 65001;echo %APPVEYOR_REPO_COMMIT_MESSAGE%"
-  -ps: ./workshop/deploy.ps1
+  - ps: ./workshop/deploy.ps1
