@@ -647,7 +647,7 @@
 	<string name="tooltip_requires_milestones_short">(1)マイルストーンが必要</string>
 	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨 </string>
 	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
-	<string name="tooltip_draught">この動物は台車を引くのに使うことができる</string>
+	<string name="tooltip_draught">この動物は荷車を引くのに使うことができる</string>
 	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
 	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります。</string>
 	<string name="tooltip_knowledge_earned">この動物を狩ると(1)の知識ポイントが得られます</string>

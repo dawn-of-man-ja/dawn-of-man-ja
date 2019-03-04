@@ -31,7 +31,8 @@
 	<string name="help_input_resources">使う資源</string>
 
 	<string name="hint_0">夏には(b)ベリー(/b)や(b)果物(/b)を採取して食べることで、(b)干し肉(/b)、(b)魚の干物(/b)、(b)穀物(/b)などの日持ちする食材を冬に備えてとっておくことができます。</string>
-	<string name="hint_1">ゲーム初期の狩猟の際、殺すのが難しく反撃を受ける可能性もあるため、健康な大人の動物を狩るのは避けてください。<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
+	<string name="hint_1">ゲーム初期の狩猟の際、殺すのが難しく反撃を受ける可能性もあるため、健康な大人の動物を狩るのは避けてください。</string>
+	<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
 	<string name="hint_3">(b)インフラ(/b)に見合わない(b)拡張(/b)をしないでください。	</string>
 	<string name="hint_4">(b)家畜(/b)に、(b)冬(/b)に(b餌(/b)と(b)水(/b)を与える必要があるため、家畜を増やしすぎないようにしてください。</string>
 	<string name="hint_5">(b)旧石器時代(/b)の狩猟採集社会では、人口がまばらであったため、(b)紛争(/b)は(b)まれ(/b)な出来事でした。しかし、(b)新石器時代(/b)からは、(b)戦い(/b)への備えが必要です。</string>
@@ -1150,179 +1151,180 @@
   <!-- === ANIMALS: categories === -->	
   
 	<string name="help_domestic_animals_description">
-Domestic animals provide a variety of benefits to your settlement: (b)protection(/b), (b)food(/b), (b)resources(/b) and (b)muscle power(/b).
-You can obtain domestic animals by (b)purchasing(/b) them from traders, or by (b)domesticating young(/b) individuals of the equivalent wild variant.
-Animals need to be sheltered in winter, and be provided with (b)Water(/b) and (b)Straw(/b). If there is no (b)Straw(/b) available, you can feed them with (b)Grain(/b).
-Note that (b)Dogs(/b), as well as (b)Donkeys(/b) or (b)Horses(/b) that are (b)attached to transports(/b), don't need shelter or food in winter.
-Adult females will get pregnant and give (b)birth(/b) to new animals as long as there is an adult or old male around.
-Note that your people will automatically (b)slaughter(/b) any domestic animals that are (b)too old(/b), even if they are below the limit.
+家畜は村に(b)防御(/b)、(b)食糧(/b)、(b)資源(/b)、(b)力(/b)、など様々なものを提供します。
+(b)商人から購入する(/b)か(b)野生の若い個体を飼いならす(/b)ことによって、家畜を入手することができます。
+動物は冬に厩舎に入れ、(b)水(/b)と(b)わら(/b)を与える必要があります。 (b)わら(/b)がない場合は、(b)穀物(/b)を餌にすることもできます。
+(b)イヌ(/b)と、輸送器具に繋がれている(b)ロバ(/b)や(b)ウマ(/b)は厩舎にいれたり食べ物を与えたりする必要はありません。
+大人のメスは大人のオスまたはおいたオスが周りにいる場合子どもを生みます。
+制限を下回っている場合でも歳をとった家畜は自動的に屠殺されます。
 	</string>
 	
 	<string name="help_wild_animals_description">
-Wild animals inhabit the land and for the most part (b)avoid humans(/b).
-Predators will pose a threat if they are (b)very hungry(/b), or if they feel (b)threatened(/b).
+野生動物は土地に生息し、大部分は(b)人間を避けます(/b)。
+野生動物は(b)非常に空腹(/b)な場合、または(b)驚異を感じた場合(/b)襲撃してきます。
 	</string>
   
   <!-- === Animals === -->
   
 	<string name="dog_help_description">
-(b)Dogs(/b) are the first domestic animals to show up in your settlement. They are excellent (b)guards(/b) and will help you fight any intruders.
-Once the (b)Dog Domestication(/b) tech is researched, dogs will keep on coming to the village at a steady rate, depending on your population.
-They eat the leftovers from the humans, so they don't require to be fed or given shelter.
+(b)犬(/b)はあなたの居留地に最初に現れた家畜です。 彼らは優秀な(b)警備員(/b)であり、侵入者と戦うのに役立ちます。
+(b)犬の家畜化(/b)技術が研究されれば、犬はあなたの人口に応じて、安定した速度で村に来続けます。
+彼らは人間の残り物を食べます。そのため餌を与えたり厩舎に入れたりする必要はありません。
 	</string>
 	
 	<string name="goat_help_description">
-(b)Goats(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)ヤギ(/b)は(b)牛乳(/b)を生産し、肉や皮を得るために屠殺することもできます。
 	</string>	
 	
 	<string name="sheep_help_description">
-(b)Sheep(/b) produce (b)Wool(/b) and can also be slaughtered to obtain meat and skins.
+(b)羊(/b)は(b)羊毛(/b)を生産し、肉や皮を得るために屠殺することもできます。	
 	</string>		
 	
 	<string name="pig_help_description">
-(b)Pigs(/b) are primarily a source of meat.
+(b)豚(/b)は主に肉の原料です。	
 	</string>	
 	
 	<string name="cattle_help_description">
-(b)Cattle(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)牛(/b)は牛乳(/b)を生産し、肉や皮を得るために屠殺することもできます。
 	</string>		
 	
 	<string name="donkey_help_description">
-(b)Donkeys(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+(b)ロバ(/b)は主に(b)荷車(/b)を引くのに使われますが、肉を得るために屠殺することもできます。
 	</string>		
 	
 	<string name="horse_help_description">
-(b)Horses(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+(b)馬(/b)は主に(b)荷車(/b)を引くのに使われますが、肉を得るために屠殺することもできます。
 	</string>			
 	
 	<string name="herbivore_help_description">
-Herbivores roam the land and feed from grass. They are one of the primary sources of (b)Meat(/b), (b)Raw Skins(/b) and (b)Bones(/b).
-Healthy (b)adults(/b) are faster and (b)tougher(/b), so they require better tools or more hunters to be dealt with effectively.
-You can identify the easier prey using (b)primal vision(/b) or by clicking on individuals.
+草食動物は歩き回って草を食べています。 それらは、(b)肉(/b)、(b)生皮(/b)、および(b)骨(/b)の主な入手先となります。
+健康な(b)大人(/b)はよりすばやく、より(b)頑丈(/b)なため効果的に対処するにはより良い道具またはより多くのハンターが必要です。
+あなたは(b)原始の視覚(/b)を使うか、個人をクリックすることによってより簡単な獲物を識別することができます。
 	</string>	
 	
 	<string name="large_herbivore_help_description">
-Large herbivores will provide your people with large amounts of vital (b)resources(/b).
-However they are used to defending themselves against predators, and (b)might retaliate(/b) if attacked. Approach them with care.
+大きな草食動物はあなたの人々に大量の(b)資源(/b)を提供するでしょう。
+しかし、捕食者から身を守るのに慣れており、攻撃すれば(b)報復(/b)を受けるかもしれません。 慎重に近づいてください。
 	</string>		
 	
 	<string name="predator_help_description">
-Predators are animals that naturally prey on others. For the most part they will leave humans alone, unless hungry or provoked.
-You can use (b)primal vision(/b) to identify them on the map, where they will show highlighted in orange or red.
+肉食動物は動物を捕食する動物です。 空腹ではなく怒っているのでなければ、おそろく彼らは人間に手を出してきたりはしないでしょう。
+(b)原始の視覚(/b)を使ってそれらを識別することができ、そこではオレンジや赤でハイライト表示されます。
 	</string>
 
 	<!-- === TRANSPORTS (no categories) === -->
 
-	<string name="sledge_short_description">A basic human pulled transport</string>
+	<string name="sledge_short_description">基本的な人間による輸送</string>
 	<string name="sledge_help_description">
-The most basic form of transport, it allows one adult to move around (b)heavy resources(/b) with ease.
+最も基本的な輸送方法は、大人一人が(b)重い資源(/b)をもって運ぶことです。
 	</string>
 
-	<string name="cart_short_description">A wheeled transport pulled by animals</string>
+	<string name="cart_short_description">動物による車輪を用いた輸送</string>
 	<string name="cart_help_description">
-Allows your people to move (b)large quantities(/b) of (b)heavy resources(/b) around.
-Carts are pulled by (b)Donkeys(/b) or (b)Horses(/b). When an animal is available, it will get attached to the transport automatically.
+(b)重たい大量の資源(/b)を輸送することができます。
+荷車は(b)ロバ(/b)または(b)ウマ(/b)によって引かれます。
+動物が利用可能になると、それは自動的に輸送器具に繋がれます。
 	</string>
 	
-	<string name="rolling_megalith_short_description">A specialized transport to move megaliths</string>
+	<string name="rolling_megalith_short_description">巨石を移動させるための特殊な輸送</string>
 	<string name="rolling_megalith_help_description">
-To move (b)Megaliths(/b) around they are placed into rolling timbers, and then pulled by (b)several humans(/b).
+(b)巨石(/b)を動かすために(b)巨石(/b)を回転する材木の中に置き、そして(b)数人の人間(/b)によって引っ張って輸送します。
 	</string>
 
 	<!-- === PLANTS === -->
-	<string name="help_related_techs">Related Techs</string>
+	<string name="help_related_techs">関連技術</string>
 
 	<string name="help_plants_description">
-Plants that grow in the wild are a great source of (b)resources(/b).
-Once you have the appropriate (b)techs(/b), you will be able to (b)plant(/b) some of them yourself.
+野生の植物は、(b)資源(/b)の大きな供給元です。
+適切な(b)技術(/b)を入手したら、そのうちのいくつかを自分で(b)植える(/b)ことができます。
 	</string>
 
-	<string name="help_plant_harvesting_season">Harvesting Season</string>
-	<string name="help_plant_planting_season">Planting Season</string>
-	<string name="help_plant_disease_resistance">Disease Resistance: (1)%</string>
-	<string name="help_plant_extra_production">(1)% chance of producing extra resource: (2)</string>
+	<string name="help_plant_harvesting_season">収穫時期</string>
+	<string name="help_plant_planting_season">植え付け期</string>
+	<string name="help_plant_disease_resistance">耐病性: (1)%</string>
+	<string name="help_plant_extra_production">(1)%の確率で追加の資源を生産: (2)</string>
 
-	<string name="help_plant_type_cereals">Cereals</string>
-	<string name="help_plant_type_berries">Berries</string>
-	<string name="help_plant_type_pulses">Pulses</string>
-	<string name="help_plant_type_fruit_trees">Fruit Trees</string>
-	<string name="help_plant_type_other">Other</string>
+	<string name="help_plant_type_cereals">穀物</string>
+	<string name="help_plant_type_berries">ベリー</string>
+	<string name="help_plant_type_pulses">豆</string>
+	<string name="help_plant_type_fruit_trees">果物</string>
+	<string name="help_plant_type_other">その他</string>
 	
 	<string name="help_einkorn_description">
-A hardy cereal, (b)resistant(/b) against diseases.
+丈夫な穀物で(b)病気に対する耐性(/b)があります。
 	</string>
 
 	<string name="help_emmer_description">
-A high yield cereal, produces (b)extra Grain(/b).
+高い収量のある穀物で、(b)余分な穀物(/b)を生産します。
 	</string>
 
 	<string name="help_barley_description">
-A cereal that produces (b)extra Straw(/b).
+(b)追加のわら(/b)を生産する穀物です。
 	</string>
 	
 	<string name="help_flax_description">
-A plant that produces (b)Linen(/b).
+(b)亜麻(/b)を生産する植物です。
 	</string>	
 
 	<string name="help_peas_description">
-A nutritious legume.
+栄養価の高い豆です。
 	</string>	
 	
 	<string name="help_chickpeas_description">
-A nutritious legume.
+栄養価の高い豆です。
 	</string>	
 	
 	<string name="help_lentils_description">
-A nutritious legume.
+栄養価の高い豆です。
 	</string>	
 	
 	<string name="help_bitter_vetch_description">
-A nutritious legume.
-It can grow wild, but it can also be planted.
+栄養価の高い豆です。
+しかし、植えることはできません。
 	</string>
 	
 	<string name="help_strawberry_description">
-A wild collectable seasonal berry.
+限られた季節にしかあつめられない野生のベリー。
 	</string>		
 	
 	<string name="help_blackberry_description">
-A wild collectable seasonal berry.
+限られた季節にしかあつめられない野生のベリー。
 	</string>		
 	
 	<string name="help_blueberry_description">
-A wild collectable seasonal berry.
+限られた季節にしかあつめられない野生のベリー。
 	</string>	
 	
 	<string name="help_raspberry_description">
-A wild collectable seasonal berry.
+限られた季節にしかあつめられない野生のベリー。
 	</string>			
 	
 	<string name="help_chestnut_description">
-Produces nutritious chestnuts.
+栄養価の高い栗を作ります。
 	</string>		
 	
 	<string name="help_pear_description">
-Produces nutritious fruit.
+栄養価の高い果物を生産します。
 	</string>			
 	
 	<string name="help_service_description">
-Produces nutritious fruit.
+栄養価の高い果物を生産します。
 	</string>		
 	
 	<string name="help_cherry_description">
-Produces nutritious fruit.
+栄養価の高い果物を生産します。
 	</string>			
 
 	<string name="help_rye_description">
-An all round cereal, more (b)resistant(/b) than most, and produces a good amount of (b)Grain(/b).
+とても優れた穀物で、ほとんどの穀物よりも(b)耐性(/b)が高く、(b)穀物(/b)を大量に生産します。
 	</string>
 	
 	<string name="help_oak_description">
-(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+(b)皮革(/b)の製造に不可欠な成分である、(b)タンニン(/b)はこの木の樹皮から得ることができます。
 	</string>	
 
 	<string name="help_fir_description">
-(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+(b)皮革(/b)の製造に不可欠な成分である、(b)タンニン(/b)はこの木の樹皮から得ることができます。
 	</string>	
 	
 	

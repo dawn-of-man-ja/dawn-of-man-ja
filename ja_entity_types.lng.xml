@@ -215,7 +215,7 @@
 
 	<!-- Transports -->
 	<string name="transport_sledge">そり</string>
-	<string name="transport_cart">台車</string>
+	<string name="transport_cart">荷車</string>
 	<string name="transport_rolling_megalith">コロ</string>
 
 	<!-- Misc -->
