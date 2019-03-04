@@ -1,4 +1,5 @@
 $ErrorActionPreference="Stop"
+Set-Item env:LANG -Value ja_JP.UTF-8
 #APPVEYOR_REPO_COMMITの文字化け対策
 
 
