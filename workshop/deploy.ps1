@@ -1,12 +1,12 @@
 $ErrorActionPreference="Stop"
 #APPVEYOR_REPO_COMMITの文字化け対策
 $env:LANG = "en_US.UTF-8";
-git log -1 --pretty=%B
+git log -1 --pretty=format:%s
 chcp 65001
 if(Test-Path Variable:env:changenote){
     $changenote=$env:changenote
 }else{
-    $changenote=git log -1 --pretty=%B --encoding=utf8
+    $changenote=git log -1 --pretty=format:%s --encoding=utf8
 }
 
 Write-Host "changenote:$changenote"
