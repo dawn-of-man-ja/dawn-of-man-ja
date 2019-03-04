@@ -1,6 +1,6 @@
 $ErrorActionPreference="Stop"
 #APPVEYOR_REPO_COMMITの文字化け対策
-# 現在のエンコードを保管しておく
+Format-Hex $env:changenote
 
 
 if(Test-Path Variable:env:changenote){
