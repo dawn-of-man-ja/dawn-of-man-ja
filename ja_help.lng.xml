@@ -1009,28 +1009,29 @@
  <!-- === Mesolithic === -->
  
 	<string name="stone_polishing_help_description">
-Unlocks (b)polished(/b) stone tools in the (b)Crafter(/b).
+(b)製作所(/b)で(b)研磨(/b)された石の道具の製造が行えるようになります。
 	</string> 
 	
 	<string name="pottery_help_description">
-Unlocks the (b)Mesolithic(/b) era, and also the ability to (b)transport(/b) and (b)store Water(/b). 
-This is a lot more efficient than having people going to the water source every time.
+(b)中石器時代(/b)に突入します。
+(b)輸送(/b)および(b)水の貯留(/b)を可能にします。
+これは毎回水源に行くことよりもはるかに効率的です。
 	</string> 
 
 	<string name="archery_help_description">
-Unlocks the creation of (b)Bows(/b), which are the best hunting tool available in the (b)Stone Age(/b).
+(b)石器時代(/b)で利用可能な最高の狩猟用具である(b)弓(/b)の作成をアンロックします。
 	</string> 
 
 	<string name="grain_processing_help_description">
-Allows you to harvest (b)wild cereals(/b), crush them into (b)Flour(/b) and make (b)Bread(/b).
+(b)野生の小麦(/b)を収穫し、(b)小麦粉(/b)に粉砕し、(b)パン(/b)を作ることができるようになります。
 	</string> 
 
 	<string name="pulse_processing_help_description">
-Allows you to harvest (b)wild pulses(/b) and cook them.
+(b)野生の豆を収穫し(/b)それらを調理することができるようになります。
 	</string> 
 	
 	<string name="sledgemaking_help_description">
-Unlocks the construction of (b)Sledges(/b), which are a critical transport in the early eras.
+初期の時代における重要な輸送手段である(b)そり(/b)の製造をアンロックします。
 	</string> 
 	
  <!-- === Neolithic === -->
