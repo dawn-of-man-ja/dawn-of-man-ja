@@ -9,6 +9,6 @@ if(Test-Path Variable:env:changenote){
     $changenote=($env:APPVEYOR_REPO_COMMIT_MESSAGE).Replace("[release]","")
 }
 Write-Host "publishedfileid:$publishedfileid"
-$(Get-Content ".\scripts\workshop_item.vdf.template").Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote)  > workshop_item.vdf
+$(Get-Content ".\workshop\scripts\workshop_item.vdf.template").Replace("<publishedfileid>",$publishedfileid).Replace("<changenote>",$changenote)  > workshop_item.vdf
 
 bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item ..\workshop_item.vdf
