@@ -5,9 +5,9 @@ only_commits:
 #please disable steam guard
 environment:
   steam_user:
-    secure: OPbou3AawqwL3tBdRIcIyA==
+    secure: hsxtc+FBD98/Nhk5qCeiWg==
   steam_password:
-    secure: vFVCpC2RGPS9OufyEfTTlg==
+    secure: p4UejzoRF0RG/uSkgl3qyw==
   
 deploy_script:
   - ps: ./workshop/deploy.ps1
