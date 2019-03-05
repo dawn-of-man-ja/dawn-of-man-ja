@@ -1103,7 +1103,7 @@
 	</string>
 		
 	<string name="wheel_help_description">
-(b)大量の(b)資源(/b)を輸送する(b)ことを可能にする(b)台車(/b)の製造を可能にします。
+(b)大量の資源(/b)を輸送することを可能にする(b)台車(/b)の製造を可能にします。
 	</string>
 	
  <!-- === Bronze Age === -->
@@ -1223,7 +1223,7 @@
 	<string name="cart_help_description">
 (b)重たい大量の資源(/b)を輸送することができます。
 荷車は(b)ロバ(/b)または(b)ウマ(/b)によって引かれます。
-動物が利用可能になると、それは自動的に輸送器具に繋がれます。
+動物が利用可能になると、動物は自動的に輸送器具に繋がれます。
 	</string>
 	
 	<string name="rolling_megalith_short_description">巨石を移動させるための特殊な輸送</string>
