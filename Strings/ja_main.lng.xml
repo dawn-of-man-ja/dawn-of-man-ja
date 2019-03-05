@@ -665,8 +665,8 @@
 	<string name="description_idle">待機</string>
 	<string name="description_resting">睡眠</string>
 	<string name="description_recycling">解体</string>
-	<string name="description_sheltering">逃走</string>
-	<string name="description_animal_sheltering">逃走</string>
+	<string name="description_sheltering">避難</string>
+	<string name="description_animal_sheltering">避難</string>
 	<string name="description_attacking_ranged">(1)を攻撃</string>
 	<string name="description_attacking_melee">(1)を攻撃</string>
 	<string name="description_building">(1)を建設</string>
