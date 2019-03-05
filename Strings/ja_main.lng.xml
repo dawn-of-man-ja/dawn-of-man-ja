@@ -589,12 +589,12 @@
 	<string name="tooltip_condition_decay_time">この建物は(1)年使える</string>
 	<string name="tooltip_use_count">この道具はあと(1)回使えます</string>
 	<string name="tooltip_continuous_production">連続生産</string>
-	<string name="tooltip_craft">左クリックすると1つのアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>
+	<string name="tooltip_craft">左クリックすると1個のアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>
 	<string name="tooltip_crafting_progress">(1)(n)右クリックでキャンセル</string>
-	<string name="tooltip_slot">このスロットにはアイテムを1つ入れることができる</string>
+	<string name="tooltip_slot">このスロットにはアイテムを1個入れることができる</string>
 	<string name="tooltip_slot_human">一人分のスペース</string>
 	<string name="tooltip_slot_animal">一匹分のスベース</string>
-	<string name="tooltip_slot_multi">このスロットには、同じタイプのアイテムを最大(1)つ入れることができる</string>
+	<string name="tooltip_slot_multi">このスロットには、同じタイプのアイテムを最大(1)個入れることができる</string>
 	<string name="tooltip_slot_tool">このスロットにはツールを入れることができる</string>
 	<string name="tooltip_slot_food">このスロットは食べ物や食材を入れることができる</string>
 	<string name="tooltip_slot_animal_food">このスロットには動物の食べ物を入れることができる</string>
@@ -620,7 +620,7 @@
 	<string name="tooltip_open_all_gates">全ての門を開ける</string>
 	<string name="tooltip_close_all_gates">全ての門を閉める</string>
 	<string name="tooltip_milestones">マイルストーンの合計</string>
-	<string name="tooltip_heavy">重い:この資源は一つずつ、またはそりや荷車を使って運ばなければならない</string>
+	<string name="tooltip_heavy">重い:この資源は一個ずつ、またはそりや荷車を使って運ばなければならない</string>
 	<string name="tooltip_very_heavy">とても重い:この資源は特別な装置を使って運ばなければならない</string>
 	<string name="tooltip_context_action_multiple">左クリックで一回実行(n)右クリックで連続実行</string>
 	<string name="tooltip_disease">病気の影響を受ける</string>
