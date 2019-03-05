@@ -30,7 +30,7 @@
 	<string name="help_produced_resources">作り出される資源</string>
 	<string name="help_input_resources">使う資源</string>
 
-	<string name="hint_0">夏には(b)ベリー(/b)や(b)果物(/b)を採取して食べることで、(b)干し肉(/b)、(b)魚の干物(/b)、(b)穀物(/b)などの日持ちする食材を冬に備えてとっておくことができます。</string>
+	<string name="hint_0">夏には(b)ベリー(/b)や(b)果実(/b)を採取して食べることで、(b)干し肉(/b)、(b)魚の干物(/b)、(b)穀物(/b)などの日持ちする食材を冬に備えてとっておくことができます。</string>
 	<string name="hint_1">ゲーム初期の狩猟の際、殺すのが難しく反撃を受ける可能性もあるため、健康な大人の動物を狩るのは避けてください。</string>
 	<string name="hint_2">(b)作業領域(/b)と(b)リソース制限(/b)を組み合わせて、できるだけ自動化してください。</string>
 	<string name="hint_3">(b)インフラ(/b)に見合わない(b)拡張(/b)をしないでください。	</string>
@@ -868,7 +868,7 @@
 	</string>
 	
 	<string name="fruit_help_description">
-植物によって生産された果物です。
+植物によって生産された果実です。
 日持ちしないため、冬のためにより長持ちする食べ物をとっておくために(b)季節(/b)的にに(b)食べる(/b)がよい方法です。
 	</string>
 	
@@ -1304,15 +1304,15 @@
 	</string>		
 	
 	<string name="help_pear_description">
-栄養価の高い果物を生産します。
+栄養価の高い果実を生産します。
 	</string>			
 	
 	<string name="help_service_description">
-栄養価の高い果物を生産します。
+栄養価の高い果実を生産します。
 	</string>		
 	
 	<string name="help_cherry_description">
-栄養価の高い果物を生産します。
+栄養価の高い果実を生産します。
 	</string>			
 
 	<string name="help_rye_description">

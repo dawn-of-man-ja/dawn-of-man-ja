@@ -10,7 +10,7 @@ if(Test-Path Variable:env:changenote){
     Write-Host "query:$query"
     $res=Invoke-RestMethod -Uri $query -Method GET
    
-    $changenote=$res.message.Replace("[release]","")
+    $changenote=($res.message).Replace("[release]`r`n","").Replace("[release]","").Replace("`r`n","\n")
 }
 
 Write-Host "changenote:$changenote"
@@ -21,6 +21,6 @@ Write-Host "path:$path"
 
     [IO.File]::WriteAllLines($path, $content)
 
-    Write-Host "content:\n$content"
+    Write-Host "content:`r`n$content"
 
 .\workshop\bin\steamcmd.exe +login $env:steam_user $env:steam_password +workshop_build_item $path +quit
