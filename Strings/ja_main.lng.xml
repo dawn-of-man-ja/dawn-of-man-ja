@@ -368,12 +368,12 @@
 	
 	<!-- These define how good tools are at doing certain tasks -->
 	<string name="attribute_butchering">屠殺</string>			<!-- Extracting meat from animals -->
-	<string name="attribute_fighting">格闘中</string>					<!-- Hand to hand combat -->
-	<string name="attribute_fishing">釣りをしている</string>
-	<string name="attribute_hunting">戦闘中</string>						<!-- Hunting and ranged combat -->
-	<string name="attribute_woodcutting">伐採中</string>
-	<string name="attribute_mining">採掘中</string>
-	<string name="attribute_harvesting">収穫中</string>
+	<string name="attribute_fighting">格闘</string>					<!-- Hand to hand combat -->
+	<string name="attribute_fishing">釣り</string>
+	<string name="attribute_hunting">戦闘</string>						<!-- Hunting and ranged combat -->
+	<string name="attribute_woodcutting">伐採</string>
+	<string name="attribute_mining">採掘</string>
+	<string name="attribute_harvesting">収穫</string>
 	
 	<!-- These are for clothing -->
 	<string name="attribute_warmth">暖かさ</string>							<!-- How warm is this outfit -->
