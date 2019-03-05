@@ -589,7 +589,7 @@
 	<string name="tooltip_condition_decay_time">この建物は(1)年使える</string>
 	<string name="tooltip_use_count">この道具はあと(1)回使えます</string>
 	<string name="tooltip_continuous_production">連続生産</string>
-	<string name="tooltip_craft">左クリックすると1個のアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替。え</string>
+	<string name="tooltip_craft">左クリックすると1個のアイテムが作成される。(n)(b)右クリック(/b)で連続生産に切り替え。</string>
 	<string name="tooltip_crafting_progress">(1)(n)右クリックでキャンセル</string>
 	<string name="tooltip_slot">このスロットにはアイテムを1個入れることができる</string>
 	<string name="tooltip_slot_human">一人分のスペース</string>
