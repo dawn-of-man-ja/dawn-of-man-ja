@@ -54,7 +54,7 @@
 	<string name="structure_storage_hut">貯蔵小屋</string>
 	<string name="structure_roundhouse">円形住居</string>
 	<string name="structure_warehouse">倉庫</string>
-	<string name="structure_granary">穀物貯蔵庫</string>
+	<string name="structure_granary">食糧貯蔵庫</string>
 	<string name="structure_flint_mine">火打ち石鉱山</string>
 	<string name="structure_copper_mine">銅鉱山</string>
 	<string name="structure_tin_mine">錫鉱山</string>
@@ -153,7 +153,7 @@
 	<string name="resource_bronze_pick">青銅のピッケル</string>
 	<string name="resource_iron_pick">鉄のピッケル</string>
 	<string name="resource_linen">亜麻</string>
-	<string name="resource_linen_cloth">麻布</string>
+	<string name="resource_linen_cloth">亜麻布</string>
 	<string name="resource_pulses">豆</string>	
 	<string name="resource_steel_sickle">鋼鉄の鎌</string>
 	<string name="resource_copper_sickle">銅の鎌</string>
