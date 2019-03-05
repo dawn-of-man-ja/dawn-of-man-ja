@@ -618,7 +618,7 @@
 	<string name="tooltip_no_alert">警報なし:人々は通常の生活をする</string>
 	<string name="tooltip_alert"> 警報:武器を持っている人は戦闘に向かい、他の人は全員建物の中に避難する</string>
 	<string name="tooltip_open_all_gates">全ての門を開ける</string>
-	<string name="tooltip_close_all_gates">全ての門を占める</string>
+	<string name="tooltip_close_all_gates">全ての門を閉める</string>
 	<string name="tooltip_milestones">マイルストーンの合計</string>
 	<string name="tooltip_heavy">重い:この資源は一つずつ、またはそりや荷車を使って運ばなければならない</string>
 	<string name="tooltip_very_heavy">とても重い:この資源は特別な装置を使って運ばなければならない</string>
