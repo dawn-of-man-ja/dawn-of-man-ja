@@ -532,7 +532,7 @@
 	<string name="message_death_infection">感染症で(1)が死亡</string>
 	<string name="message_death_killed"> (1)が(2)に殺された</string>
 	<string name="message_death_thunder">(1)が雷に打たれた</string>
-	<string name="message_death_slaughtered">(1)が殺された</string>
+	<string name="message_death_slaughtered">(1)が屠殺された</string>
 	
 	<string name="message_humans_death_generic">人が死亡</string>
 	<string name="message_humans_death_starvation">飢餓で人が死亡</string>
