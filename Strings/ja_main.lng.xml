@@ -106,13 +106,13 @@
 	<string name="trader">商人</string>
 	<string name="trader_arrived">商人が到着</string>
 	<string name="trader_stock">商人の在庫</string>
-	<string name="trader_trade">商 取引</string>
+	<string name="trader_trade">商人 取引</string>
 	<string name="settlement_trade">村 取引</string>
 	<string name="settlement_stock">村の在庫</string>
 	<string name="no_items">アイテムがない</string>
 	<string name="ok">はい</string>
 	<string name="cancel">キャンセル</string>
-	<string name="trade_value">数量</string>
+	<string name="trade_value">価値</string>
 	<string name="trade_commission">手数料</string>
 	<string name="trade_including_commission">手数料を含む合計金額</string>
 	<string name="commission_low">低</string>
@@ -614,7 +614,7 @@
 	<string name="tooltip_performer">左クリックでフォーカス</string>
 	<string name="tooltip_welfare">福祉:(1)(n)あなたの村がどれだけうまく行っているかを表す。(n)人々の状態、衣服、食糧余剰にも依存する。(n)移住者の到着頻度と出生率に影響を与える。</string>
 	<string name="tooltip_prestige">名声:(1)(n)あなたの村がどれだけ知られているかを表す。(n)人口、建物、技術に依存する。(n)移住者と商人の到着頻度に影響を与える。</string>
-	<string name="tooltip_resource_trade">(1)(n)取引量：(2)(n)クリックして取引する(n)Shiftキーを押しながらクリックして複数取引</string>
+	<string name="tooltip_resource_trade">(1)(n)価値：(2)(n)クリックして取引する(n)Shiftキーを押しながらクリックして複数取引</string>
 	<string name="tooltip_no_alert">警報なし:人々は通常の生活をする</string>
 	<string name="tooltip_alert"> 警報:武器を持っている人は戦闘に向かい、他の人は全員建物の中に避難する</string>
 	<string name="tooltip_open_all_gates">全ての門を開ける</string>
