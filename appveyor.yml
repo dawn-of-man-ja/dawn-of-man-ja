@@ -1,11 +1,9 @@
-skip_branch_with_pr: true
 image: Visual Studio 2017
 build: off
 #- ps: Set-WinSystemLocale ja-JP
 #- ps: Start-Sleep -s 5
 #- ps: Restart-Computer
-only_commits:
-  message: /\[release\]/
+
 #please disable steam moblie guard
 environment:
   LC_ALL: en_US.UTF-8
@@ -14,6 +12,7 @@ environment:
     secure: hsxtc+FBD98/Nhk5qCeiWg==
   steam_password:
     secure: vFVCpC2RGPS9OufyEfTTlg==
-  
+test_script:
+  - ps: ./tests/validate.ps1
 deploy_script:
   - ps: ./workshop/deploy.ps1
