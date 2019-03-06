@@ -503,7 +503,7 @@
 	<string name="buildable_category_storage">貯蔵庫</string>
 	<string name="buildable_category_production">生産</string>
 	<string name="buildable_category_defensive">防衛施設</string>
-	<string name="buildable_category_metallurgy">鍛冶</string>
+	<string name="buildable_category_metallurgy">冶金</string>
 	<string name="buildable_category_spiritual">信仰</string>
 	<string name="buildable_category_transport">輸送</string>
 
