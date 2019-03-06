@@ -516,7 +516,7 @@
 	<string name="work_area_hunt">狩猟</string>
 	<string name="work_area_collect_and_harvest">野生の植物を集めて収穫</string>
 	<string name="work_area_collect_tannin">タンニンを集める</string>
-	<string name="work_area_extract_water">水を取得</string>
+	<string name="work_area_extract_water">水を汲む</string>
 	<string name="work_area_extract_mud">泥を採取</string>
 	<string name="work_area_obtain_stone">石を採集</string>
 	<string name="work_area_mine_ore">採掘</string>
@@ -687,7 +687,7 @@
 	<string name="description_going_resource">(1)のところへ移動</string>
 	<string name="description_fishing">釣り</string>
 	<string name="description_extracting_mud">泥を採取</string>
-	<string name="description_extracting_water">水を取得</string>
+	<string name="description_extracting_water">水を汲む</string>
 	<string name="description_mining">採掘</string>
 	<string name="description_mining_underground">地下で採掘</string>
 	<string name="description_decaying">腐敗</string>
