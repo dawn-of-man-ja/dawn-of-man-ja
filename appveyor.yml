@@ -1,5 +1,8 @@
 image: Visual Studio 2017
 build: off
+branches:
+  only:
+    - master
 #- ps: Set-WinSystemLocale ja-JP
 #- ps: Start-Sleep -s 5
 #- ps: Restart-Computer
