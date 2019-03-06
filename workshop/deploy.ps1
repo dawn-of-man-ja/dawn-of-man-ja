@@ -8,6 +8,7 @@ Write-Host "query:$query"
 $message=(Invoke-RestMethod -Uri $query -Method GET).message
 #[release]がふくまれていてなおかつPRではないときのみdeploy
 if((!($message.Contains("[release]"))) -Or (Test-Path Variable:env:APPVEYOR_PULL_REQUEST_NUMBER)){
+    Write-Host "This is PR or not contains [release]"
     exit 0
 }
 Write-Host "Start deploy to steam!"
