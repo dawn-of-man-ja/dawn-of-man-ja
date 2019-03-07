@@ -304,6 +304,10 @@
 	<string name="sfx_volume">効果音</string>
 	<string name="music_volume">BGM</string>
 
+	<string name="camera_rotation_mode">カメラの回転</string>
+	<string name="camera_rotation_turn">回転</string>
+	<string name="camera_rotation_orbit">軌道</string>
+
 	<!-- Ages and Genders-->
 	<string name="gender_male">男</string>
 	<string name="gender_female">女</string>		
@@ -576,7 +580,9 @@
 	<string name="backspace">Backspace</string>
 	<string name="space">Space</string>
 	<string name="return">Enter</string>
-
+	<string name="page_up">Page Up</string>
+	<string name="page_down">Page Down</string>
+	
 	<!-- Tooltips -->
 	<string name="tooltip_population">人口: (1)(n)上限: (2)</string>
 	<string name="tooltip_fireplace">生の食品はここで調理して食べることができる。(n)熱を提供する。</string>
@@ -718,6 +724,8 @@
 	<string name="game_action_camera_move_right">カメラを右へ</string>
 	<string name="game_action_camera_rotate_left">カメラを左回転 </string>
 	<string name="game_action_camera_rotate_right">カメラを右回転</string>
+	<string name="game_action_camera_pitch_up">見上げる</string>
+	<string name="game_action_camera_pitch_down">見おろす</string>	
 	<string name="game_action_camera_zoom_in">ズームイン</string>
 	<string name="game_action_camera_zoom_out">ズームアウト</string>
 	<string name="game_action_camera_center_town">カメラを村に戻す</string>
