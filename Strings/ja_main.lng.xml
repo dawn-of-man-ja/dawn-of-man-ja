@@ -306,7 +306,7 @@
 
 	<string name="camera_rotation_mode">カメラの回転</string>
 	<string name="camera_rotation_turn">回転</string>
-	<string name="camera_rotation_orbit">軌道</string>
+	<string name="camera_rotation_orbit">周回</string>
 
 	<!-- Ages and Genders-->
 	<string name="gender_male">男</string>
