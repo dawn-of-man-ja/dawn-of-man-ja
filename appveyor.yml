@@ -1,1 +1,2 @@
-build: skip
+skip_commits:
+  message: /.*/
