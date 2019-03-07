@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="achievement_completed">Achievement Completed: (1)</string>
+
+	<string name="achievement_launch_forth">Launch Forth</string>
+	<string name="achievement_launch_forth_description">Launch the game</string>
+	
+	<string name="achievement_ancient_apprentice">Ancient Apprentice</string>
+	<string name="achievement_ancient_apprentice_description">Complete tutorial</string>
+
+	<string name="achievement_ancient_miner">Ancient Miner</string>
+	<string name="achievement_ancient_miner_description">Have at least 3 mines at one given time in the Neolithic era</string>
+
+	<string name="achievement_massive_hunter">Massive Hunter</string>
+	<string name="achievement_massive_hunter_description">Hunt a Mammoth</string>
+	
+	<string name="achievement_the_deer_hunter">The Deer Hunter</string>
+	<string name="achievement_the_deer_hunter_description">Hunt 100 deer in one game</string>
+
+	<string name="achievement_iron_man">Iron Man</string>
+	<string name="achievement_iron_man_description">Get to the Iron Age</string>
+
+	<string name="achievement_steel_master">Master of Steel</string>
+	<string name="achievement_steel_master_description">Produce 10 Steel Swords in one game</string>
+	
+	<string name="achievement_hardened_survivor">Hardened Survivor</string>
+	<string name="achievement_hardened_survivor_description">Complete 5 milestones in hardcore mode</string>
+
+	<string name="achievement_completion">Completion</string>
+	<string name="achievement_completion_description">Complete all milestones</string>	
+
+	<string name="achievement_ultimate_completion">Ultimate Completion</string>
+	<string name="achievement_ultimate_completion_description">Complete all milestones in hardcore mode</string>
+
+	<string name="achievement_settlement1">Continental Settlement</string>
+	<string name="achievement_settlement1_description">Achieve a population of 50 in the Continental Dawn scenario</string>
+
+	<string name="achievement_settlement2">North Settlement</string>
+	<string name="achievement_settlement2_description">Achieve a population of 50 in The Northlands scenario</string>
+
+	<string name="achievement_settlement3">Warrior Settlement</string>
+	<string name="achievement_settlement3_description">Achieve a population of 50 in the Ancient Warriors scenario</string>
+
+	<string name="achievement_siege1">Siege Progress</string>
+	<string name="achievement_siege1_description">Unlock the Bronze Age in the Ancient Warriors scenario</string>
+
+	<string name="achievement_siege2">Siege Overcome</string>
+	<string name="achievement_siege2_description">Unlock the Steelmaking tech in the Ancient Warriors scenario</string>
+
+	<string name="achievement_time">Express Evolution</string>
+	<string name="achievement_time_description">Research all techs in the tech tree in less than 5 hours of gameplay</string>
+
+	<string name="achievement_overpopulation">Overpopulation</string>
+	<string name="achievement_overpopulation_description">Get 200 people in your settlement</string>
+
+	<string name="achievement_paleolithic_overpopulation">Paleolithic Overpopulation</string>
+	<string name="achievement_paleolithic_overpopulation_description">Get 100 people in your settlement in the Paleolithic era</string>
+
+
+</strings>

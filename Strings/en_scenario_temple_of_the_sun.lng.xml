@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_temple_of_the_sun">Temple of the Sun</string>
+	<string name="scenario_temple_of_the_sun_subtitle">Challenging</string>
+	<string name="scenario_temple_of_the_sun_description">
+Build the great Temple of the Sun:
+• Build a Stone Circle.
+• Build 4 Menhirs around it.
+• Complete it in Morkar's lifetime
+	</string>
+	<string name="scenario_temple_of_the_sun_context">
+The Great Shaman Morkar has decreed that a large megalith is to be built to please the Sun God, so it blesses us with abundant food for the coming years.
+	</string>
+	
+	<string name="goal_temple_of_the_sun_stone_circle">Build a Stone Circle</string>	
+	<string name="goal_temple_of_the_sun_menhirs">Build 4 Menhirs around it</string>
+	<string name="goals_hint_temple_of_the_sun">Morkar must be alive</string>
+	
+	<string name="temple_of_the_sun_well_done">Well done</string>
+	<string name="temple_of_the_sun_completed">The temple has been built.</string>
+
+	<string name="temple_of_the_sun_failed_title">Failed</string>
+	<string name="temple_of_the_sun_failed_description">Morkar has died.</string>
+</strings>

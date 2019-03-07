@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="twisty_river">Twisty River</string>
+	<string name="forest_river">Forest River</string>
+	<string name="river_fork">River Fork</string>
+	<string name="lake_valley">Lake Valley</string>
+	<string name="mountain_lake">Mountain Lake</string>	
+	<string name="merging_streams">Merging Streams</string>
+
+	<string name="scenario_continental_dawn">Continental Dawn</string>
+	<string name="scenario_continental_dawn_subtitle">Accessible</string>
+	<string name="scenario_continental_dawn_description">Grow and evolve your settlement, from the Paleolithic to the Iron Age.</string>
+	<string name="scenario_continental_dawn_context">About 12,000 years ago the last glacial period had just ended. This made most of continental Europe a lot easier to inhabit, human populations thrived and the Neolithic revolution started.</string>
+
+	<string name="milestone_hunting_and_gathering">Hunting and Gathering</string>
+	<string name="milestone_hunting_and_gathering_description">Accumulate 3 units of Raw Meat and 3 units of Berries</string>
+	<string name="milestone_hunting_and_gathering_text">You now know the basics</string>
+	
+	<string name="milestone_survival">Survival</string>
+	<string name="milestone_survival_description">Survive 2 years</string>
+
+	<string name="milestone_humble_beginnings">Humble Beginnings</string>
+	<string name="milestone_humble_beginnings_description">Unlock the Mesolithic era</string>
+	
+	<string name="milestone_expansion">Expansion</string>
+	<string name="milestone_expansion_description">Get 20 people in your settlement</string>
+
+	<string name="milestone_neofarmer">Neofarmer</string>
+	<string name="milestone_neofarmer_description">Unlock all neolithic founder crops</string>
+
+	<string name="milestone_megalomania">Megalomania</string>
+	<string name="milestone_megalomania_description">Build stone circle</string>
+
+	<string name="milestone_animal_control">Animal Control</string>
+	<string name="milestone_animal_control_description">Get 20 domestic animals</string>
+
+	<string name="milestone_metal_alloy">Metal Alloy</string>
+	<string name="milestone_metal_alloy_description">Obtain 1 unit of Bronze</string>
+
+	<string name="milestone_the_riddle_of_steel">The Riddle of Steel</string>
+	<string name="milestone_the_riddle_of_steel_description">Obtain 1 unit of Steel</string>
+
+	<string name="milestone_consolidation">Consolidation</string>
+	<string name="milestone_consolidation_description">Get 100 people in your settlement</string>
+
+</strings>

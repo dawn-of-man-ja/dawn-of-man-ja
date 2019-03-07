@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- Goals -->
+	<string name="scenario_tutorial">Tutorial</string>
+	
+	<string name="goal_tutorial_move_camera">Move camera using (camera_move_keys) keys</string>
+	<string name="goal_tutorial_rotate_camera">Rotate camera using the (camera_rotate_keys) keys</string>
+	
+	<string name="goal_tutorial_fish">Send someone to fish: select the (b)river(/b) then click on the (b)fish button(/b)</string>
+	<string name="goal_tutorial_gather_sticks">Send someone to gather (b)Sticks(/b)</string>
+	<string name="goal_tutorial_gather_flint">Send someone to gather (b)Flint(/b)</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather">Wait for your people to get 1 unit of (b)Raw Fish(/b), (b)Sticks(/b), and (b)Flint(/b)</string>
+	
+	<string name="goal_tutorial_fish_work_area">Place a (b)fish(/b) work area</string>
+	<string name="goal_tutorial_sticks_work_area">Place a (b)gather sticks(/b)  work area</string>
+	<string name="goal_tutorial_flint_work_area">Place an (b)obtain flint(/b)  work area</string>
+	<string name="goal_tutorial_berries_work_area">Place a (b)collect and harvest wild plants(/b) work area</string>
+
+	<string name="goal_tutorial_sticks_work_area_set_workers">Allow (b)3 workers(/b) in the (b)gather sticks(/b) work area</string>
+	<string name="goal_tutorial_flint_work_area_set_workers">Allow (b)2 workers(/b) in the (b)obtain flint(/b) work area</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather2">Wait for your people to get 3 units of (b)Sticks(/b) and (b)Flint(/b).</string>
+	
+	<string name="goal_tutorial_place_crafter">Place a (b)Crafter(/b) structure</string>
+	<string name="goal_tutorial_build_crafter">Wait for your people to build it</string>	
+	
+	<string name="goal_tutorial_craft_bifaces">Command your people to craft (b)3 Bifaces(/b)</string>
+	<string name="goal_tutorial_craft_wooden_spears">Command your people to craft (b)3 Wooden Spears(/b)</string>
+	<string name="goal_tutorial_wait_tools">Wait for all hunting tools to be crafted</string>
+	
+	<string name="goal_tutorial_primal_vision">(b)Enable primal vision(/b) mode, using menu button or pressing (primal_vision_key)</string>
+	<string name="goal_tutorial_hunt">Tell your people to (b)hunt an easy prey(/b), highlighted in green</string>
+	<string name="goal_tutorial_primal_vision_out">(b)Leave primal vision(/b) mode</string>
+	<string name="goal_tutorial_hunt_wait">(b)Wait(/b) for your people to (b)hunt(/b) the animal</string>		
+	
+	<string name="goal_tutorial_micro_hunt">Send (b)2 people(/b) to hunt the same animal: (b)select(/b) them, then (b)right click(/b) on the animal</string>		
+
+	<string name="goal_tutorial_place_skins_dryers">Place (b)2 Skins Dryers(/b)</string>		
+	<string name="goal_tutorial_wait_skins">Wait for your people to dry (b)2 Skins(/b)</string>		
+	
+	<string name="goal_tutorial_research_food_drying">Open (b)techs panel(/b) using menu button or pressing (techs_key),(n)and research the (b)Food Drying(/b) tech</string>			
+	<string name="goal_tutorial_place_food_dryer">Place a (b)Food Dryer(/b)</string>			
+	<string name="goal_tutorial_place_storage_tent">Place a (b)Storage Tent(/b)</string>			
+	<string name="goal_tutorial_wait_food_drying">Wait for your people to produce 1 unit of (b)Cured Meat(/b) and (b)Dry Fish(/b)</string>
+
+	<string name="goal_tutorial_continuous_production_bifaces">Enable continuous production of (b)Bifaces(/b)</string>	
+	<string name="goal_tutorial_continuous_production_wooden_spears">Enable continuous production of (b)Wooden Spears(/b)</string>
+	<string name="goal_tutorial_continuous_production_wooden_harpoons">Enable continuous production of (b)Wooden Harpoons(/b)</string>	
+	
+	<string name="goals_hint_right_click">You can enable (b)continuous production(/b) of an item by (b)right clicking(/b) on it</string>	
+	
+	<string name="goal_tutorial_place_tents">Place (b)2 Tents(/b)</string>
+	<string name="goal_tutorial_wait_tents">Wait for your people to build the (b)Tents(/b)</string>
+
+	<!-- Messages -->
+	<string name="tutorial_settlement_name">Tutorial Settlement</string>
+	<string name="tutorial_well_done">Well done!</string>
+	
+	<string name="tutorial_welcome_title">Welcome to Dawn of Man</string>
+	
+	<string name="tutorial_welcome">
+In the game you control a band of (b)ancient humans(/b) striving for (b)survival(/b).
+This tutorial explains the basics, you can check the (b)in game help(/b) for more advanced directions.
+	</string>
+
+	<string name="tutorial_camera_controls_title">Camera controls</string>
+
+	<string name="tutorial_camera_controls">
+Dawn of Man uses FPS style camera controls.
+Move the camera using the (camera_move_keys) keys.
+Rotate the camera using the (camera_rotate_keys) keys.
+Zoom the camera using the (b)mouse wheel(/b).
+	</string>
+
+	<string name="tutorial_camera_controls_done">
+Note you can (b)pivot the camera(/b) around a point by (b)rotating and panning(/b) at the same time.
+You can check out the more advanced controls in the help section, and (b)customize the keys(/b) in the (b)settings(/b) menu.
+	</string>
+
+	<string name="tutorial_fish_title">
+Fishing
+	</string>
+
+	<string name="tutorial_fish">
+Your people will need a (b)constant supply of food(/b) to stay alive.
+One of the more predictable sources of food is (b)fish(/b) from (b)rivers(/b) and (b)lakes(/b).
+To send people to fish, select a river, then click on the (b)fish button(/b).
+	</string>
+
+	<string name="tutorial_fish_done">
+In general you can assign tasks to your people by (b)selecting(/b) objects like (b)trees(/b), (b)rivers(/b), (b)animals(/b), (b)structures(/b)..., then choosing one of the options in the selection panel.
+	</string>
+
+	<string name="tutorial_gather_title">
+Materials
+	</string>
+
+	<string name="tutorial_gather">
+Next you should be gathering some basic construction and crafting materials, like (b)Sticks(/b) and (b)Flint(/b).
+	</string>
+
+	<string name="tutorial_gather_done">
+You now know how to (b)assign tasks to(/b) your people. This is a good way of (b)micromanaging(/b) them.
+	</string>
+
+	<string name="tutorial_work_areas_title">
+Work Areas
+	</string>
+
+	<string name="tutorial_work_areas">
+Too much (b)micromanagement(/b) is tedious and (b)inefficient(/b).
+(b)Work areas(/b) are a way to give general commands to your settlement that people will perform continuously.
+You can specify a (b)location(/b), a (b)resource limit(/b) and the (b)max number of people(/b) performing the action at one given time.
+	</string>
+	
+	<string name="tutorial_work_areas_set_workers">
+By default only one person at a time will go to any given (b)work area(/b), but you can increase this if required.
+	</string>	
+	
+	<string name="tutorial_work_areas_done">
+Well done, your people will now continuously gather resources until the (b)limit(/b) is reached.
+Note that (b)Berries(/b) can only be gathered in (b)summer(/b), other resources in the game can only be gathered in a particular season.
+	</string>		
+	
+	<string name="tutorial_tools_title">
+Tools
+	</string>
+
+	<string name="tutorial_tools">
+Some tasks, like hunting, fishing, butchering, harvesting, or mining, can only be performed if your people have the right (b)tools(/b).
+These tools have to be crafted first, then your people will use them to perform the task.
+	</string>	
+	
+	<string name="tutorial_crafting_title">
+Crafting
+	</string>
+
+	<string name="tutorial_build_crafter">
+Now that you have some raw resources, let's craft some (b)hunting tools(/b) with them.
+The main crafting structure in the Stone Age is the (b)Crafter(/b), to build one, select the build option in the main menu, then the production button, then the crafter structure.
+	</string>
+
+	<string name="tutorial_craft_resources">
+To craft tools, select the (b)Crafter(/b) then click on a tool recipe.
+The crafting task will be added to the queue and one of your people will perform it as soon as they can.
+Let's craft some (b)Wooden Spears(/b) to hunt animals and some (b)Bifaces(/b) to butcher them.
+	</string>
+
+	<string name="tutorial_craft_resources_done">
+We now have all the tools we need to go hunting.
+	</string>
+	
+	<string name="tutorial_hunting_title">
+Hunting
+	</string>
+	
+	<string name="tutorial_hunting">
+(b)Hunting(/b) was a tricky business in the Stone Age. Killing a large animal with sticks and stones was no easy feat.
+Use (b)primal vision(/b) to find easy prey (highlighted in green), avoid large animals and carnivores until you have the right tools and manpower.
+To(b) hunt an animal(/b), select it, then click on the (b)hunting button(/b).
+	</string>
+	
+	<string name="tutorial_hunting_done">
+Once the animal is been hunted, your people will (b)butcher(/b) it and bring the (b)resources to camp(/b).
+When hunting in this manner, your people will decide how many of them to send, based on the difficulty of the prey.
+	</string>	
+	
+	<string name="tutorial_micromanagement_title">Micromanagement</string>	
+		
+	<string name="tutorial_micromanagement">
+Sometimes, you might want more control over your people's actions.
+You can do this by (b)selecting(/b) a few people, (b)then right clicking(/b) on the terrain or target.
+This way you can (b)move people around(/b), or (b)assign(/b) one or more individuals to a particular (b)task(/b).
+This is especially useful for hunting at the beginning of the game, when resources and manpower are limited.
+	</string>
+	
+	<string name="tutorial_micromanagement_done">
+You can check out the (b)help in the game(/b) for more detailed instructions on all the possible ways of controlling your people.
+	</string>	
+	
+	<string name="tutorial_skin_processing_title">Skins</string>		
+	
+	<string name="tutorial_skin_processing">
+One of the resources you obtain from animals are (b)Raw Skins(/b), they are used to craft clothing and build structures among other things.
+However (b)Raw Skins(/b) can not be used directly, you have to dry them first, in order to do this you need to build (b)Skins Dryers(/b).
+	</string>			
+	
+	<string name="tutorial_skin_processing_done">
+Always keep a stock of (b)Dry Skins(/b) as they are a fundamental building and crafting material in the early eras.
+	</string>
+	
+	<string name="tutorial_knowledge_title">Knowledge</string>				
+	
+	<string name="tutorial_knowledge">
+In the game, you earn (b)knowledge points(/b) when doing certain actions: Hunting new animals, gathering new resources, reaching certain population levels, etc.
+You can then use them to (b)research new techs(/b), which unlock new structures, plants or mechanics.
+	</string>			
+
+	<string name="tutorial_food_drying_title">Knowledge</string>					
+	
+	<string name="tutorial_food_drying">
+The (b)Food Drying(/b) tech unlocks the (b)Food Dryer(/b), which allows you to process (b)Raw Meat(/b) and (b)Raw Fish(/b) into (b)Cured Meat(/b) and (b)Dry Fish(/b).
+These last for a lot longer and can be (b)stored for the winter(/b) in a safe place.
+	</string>			
+	
+	<string name="tutorial_food_drying_done">
+Remember to always dry your food and keep it in a (b)storage(/b) structure to preserve it for as long as possible.
+	</string>				
+	
+	<string name="tutorial_continuous_production_title">
+Continuous Production
+	</string>				
+	
+	<string name="tutorial_continuous_production">
+Manually producing every item is tedious and (b)inefficient(/b).		
+You can (b)right click(/b) on a recipe to toggle (b)continuous production(/b).
+Your people will then keep on producing the item until the (b)resource limit(/b) is reached.
+	</string>	
+	
+	<string name="tutorial_continuous_production_done">
+Your people will now (b)continuously(/b) produce the tools until the (b)resource limit(/b) is reached.
+Note that some recipes are set to continuous production by default.
+	</string>				
+	
+	<string name="tutorial_expansion_title">Expansion</string>				
+	
+	<string name="tutorial_expansion">
+If everyone is well fed and taken care of, your settlement will reach a high level of (b)welfare(/b) and (b)prestige(/b) and more people will want to join it.
+For new people to join the village you have to build enough residence buildings to accommodate the new population, otherwise they will not come.
+	</string>		
+	
+	<string name="tutorial_expansion_done">	
+New humans will now join your settlement.
+Note that your settlement can also grow when your people reproduce, this plays a more important role when you reach larger populations, as you can have a larger number of births. 
+	</string>	
+	
+	<string name="tutorial_completed">
+You now know the basics on how to run a settlement. Note that there are quite a few other mechanics in the game that are not explained here.
+You can get more info from the (b)loading screen hints(/b), (b)UI tooltips(/b), or the (b)in-game(/b) help menu, that explains all the concepts in the game with a lot more detail.
+	</string>	
+	
+</strings>

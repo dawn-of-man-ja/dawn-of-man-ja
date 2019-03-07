@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string name="presence_default">Playing game</string>
+  <string name="presence_tutorial">Playing tutorial</string>
+  <string name="presence_continental_dawn">Playing Continental Dawn</string>
+  <string name="presence_the_northlands">Playing The Northlands</string>
+  <string name="presence_ancient_warriors">Playing Ancient Warriors</string>
+  <string name="presence_challenge">Playing challenge</string>
+  <string name="presence_community_game">Playing community game</string>
+  <string name="presence_menus">In menus</string>
+</strings>
