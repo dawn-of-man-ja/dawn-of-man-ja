@@ -305,6 +305,10 @@ Do you want to play the tutorial now?
 
 	<string name="sfx_volume">SFX Volume</string>
 	<string name="music_volume">Music Volume</string>
+	
+	<string name="camera_rotation_mode">Camera Rotation</string>
+	<string name="camera_rotation_turn">Turn</string>
+	<string name="camera_rotation_orbit">Orbit</string>
 
 	<!-- Ages and Genders-->
 	<string name="gender_male">Male</string>
@@ -578,6 +582,8 @@ Do you want to play the tutorial now?
 	<string name="backspace">Backspace</string>
 	<string name="space">Space</string>
 	<string name="return">Return</string>
+	<string name="page_up">Page Up</string>
+	<string name="page_down">Page Down</string>
 
 	<!-- Tooltips -->
 	<string name="tooltip_population">Population: (1)(n)Capacity: (2)</string>
@@ -720,6 +726,8 @@ Do you want to play the tutorial now?
 	<string name="game_action_camera_move_right">Move camera right</string>
 	<string name="game_action_camera_rotate_left">Rotate camera left </string>
 	<string name="game_action_camera_rotate_right">Rotate camera right</string>
+	<string name="game_action_camera_pitch_up">Look Up </string>
+	<string name="game_action_camera_pitch_down">Look Down</string>	
 	<string name="game_action_camera_zoom_in">Zoom in</string>
 	<string name="game_action_camera_zoom_out">Zoom out</string>
 	<string name="game_action_camera_center_town">Move camera back to the settlement</string>
