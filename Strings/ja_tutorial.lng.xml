@@ -66,7 +66,7 @@
 	<string name="tutorial_camera_controls_title">カメラの操作</string>
 
 	<string name="tutorial_camera_controls">
-Dawn of ManではFPSと同じようにカメラの操作ができます。
+このゲームではFPSと同じようにカメラの操作ができます。
 (camera_move_keys)キーで移動。
 (camera_rotate_keys)キーで回転。
 (b)マウスホイール(/b)でズーム。
