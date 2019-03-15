@@ -32,4 +32,4 @@ Write-Host "content:`r`n$content"
 
 $errPath=Join-Path $scriptDir ".\bin\logs\stderr.txt"
 Write-Host "errPath:$errPath"
-Get-Content $errPath
+Write-Host Get-Content $errPath
