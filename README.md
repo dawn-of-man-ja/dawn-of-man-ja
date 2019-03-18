@@ -4,8 +4,8 @@
 
 煮るなり焼くなり好きにしてください。
 
-## SteamWorkShop
-[SteamWorkShopのページ](https://steamcommunity.com/sharedfiles/filedetails/?id=1673010962)
+## SteamWorkshop
+[SteamWorkshopのページ](https://steamcommunity.com/sharedfiles/filedetails/?id=1673010962)
 
 ## ダウンロードして使う
 右上のClone Or downloadからDownload zipを押してダウンロード。  
