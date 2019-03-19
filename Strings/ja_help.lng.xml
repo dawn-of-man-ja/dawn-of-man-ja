@@ -178,6 +178,15 @@
 (b)人口に対する割合(/b): 人口に対する割合を設定します。人口の変化に応じて制限を絶えず調整する作業を回避できます。
 	</string>
 	
+
+	<string name="help_animal_limits_title">動物の制限</string>
+	<string name="help_animal_limits_description">
+動物の制限は家畜があまりにも多くの資源や場所を使用しないように数を管理するための効率的な方法です。
+デフォルトでは、とても年をとった動物は自然死するために、それのみが屠殺されます。
+ただし、動物の種類ごとに(b)制限(/b)を指定すると、動物の数をそれ以下に抑えるために動物を自動的に屠殺します。
+また、動物の性別をバランスよく保つために適切な動物が屠殺されます。
+	</string>	
+
   <string name="help_resource_decay_title">資源の損耗</string>
   <string name="help_resource_decay_description">
 ほとんどの資源と道具は時間の経過とともに壊れていきます。道具は使用されると破損はより進行します。
