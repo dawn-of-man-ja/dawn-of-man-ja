@@ -20,8 +20,8 @@
 	<string name="help_related_resources">関連する資源</string>
 	<string name="help_production">生産された資源</string>
 	<string name="help_byproducts">得られる資源</string>
-	<string name="help_domestic_variant">Domestic Variant</string>
-	<string name="help_wild_variant">Wild Variant</string>
+	<string name="help_domestic_variant">家畜の状態</string>
+	<string name="help_wild_variant">野生の状態</string>
 	<string name="help_domestication_tech">家畜化の技術</string>
 	<string name="help_crafted_from">制作するのに使う資源</string>
 	<string name="help_built_using">建築するのに使う資源</string>	
