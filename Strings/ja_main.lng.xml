@@ -470,7 +470,6 @@
 	<string name="context_action_cancel_construction">キャンセル</string>
 	<string name="context_action_limits">Related resource limits</string>
 	<string name="context_action_animal_limits">Animal limits</string>
-	<string name="context_action_limits">関連する資源の制限</string>
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">中身をなくす</string>
