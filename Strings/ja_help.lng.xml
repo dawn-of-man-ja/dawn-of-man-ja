@@ -179,12 +179,12 @@
 	</string>
 	
 
-	<string name="help_animal_limits_title">Animal Limits</string>
+	<string name="help_animal_limits_title">動物の制限</string>
 	<string name="help_animal_limits_description">
-Animal Limits are an efficient way of controlling your domestic (b)animal population(/b), to ensure that they don't consume too much space or resources.
-By (b)default(/b) only (b)very old animals(/b) will get slaughtered, as they would die of natural causes anyway.
-However you can specify a (b)limit(/b) for each type of animal, and your people will (b)slaughter them automatically(/b) to keep the population under that amount.
-Your people will slaughter the right animals to keep a good male/female ratio.
+動物の制限は家畜があまりにも多くの資源や場所を使用しないように数を管理するための効率的な方法です。
+デフォルトでは、とても年をとった動物は自然死するために、それのみが屠殺されます。
+ただし、動物の種類ごとに(b)制限(/b)を指定すると、動物の数をそれ以下に抑えるために動物を自動的に屠殺します。
+また、動物の性別をバランスよく保つために適切な動物が屠殺されます。
 	</string>	
 
   <string name="help_resource_decay_title">資源の損耗</string>

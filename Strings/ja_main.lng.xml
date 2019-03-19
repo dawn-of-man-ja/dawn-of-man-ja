@@ -468,8 +468,8 @@
 	<string name="context_action_previous_work_area">前の作業領域</string>
 	<string name="context_action_next_work_area">次の作業領域</string>
 	<string name="context_action_cancel_construction">キャンセル</string>
-	<string name="context_action_limits">Related resource limits</string>
-	<string name="context_action_animal_limits">Animal limits</string>
+	<string name="context_action_limits">関連する資源の制限</string>
+	<string name="context_action_animal_limits">動物の制限</string>
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">中身をなくす</string>
@@ -616,9 +616,9 @@
 	<string name="tooltip_resource_limit_amount">生産の制限: (1), (2)個に設定</string>
 	<string name="tooltip_resource_limit_percentage">生産の制限: (1), 人口の(2)%に設定</string>
 	<string name="tooltip_resource_limit_infinity">生産の制限: (1), 無制限</string>
-	<string name="tooltip_animal_limit_amount">Limit for: (1), is set to (2).(n)Any animals over that amount will be automatically slaughtered.</string>
-	<string name="tooltip_animal_limit_percentage">Limit for: (1), is set to (2)% of the population.(n)Any animals over that amount will be automatically slaughtered.</string>
-	<string name="tooltip_animal_limit_infinity">Limit for: (1), is set to unlimited.(n)Only very old animals will get slaughtered.</string>
+	<string name="tooltip_animal_limit_amount">数の制限: (1), (2)匹に設定(n)制限を超える動物は自動的に屠殺される</string>
+	<string name="tooltip_animal_limit_percentage">数の制限: (1),人口の(2)%に設定(n)制限を超える動物は自動的に屠殺される</string>
+	<string name="tooltip_animal_limit_infinity">数の制限: (1), 無制限(n)とても年をとった動物のみが屠殺される</string>
 	<string name="tooltip_work_area_max_people">この領域で働ける最大人数</string>
 	<string name="tooltip_task">右クリックでタスクをキャンセル</string>
 	<string name="tooltip_performer">左クリックでフォーカス</string>
