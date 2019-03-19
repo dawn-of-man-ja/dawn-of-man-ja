@@ -470,7 +470,8 @@ Do you want to play the tutorial now?
 	<string name="context_action_previous_work_area">Previous work area</string>
 	<string name="context_action_next_work_area">Next work area</string>
 	<string name="context_action_cancel_construction">Cancel construction</string>
-	<string name="context_action_limits">Show related resource limits</string>
+	<string name="context_action_limits">Related resource limits</string>
+	<string name="context_action_animal_limits">Animal limits</string>
 	<string name="context_action_milk">Milk</string>
 	<string name="context_action_shear">Shear</string>
 	<string name="context_action_empty">Empty contents</string>
@@ -617,6 +618,9 @@ Do you want to play the tutorial now?
 	<string name="tooltip_resource_limit_amount">Production limit for: (1), is set to (2) units</string>
 	<string name="tooltip_resource_limit_percentage">Production limit for: (1), is set to (2)% of the population</string>
 	<string name="tooltip_resource_limit_infinity">Production limit for: (1), is set to unlimited</string>
+	<string name="tooltip_animal_limit_amount">Limit for: (1), is set to (2).(n)Any animals over that amount will be automatically slaughtered.</string>
+	<string name="tooltip_animal_limit_percentage">Limit for: (1), is set to (2)% of the population.(n)Any animals over that amount will be automatically slaughtered.</string>
+	<string name="tooltip_animal_limit_infinity">Limit for: (1), is set to unlimited.(n)Only very old animals will get slaughtered.</string>
 	<string name="tooltip_work_area_max_people">Maximum number of people working in this area</string>
 	<string name="tooltip_task">Right click to cancel task.</string>
 	<string name="tooltip_performer">Left click to focus</string>
