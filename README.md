@@ -40,3 +40,7 @@ git clone https://github.com/tignear/dawn-of-man-ja.git <dir>
 mklink /D <dir>\Strings %USERPROFILE%\Documents\DawnOfMan\Strings
 ```
 
+## output_log.txtの場所
+```
+C:\Users\%USERNAME%\AppData\LocalLow\Madruga Works\Dawn of Man
+```
