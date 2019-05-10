@@ -474,7 +474,7 @@
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">中身をなくす</string>
- 	<string name="context_action_defense">Defense</string>	
+ 	<string name="context_action_defense">防衛</string>	
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
@@ -760,7 +760,7 @@
 	<string name="game_action_remove">削除</string>
 	<string name="game_action_placement_modifier_minus">左回転/縮小</string>
 	<string name="game_action_placement_modifier_plus">右回転/拡大</string>
-	<string name="game_action_placement_modifier_variant">Switch Variant</string> 
+	<string name="game_action_placement_modifier_variant">バリエーションを変更</string> 
 	<string name="game_action_previous_work_area">前の作業領域</string>
 	<string name="game_action_next_work_area">次の作業領域</string>
 	<string name="game_action_primal_vision">原始の視覚</string>

@@ -46,12 +46,12 @@
 	<string name="milestone_consolidation_description">人口が100人に到達</string>
 
 	<!--1.1以降-->
-	<string name="milestone_domestication">Domestication</string>
-	<string name="milestone_domestication_description">Get 10 Goats and 10 Sheep</string>
+	<string name="milestone_domestication">家畜化</string>
+	<string name="milestone_domestication_description">10匹のヒツジと10匹のヤギを手に入れる</string>
 
-	<string name="milestone_the_secret_of_steel">The Secret of Steel</string>
-	<string name="milestone_the_secret_of_steel_description">Produce 20 units of Steel</string>
+	<string name="milestone_the_secret_of_steel">鋼鉄の秘密</string>
+	<string name="milestone_the_secret_of_steel_description">20個鋼鉄を作る</string>
 	
-	<string name="milestone_iron_settlement">Iron Settlement</string>
-	<string name="milestone_iron_settlement_description">Get 150 people and build a Cairn in your settlement</string>
+	<string name="milestone_iron_settlement">鉄の村</string>
+	<string name="milestone_iron_settlement_description">人口150人を達成し、ケルンを建てる</string>
 </strings>
