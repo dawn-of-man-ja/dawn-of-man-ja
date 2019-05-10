@@ -219,8 +219,8 @@
 	<string name="tech_reinforced_fortifications">強化された要塞</string>
 
 
-	<string name="tech_stone_carving">Stone Carving</string>
-	<string name="tech_complex_megalithism">Complex Megalithism</string>
+	<string name="tech_stone_carving">石の彫刻</string>
+	<string name="tech_complex_megalithism">複雑な巨石信仰</string>
 
 	<!-- Transports -->
 	<string name="transport_sledge">そり</string>
