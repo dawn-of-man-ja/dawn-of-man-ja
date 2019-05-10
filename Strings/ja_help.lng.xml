@@ -615,12 +615,29 @@
 (b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
 	</string>
 
-	<string name="stone_circle_short_description">究極の巨石建造物</string>
+	<string name="stone_circle_short_description">円形に配置されたいくつかの巨石でできた建造物</string>
 	<string name="stone_circle_help_description">
-円形に配置された複数の(b)メガリス(/b)で構成された大きな建造物です。
+円形に配置された複数の(b)巨石(/b)で構成された大きな建造物です。
 (b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
 	</string>
 	
+	<string name="statue_short_description">巨石の彫像</string>
+	<string name="statue_help_description">
+巨石を彫刻したもの。
+人々はみずからの(b)士気(/b)を回復することができます。
+	</string>
+
+	<string name="banner_short_description">村の力の象徴</string>
+	<string name="banner_help_description">
+集落の力の象徴。 人々はみずからの(b)士気(/b)を回復することができます。
+</string>		
+
+	<string name="cairn_short_description">複雑な巨石建造物</string>
+	<string name="cairn_help_description">
+いくつかの巨石からなる複雑な巨石建造物。 (b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
+	</string>	
+
+
 	<!-- === Transport === -->
 	<string name="bridge_short_description">川を渡りやすくする施設</string>
 	<string name="bridge_help_description">
@@ -693,6 +710,11 @@
 ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)です。
 	</string>  	
 	
+	<string name="fish_trap_short_description">高度な釣具</string>
+	<string name="fish_trap_help_description">
+ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)です。
+	</string>  		
+
 	<string name="axe_short_description">伐採との戦闘のための道具</string>
 	<string name="axe_help_description">
 斧は、(b)伐採(/b)を行うため、または敵と戦うための(b)武器(/b)として役立ちます。
@@ -1084,17 +1106,29 @@
 	</string>
 
 	<string name="weaving_help_description">
-(b)亜麻(/b)や(b)羊毛(/b)で作られた布や衣装を作ることを可能にします。
+(b)亜麻(/b)や(b)羊毛(/b)で作られた布や衣服を作ることを可能にします。
 	</string>
 	
+	<string name="netting_help_description">
+(b)網具(/b)の作成を可能にします。
+	</string>
+
 	<string name="stilting_help_description">
 (b)橋(/b)を建てることを可能にします。
 	</string>
 	
 	<string name="megalithism_help_description">
-村の(b)名声(/b)を高め、(b)士気(/b)を向上させる手助けをする(b)巨石建造物(/b)を作ることができます。
+村の(b)名声(/b)を高め、(b)士気(/b)を向上させる手助けをする(b)巨石建造物(/b)を作ることを可能にします。
 	</string>
 	
+	<string name="stone_carving_help_description">
+(b)彫像(/b)の建築を可能にします。
+	</string>
+
+	<string name="complex_megalithism_help_description">
+村の(b)名声(/b)を高め、(b)士気(/b)を向上させる手助けをする複雑な(b)巨石建造物(/b)を作ることを可能にします。
+	</string>
+
  <!-- === Copper Age === -->
  
 	<string name="copper_smelting_help_description">

@@ -48,6 +48,24 @@
 	<string name="achievement_siege2">Siege Overcome</string>
 	<string name="achievement_siege2_description">太古の戦士シナリオで鉄の精錬の技術をアンロック</string>
 
+	<string name="achievement_prestigious">Prestigious</string>
+	<string name="achievement_prestigious_description">名声が1000に達する</string>
+
+	<string name="achievement_stone_prestige">Stone Prestige</string>
+	<string name="achievement_stone_prestige_description">石器時代に名声が900に達する</string>
+
+	<string name="achievement_megalith_madness">Megalith Madness</string>
+	<string name="achievement_megalith_madness_description">	メンヒル、支石墓、ストーンサークル、彫像、ケルンを同一ゲーム内で建設する</string>
+
+	<string name="achievement_challenger">Challenger</string>
+	<string name="achievement_challenger_description">チャレンジを1つ完了する</string>
+
+	<string name="achievement_hyper_challenger">Hyper Challenger</string>
+	<string name="achievement_hyper_challenger_description">4つすべてのチャレンジを完了する</string>
+
+	<string name="achievement_ultimate_challenger">Ultimate Challenger</string>
+	<string name="achievement_ultimate_challenger_description">4つすべてのチャレンジをハードコアモードで完了する</string>
+
 	<string name="achievement_time">Express Evolution</string>
 	<string name="achievement_time_description">5時間以内のゲームプレイで、技術ツリー内のすべての技術を研究</string>
 
