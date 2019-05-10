@@ -32,6 +32,7 @@
 	<string name="milestone_megalomania">誇大妄想</string><!--TODO-->
 	<string name="milestone_megalomania_description">ストーンサークルを作る</string>
 
+	<!--1.1以前-->
 	<string name="milestone_animal_control">動物の管理</string>
 	<string name="milestone_animal_control_description">家畜を20匹得る</string>
 
@@ -44,4 +45,13 @@
 	<string name="milestone_consolidation">つながり</string>
 	<string name="milestone_consolidation_description">人口が100人に到達</string>
 
+	<!--1.1以降-->
+	<string name="milestone_domestication">Domestication</string>
+	<string name="milestone_domestication_description">Get 10 Goats and 10 Sheep</string>
+
+	<string name="milestone_the_secret_of_steel">The Secret of Steel</string>
+	<string name="milestone_the_secret_of_steel_description">Produce 20 units of Steel</string>
+	
+	<string name="milestone_iron_settlement">Iron Settlement</string>
+	<string name="milestone_iron_settlement_description">Get 150 people and build a Cairn in your settlement</string>
 </strings>

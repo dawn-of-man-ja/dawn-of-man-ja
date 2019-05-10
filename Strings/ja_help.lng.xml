@@ -615,12 +615,28 @@
 (b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
 	</string>
 
-	<string name="stone_circle_short_description">究極の巨石建造物</string>
+	<string name="stone_circle_short_description">円形に配置されたいくつかの巨石でできた建造物</string>
 	<string name="stone_circle_help_description">
 円形に配置された複数の(b)メガリス(/b)で構成された大きな建造物です。
 (b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
 	</string>
 	
+	<string name="statue_short_description">A carved Megalith</string>
+	<string name="statue_help_description">
+A carved standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b).
+	</string>
+
+	<string name="banner_short_description">A symbol of a settlement's power</string>
+	<string name="banner_help_description">
+A symbol of a settlement's power. Your people can use it to recover (b)Morale(/b).
+	</string>		
+
+	<string name="cairn_short_description">A megalithic complex</string>
+	<string name="cairn_help_description">
+A megalithic complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
+	</string>	
+
+
 	<!-- === Transport === -->
 	<string name="bridge_short_description">川を渡りやすくする施設</string>
 	<string name="bridge_help_description">
@@ -693,6 +709,11 @@
 ほぼすべての種類の魚を捕獲するために使用される非常に(b)効果的な釣具(/b)です。
 	</string>  	
 	
+	<string name="fish_trap_short_description">Advanced fishing tool</string>
+	<string name="fish_trap_help_description">
+Extremely (b)effective fishing(/b) tool used to catch almost any kind of fish.
+	</string>  		
+
 	<string name="axe_short_description">伐採との戦闘のための道具</string>
 	<string name="axe_help_description">
 斧は、(b)伐採(/b)を行うため、または敵と戦うための(b)武器(/b)として役立ちます。
@@ -1087,6 +1108,10 @@
 (b)亜麻(/b)や(b)羊毛(/b)で作られた布や衣装を作ることを可能にします。
 	</string>
 	
+	<string name="netting_help_description">
+Allows you to make (b)Fishing Nets(/b).
+	</string>
+
 	<string name="stilting_help_description">
 (b)橋(/b)を建てることを可能にします。
 	</string>
@@ -1095,6 +1120,14 @@
 村の(b)名声(/b)を高め、(b)士気(/b)を向上させる手助けをする(b)巨石建造物(/b)を作ることができます。
 	</string>
 	
+	<string name="stone_carving_help_description">
+Unlocks the construction of (b)Statues(/b).
+	</string>
+
+	<string name="complex_megalithism_help_description">
+Unlocks the construction of complex (b)megalithic structures(/b) that increase the settlement's (b)prestige(/b) and help improve (b)morale(/b).
+	</string>
+
  <!-- === Copper Age === -->
  
 	<string name="copper_smelting_help_description">

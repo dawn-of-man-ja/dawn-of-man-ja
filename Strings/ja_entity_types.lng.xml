@@ -67,13 +67,16 @@
 	<string name="structure_bloomery">塊鉄炉</string>
 	<string name="structure_totem">トーテム</string>
 	<string name="structure_skull_pole">頭蓋骨のポール</string>
+	<string name="structure_banner">Banner</string> 
 	<string name="structure_stables">厩舎</string>
 	<string name="structure_weaver">織工</string>
 	<string name="structure_outfitter">仕立て屋</string><!--TODO-->
 	<string name="structure_well">井戸</string>
 	<string name="structure_menhir">メンヒル</string>
+	<string name="structure_statue">Statue</string> 
 	<string name="structure_dolmen">支石墓</string>
 	<string name="structure_stone_circle">ストーンサークル</string>
+	<string name="structure_cairn">Cairn</string> 
 	<string name="structure_palisade">柵</string>
 	<string name="structure_wall">壁</string>
 	<string name="structure_gate">門</string>
@@ -90,6 +93,7 @@
 	<string name="resource_wooden_harpoon">木の銛</string>
 	<string name="resource_bone_harpoon">骨の銛</string>
 	<string name="resource_fishing_rod">釣り竿</string>
+	<string name="resource_fish_trap">Fish Trap</string> 
 	<string name="resource_bone_spear">骨の槍</string>
 	<string name="resource_flint_spear">火打ち石の槍</string>
 	<string name="resource_biface">石器</string>
@@ -197,6 +201,7 @@
 	<string name="tech_horse_domestication">ウマの家畜化</string>
 	<string name="tech_tanning">なめし</string>
 	<string name="tech_weaving">機織り</string>
+	<string name="tech_netting">Netting</string> 
 	<string name="tech_sledgemaking">そりの制作</string>
 	<string name="tech_stilting">支柱</string>
 	<string name="tech_wheel">車輪</string>
@@ -212,6 +217,10 @@
 	<string name="tech_swordmaking">剣の制作</string>
 	<string name="tech_composite_archery">複合弓</string>
 	<string name="tech_reinforced_fortifications">強化された要塞</string>
+
+
+	<string name="tech_stone_carving">Stone Carving</string>
+	<string name="tech_complex_megalithism">Complex Megalithism</string>
 
 	<!-- Transports -->
 	<string name="transport_sledge">そり</string>

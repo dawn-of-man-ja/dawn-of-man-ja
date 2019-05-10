@@ -121,6 +121,7 @@
 
 	<!-- Placement -->
 	<string name="structure_placement_text">左クリックで設置。(n)(1)キーと(2)キーで回転。(n)Shift+クリックで連続設置。</string>
+	<string name="structure_placement_variant_text">左クリックで設置。(n)(1)キーと(2)キーで回転。(3)キーでバリエーションを変更。(n)Shift+クリックで連続設置。</string>
 	<string name="mine_placement_text">左クリックで設置。(n)(1) 鉱脈の周辺に設置する必要がある。</string>
 	<string name="field_placement_text">左クリック長押しで設置。</string>
 	<string name="wall_placement_text">左クリック長押しで壁を設置。形状を変更するには、(1)キーと(2)キーを使用。</string>
@@ -473,6 +474,7 @@
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">中身をなくす</string>
+ 	<string name="context_action_defense">Defense</string>	
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
@@ -758,6 +760,7 @@
 	<string name="game_action_remove">削除</string>
 	<string name="game_action_placement_modifier_minus">左回転/縮小</string>
 	<string name="game_action_placement_modifier_plus">右回転/拡大</string>
+	<string name="game_action_placement_modifier_variant">Switch Variant</string> 
 	<string name="game_action_previous_work_area">前の作業領域</string>
 	<string name="game_action_next_work_area">次の作業領域</string>
 	<string name="game_action_primal_vision">原始の視覚</string>
