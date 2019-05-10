@@ -30,18 +30,18 @@
 	<string name="milestone_neofarmer_description">Unlock all neolithic founder crops</string>
 
 	<string name="milestone_megalomania">Megalomania</string>
-	<string name="milestone_megalomania_description">Build stone circle</string>
+	<string name="milestone_megalomania_description">Build a Stone Circle</string>
 
-	<string name="milestone_animal_control">Animal Control</string>
-	<string name="milestone_animal_control_description">Get 20 domestic animals</string>
+	<string name="milestone_domestication">Domestication</string>
+	<string name="milestone_domestication_description">Get 10 Goats and 10 Sheep</string>
 
 	<string name="milestone_metal_alloy">Metal Alloy</string>
 	<string name="milestone_metal_alloy_description">Obtain 1 unit of Bronze</string>
 
-	<string name="milestone_the_riddle_of_steel">The Riddle of Steel</string>
-	<string name="milestone_the_riddle_of_steel_description">Obtain 1 unit of Steel</string>
+	<string name="milestone_the_secret_of_steel">The Secret of Steel</string>
+	<string name="milestone_the_secret_of_steel_description">Produce 20 units of Steel</string>
 
-	<string name="milestone_consolidation">Consolidation</string>
-	<string name="milestone_consolidation_description">Get 100 people in your settlement</string>
+	<string name="milestone_iron_settlement">Iron Settlement</string>
+	<string name="milestone_iron_settlement_description">Get 150 people and build a Cairn in your settlement</string>
 
 </strings>

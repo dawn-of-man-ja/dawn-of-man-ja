@@ -67,13 +67,16 @@
 	<string name="structure_bloomery">Bloomery</string>
 	<string name="structure_totem">Totem</string>
 	<string name="structure_skull_pole">Skull Pole</string>
+	<string name="structure_banner">Banner</string>
 	<string name="structure_stables">Stables</string>
 	<string name="structure_weaver">Weaver</string>
 	<string name="structure_outfitter">Outfitter</string>
 	<string name="structure_well">Well</string>
 	<string name="structure_menhir">Menhir</string>
+	<string name="structure_statue">Statue</string>
 	<string name="structure_dolmen">Dolmen</string>
 	<string name="structure_stone_circle">Stone Circle</string>
+	<string name="structure_cairn">Cairn</string>
 	<string name="structure_palisade">Palisade</string>
 	<string name="structure_wall">Wall</string>
 	<string name="structure_gate">Gate</string>
@@ -90,6 +93,7 @@
 	<string name="resource_wooden_harpoon">Wooden Harpoon</string>
 	<string name="resource_bone_harpoon">Bone Harpoon</string>
 	<string name="resource_fishing_rod">Fishing Rod</string>
+	<string name="resource_fish_trap">Fish Trap</string>
 	<string name="resource_bone_spear">Bone Spear</string>
 	<string name="resource_flint_spear">Flint Spear</string>
 	<string name="resource_biface">Biface</string>
@@ -197,6 +201,7 @@
 	<string name="tech_horse_domestication">Horse Domestication</string>
 	<string name="tech_tanning">Tanning</string>
 	<string name="tech_weaving">Weaving</string>
+	<string name="tech_netting">Netting</string>
 	<string name="tech_sledgemaking">Sledgemaking</string>
 	<string name="tech_stilting">Stilting</string>
 	<string name="tech_wheel">The Wheel</string>
@@ -212,6 +217,9 @@
 	<string name="tech_swordmaking">Swordmaking</string>
 	<string name="tech_composite_archery">Composite Archery</string>
 	<string name="tech_reinforced_fortifications">Reinforced Fortifications</string>
+
+	<string name="tech_stone_carving">Stone Carving</string>
+	<string name="tech_complex_megalithism">Complex Megalithism</string>
 
 	<!-- Transports -->
 	<string name="transport_sledge">Sledge</string>

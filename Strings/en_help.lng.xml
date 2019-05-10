@@ -608,10 +608,26 @@ A large standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b
 A stone chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b) and boosts people's (b)Morale(/b).
 	</string>
 
-	<string name="stone_circle_short_description">The ultimate megalithic structure</string>
+	<string name="stone_circle_short_description">A structure made of several megaliths arranged in a circle</string>
 	<string name="stone_circle_help_description">
 A large structure composed by several (b)Megaliths(/b) arranged in a circle. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
 	</string>
+	
+	<string name="statue_short_description">A carved Megalith</string>
+	<string name="statue_help_description">
+A carved standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b).
+	</string>
+	
+	<string name="banner_short_description">A symbol of a settlement's power</string>
+	<string name="banner_help_description">
+A symbol of a settlement's power. Your people can use it to recover (b)Morale(/b).
+	</string>		
+	
+	<string name="cairn_short_description">A megalithic complex</string>
+	<string name="cairn_help_description">
+A megalithic complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
+	</string>	
+	
 	
 	<!-- === Transport === -->
 	<string name="bridge_short_description">A structure to allow easier crossing of rivers</string>
@@ -679,6 +695,11 @@ Harpoons are purpose built tools for (b)fishing(/b). They are made out of a wood
 	<string name="fishing_rod_help_description">
 Very (b)effective fishing(/b) tool used to catch almost any kind of fish.
 	</string>  	
+	
+	<string name="fish_trap_short_description">Advanced fishing tool</string>
+	<string name="fish_trap_help_description">
+Extremely (b)effective fishing(/b) tool used to catch almost any kind of fish.
+	</string>  		
 	
 	<string name="axe_short_description">Woodcutting and fighting tool</string>
 	<string name="axe_help_description">
@@ -1050,7 +1071,7 @@ These are more durable than their wooden counterparts, and in the case of the (b
 	
 	<string name="cereal_domestication_help_description">
 It allows you to (b)plant(/b) and (b)harvest cereals(/b), unlocking the (b)Neolithic(/b) era.
-It and dramatically (b)increases(/b) the amount of (b)people(/b) you can reliably (b)feed(/b) every year.
+It dramatically (b)increases(/b) the amount of (b)people(/b) you can reliably (b)feed(/b) every year.
 This is one of the most important techs in the history of mankind.
 	</string> 
 	
@@ -1067,12 +1088,24 @@ Allows you to plant (b)Flax(/b), which is used to produce (b)Linen Cloth(/b).
 Allows you to make cloth and outfits made of (b)Linen(/b) and (b)Wool(/b).
 	</string>
 	
+	<string name="netting_help_description">
+Allows you to make (b)Fishing Nets(/b).
+	</string>
+	
 	<string name="stilting_help_description">
 Allows you to build (b)Bridges(/b).
 	</string>
 	
 	<string name="megalithism_help_description">
 Allows you to build (b)megalithic structures(/b) that increase the settlement's (b)prestige(/b) and help improve (b)morale(/b).
+	</string>
+	
+	<string name="stone_carving_help_description">
+Unlocks the construction of (b)Statues(/b).
+	</string>
+	
+	<string name="complex_megalithism_help_description">
+Unlocks the construction of complex (b)megalithic structures(/b) that increase the settlement's (b)prestige(/b) and help improve (b)morale(/b).
 	</string>
 	
  <!-- === Copper Age === -->

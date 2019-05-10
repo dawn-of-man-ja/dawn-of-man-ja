@@ -123,6 +123,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 
 	<!-- Placement -->
 	<string name="structure_placement_text">Left click to place.(n)Use (1) and (2) keys to rotate.(n)Shift+click to place multiple.</string>
+	<string name="structure_placement_variant_text">Left click to place.(n)Use (1) and (2) to rotate and (3) to switch variant.(n)Shift+click to place multiple.</string>
 	<string name="mine_placement_text">Left click to place.(n)Needs to be placed on (1) deposit.</string>
 	<string name="field_placement_text">Click and hold to place field.</string>
 	<string name="wall_placement_text">Click and hold to place wall. Use (1) and (2) keys to change shape.</string>
@@ -475,6 +476,7 @@ Do you want to play the tutorial now?
 	<string name="context_action_milk">Milk</string>
 	<string name="context_action_shear">Shear</string>
 	<string name="context_action_empty">Empty contents</string>
+	<string name="context_action_defense">Defense</string>	
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">Can only be done in (1)</string>
@@ -760,6 +762,7 @@ Do you want to play the tutorial now?
 	<string name="game_action_remove">Remove</string>
 	<string name="game_action_placement_modifier_minus">Rotate Left/Smaller</string>
 	<string name="game_action_placement_modifier_plus">Rotate Right/Bigger</string>
+	<string name="game_action_placement_modifier_variant">Switch Variant</string>
 	<string name="game_action_previous_work_area">Previous Work Area</string>
 	<string name="game_action_next_work_area">Next Work Area</string>
 	<string name="game_action_primal_vision">Primal Vision</string>

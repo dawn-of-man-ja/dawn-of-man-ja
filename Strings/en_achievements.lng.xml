@@ -48,6 +48,24 @@
 	<string name="achievement_siege2">Siege Overcome</string>
 	<string name="achievement_siege2_description">Unlock the Steelmaking tech in the Ancient Warriors scenario</string>
 
+	<string name="achievement_prestigious">Prestigious</string>
+	<string name="achievement_prestigious_description">Reach 1000 prestige</string>
+
+	<string name="achievement_stone_prestige">Stone Prestige</string>
+	<string name="achievement_stone_prestige_description">Reach 900 prestige in the Stone Age</string>
+
+	<string name="achievement_megalith_madness">Megalith Madness</string>
+	<string name="achievement_megalith_madness_description">Build a Menhir, Dolmen, Stone Circle, Statue and Cairn in the same game</string>
+	
+	<string name="achievement_challenger">Challenger</string>
+	<string name="achievement_challenger_description">Complete 1 challenge</string>
+
+	<string name="achievement_hyper_challenger">Hyper Challenger</string>
+	<string name="achievement_hyper_challenger_description">Complete all 4 challenges</string>
+
+	<string name="achievement_ultimate_challenger">Ultimate Challenger</string>
+	<string name="achievement_ultimate_challenger_description">Complete all 4 challenges in hardcore mode</string>
+
 	<string name="achievement_time">Express Evolution</string>
 	<string name="achievement_time_description">Research all techs in the tech tree in less than 5 hours of gameplay</string>
 
