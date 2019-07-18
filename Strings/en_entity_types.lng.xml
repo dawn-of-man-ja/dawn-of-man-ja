@@ -59,6 +59,7 @@
 	<string name="structure_copper_mine">Copper Mine</string>
 	<string name="structure_tin_mine">Tin Mine</string>
 	<string name="structure_iron_mine">Iron Mine</string>
+	<string name="structure_deep_iron_mine">Deep Iron Mine</string>
 	<string name="structure_workshop">Workshop</string>
 	<string name="structure_metalsmith">Metalsmith</string>
 	<string name="structure_blacksmith">Blacksmith</string>
@@ -87,6 +88,9 @@
 	<string name="structure_watermill">Watermill</string>
 	<string name="structure_oven">Oven</string>
 	<string name="structure_bridge">Bridge</string>
+	<string name="structure_wooden_platform">Wooden Platform</string>
+	<string name="structure_reinforced_platform">Reinforced Platform</string>
+	
 
 	<!-- Resources -->
 	<string name="resource_wooden_spear">Wooden Spear</string>
@@ -164,6 +168,8 @@
 	<string name="resource_bronze_sickle">Bronze Sickle</string>
 	<string name="resource_iron_sickle">Iron Sickle</string>
 	<string name="resource_flint_sickle">Flint Sickle</string>
+	<string name="resource_round_shield">Round Shield</string>
+	<string name="resource_oval_shield">Oval Shield</string>
 	<string name="resource_milk">Milk</string>
 	<string name="resource_water">Water</string>
 	<string name="resource_beer">Beer</string>
@@ -182,6 +188,7 @@
 	<string name="tech_iron_smelting">Iron Smelting</string>
 	<string name="tech_steelmaking">Steelmaking</string>
 	<string name="tech_underground_mining">Underground Mining</string>
+	<string name="tech_deep_mining">Deep Mining</string>
 	<string name="tech_pottery">Pottery</string>
 	<string name="tech_well_digging">Well Digging</string>
 	<string name="tech_food_drying">Food Drying</string>
@@ -215,6 +222,7 @@
 	<string name="tech_archery">Archery</string>
 	<string name="tech_fortifications">Fortifications</string>
 	<string name="tech_swordmaking">Swordmaking</string>
+	<string name="tech_shieldmaking">Shieldmaking</string>
 	<string name="tech_composite_archery">Composite Archery</string>
 	<string name="tech_reinforced_fortifications">Reinforced Fortifications</string>
 

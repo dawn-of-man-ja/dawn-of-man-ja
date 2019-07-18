@@ -521,9 +521,15 @@ An underground excavation that (b)increases(/b) the amount of (b)Tin Ore(/b) tha
 	
 	<string name="iron_mine_short_description">An underground structure to increase Iron Ore extraction</string>
 	<string name="iron_mine_help_description">
-An underground excavation that (b)increases(/b) the amount of (b)Iron Ore(/b) that can be extracted from a deposit.    
-	</string>	
-	
+An underground excavation that (b)increases(/b) the amount of (b)Iron Ore(/b) that can be extracted from a deposit.
+	</string>
+
+	<string name="deep_iron_mine_short_description">A deep underground structure to further increase Iron Ore extraction</string>
+	<string name="deep_iron_mine_help_description">
+A deep underground excavation that (b)increases(/b) the amount of (b)Iron Ore(/b) that can be extracted from a deposit.
+Once the original ore is exhausted and your people have to go deeper down, (b)mining speed(/b) is (b)reduced(/b).
+	</string>
+
 	<string name="charcoal_pit_short_description">A place to make Charcoal from wood</string>
 	<string name="charcoal_pit_help_description">
 A place to make (b)Charcoal(/b) from wood.
@@ -563,6 +569,13 @@ Simple wooden structure to protect the settlement. It's made from (b)Logs(/b) an
 	<string name="gate_help_description">
 A simple wooden gate, that can resist attacks for a reasonable amount of time.
 	</string>
+	
+	<string name="wooden_platform_short_description">A structure for your people to shoot at enemies from inside the settlement's walls</string>
+	<string name="wooden_platform_help_description">
+A structure for your people to shoot at enemies from (b)inside(/b) the settlement's walls.
+Warriors on a platform have (b)extra protection(/b) from incoming projectiles.
+Needs to be placed next to a (b)Palisade(/b) or (b)Wall(/b) on the inner side.
+	</string>	
 
 	<string name="watchtower_short_description">Basic tower, from which to shoot at enemies</string>
 	<string name="watchtower_help_description">
@@ -579,6 +592,14 @@ A durable (b)Stone(/b) wall, that offers the highest level of protection availab
 	<string name="reinforced_gate_help_description">
 A gate (b)reinforced(/b) with (b)metal(/b) in order to increase its resistance against attacks.
 	</string>
+	
+	<string name="reinforced_platform_short_description">A reinforced platform that can hold more people</string>
+	<string name="reinforced_platform_help_description">
+A structure for your people to shoot at enemies from (b)inside(/b) the settlement's walls.
+Warriors on a platform have (b)extra protection(/b) from incoming projectiles.
+Needs to be placed next to a (b)Palisade(/b) or (b)Wall(/b) on the inner side.
+This structure can hold more people and is more resistent than the (b)Wooden Platform(/b).
+	</string>		
 
 	<string name="guard_tower_short_description">A reinforced defense tower</string>
 	<string name="guard_tower_help_description">
@@ -739,6 +760,18 @@ Slings have a longer range than spears, but are ineffective at close quarters.
 	<string name="sword_help_description">
 Swords are the most effective (b)melee combat(/b) weapon of the ancient times. They consist of a wooden handle and a sharp blade made of metal.
 	</string>
+	
+	<string name="round_shield_short_description">Small Shield that provides basic protection</string>
+	<string name="round_shield_help_description">
+A small round shield made of wood with a Leather cover. Offers basic protection in combat. 
+Can be used with one handed weapons like (b)Swords(/b) or (b)Axes(/b).
+	</string>	
+	
+	<string name="oval_shield_short_description">Large Shield that provides good protection</string>
+	<string name="oval_shield_help_description">
+A large oval shield made of wood with an Iron core. Offers good protection in combat. 
+Can be used with one handed weapons like (b)Swords(/b) or (b)Axes(/b).
+	</string>		
 
   <!-- === Materials === -->
   
@@ -1052,6 +1085,10 @@ Unlocks the construction of (b)Sledges(/b), which are a critical transport in th
 Allows you to build mines on top of deposits. Mines dramatically (b)increase(/b) the amount of (b)resources(/b) you can extract from a (b)deposit(/b).
 	</string> 
 	
+	<string name="deep_mining_help_description">
+Allows you to build deep mines, which (b)further increase(/b) the amount of (b)resources(/b) that can be extracted from a (b)deposit(/b).
+	</string> 	
+	
 	<string name="thatching_help_description">
 Unlocks (b)thatched structures(/b), which are in general more durable and advanced than skins structures.
 	</string> 
@@ -1141,6 +1178,10 @@ Unlocks (b)Stone(/b) structures that are in general more (b)durable(/b) and adva
 	<string name="swordmaking_help_description">
 Unlocks (b)Swords(/b), which are the most (b)effective melee weapon(/b).
 	</string>
+	
+	<string name="shieldmaking_help_description">
+Unlocks (b)Shields(/b), which allow your people to block attacks.
+	</string>	
 	
 	<string name="composite_archery_help_description">
 Unlocks (b)Composite Bows(/b), which are the most effective (b)hunting weapon(/b).
