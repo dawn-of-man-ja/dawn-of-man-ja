@@ -191,6 +191,9 @@
 	<string name="task">タスク</string>
 	<string name="tasks">タスク</string>
 	<string name="activity">アクティビティ</string>
+	<string name="structures">施設</string>
+	<string name="transports">輸送</string>
+	<string name="megaliths">巨石建造物</string>
 	<string name="active_tasks">作業中のタスク</string>
 	<string name="pending_tasks">待機中のタスク</string>
 	<string name="workload">仕事量</string>
@@ -227,9 +230,10 @@
 	<string name="yes">はい</string>
 	<string name="no">いいえ</string>
 	<string name="on">オン</string>
-	<string name="off">オフ</string>	
+	<string name="off">オフ</string>
 	<string name="back">戻る</string>
-	
+	<string name="more">もっと</string>
+
 	<!-- Resource category flags -->
 	<string name="category_food_and_drink">飲食物</string>
 	<string name="category_clothing">衣類</string>
@@ -379,7 +383,9 @@
 	<string name="attribute_woodcutting">伐採</string>
 	<string name="attribute_mining">採掘</string>
 	<string name="attribute_harvesting">収穫</string>
-	
+	<string name="attribute_blocking">防御</string> 
+
+
 	<!-- These are for clothing -->
 	<string name="attribute_warmth">暖かさ</string>							<!-- How warm is this outfit -->
 	<string name="attribute_style">見た目</string>								<!-- How stylish is this outfit -->
@@ -387,6 +393,7 @@
 	<string name="attribute_bonus_speed">作業速度: (1)x</string>
 	<string name="attribute_bonus_damage">頑丈さ: (1)</string>
 	<string name="attribute_bonus_temperature">耐寒性: (1)</string>
+	<string name="attribute_bonus_blocking">(1)%の確率で攻撃を防御</string> 
 	<string name="attribute_bonus_style">ふさわしい時代: (1)</string>
 	
 	<string name="attribute_description_butchering">動物を殺してそれらから資源を得る</string>
@@ -396,6 +403,7 @@
 	<string name="attribute_description_woodcutting">木を伐る</string>
 	<string name="attribute_description_mining">地表の鉱床や鉱山から採掘する</string>
 	<string name="attribute_description_harvesting">野生の穀物や豆類の収穫</string>
+	<string name="attribute_description_blocking">攻撃に対する防御</string> 
 	<string name="attribute_description_warmth">防寒</string>
 	<string name="attribute_description_style">この衣装のデザイン：昔ながらの服を着ると幸福が減る</string>
 	
@@ -474,7 +482,10 @@
 	<string name="context_action_milk">搾乳</string>
 	<string name="context_action_shear">刈り込み</string>
 	<string name="context_action_empty">中身をなくす</string>
- 	<string name="context_action_defense">防衛</string>	
+	<string name="context_action_defense">防衛</string>
+	<string name="context_action_enable">有効</string>
+	<string name="context_action_disable">無効</string>
+	<string name="context_action_megaliths">巨石</string>
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
@@ -504,7 +515,8 @@
 	<string name="sub_category_pick">ピッケル</string>
 	<string name="sub_category_bow">弓</string>
 	<string name="sub_category_sword">剣</string>
-	
+	<string name="sub_category_shield">盾</string> 
+
 	<!-- Structure classification -->
 	<string name="buildable_category_residence">住居</string>
 	<string name="buildable_category_storage">貯蔵庫</string>
@@ -721,7 +733,7 @@
 	<string name="description_pulling">荷車を引く</string>
 	<string name="description_wandering">うろうろ</string>
 	<string name="description_following">従う</string>
-	
+	<string name="description_standing_platform">射撃台上に立つ</string> 
 	<!-- Game actions -->
 	<string name="key_bindings">キーバインド</string>
 	<string name="game_action_camera_move_forward">カメラを前へ</string>
@@ -748,6 +760,8 @@
 	<string name="game_action_open_panel_techs">技術</string>
 	<string name="game_action_open_panel_tasks">タスク</string>
 	<string name="game_action_open_panel_activity">アクティビティ</string>
+	<string name="game_action_open_panel_structures">建物</string>
+	<string name="game_action_open_panel_megaliths">巨石建造物</string>
 	<string name="game_action_open_panel_defense">防衛</string>
 	<string name="game_action_open_panel_milestones">マイルストーン</string>
 	<string name="game_action_open_panel_knowledge_progress">知識</string>
@@ -761,6 +775,8 @@
 	<string name="game_action_placement_modifier_minus">左回転/縮小</string>
 	<string name="game_action_placement_modifier_plus">右回転/拡大</string>
 	<string name="game_action_placement_modifier_variant">バリエーションを変更</string> 
+	<string name="platform_placement_text">左クリックで設置。(n)柵または壁の内側に設置する必要がある。(n)Shift+クリックで連続設置。</string>
+	<string name="water_placement_text">左クリックで設置。(n)水の近くに設置する必要がある。</string>
 	<string name="game_action_previous_work_area">前の作業領域</string>
 	<string name="game_action_next_work_area">次の作業領域</string>
 	<string name="game_action_primal_vision">原始の視覚</string>

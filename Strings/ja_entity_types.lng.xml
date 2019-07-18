@@ -59,6 +59,7 @@
 	<string name="structure_copper_mine">銅鉱山</string>
 	<string name="structure_tin_mine">錫鉱山</string>
 	<string name="structure_iron_mine">鉄鉱山</string>
+	<string name="structure_deep_iron_mine">深い鉄鉱山</string> 
 	<string name="structure_workshop">工房</string>
 	<string name="structure_metalsmith">金工</string>
 	<string name="structure_blacksmith">鍛冶屋</string>
@@ -87,6 +88,8 @@
 	<string name="structure_watermill">製粉所</string>
 	<string name="structure_oven">かまど</string>
 	<string name="structure_bridge">橋</string>
+	<string name="structure_wooden_platform">木の台</string>
+	<string name="structure_reinforced_platform">強化台</string>
 
 	<!-- Resources -->
 	<string name="resource_wooden_spear">木の槍</string>
@@ -164,6 +167,8 @@
 	<string name="resource_bronze_sickle">青銅の鎌</string>
 	<string name="resource_iron_sickle">鉄の鎌</string>
 	<string name="resource_flint_sickle">火打ち石の鎌</string>
+	<string name="resource_round_shield">ラウンドシールド</string>
+	<string name="resource_oval_shield">オーバルシールド</string>
 	<string name="resource_milk">ミルク</string>
 	<string name="resource_water">水</string>
 	<string name="resource_beer">ビール</string>
@@ -181,7 +186,8 @@
 	<string name="tech_bronze_smelting">青銅の精錬</string>
 	<string name="tech_iron_smelting">鉄の精錬</string>
 	<string name="tech_steelmaking">製鋼</string>
-	<string name="tech_underground_mining">地下での採掘</string>
+	<string name="tech_underground_mining">地下採掘</string>
+ 	<string name="tech_deep_mining">深層採掘</string> 
 	<string name="tech_pottery">陶器</string>
 	<string name="tech_well_digging">井戸掘り</string>
 	<string name="tech_food_drying">食品乾燥</string>
@@ -215,6 +221,7 @@
 	<string name="tech_archery">弓術</string>
 	<string name="tech_fortifications">要塞</string>
 	<string name="tech_swordmaking">剣の制作</string>
+	<string name="tech_shieldmaking">盾の制作</string> 
 	<string name="tech_composite_archery">複合弓</string>
 	<string name="tech_reinforced_fortifications">強化された要塞</string>
 
