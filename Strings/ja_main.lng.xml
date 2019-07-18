@@ -761,7 +761,7 @@
 	<string name="game_action_open_panel_tasks">タスク</string>
 	<string name="game_action_open_panel_activity">アクティビティ</string>
 	<string name="game_action_open_panel_structures">建物</string>
-	<string name="game_action_open_panel_megaliths">巨石建造物</string>
+	<string name="game_action_open_panel_megaliths">巨石</string>
 	<string name="game_action_open_panel_defense">防衛</string>
 	<string name="game_action_open_panel_milestones">マイルストーン</string>
 	<string name="game_action_open_panel_knowledge_progress">知識</string>
