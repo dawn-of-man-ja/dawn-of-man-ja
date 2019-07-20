@@ -602,7 +602,7 @@
 壁の(b)内側(/b)から敵を撃つための施設。
 射撃台の上にいると、遠距離兵器への(b)防御が高く(/b)なります。
 (b)柵(/b)または(b)壁(/b)のすぐ内側に配置する必要があります。
-この構造は、(b)木の射撃台(/b)より多くの人を収容でき、より耐久性があります。
+この施設は、(b)木の射撃台(/b)より多くの人を収容でき、より耐久性があります。
 	</string>		
 
 	<string name="guard_tower_short_description">強化された防衛塔</string>
@@ -779,13 +779,13 @@
 剣は古代で最も効果的な(b)近接戦闘(/b)の武器です。 木の持ち手と金属製の鋭い刃から成ります。
 	</string>
 
-	<string name="round_shield_short_description">基本的な保護を提供する小型シールド</string>
+	<string name="round_shield_short_description">基本的な防御を提供する小さな盾</string>
 	<string name="round_shield_help_description">
 木に革製のカバーをして作った小さな丸い盾。 戦闘で基本的な防御を提供します。
 (b)剣(/b)や(b)斧(/b)のような片手武器と一緒に使えます。
 	</string>	
 
-	<string name="oval_shield_short_description">Large Shield that provides good protection</string>
+	<string name="oval_shield_short_description">優れた防御を提供する大きな盾</string>
 	<string name="oval_shield_help_description">
 鉄のコアに木で作られた大きな楕円形の盾。 戦闘時に優れた防御力を発揮します。
 (b)剣(/b)や(b)斧(/b)のような片手武器と一緒に使えます。
