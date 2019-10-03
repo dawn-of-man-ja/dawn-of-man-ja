@@ -24,11 +24,11 @@
 	<string name="milestone_rivers_of_blood">Rivers of Blood</string>	
 	<string name="milestone_rivers_of_blood_description">Kill 100 Raiders</string>
 	
-	<string name="milestone_swordmaking">Swordmaking</string>	
-	<string name="milestone_swordmaking_description">Accumulate 5 Bronze Swords</string>
+	<string name="milestone_bronze_swordmaking">Swordmaking</string>	
+	<string name="milestone_bronze_swordmaking_description">Produce 5 Bronze Swords</string>
 	
-	<string name="milestone_swordmastery">Swordmastery</string>	
-	<string name="milestone_swordmastery_description">Accumulate 20 Steel Swords</string>	
+	<string name="milestone_steel_swordmaking">Swordmastery</string>	
+	<string name="milestone_steel_swordmaking_description">Produce 20 Steel Swords</string>	
 	
 	<string name="milestone_warrior_settlement">Warrior Settlement</string>
 	<string name="milestone_warrior_settlement_description">Get 150 people in your settlement</string>

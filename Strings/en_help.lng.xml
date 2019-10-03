@@ -1044,6 +1044,10 @@ Unlocks the construction of the (b)Food Dryer(/b), where you can produce (b)Cure
 Unlocks the domestication of (b)Dogs(/b). Dogs will slowly come to the settlement and will help you protect it.
 	</string> 
 	
+	<string name="dog_training_help_description">
+Unlocks the ability for (b)Dogs(/b) to help humans in hunting tasks.
+	</string> 	
+	
 	<string name="tanning_help_description">
 Unlocks the (b)Tanner(/b), where you can produce (b)Leather(/b).
 	</string>

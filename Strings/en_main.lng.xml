@@ -68,6 +68,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="game_mode_hardcore">Hardcore</string>
 	
 	<string name="game_mode_normal_description">
+(b)Normal(/b)
 - Unlimited savegames
 - Game can be paused
 - Other tribes match your technology
@@ -76,11 +77,27 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	</string>
 	
 	<string name="game_mode_hardcore_description">
+(b)Hardcore(/b)
 - Only one savegame
 - Game can not be paused
 - Other tribes progress at their own rate
 - Larger amount of raiders
 - Regular animal aggression
+	</string>
+
+	<string name="start_mode">Starting Conditions</string>
+	<string name="start_mode_settled">Settled</string>
+	<string name="start_mode_nomad">Nomad</string>		
+	
+	<string name="start_mode_settled_description">
+(b)Settled(/b)
+Start with a few structures and resources in a settlement.
+	</string>
+	
+	<string name="start_mode_nomad_description">
+(b)Nomad(/b)
+Start with no structures, but extra resources,
+so you can choose your own location to settle.
 	</string>
 	
 	<!-- Community -->
@@ -102,6 +119,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="quick_panel_animals">Animals</string>
 	<string name="quick_panel_food_chart">Food Chart</string>
 	<string name="quick_panel_straw_chart">Straw Chart</string>	
+	<string name="quick_panel_workload_chart">Workload Chart</string>	
 	
 	<!-- Trading -->
 	<string name="trade">Trade</string>
@@ -188,6 +206,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="click_to_unlock">Click to unlock</string>
 	<string name="requires">Requires</string>
 	<string name="required_for">Required for</string>	
+	<string name="animal_helps_hunting">(1)s to help in hunting tasks</string>	
 	<string name="already_unlocked">Already unlocked</string>
 	<string name="charts">Charts</string>
 	<string name="stats">Stats</string>
@@ -198,6 +217,7 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="structures">Structures</string>
 	<string name="transports">Transports</string>
 	<string name="megaliths">Megaliths</string>
+	<string name="work_areas">Work Areas</string>
 	<string name="active_tasks">Active tasks</string>
 	<string name="pending_tasks">Pending tasks</string>
 	<string name="workload">Workload</string>
@@ -280,6 +300,12 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="menu_resume">Resume</string>
 	<string name="menu_credits">Credits</string>
 	<string name="menu_achievements">Achievements</string>
+	<string name="menu_stats">Stats</string>
+	<string name="stats_you">You</string>
+	<string name="stats_global">Global Average</string>
+	<string name="stat_all_techs">All Techs</string>
+	<string name="stat_games_normal_hardcore">Normal/Hardcore games</string>
+	<string name="stat_games_settled_nomad">Settled/Nomad games</string>
 	<string name="confirm_save">Are you sure you want to overwrite (1)?</string>
 	<string name="confirm_delete">Are you sure you want to delete (1)?</string>
 	<string name="controls">Controls</string>
@@ -488,7 +514,8 @@ Do you want to play the tutorial now?
 	<string name="context_action_defense">Defense</string>
 	<string name="context_action_enable">Enable</string>
 	<string name="context_action_disable">Disable</string>
-	<string name="context_action_megaliths">Megaliths</string>
+	<string name="context_action_megaliths">Megaliths panel</string>
+	<string name="context_action_work_areas">Work Areas panel</string>
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">Can only be done in (1)</string>
@@ -637,6 +664,7 @@ Do you want to play the tutorial now?
 	<string name="tooltip_animal_limit_percentage">Limit for: (1), is set to (2)% of the population.(n)Any animals over that amount will be automatically slaughtered.</string>
 	<string name="tooltip_animal_limit_infinity">Limit for: (1), is set to unlimited.(n)Only very old animals will get slaughtered.</string>
 	<string name="tooltip_work_area_max_people">Maximum number of people working in this area</string>
+	<string name="tooltip_work_area_max_tasks">Maximum number of simultaneous tasks in this area</string>
 	<string name="tooltip_task">Right click to cancel task.</string>
 	<string name="tooltip_performer">Left click to focus</string>
 	<string name="tooltip_welfare">Welfare: (1)(n)A measure of how well your settlement is doing.(n)Depends on your people's stats, clothing and also on the food surplus.(n)Affects migrant arrival frequency and birth rate.</string>
@@ -769,6 +797,7 @@ Do you want to play the tutorial now?
 	<string name="game_action_open_panel_defense">Defense panel</string>
 	<string name="game_action_open_panel_milestones">Milestones panel</string>
 	<string name="game_action_open_panel_knowledge_progress">Knowledge progress panel</string>
+	<string name="game_action_open_panel_work_areas">Work Areas panel</string>
 	<string name="game_action_pause">Pause</string>
 	<string name="game_action_timescale1">Normal speed</string>
 	<string name="game_action_timescale2">Speed x2</string>
@@ -782,7 +811,7 @@ Do you want to play the tutorial now?
 	<string name="game_action_previous_work_area">Previous Work Area</string>
 	<string name="game_action_next_work_area">Next Work Area</string>
 	<string name="game_action_primal_vision">Primal Vision</string>
-
+	
 	<!-- Alerts -->
 	<string name="warning_no_stables">Not enough stable space for our animals</string>
 	<string name="warning_no_food">We have no food</string>
@@ -805,6 +834,11 @@ Do you want to play the tutorial now?
 	<string name="warning_low_hunting_tools">We are low on hunting tools</string>	
 	<string name="warning_high_workload">Workload is too high</string>	
 
+	<!-- Errors -->
+	<string name="error_savegame_invalid_version">Invalid savegame version</string>
+	<string name="error_savegame_corrupted">Savegame is corrupted</string>
+	<string name="error_savegame_scenario_not_found">Scenario not found</string>
+	
 	<!-- Credits -->
 	<string name="credits_title">Dawn of Man</string>
 	<string name="credits_subtitle">by Madruga Works</string>

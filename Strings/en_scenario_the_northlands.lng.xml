@@ -20,8 +20,8 @@
 	<string name="milestone_winter_resistance">Winter Resistance</string>
 	<string name="milestone_winter_resistance_description">Accumulate 10 Skins Outfits</string>
 	
-	<string name="milestone_winter_hunt">Winter Hunt</string>
-	<string name="milestone_winter_hunt_description">Hunt a Mammoth a Woolly Rhino and a Cave Bear</string>
+	<string name="milestone_winter_hunt_v2">Winter Hunt</string>
+	<string name="milestone_winter_hunt_v2_description">Hunt a Mammoth an Elasmotherium and a Muskox</string>
 	
 	<string name="milestone_winter_domestication">Winter Domestication</string>
 	<string name="milestone_winter_domestication_description">Have 10 Sheep at one time</string>

@@ -161,7 +161,7 @@ To(b) hunt an animal(/b), select it, then click on the (b)hunting button(/b).
 	</string>
 	
 	<string name="tutorial_hunting_done">
-Once the animal is been hunted, your people will (b)butcher(/b) it and bring the (b)resources to camp(/b).
+Once the animal has been hunted, your people will (b)butcher(/b) it and bring the (b)resources to camp(/b).
 When hunting in this manner, your people will decide how many of them to send, based on the difficulty of the prey.
 	</string>	
 	
@@ -181,7 +181,7 @@ You can check out the (b)help in the game(/b) for more detailed instructions on 
 	<string name="tutorial_skin_processing_title">Skins</string>		
 	
 	<string name="tutorial_skin_processing">
-One of the resources you obtain from animals are (b)Raw Skins(/b), they are used to craft clothing and build structures among other things.
+One of the resources you obtain from animals is (b)Raw Skins(/b), they are used to craft clothing and build structures among other things.
 However (b)Raw Skins(/b) can not be used directly, you have to dry them first, in order to do this you need to build (b)Skins Dryers(/b).
 	</string>			
 	

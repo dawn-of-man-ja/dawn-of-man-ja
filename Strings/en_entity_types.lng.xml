@@ -17,9 +17,11 @@
 	<string name="animal_reindeer">Reindeer</string>
 	<string name="animal_wolf">Wolf</string>
 	<string name="animal_cave_lion">Cave Lion</string>
+	<string name="animal_cave_hyena">Cave Hyena</string>
 	<string name="animal_dog">Dog</string>
 	<string name="animal_mammoth">Mammoth</string>
 	<string name="animal_woolly_rhinoceros">Woolly Rhino</string>
+	<string name="animal_elasmotherium">Elasmotherium</string>
 	<string name="animal_vulture">Vulture</string>
 	<string name="animal_eagle">Eagle</string>
 	<string name="animal_dove">Dove</string>
@@ -29,12 +31,14 @@
 	<string name="animal_sheep">Sheep</string>
 	<string name="animal_ancient_bison">Ancient Bison</string>
 	<string name="animal_bison">Bison</string>
+	<string name="animal_muskox">Muskox</string>
 	<string name="animal_pig">Pig</string>
 	<string name="animal_boar">Boar</string>
 	<string name="animal_aurochs">Aurochs</string>
 	<string name="animal_cattle">Cattle</string>
 	<string name="animal_wild_horse">Wild Horse</string>
 	<string name="animal_horse">Horse</string>
+	<string name="animal_feral_horse">Feral Horse</string>
 	<string name="animal_wild_donkey">Wild Donkey</string>
 	<string name="animal_donkey">Donkey</string>
 	
@@ -99,6 +103,8 @@
 	<string name="resource_fishing_rod">Fishing Rod</string>
 	<string name="resource_fish_trap">Fish Trap</string>
 	<string name="resource_bone_spear">Bone Spear</string>
+	<string name="resource_bone_knife">Bone Knife</string>
+	<string name="resource_bone_sickle">Bone Sickle</string>
 	<string name="resource_flint_spear">Flint Spear</string>
 	<string name="resource_biface">Biface</string>
 	<string name="resource_flint_axe">Flint Axe</string>
@@ -182,6 +188,7 @@
 	<string name="tech_composite_tools">Composite Tools</string>
 	<string name="tech_thatching">Thatching</string>
 	<string name="tech_masonry">Masonry</string>
+	<string name="tech_bone_polishing">Bone Polishing</string>
 	<string name="tech_stone_polishing">Stone Polishing</string>
 	<string name="tech_copper_smelting">Copper Smelting</string>
 	<string name="tech_bronze_smelting">Bronze Smelting</string>
@@ -200,6 +207,7 @@
 	<string name="tech_fruit_tree_domestication">Fruit Tree Domestication</string>
 	<string name="tech_rye_domestication">Rye Domestication</string>
 	<string name="tech_dog_domestication">Dog Domestication</string>
+	<string name="tech_dog_training">Dog Training</string>
 	<string name="tech_sheep_domestication">Sheep Domestication</string>
 	<string name="tech_goat_domestication">Goat Domestication</string>
 	<string name="tech_pig_domestication">Pig Domestication</string>
