@@ -30,6 +30,12 @@
 	<string name="milestone_swordmastery">刀使い</string>	
 	<string name="milestone_swordmastery_description">鋼鉄の剣を20個もつ</string>	
 	
+	<string name="milestone_bronze_swordmaking">剣の製造</string>	
+	<string name="milestone_bronze_swordmaking_description">青銅の剣を5つ作成する</string>
+	
+	<string name="milestone_steel_swordmaking">刀使い</string>	
+	<string name="milestone_steel_swordmaking_description">鋼鉄の剣を20個作成する</string>	
+
 	<string name="milestone_warrior_settlement">戦士の村</string>
 	<string name="milestone_warrior_settlement_description">人口が150人に到達</string>
 </strings>
