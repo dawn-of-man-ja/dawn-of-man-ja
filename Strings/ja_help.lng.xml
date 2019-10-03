@@ -1063,6 +1063,10 @@
 (b)犬(/b)の家畜化を解除します。 犬はゆっくりと村に来て、あなたが村を守るのを助けます。
 	</string> 
 	
+	<string name="dog_training_help_description">
+(b)犬(/b)が人間と一緒に狩りを行えるようになります。
+	</string> 	
+
 	<string name="tanning_help_description">
 (b)革(/b)を生産できる(b)なめし(/b)のロックを解除します。
 	</string>
