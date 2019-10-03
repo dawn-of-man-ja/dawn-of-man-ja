@@ -17,9 +17,11 @@
 	<string name="animal_reindeer">トナカイ</string>
 	<string name="animal_wolf">オオカミ</string>
 	<string name="animal_cave_lion">ホラアナライオン</string>
+	<string name="animal_cave_hyena">ドウクツハイエナ</string> 
 	<string name="animal_dog">イヌ</string>
 	<string name="animal_mammoth">マンモス</string>
 	<string name="animal_woolly_rhinoceros">ケブカサイ</string>
+	<string name="animal_elasmotherium">エラスモテリウム</string> 
 	<string name="animal_vulture">ハゲワシ</string>
 	<string name="animal_eagle">ワシ</string>
 	<string name="animal_dove">ハト</string>
@@ -29,13 +31,15 @@
 	<string name="animal_sheep">ヒツジ</string>
 	<string name="animal_ancient_bison">太古のバイソン</string>
 	<string name="animal_bison">バイソン</string>
+	<string name="animal_muskox">ジャコウウシ</string> 
 	<string name="animal_pig">ブタ</string>
 	<string name="animal_boar">イノシシ</string>
 	<string name="animal_aurochs">オーロックス</string>
 	<string name="animal_cattle">ウシ</string>
-	<string name="animal_wild_horse">ノウマ</string>
+	<string name="animal_wild_horse">野生のウマ</string>
 	<string name="animal_horse">ウマ</string>
 	<string name="animal_wild_donkey">野生のロバ</string>
+	<string name="animal_feral_horse">ノウマ</string> 
 	<string name="animal_donkey">ロバ</string>
 	
 	<!-- Structures -->
