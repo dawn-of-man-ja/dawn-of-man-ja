@@ -95,6 +95,7 @@
 	<string name="structure_wooden_platform">木の射撃台</string>
 	<string name="structure_reinforced_platform">強化射撃台</string>
 
+
 	<!-- Resources -->
 	<string name="resource_wooden_spear">木の槍</string>
 	<string name="resource_wooden_harpoon">木の銛</string>
@@ -102,6 +103,8 @@
 	<string name="resource_fishing_rod">釣り竿</string>
 	<string name="resource_fish_trap">網</string> 
 	<string name="resource_bone_spear">骨の槍</string>
+ 	<string name="resource_bone_knife">骨のナイフ</string> 
+	<string name="resource_bone_sickle">骨の鎌</string> 
 	<string name="resource_flint_spear">火打ち石の槍</string>
 	<string name="resource_biface">石器</string>
 	<string name="resource_flint_axe">火打ち石の斧</string>
@@ -185,7 +188,8 @@
 	<string name="tech_composite_tools">複合道具</string>
 	<string name="tech_thatching">屋根ふき</string>
 	<string name="tech_masonry">石材</string>
-	<string name="tech_stone_polishing">研磨</string>
+	<string name="tech_bone_polishing">骨の研磨</string> 
+	<string name="tech_stone_polishing">石の研磨</string>
 	<string name="tech_copper_smelting">銅の製錬</string>
 	<string name="tech_bronze_smelting">青銅の精錬</string>
 	<string name="tech_iron_smelting">鉄の精錬</string>
@@ -203,6 +207,7 @@
 	<string name="tech_fruit_tree_domestication">果樹の栽培</string>
 	<string name="tech_rye_domestication">ライ麦の栽培</string>
 	<string name="tech_dog_domestication">イヌの家畜化</string>
+	<string name="tech_dog_training">イヌの訓練</string> 
 	<string name="tech_sheep_domestication">ヒツジの家畜化</string>
 	<string name="tech_goat_domestication">ヤギの家畜化</string>
 	<string name="tech_pig_domestication">ブタの家畜化</string>
