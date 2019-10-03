@@ -66,6 +66,7 @@
 	<string name="game_mode_hardcore">ハードコア</string>
 	
 	<string name="game_mode_normal_description">
+(b)ノーマル(/b) 
 - いくらでもセーブできる
 - ポーズできる
 - あなたの村の技術レベルに他の村があわせる
@@ -74,13 +75,28 @@
 	</string>
 	
 	<string name="game_mode_hardcore_description">
+(b)ハードコア(/b)
 - セーブは一つだけ
 - ポーズできない
 - 他の村は彼ら自身の速度で進歩する
 - 大量の侵入者
 - 動物の攻撃性が普通
 	</string>
-	
+
+	<string name="start_mode">開始条件</string>
+	<string name="start_mode_settled">定住</string>
+	<string name="start_mode_nomad">遊牧</string>		
+
+	<string name="start_mode_settled_description">
+(b)定住(/b)
+いくつかの建物と資源のある集落から始めます。
+	</string>
+
+	<string name="start_mode_nomad_description">
+(b)遊牧(/b)
+建物なしで始めますが、追加の資源が用意され、場所を選択することができます。
+	</string>
+
 	<!-- Community -->
 	<string name="community_workshop_text">利用可能なコミュニティシナリオはありません。(n)(n)Steam Workshopからシナリオをダウンロードするには、この画面の下部にあるボタンを使用します。</string>
 	<string name="community_generic_text">利用可能なコミュニティシナリオはありません。(n)(n)コミュニティシナリオをダウンロードして、Documents/DawnOfMan/Scenariosフォルダに配置できます。</string>
@@ -100,7 +116,8 @@
 	<string name="quick_panel_animals">動物</string>
 	<string name="quick_panel_food_chart">食糧の推移</string>
 	<string name="quick_panel_straw_chart">わらの推移</string>	
-	
+	<string name="quick_panel_workload_chart">作業量の推移</string>	
+
 	<!-- Trading -->
 	<string name="trade">取引</string>
 	<string name="trader">商人</string>
@@ -184,6 +201,7 @@
 	<string name="click_to_unlock">左クリックでアンロック</string>
 	<string name="requires">条件</string>
 	<string name="required_for">次のものに必要</string>	
+	<string name="animal_helps_hunting">(1)s to help in hunting tasks</string>	
 	<string name="already_unlocked">すでにアンロックされている</string>
 	<string name="charts">チャート</string>
 	<string name="stats">統計</string>
@@ -200,6 +218,7 @@
 	<string name="performers">パフォーマンス</string>
 	<string name="target">対象</string>
 	<string name="no_tasks">タスクがない</string>
+	<string name="work_areas">作業領域</string> 
 	<string name="limits">制限</string>
 	<string name="population_limit">人口の制限</string>
 	<string name="allow_new_humans">新しい住人の許可</string>
@@ -276,6 +295,12 @@
 	<string name="menu_resume">再開する</string>
 	<string name="menu_credits">クレジット</string>
 	<string name="menu_achievements">実績</string>
+	<string name="menu_stats">統計</string>
+	<string name="stats_you">あなた</string>
+	<string name="stats_global">世界</string>
+	<string name="stat_all_techs">すべての技術</string>
+	<string name="stat_games_normal_hardcore">ノーマル/ハードコア</string>
+	<string name="stat_games_settled_nomad">定住/遊牧</string>
 	<string name="confirm_save">(1)を上書きしてもよろしいですか?</string>
 	<string name="confirm_delete">(1)を消去してもよろしいですか?</string>
 	<string name="controls">操作</string>
@@ -486,7 +511,7 @@
 	<string name="context_action_enable">有効</string>
 	<string name="context_action_disable">無効</string>
 	<string name="context_action_megaliths">巨石</string>
-
+	<string name="context_action_work_areas">作業領域</string>
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
 	<string name="disabled_reason_requires_tech">技術が必要: (1)</string>
@@ -634,6 +659,7 @@
 	<string name="tooltip_animal_limit_percentage">数の制限: (1),人口の(2)%に設定(n)制限を超える動物は自動的に屠殺される</string>
 	<string name="tooltip_animal_limit_infinity">数の制限: (1), 無制限(n)とても年をとった動物のみが屠殺される</string>
 	<string name="tooltip_work_area_max_people">この領域で働ける最大人数</string>
+	 	<string name="tooltip_work_area_max_tasks">この領域での同時に行われるタスクの最大数</string> 
 	<string name="tooltip_task">右クリックでタスクをキャンセル</string>
 	<string name="tooltip_performer">左クリックでフォーカス</string>
 	<string name="tooltip_welfare">福祉:(1)(n)あなたの村がどれだけうまく行っているかを表す。(n)人々の状態、衣服、食糧余剰にも依存する。(n)移住者の到着頻度と出生率に影響を与える。</string>
@@ -669,7 +695,7 @@
 	<string name="tooltip_available_soon">Available Soon</string>
 	<string name="tooltip_requires_milestones">このシナリオをプレイするには、(1)マイルストーンのロックを解除する必要がある。(n)フリープレイのシナリオをプレイすることで、マイルストーンを獲得できる。</string>
 	<string name="tooltip_requires_milestones_short">(1)マイルストーンが必要</string>
-	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨 </string>
+	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨</string>
 	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
 	<string name="tooltip_draught">この動物は荷車を引くのに使うことができる</string>
 	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
@@ -765,6 +791,7 @@
 	<string name="game_action_open_panel_defense">防衛</string>
 	<string name="game_action_open_panel_milestones">マイルストーン</string>
 	<string name="game_action_open_panel_knowledge_progress">知識</string>
+	<string name="game_action_open_panel_work_areas">作業領域</string> 
 	<string name="game_action_pause">ポーズ</string>
 	<string name="game_action_timescale1">速度 x1</string>
 	<string name="game_action_timescale2">速度 x2</string>
@@ -802,6 +829,11 @@
 	<string name="warning_no_hunting_tools">武器がない</string>
 	<string name="warning_low_hunting_tools">武器が少ない</string>	
 	<string name="warning_high_workload">作業負荷が高すぎる</string>	
+
+	<!-- Errors -->
+	<string name="error_savegame_invalid_version">セーブデータのバージョンが有効ではありません</string>
+	<string name="error_savegame_corrupted">セーブデータが破損しています</string>
+	<string name="error_savegame_scenario_not_found">シナリオが見つかりません</string>
 
 	<!-- Credits -->
 	<string name="credits_title">Dawn of Man</string>
