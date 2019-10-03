@@ -22,7 +22,10 @@
 	
 	<string name="milestone_winter_hunt">ウィンターハント</string>
 	<string name="milestone_winter_hunt_description">マンモス、ケブカサイとホラアナグマを狩る</string>
-	
+		
+	<string name="milestone_winter_hunt_v2">ウィンターハント</string>
+	<string name="milestone_winter_hunt_v2_description">マンモス、エラスモテリウムとジャコウウシをそれぞれ1体狩る</string>
+
 	<string name="milestone_winter_domestication">冬の家畜化</string>
 	<string name="milestone_winter_domestication_description">一度に10匹の羊を飼う</string>
 	
