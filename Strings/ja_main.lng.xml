@@ -201,7 +201,7 @@
 	<string name="click_to_unlock">左クリックでアンロック</string>
 	<string name="requires">条件</string>
 	<string name="required_for">次のものに必要</string>	
-	<string name="animal_helps_hunting">(1)s to help in hunting tasks</string>	
+	<string name="animal_helps_hunting">(1)が狩りを手伝う</string>	
 	<string name="already_unlocked">すでにアンロックされている</string>
 	<string name="charts">チャート</string>
 	<string name="stats">統計</string>
