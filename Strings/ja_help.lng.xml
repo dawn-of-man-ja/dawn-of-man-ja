@@ -257,9 +257,9 @@
 	
   <string name="help_burials_title">埋葬</string>
   <string name="help_burials_description">
-誰かが<b>死ぬ</b>とあなたの村の<b>士気</b>が下がります。
+誰かが(b)死ぬ(/b)とあなたの村の(b)士気(/b)が下がります。
 埋葬施設がある場合死者はそこに連れて行かれます。
-これは人々に死を嘆き、失われた<b>士気</b>の一部を回復する機会を与えます。
+これは人々に死を嘆き、失われた(b)士気(/b)の一部を回復する機会を与えます。
 施設の(b)容量は限られています(/b)が、時間が経つと死体が分解され、施設の容量は少しずつ回復します。
 	</string>	
 
@@ -364,7 +364,7 @@
 	<string name="help_buildable_category_funerary_description">
 死者を埋めるための施設。
 誰かが死ぬと、近くの埋葬施設に連れて行かれそこで弔われます。
-これにより、人々は<b>士気を取り戻す</b>ことができます。
+これにより、人々は(b)士気を取り戻す(/b)ことができます。
 それぞれの埋葬施設の容量には上限があります。
 一度満杯になるとそれ以上使うことはできませんが、時間の経過により、死体が分解され、容量は少しずつ回復します。
 	</string>	
@@ -648,7 +648,7 @@
 
 	<string name="skull_pole_short_description">亡くなった先祖を追悼する施設</string>
  	<string name="skull_pole_help_description"> 
-<b>士気</b>を回復するために人々が訪れる、亡くなった先祖を追悼する施設です。
+(b)士気(/b)を回復するために人々が訪れる、亡くなった先祖を追悼する施設です。
 	</string> 
 	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
