@@ -338,7 +338,7 @@
 
 	<string name="sfx_volume">効果音</string>
 	<string name="music_volume">BGM</string>
- 	<string name="ui_volume">UI Sound Volume</string> 
+ 	<string name="ui_volume">UIの音</string> 
 
 	<string name="camera_rotation_mode">カメラの回転</string>
 	<string name="camera_rotation_turn">回転</string>
