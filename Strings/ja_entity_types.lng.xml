@@ -59,6 +59,7 @@
 	<string name="structure_roundhouse">円形住居</string>
 	<string name="structure_warehouse">倉庫</string>
 	<string name="structure_granary">食糧貯蔵庫</string>
+	<string name="structure_staddle_granary">石の台の食料貯蔵庫</string> 
 	<string name="structure_flint_mine">火打ち石鉱山</string>
 	<string name="structure_copper_mine">銅鉱山</string>
 	<string name="structure_tin_mine">錫鉱山</string>
@@ -72,8 +73,10 @@
 	<string name="structure_bloomery">塊鉄炉</string>
 	<string name="structure_totem">トーテム</string>
 	<string name="structure_skull_pole">頭蓋骨のポール</string>
+	<string name="structure_burial_mound">円墳</string>
 	<string name="structure_banner">旗</string> 
 	<string name="structure_stables">厩舎</string>
+ 	<string name="structure_stone_stables">医師の厩舎</string> 
 	<string name="structure_weaver">織工</string>
 	<string name="structure_outfitter">仕立て屋</string><!--TODO-->
 	<string name="structure_well">井戸</string>
@@ -188,6 +191,7 @@
 	<string name="tech_composite_tools">複合道具</string>
 	<string name="tech_thatching">屋根ふき</string>
 	<string name="tech_masonry">石材</string>
+	<string name="tech_staddle_stones">石の台</string> 
 	<string name="tech_bone_polishing">骨の研磨</string> 
 	<string name="tech_stone_polishing">石の研磨</string>
 	<string name="tech_copper_smelting">銅の製錬</string>
@@ -220,6 +224,7 @@
 	<string name="tech_sledgemaking">そりの制作</string>
 	<string name="tech_stilting">支柱</string>
 	<string name="tech_wheel">車輪</string>
+ 	<string name="tech_funerary_rituals">埋葬</string> 
 	<string name="tech_spirituality">信仰</string>
 	<string name="tech_megalithism">巨石信仰</string>
 	<string name="tech_brewing">醸造</string>

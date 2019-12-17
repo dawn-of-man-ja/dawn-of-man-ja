@@ -243,7 +243,7 @@
 あなたの村がどれほどよく知られているかをあらわしています。
 (b)人口(/b)、(b)建造物(/b)、および(b)技術(/b)に依存します。
 名声が高ければ(b)移民(/b)と(b)商人(/b)が村に来る頻繁が上がります。
-あなたの居住地の(b)名声(/b)を増やす良い方法は、(b)巨石建造物(/b)を建築することです。
+あなたの村の(b)名声(/b)を増やす良い方法は、(b)巨石建造物(/b)を建築することです。
 	</string>		
 
 	<!-- Conditions here refers to diseases or infections-->
@@ -255,6 +255,14 @@
 生存の可能性は一部ランダムで、個人の健康状態に基づきます。
 	</string>
 	
+  <string name="help_burials_title">埋葬</string>
+  <string name="help_burials_description">
+誰かが<b>死ぬ</b>とあなたの村の<b>士気</b>が下がります。
+埋葬施設がある場合死者はそこに連れて行かれます。
+これは人々に死を嘆き、失われた<b>士気</b>の一部を回復する機会を与えます。
+施設の(b)容量は限られています(/b)が、時間が経つと死体が分解され、施設の容量は少しずつ回復します。
+	</string>	
+
 	<string name="help_controls_title">操作</string>	
 	<string name="help_controls_description">
 (b)カメラ(/b)
@@ -353,7 +361,14 @@
 人々の(b)士気(/b)を回復させる施設です。
 (b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問します。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要です。
 	</string>
-	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
+	<string name="help_buildable_category_funerary_description">
+死者を埋めるための施設。
+誰かが死ぬと、近くの埋葬施設に連れて行かれそこで弔われます。
+これにより、人々は<b>士気を取り戻す</b>ことができます。
+それぞれの埋葬施設の容量には上限があります。
+一度満杯になるとそれ以上使うことはできませんが、時間の経過により、死体が分解され、容量は少しずつ回復します。
+	</string>	
+	<string name="help_buildable_category_transport_description">輸送効率を改善する道具。</string>
 	
   <!-- === Structures === -->
 
@@ -382,10 +397,16 @@
 	
 	<string name="stables_short_description">家畜を飼う場所</string>
 	<string name="stables_help_description">
-冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための施設です。
-定期的な修理が必要です。
+冬に(b)家畜(/b)が(b)雨風をしのぎ(/b)、給餌および給水をするための施設です。
+定期的なメンテナンスが必要です。
 	</string>
 	
+	<string name="stone_stables_short_description">家畜を飼うための大きくて丈夫な場所</string>
+	<string name="stone_stables_help_description">
+冬に(b)家畜(/b)が(b)雨風をしのぎ(/b)、給餌および給水をするための施設です。
+定期的なメンテナンスが必要です。
+	</string>	
+
 	<!-- === Storage === -->
 	
 	<string name="storage_tent_short_description">基本的な貯蔵所</string>
@@ -420,6 +441,12 @@
 建築に(b)茅葺き(/b)の技術を必要とします。
 	</string>
 	
+	<string name="staddle_granary_short_description">食物を保存するためのより大きくて耐久性のある施設</string>
+	<string name="staddle_granary_help_description">
+高床式倉庫は、食物を乾いた状態に保ち、できるだけ長く保存するために作られました。
+(b)食糧貯蔵庫(/b)よりも耐久性があり、より多くの食物を保存できます。
+構築するには、(b)石の台(/b)の技術が必要です。
+	</string>	
 	<string name="rock_pile_short_description">火打ち石、石、鉱石を保管する場所</string>
 	<string name="rock_pile_help_description">
 貴重なスペースを無駄にしないよう住居や他の貯蔵庫を使用するのではなくこちらを使用するのが良い選択です。
@@ -469,7 +496,7 @@
 
 	<string name="well_short_description">水を汲み出すための地面に掘った穴</string>
 	<string name="well_help_description">
-井戸は(b)水(/b)の安定した供給源を居住地に提供し、人々が最寄りの川や湖に行かなくても済むように村の壁の中に置くことができます。
+井戸は(b)水(/b)の安定した供給源となり、人々が最寄りの川や湖に行かなくても済むように村の壁の中に置くことができます。
 	</string>
 	
 	<string name="flint_mine_short_description">火打ち石の採掘量をを増加させるための地下施設</string>
@@ -614,11 +641,15 @@
 	
 	<!-- === Spiritual === -->
 
-	<string name="skull_pole_short_description">死者を覚えておくための施設</string>
-	<string name="skull_pole_help_description">
-(b)士気(/b)を回復するために人々が訪れる死者を覚えておくための施設です。
-	</string>
+	<string name="burial_mound_short_description">死者を埋葬する場所</string>
+	<string name="burial_mound_help_description">
+死者を埋葬する小さな墓です。
+	</string>	
 
+	<string name="skull_pole_short_description">亡くなった先祖を追悼する施設</string>
+ 	<string name="skull_pole_help_description"> 
+<b>士気</b>を回復するために人々が訪れる、亡くなった先祖を追悼する施設です。
+	</string> 
 	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
 村と自然との関係を象徴する大きな強力な象徴です。
@@ -631,10 +662,9 @@
 人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 
-	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな記念碑</string>
+	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな葬儀施設</string>
 	<string name="dolmen_help_description">
-いくつかの支柱と、その上に置かれた1つ以上の石からなる石造りの部屋です。 
-(b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
+いくつかの支柱と、その上に置かれたいくつかの石で構成される葬儀施設。(b)名声(/b)を増加させます。
 	</string>
 
 	<string name="stone_circle_short_description">円形に配置されたいくつかの巨石でできた建造物</string>
@@ -654,9 +684,9 @@
 集落の力の象徴。 人々はみずからの(b)士気(/b)を回復することができます。
 </string>		
 
-	<string name="cairn_short_description">複雑な巨石建造物</string>
+ 	<string name="cairn_short_description">巨石でできた葬儀施設</string> 
 	<string name="cairn_help_description">
-いくつかの巨石からなる複雑な巨石建造物。 (b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
+さまざまなサイズの岩で構築された葬儀施設。 これにより、村の(b)名声(/b)が大幅に増加します。
 	</string>	
 
 
@@ -1074,13 +1104,20 @@
 	<string name="spirituality_help_description">
 (b)トーテム(/b)の建設を行えるようになります。これは、村において士気を高く保つのに役立ちます。
 	</string> 	
- 
+
+ 	<string name="funerary_rituals_help_description">
+死者を埋葬することができる、(b)円墳(/b)の建設が行えるようになります。
+	</string> 	 
  <!-- === Mesolithic === -->
- 
+	
 	<string name="stone_polishing_help_description">
 (b)製作所(/b)で(b)研磨(/b)された石の道具の製造が行えるようになります。
 	</string> 
-	
+
+	<string name="bone_polishing_help_description">
+(b)製作所(/b)で(b)研磨(/b)された骨の道具の製造が行えるようになります。
+	</string> 	
+
 	<string name="pottery_help_description">
 (b)中石器時代(/b)に突入します。
 (b)輸送(/b)および(b)水の貯留(/b)を可能にします。
@@ -1237,8 +1274,12 @@
 (b)パン(/b)の生産を大幅にスピードアップすることができる(b)かまど(/b)の建築を可能にします。
 	</string>
 
+	<string name="staddle_stones_help_description">
+より多くの食物をより長く保存できる、(b)石の台の食料貯蔵庫(/b)の建設が可能になります。
+	</string> 
   <!-- === ANIMALS: categories === -->	
   
+
 	<string name="help_domestic_animals_description">
 家畜は村に(b)防御(/b)、(b)食糧(/b)、(b)資源(/b)、(b)力(/b)、など様々なものを提供します。
 (b)商人から購入する(/b)か(b)野生の若い個体を飼いならす(/b)ことによって、家畜を入手することができます。
