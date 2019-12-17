@@ -255,6 +255,13 @@ When a person has a condition it's health will decrease for a given amount of ti
 Survival chances are partly random and party based on how healthy the individual is.
 	</string>
 	
+	<string name="help_burials_title">Burials</string>
+  <string name="help_burials_description">
+When someone (b)dies(/b) the (b)morale(/b) of the people in your settlement (b)goes down(/b).
+If there are any (b)burial structures(/b) available, your dead will be taken there. This will give your people a chance to (b)mourn(/b) them and (b)recover(/b) some of the lost (b)morale(/b).
+Funerary structures have a (b)limited capacity(/b), when the structure is full no more people can be buried in it. Over time bodies decompose and the burial capacity of the structure is slowly restored.
+	</string>	
+	
 	<string name="help_controls_title">Controls</string>	
 	<string name="help_controls_description">
 (b)CAMERA(/b)
@@ -353,6 +360,11 @@ Transports allow people to (b)carry resources(/b) much faster than they would ot
 Structures that improve your people's (b)Morale(/b).
 When low on (b)Morale(/b), your people will visit a spiritual structure in order to recover it. Note that a person can not use the same type of structure too often, so it is important to build variety of these.
 	</string>
+	<string name="help_buildable_category_funerary_description">
+Structures where you can (b)bury your dead(/b).
+When someone dies, they will get taken to the nearest burial structure, where they can be mourned. This will allow your people to (b)recover morale(/b).
+Each funerary structure has (b)limited capacity(/b), once it's full it can't be used anymore, but as bodies slowly decompose, the structure capacity (b)replenishes(/b) and you can bury people in it again. 
+	</string>	
 	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
 	
   <!-- === Structures === -->
@@ -386,6 +398,12 @@ A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and w
 It needs periodic maintenance.
 	</string>
 	
+	<string name="stone_stables_short_description">A larger and more durable place to keep domestic animals</string>
+	<string name="stone_stables_help_description">
+A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and watered.
+It needs periodic maintenance.
+	</string>	
+	
 	<!-- === Storage === -->
 	
 	<string name="storage_tent_short_description">A basic storage structure</string>
@@ -418,6 +436,13 @@ A raised hut, purpose built to keep food dry and preserved for (b)as long as pos
 Granaries are reasonably durable, but they need repairing from time to time.
 Requires the (b)Thatching(/b) tech in order to be built.
 	</string>
+	
+	<string name="staddle_granary_short_description">A larger and more durable structure to preserve food</string>
+	<string name="staddle_granary_help_description">
+A raised structure, built to keep food dry and preserved for (b)as long as possible(/b).  
+It's more durable than a (b)Granary(/b) and can store more food.
+Requires the (b)Staddle Stones(/b) tech in order to be built.
+	</string>	
 	
 	<string name="rock_pile_short_description">A place to store Flint, Stone or Ores</string>
 	<string name="rock_pile_help_description">
@@ -609,9 +634,14 @@ Guard Towers require periodic repairs and maintenance.
 	
 	<!-- === Spiritual === -->
 
-	<string name="skull_pole_short_description">A structure in memory of the dead</string>
+	<string name="burial_mound_short_description">A place to bury your dead</string>
+	<string name="burial_mound_help_description">
+A small tomb where to (b)bury your dead(/b).
+	</string>	
+	
+	<string name="skull_pole_short_description">A structure in memory of the fallen ancestors</string>
 	<string name="skull_pole_help_description">
-A structure in memory of the dead that your people can visit in order to recover (b)Morale(/b).
+A structure in memory of the fallen ancestors, that your people can visit in order to recover (b)Morale(/b).
 	</string>
 
 	<string name="totem_short_description">A structure to honor nature</string>
@@ -624,9 +654,9 @@ A tall, powerful symbol of both the tribe itself and its relation with nature. Y
 A large standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b).
 	</string>
 
-	<string name="dolmen_short_description">A large monument made of several stones supporting a bigger rock</string>
+	<string name="dolmen_short_description">A large funerary structure made of several stones supporting a bigger rock</string>
 	<string name="dolmen_help_description">
-A stone chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b) and boosts people's (b)Morale(/b).
+A funerary chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b).
 	</string>
 
 	<string name="stone_circle_short_description">A structure made of several megaliths arranged in a circle</string>
@@ -644,9 +674,9 @@ A carved standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/
 A symbol of a settlement's power. Your people can use it to recover (b)Morale(/b).
 	</string>		
 	
-	<string name="cairn_short_description">A megalithic complex</string>
+	<string name="cairn_short_description">A megalithic funerary complex</string>
 	<string name="cairn_help_description">
-A megalithic complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
+A megalithic funerary complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b).
 	</string>	
 	
 	
@@ -1055,12 +1085,20 @@ Unlocks the (b)Tanner(/b), where you can produce (b)Leather(/b).
 	<string name="spirituality_help_description">
 Unlocks the construction of the (b)Totem(/b) structure, which helps with keeping morale high in the settlement.
 	</string> 	
+	
+	<string name="funerary_rituals_help_description">
+Unlocks the construction of the (b)Burial Mound(/b) structure, where you can bury your dead.
+	</string> 		
  
  <!-- === Mesolithic === -->
  
 	<string name="stone_polishing_help_description">
 Unlocks (b)polished(/b) stone tools in the (b)Crafter(/b).
 	</string> 
+	
+	<string name="bone_polishing_help_description">
+Unlocks (b)polished(/b) bone tools in the (b)Crafter(/b).
+	</string> 	
 	
 	<string name="pottery_help_description">
 Unlocks the (b)Mesolithic(/b) era, and also the ability to (b)transport(/b) and (b)store Water(/b). 
@@ -1213,6 +1251,10 @@ Unlocks the construction of (b)Watermills(/b), which can greatly speed up the pr
 	<string name="baking_help_description">
 Unlocks the construction of (b)Ovens(/b), which can greatly speed up the production of (b)Bread(/b).
 	</string>
+	
+	<string name="staddle_stones_help_description">
+Unlocks the construction of the (b)Staddle Granary(/b) structure, where you can store more food for longer.
+	</string> 		
 
   <!-- === ANIMALS: categories === -->	
   

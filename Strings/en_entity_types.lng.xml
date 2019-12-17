@@ -59,6 +59,7 @@
 	<string name="structure_roundhouse">Roundhouse</string>
 	<string name="structure_warehouse">Warehouse</string>
 	<string name="structure_granary">Granary</string>
+	<string name="structure_staddle_granary">Staddle Granary</string>
 	<string name="structure_flint_mine">Flint Mine</string>
 	<string name="structure_copper_mine">Copper Mine</string>
 	<string name="structure_tin_mine">Tin Mine</string>
@@ -72,8 +73,10 @@
 	<string name="structure_bloomery">Bloomery</string>
 	<string name="structure_totem">Totem</string>
 	<string name="structure_skull_pole">Skull Pole</string>
+	<string name="structure_burial_mound">Burial Mound</string>
 	<string name="structure_banner">Banner</string>
 	<string name="structure_stables">Stables</string>
+	<string name="structure_stone_stables">Stone Stables</string>
 	<string name="structure_weaver">Weaver</string>
 	<string name="structure_outfitter">Outfitter</string>
 	<string name="structure_well">Well</string>
@@ -188,6 +191,7 @@
 	<string name="tech_composite_tools">Composite Tools</string>
 	<string name="tech_thatching">Thatching</string>
 	<string name="tech_masonry">Masonry</string>
+	<string name="tech_staddle_stones">Staddle Stones</string>
 	<string name="tech_bone_polishing">Bone Polishing</string>
 	<string name="tech_stone_polishing">Stone Polishing</string>
 	<string name="tech_copper_smelting">Copper Smelting</string>
@@ -220,6 +224,7 @@
 	<string name="tech_sledgemaking">Sledgemaking</string>
 	<string name="tech_stilting">Stilting</string>
 	<string name="tech_wheel">The Wheel</string>
+	<string name="tech_funerary_rituals">Funerary Rituals</string>
 	<string name="tech_spirituality">Spirituality</string>
 	<string name="tech_megalithism">Megalithism</string>
 	<string name="tech_brewing">Brewing</string>

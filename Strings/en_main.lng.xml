@@ -26,10 +26,11 @@
 	<string name="action_progress">Action Progress</string>
 	<string name="recycle_progress">Recycle Progress</string>
 	<string name="pending_construction_materials">Pending Materials</string>
+	<string name="burial_capacity">Body capacity left: (1)</string>
 	
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
-You are about enter the (b)Metal Age(/b).
+You are about to enter the (b)Metal Age(/b).
 
 It is highly recommended that you (b)fortify(/b) your (b)settlement(/b) and have enough people and weapons to defend from raiders.
 
@@ -155,7 +156,11 @@ so you can choose your own location to settle.
 	<!-- Temperatures, leave as is -->
 	<string name="celsius">°C</string>
 	<string name="fahrenheit">°F</string>
-
+	<string name="environment_temperature_warm">Warm</string>
+	<string name="environment_temperature_moderate">Moderate</string>
+	<string name="environment_temperature_cold">Cold</string>
+	<string name="environment_temperature_freezing">Freezing</string>
+	
 	<!-- Eras -->
 	<string name="era">Era</string>
 	<string name="era_paleolithic">Paleolithic</string>
@@ -321,6 +326,7 @@ Do you want to play the tutorial now?
 	
 	<!-- Settings -->
 	<string name="resolution">Resolution</string>
+	<string name="fullscreen">Fullscreen</string>
 
 	<string name="quality">Quality</string>
 	<string name="quality_level_low">Low</string>
@@ -338,11 +344,13 @@ Do you want to play the tutorial now?
 
 	<string name="sfx_volume">SFX Volume</string>
 	<string name="music_volume">Music Volume</string>
+	<string name="ui_volume">UI Sound Volume</string>
 	
 	<string name="camera_rotation_mode">Camera Rotation</string>
 	<string name="camera_rotation_turn">Turn</string>
 	<string name="camera_rotation_orbit">Orbit</string>
-
+	<string name="edge_scrolling">Edge Scrolling</string>
+	
 	<!-- Ages and Genders-->
 	<string name="gender_male">Male</string>
 	<string name="gender_female">Female</string>		
@@ -554,6 +562,7 @@ Do you want to play the tutorial now?
 	<string name="buildable_category_defensive">Defensive</string>
 	<string name="buildable_category_metallurgy">Metallurgy</string>
 	<string name="buildable_category_spiritual">Spiritual</string>
+	<string name="buildable_category_funerary">Funerary</string>
 	<string name="buildable_category_transport">Transport</string>
 
 	<!-- Work areas -->
@@ -630,9 +639,16 @@ Do you want to play the tutorial now?
 
 	<!-- Tooltips -->
 	<string name="tooltip_population">Population: (1)(n)Capacity: (2)</string>
+	<string name="tooltip_population_no_space">(b)No space for more people.(/b)(n)No migrants will come to the settlement(n)and no births will take place.</string>
+	<string name="tooltip_population_space">(b)Space for (1) more people.(/b)(n)Your population can expand further(n)through new births or migrants.</string>
+	<string name="tooltip_workload_balanced">Workload is (b)Balanced(/b) ((1))(n)Your people should quickly complete all tasks.</string>
+	<string name="tooltip_workload_high">Workload is (b)High(/b) ((1))(n)Your people might take a bit longer to complete tasks.</string>
+	<string name="tooltip_workload_very_high">Workload is (b)Very High(/b) ((1))(n)Your people might not complete or correctly prioritize tasks.</string>	
 	<string name="tooltip_fireplace">Raw food can be cooked and eaten here, also provides heat</string>
 	<string name="tooltip_status_prestige">Prestige: (1)</string>
+	<string name="tooltip_burial_capacity">Max bodies than can be buried here: (1)</string>
 	<string name="tooltip_status_morale">Morale Recovery: (1)</string>
+	<string name="tooltip_max_simultaneous_users">Max simultaneous users: (1)</string>
 	<string name="tooltip_status_capacity">This structure can house (1) people</string>
 	<string name="tooltip_low_stats">This human has low stats, they will perform tasks at reduced efficiency</string>
 	<string name="tooltip_durability">Resources will last (1) times longer when stored in this structure</string>
@@ -687,7 +703,6 @@ Do you want to play the tutorial now?
 	<string name="tooltip_techs_unlockable">New techs can be unlocked</string>
 	<string name="tooltip_total_population">Total population</string>
 	<string name="tooltip_housing">Total housing.(n)For new people to come to the settlement, you need to have capacity for them.</string>
-	<string name="tooltip_no_housing">No space for more people,(n)your population will not expand further.</string>
 	<string name="tooltip_animal_count">Animals</string>
 	<string name="tooltip_sheltering_animals">Animals that need shelter</string>
 	<string name="tooltip_animal_capacity">Total shelter space</string>
@@ -700,14 +715,14 @@ Do you want to play the tutorial now?
 	<string name="tooltip_available_soon">Available Soon</string>
 	<string name="tooltip_requires_milestones">You have to unlock (1) Milestones to play this scenario.(n)Earn milestones by playing freeplay scenarios.</string>
 	<string name="tooltip_requires_milestones_short">Requires (1) Milestones</string>
-	<string name="tooltip_workload">The ratio between the number of tasks and the number of people in your settlement. Try to keep it below 150%. </string>
+	<string name="tooltip_workload">The (b)ratio(/b) between the number of (b)tasks(/b) and (b)people(/b) in your settlement.(n)Try to keep it (b)below 150%(/b), otherwise tasks might not be prioritized correctly.</string>
 	<string name="tooltip_retaliates">This animal might retaliate when attacked.</string>
 	<string name="tooltip_draught">This animal can be used to pull carts.</string>
 	<string name="tooltip_predator">This animal might attack humans.</string>
 	<string name="tooltip_requires_shelter">This animal needs to be sheltered in winter.</string>
 	<string name="tooltip_knowledge_earned">You will earn (1) knowledge points when hunting this animal</string>
 	<string name="tooltip_storage_restrictions">(1) allowed in this store</string>
-
+	
 	<!-- Toasts -->
 	<string name="toast_screenshot_taken">Screenshot taken</string>
 	<string name="toast_game_saved">Game saved</string>
