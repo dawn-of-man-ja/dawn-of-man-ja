@@ -255,6 +255,13 @@
 生存の可能性は一部ランダムで、個人の健康状態に基づきます。
 	</string>
 	
+  <string name="help_burials_title">Burials</string>
+  <string name="help_burials_description">
+When someone (b)dies(/b) the (b)morale(/b) of the people in your settlement (b)goes down(/b).
+If there are any (b)burial structures(/b) available, your dead will be taken there. This will give your people a chance to (b)mourn(/b) them and (b)recover(/b) some of the lost (b)morale(/b).
+Funerary structures have a (b)limited capacity(/b), when the structure is full no more people can be buried in it. Over time bodies decompose and the burial capacity of the structure is slowly restored.
+	</string>	
+
 	<string name="help_controls_title">操作</string>	
 	<string name="help_controls_description">
 (b)カメラ(/b)
@@ -353,6 +360,11 @@
 人々の(b)士気(/b)を回復させる施設です。
 (b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問します。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要です。
 	</string>
+	<string name="help_buildable_category_funerary_description">
+Structures where you can (b)bury your dead(/b).
+When someone dies, they will get taken to the nearest burial structure, where they can be mourned. This will allow your people to (b)recover morale(/b).
+Each funerary structure has (b)limited capacity(/b), once it's full it can't be used anymore, but as bodies slowly decompose, the structure capacity (b)replenishes(/b) and you can bury people in it again. 
+	</string>	
 	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
 	
   <!-- === Structures === -->
@@ -386,6 +398,12 @@
 定期的な修理が必要です。
 	</string>
 	
+	<string name="stone_stables_short_description">A larger and more durable place to keep domestic animals</string>
+	<string name="stone_stables_help_description">
+A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and watered.
+It needs periodic maintenance.
+	</string>	
+
 	<!-- === Storage === -->
 	
 	<string name="storage_tent_short_description">基本的な貯蔵所</string>
@@ -420,6 +438,12 @@
 建築に(b)茅葺き(/b)の技術を必要とします。
 	</string>
 	
+	<string name="staddle_granary_short_description">A larger and more durable structure to preserve food</string>
+	<string name="staddle_granary_help_description">
+A raised structure, built to keep food dry and preserved for (b)as long as possible(/b).  
+It's more durable than a (b)Granary(/b) and can store more food.
+Requires the (b)Staddle Stones(/b) tech in order to be built.
+	</string>	
 	<string name="rock_pile_short_description">火打ち石、石、鉱石を保管する場所</string>
 	<string name="rock_pile_help_description">
 貴重なスペースを無駄にしないよう住居や他の貯蔵庫を使用するのではなくこちらを使用するのが良い選択です。
@@ -614,11 +638,15 @@
 	
 	<!-- === Spiritual === -->
 
-	<string name="skull_pole_short_description">死者を覚えておくための施設</string>
-	<string name="skull_pole_help_description">
-(b)士気(/b)を回復するために人々が訪れる死者を覚えておくための施設です。
-	</string>
+	<string name="burial_mound_short_description">A place to bury your dead</string>
+	<string name="burial_mound_help_description">
+A small tomb where to (b)bury your dead(/b).
+	</string>	
 
+	<string name="skull_pole_short_description">A structure in memory of the fallen ancestors</string>
+ 	<string name="skull_pole_help_description"> 
+A structure in memory of the fallen ancestors, that your people can visit in order to recover (b)Morale(/b).
+	</string> 
 	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
 村と自然との関係を象徴する大きな強力な象徴です。
@@ -631,10 +659,9 @@
 人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 
-	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな記念碑</string>
+	<string name="dolmen_short_description">A large funerary structure made of several stones supporting a bigger rock</string>
 	<string name="dolmen_help_description">
-いくつかの支柱と、その上に置かれた1つ以上の石からなる石造りの部屋です。 
-(b)名声(/b)を高め、人々の(b)士気(/b)を高めることができます。
+A funerary chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b). 
 	</string>
 
 	<string name="stone_circle_short_description">円形に配置されたいくつかの巨石でできた建造物</string>
@@ -654,9 +681,9 @@
 集落の力の象徴。 人々はみずからの(b)士気(/b)を回復することができます。
 </string>		
 
-	<string name="cairn_short_description">複雑な巨石建造物</string>
+ 	<string name="cairn_short_description">A megalithic funerary complex</string> 
 	<string name="cairn_help_description">
-いくつかの巨石からなる複雑な巨石建造物。 (b)名声(/b)を大きく増加させ、人々の(b)士気(/b)を後押しします。
+ A megalithic funerary complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b). 
 	</string>	
 
 
@@ -1074,13 +1101,20 @@
 	<string name="spirituality_help_description">
 (b)トーテム(/b)の建設を行えるようになります。これは、村において士気を高く保つのに役立ちます。
 	</string> 	
- 
+
+ 	<string name="funerary_rituals_help_description">
+Unlocks the construction of the (b)Burial Mound(/b) structure, where you can bury your dead.
+	</string> 	 
  <!-- === Mesolithic === -->
- 
+	
 	<string name="stone_polishing_help_description">
 (b)製作所(/b)で(b)研磨(/b)された石の道具の製造が行えるようになります。
 	</string> 
-	
+
+	<string name="bone_polishing_help_description">
+Unlocks (b)polished(/b) bone tools in the (b)Crafter(/b).
+	</string> 	
+
 	<string name="pottery_help_description">
 (b)中石器時代(/b)に突入します。
 (b)輸送(/b)および(b)水の貯留(/b)を可能にします。
@@ -1236,9 +1270,13 @@
 	<string name="baking_help_description">
 (b)パン(/b)の生産を大幅にスピードアップすることができる(b)かまど(/b)の建築を可能にします。
 	</string>
-
+	
+	<string name="staddle_stones_help_description">
+Unlocks the construction of the (b)Staddle Granary(/b) structure, where you can store more food for longer.
+	</string> 
   <!-- === ANIMALS: categories === -->	
   
+
 	<string name="help_domestic_animals_description">
 家畜は村に(b)防御(/b)、(b)食糧(/b)、(b)資源(/b)、(b)力(/b)、など様々なものを提供します。
 (b)商人から購入する(/b)か(b)野生の若い個体を飼いならす(/b)ことによって、家畜を入手することができます。

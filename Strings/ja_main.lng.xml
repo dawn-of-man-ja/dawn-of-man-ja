@@ -26,7 +26,8 @@
 	<string name="action_progress">行動の進行状況</string>
 	<string name="recycle_progress">解体の進行状況</string>
 	<string name="pending_construction_materials">資源を待機</string>
-	
+	<string name="burial_capacity">Body capacity left: (1)</string> 
+
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
 (b)金属時代(/b)に入ろうとしています。
@@ -150,7 +151,10 @@
 	<!-- Temperatures, leave as is -->
 	<string name="celsius">°C</string>
 	<string name="fahrenheit">°F</string>
-
+	<string name="environment_temperature_warm">Warm</string>
+	<string name="environment_temperature_moderate">Moderate</string>
+	<string name="environment_temperature_cold">Cold</string>
+	<string name="environment_temperature_freezing">Freezing</string>
 	<!-- Eras -->
 	<string name="era">時代</string>
 	<string name="era_paleolithic">旧石器時代</string>
@@ -316,6 +320,7 @@
 	
 	<!-- Settings -->
 	<string name="resolution">解像度</string>
+ 	<string name="fullscreen">Fullscreen</string> 
 
 	<string name="quality">描画品質</string>
 	<string name="quality_level_low">低</string>
@@ -333,10 +338,12 @@
 
 	<string name="sfx_volume">効果音</string>
 	<string name="music_volume">BGM</string>
+ 	<string name="ui_volume">UI Sound Volume</string> 
 
 	<string name="camera_rotation_mode">カメラの回転</string>
 	<string name="camera_rotation_turn">回転</string>
 	<string name="camera_rotation_orbit">周回</string>
+ 	<string name="edge_scrolling">Edge Scrolling</string> 
 
 	<!-- Ages and Genders-->
 	<string name="gender_male">男</string>
@@ -550,6 +557,7 @@
 	<string name="buildable_category_metallurgy">冶金</string>
 	<string name="buildable_category_spiritual">信仰</string>
 	<string name="buildable_category_transport">輸送</string>
+ 	<string name="buildable_category_funerary">Funerary</string> 
 
 	<!-- Work areas -->
 	<string name="work_area">作業領域</string>
@@ -625,9 +633,16 @@
 	
 	<!-- Tooltips -->
 	<string name="tooltip_population">人口: (1)(n)上限: (2)</string>
+	<string name="tooltip_population_no_space">(b)No space for more people.(/b)(n)No migrants will come to the settlement(n)and no births will take place.</string>
+	<string name="tooltip_population_space">(b)Space for (1) more people.(/b)(n)Your population can expand further(n)through new births or migrants.</string>
+	<string name="tooltip_workload_balanced">Workload is (b)Balanced(/b) ((1))(n)Your people should quickly complete all tasks.</string>
+	<string name="tooltip_workload_high">Workload is (b)High(/b) ((1))(n)Your people might take a bit longer to complete tasks.</string>
+	<string name="tooltip_workload_very_high">Workload is (b)Very High(/b) ((1))(n)Your people might not complete or correctly prioritize tasks.</string>	
 	<string name="tooltip_fireplace">生の食品はここで調理して食べることができる。(n)熱を提供する。</string>
 	<string name="tooltip_status_prestige">名声: (1)</string>
+	<string name="tooltip_burial_capacity">Max bodies than can be buried here: (1)</string> 
 	<string name="tooltip_status_morale">士気回復: (1)</string>
+	<string name="tooltip_max_simultaneous_users">Max simultaneous users: (1)</string> 
 	<string name="tooltip_status_capacity">この家には(1)人が住める</string>
 	<string name="tooltip_low_stats">状態が良くないためタスクを処理する効率が下がる</string>
 	<string name="tooltip_durability">この建物に格納すると(1)年程度長く使える</string>
@@ -659,7 +674,7 @@
 	<string name="tooltip_animal_limit_percentage">数の制限: (1),人口の(2)%に設定(n)制限を超える動物は自動的に屠殺される</string>
 	<string name="tooltip_animal_limit_infinity">数の制限: (1), 無制限(n)とても年をとった動物のみが屠殺される</string>
 	<string name="tooltip_work_area_max_people">この領域で働ける最大人数</string>
-	 	<string name="tooltip_work_area_max_tasks">この領域での同時に行われるタスクの最大数</string> 
+	<string name="tooltip_work_area_max_tasks">この領域での同時に行われるタスクの最大数</string> 
 	<string name="tooltip_task">右クリックでタスクをキャンセル</string>
 	<string name="tooltip_performer">左クリックでフォーカス</string>
 	<string name="tooltip_welfare">福祉:(1)(n)あなたの村がどれだけうまく行っているかを表す。(n)人々の状態、衣服、食糧余剰にも依存する。(n)移住者の到着頻度と出生率に影響を与える。</string>
@@ -695,8 +710,7 @@
 	<string name="tooltip_available_soon">Available Soon</string>
 	<string name="tooltip_requires_milestones">このシナリオをプレイするには、(1)マイルストーンのロックを解除する必要がある。(n)フリープレイのシナリオをプレイすることで、マイルストーンを獲得できる。</string>
 	<string name="tooltip_requires_milestones_short">(1)マイルストーンが必要</string>
-	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨</string>
-	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
+	<string name="tooltip_workload">The (b)ratio(/b) between the number of (b)tasks(/b) and (b)people(/b) in your settlement.(n)Try to keep it (b)below 150%(/b), otherwise tasks might not be prioritized correctly.</string>	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
 	<string name="tooltip_draught">この動物は荷車を引くのに使うことができる</string>
 	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
 	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります。</string>
