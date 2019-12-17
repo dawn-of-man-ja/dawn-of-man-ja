@@ -243,7 +243,7 @@
 あなたの村がどれほどよく知られているかをあらわしています。
 (b)人口(/b)、(b)建造物(/b)、および(b)技術(/b)に依存します。
 名声が高ければ(b)移民(/b)と(b)商人(/b)が村に来る頻繁が上がります。
-あなたの居住地の(b)名声(/b)を増やす良い方法は、(b)巨石建造物(/b)を建築することです。
+あなたの村の(b)名声(/b)を増やす良い方法は、(b)巨石建造物(/b)を建築することです。
 	</string>		
 
 	<!-- Conditions here refers to diseases or infections-->
@@ -255,11 +255,12 @@
 生存の可能性は一部ランダムで、個人の健康状態に基づきます。
 	</string>
 	
-  <string name="help_burials_title">Burials</string>
+  <string name="help_burials_title">埋葬</string>
   <string name="help_burials_description">
-When someone (b)dies(/b) the (b)morale(/b) of the people in your settlement (b)goes down(/b).
-If there are any (b)burial structures(/b) available, your dead will be taken there. This will give your people a chance to (b)mourn(/b) them and (b)recover(/b) some of the lost (b)morale(/b).
-Funerary structures have a (b)limited capacity(/b), when the structure is full no more people can be buried in it. Over time bodies decompose and the burial capacity of the structure is slowly restored.
+誰かが<b>死ぬ</b>とあなたの村の<b>士気</b>が下がります。
+埋葬施設がある場合死者はそこに連れて行かれます。
+これは人々に死を嘆き、失われた<b>士気</b>の一部を回復する機会を与えます。
+施設の(b)容量は限られています(/b)が、時間が経つと死体が分解され、施設の容量は少しずつ回復します。
 	</string>	
 
 	<string name="help_controls_title">操作</string>	
@@ -361,11 +362,13 @@ Funerary structures have a (b)limited capacity(/b), when the structure is full n
 (b)士気(/b)が低いとき、人々はそれを回復するためにこの施設を訪問します。 同じ種類の施設を頻繁に使用することはできないので、様々な種類のものを建てることが重要です。
 	</string>
 	<string name="help_buildable_category_funerary_description">
-Structures where you can (b)bury your dead(/b).
-When someone dies, they will get taken to the nearest burial structure, where they can be mourned. This will allow your people to (b)recover morale(/b).
-Each funerary structure has (b)limited capacity(/b), once it's full it can't be used anymore, but as bodies slowly decompose, the structure capacity (b)replenishes(/b) and you can bury people in it again. 
+死者を埋めるための施設。
+誰かが死ぬと、近くの埋葬施設に連れて行かれそこで弔われます。
+これにより、人々は<b>士気を取り戻す</b>ことができます。
+それぞれの埋葬施設の容量には上限があります。
+一度満杯になるとそれ以上使うことはできませんが、時間の経過により、死体が分解され、容量は少しずつ回復します。
 	</string>	
-	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
+	<string name="help_buildable_category_transport_description">輸送効率を改善する道具。</string>
 	
   <!-- === Structures === -->
 
@@ -394,14 +397,14 @@ Each funerary structure has (b)limited capacity(/b), once it's full it can't be 
 	
 	<string name="stables_short_description">家畜を飼う場所</string>
 	<string name="stables_help_description">
-冬に(b)家畜(/b)のための(b)雨風をしのぎ(/b)を置き、給餌および給水をするための施設です。
-定期的な修理が必要です。
+冬に(b)家畜(/b)が(b)雨風をしのぎ(/b)、給餌および給水をするための施設です。
+定期的なメンテナンスが必要です。
 	</string>
 	
-	<string name="stone_stables_short_description">A larger and more durable place to keep domestic animals</string>
+	<string name="stone_stables_short_description">家畜を飼うための大きくて丈夫な場所</string>
 	<string name="stone_stables_help_description">
-A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and watered.
-It needs periodic maintenance.
+冬に(b)家畜(/b)が(b)雨風をしのぎ(/b)、給餌および給水をするための施設です。
+定期的なメンテナンスが必要です。
 	</string>	
 
 	<!-- === Storage === -->
@@ -438,11 +441,11 @@ It needs periodic maintenance.
 建築に(b)茅葺き(/b)の技術を必要とします。
 	</string>
 	
-	<string name="staddle_granary_short_description">A larger and more durable structure to preserve food</string>
+	<string name="staddle_granary_short_description">食物を保存するためのより大きくて耐久性のある施設</string>
 	<string name="staddle_granary_help_description">
-A raised structure, built to keep food dry and preserved for (b)as long as possible(/b).  
-It's more durable than a (b)Granary(/b) and can store more food.
-Requires the (b)Staddle Stones(/b) tech in order to be built.
+高床式倉庫は、食物を乾いた状態に保ち、できるだけ長く保存するために作られました。
+(b)食糧貯蔵庫(/b)よりも耐久性があり、より多くの食物を保存できます。
+構築するには、(b)石の台(/b)の技術が必要です。
 	</string>	
 	<string name="rock_pile_short_description">火打ち石、石、鉱石を保管する場所</string>
 	<string name="rock_pile_help_description">
@@ -493,7 +496,7 @@ Requires the (b)Staddle Stones(/b) tech in order to be built.
 
 	<string name="well_short_description">水を汲み出すための地面に掘った穴</string>
 	<string name="well_help_description">
-井戸は(b)水(/b)の安定した供給源を居住地に提供し、人々が最寄りの川や湖に行かなくても済むように村の壁の中に置くことができます。
+井戸は(b)水(/b)の安定した供給源となり、人々が最寄りの川や湖に行かなくても済むように村の壁の中に置くことができます。
 	</string>
 	
 	<string name="flint_mine_short_description">火打ち石の採掘量をを増加させるための地下施設</string>
@@ -638,14 +641,14 @@ Requires the (b)Staddle Stones(/b) tech in order to be built.
 	
 	<!-- === Spiritual === -->
 
-	<string name="burial_mound_short_description">A place to bury your dead</string>
+	<string name="burial_mound_short_description">死者を埋葬する場所</string>
 	<string name="burial_mound_help_description">
-A small tomb where to (b)bury your dead(/b).
+死者を埋葬する小さな墓です。
 	</string>	
 
-	<string name="skull_pole_short_description">A structure in memory of the fallen ancestors</string>
+	<string name="skull_pole_short_description">亡くなった先祖を追悼する施設</string>
  	<string name="skull_pole_help_description"> 
-A structure in memory of the fallen ancestors, that your people can visit in order to recover (b)Morale(/b).
+<b>士気</b>を回復するために人々が訪れる、亡くなった先祖を追悼する施設です。
 	</string> 
 	<string name="totem_short_description">自然を崇拝するための施設</string>
 	<string name="totem_help_description">
@@ -659,9 +662,9 @@ A structure in memory of the fallen ancestors, that your people can visit in ord
 人々は(b)士気(/b)を回復するためにここを訪問することができます。
 	</string>
 
-	<string name="dolmen_short_description">A large funerary structure made of several stones supporting a bigger rock</string>
+	<string name="dolmen_short_description">大きな岩を支えるいくつかの石で作られた大きな葬儀施設</string>
 	<string name="dolmen_help_description">
-A funerary chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b). 
+いくつかの支柱と、その上に置かれたいくつかの石で構成される葬儀施設。(b)名声(/b)を増加させます。
 	</string>
 
 	<string name="stone_circle_short_description">円形に配置されたいくつかの巨石でできた建造物</string>
@@ -681,9 +684,9 @@ A funerary chamber consisting of several supporting pillars, and one or more sto
 集落の力の象徴。 人々はみずからの(b)士気(/b)を回復することができます。
 </string>		
 
- 	<string name="cairn_short_description">A megalithic funerary complex</string> 
+ 	<string name="cairn_short_description">巨石でできた葬儀施設</string> 
 	<string name="cairn_help_description">
- A megalithic funerary complex built with rocks of various sizes. It greatly increases your settlement's (b)prestige(/b). 
+さまざまなサイズの岩で構築された葬儀施設。 これにより、村の(b)名声(/b)が大幅に増加します。
 	</string>	
 
 
@@ -1103,7 +1106,7 @@ A funerary chamber consisting of several supporting pillars, and one or more sto
 	</string> 	
 
  	<string name="funerary_rituals_help_description">
-Unlocks the construction of the (b)Burial Mound(/b) structure, where you can bury your dead.
+死者を埋葬することができる、(b)円墳(/b)の建設が行えるようになります。
 	</string> 	 
  <!-- === Mesolithic === -->
 	
@@ -1112,7 +1115,7 @@ Unlocks the construction of the (b)Burial Mound(/b) structure, where you can bur
 	</string> 
 
 	<string name="bone_polishing_help_description">
-Unlocks (b)polished(/b) bone tools in the (b)Crafter(/b).
+(b)製作所(/b)で(b)研磨(/b)された骨の道具の製造が行えるようになります。
 	</string> 	
 
 	<string name="pottery_help_description">
@@ -1270,9 +1273,9 @@ Unlocks (b)polished(/b) bone tools in the (b)Crafter(/b).
 	<string name="baking_help_description">
 (b)パン(/b)の生産を大幅にスピードアップすることができる(b)かまど(/b)の建築を可能にします。
 	</string>
-	
+
 	<string name="staddle_stones_help_description">
-Unlocks the construction of the (b)Staddle Granary(/b) structure, where you can store more food for longer.
+より多くの食物をより長く保存できる、(b)石の台の食料貯蔵庫(/b)の建設が可能になります。
 	</string> 
   <!-- === ANIMALS: categories === -->	
   

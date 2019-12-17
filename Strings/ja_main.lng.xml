@@ -26,7 +26,7 @@
 	<string name="action_progress">行動の進行状況</string>
 	<string name="recycle_progress">解体の進行状況</string>
 	<string name="pending_construction_materials">資源を待機</string>
-	<string name="burial_capacity">Body capacity left: (1)</string> 
+	<string name="burial_capacity">残容量: (1)</string> 
 
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
@@ -151,10 +151,10 @@
 	<!-- Temperatures, leave as is -->
 	<string name="celsius">°C</string>
 	<string name="fahrenheit">°F</string>
-	<string name="environment_temperature_warm">Warm</string>
-	<string name="environment_temperature_moderate">Moderate</string>
-	<string name="environment_temperature_cold">Cold</string>
-	<string name="environment_temperature_freezing">Freezing</string>
+	<string name="environment_temperature_warm">暑い</string>
+	<string name="environment_temperature_moderate">快適</string>
+	<string name="environment_temperature_cold">寒い</string>
+	<string name="environment_temperature_freezing">凍える</string>
 	<!-- Eras -->
 	<string name="era">時代</string>
 	<string name="era_paleolithic">旧石器時代</string>
@@ -320,7 +320,7 @@
 	
 	<!-- Settings -->
 	<string name="resolution">解像度</string>
- 	<string name="fullscreen">Fullscreen</string> 
+ 	<string name="fullscreen">フルスクリーン</string> 
 
 	<string name="quality">描画品質</string>
 	<string name="quality_level_low">低</string>
@@ -343,7 +343,7 @@
 	<string name="camera_rotation_mode">カメラの回転</string>
 	<string name="camera_rotation_turn">回転</string>
 	<string name="camera_rotation_orbit">周回</string>
- 	<string name="edge_scrolling">Edge Scrolling</string> 
+ 	<string name="edge_scrolling">エッジスクロール</string> 
 
 	<!-- Ages and Genders-->
 	<string name="gender_male">男</string>
@@ -557,7 +557,7 @@
 	<string name="buildable_category_metallurgy">冶金</string>
 	<string name="buildable_category_spiritual">信仰</string>
 	<string name="buildable_category_transport">輸送</string>
- 	<string name="buildable_category_funerary">Funerary</string> 
+ 	<string name="buildable_category_funerary">埋葬</string> 
 
 	<!-- Work areas -->
 	<string name="work_area">作業領域</string>
@@ -633,16 +633,16 @@
 	
 	<!-- Tooltips -->
 	<string name="tooltip_population">人口: (1)(n)上限: (2)</string>
-	<string name="tooltip_population_no_space">(b)No space for more people.(/b)(n)No migrants will come to the settlement(n)and no births will take place.</string>
-	<string name="tooltip_population_space">(b)Space for (1) more people.(/b)(n)Your population can expand further(n)through new births or migrants.</string>
-	<string name="tooltip_workload_balanced">Workload is (b)Balanced(/b) ((1))(n)Your people should quickly complete all tasks.</string>
-	<string name="tooltip_workload_high">Workload is (b)High(/b) ((1))(n)Your people might take a bit longer to complete tasks.</string>
-	<string name="tooltip_workload_very_high">Workload is (b)Very High(/b) ((1))(n)Your people might not complete or correctly prioritize tasks.</string>	
-	<string name="tooltip_fireplace">生の食品はここで調理して食べることができる。(n)熱を提供する。</string>
+	<string name="tooltip_population_no_space">(b)これ以上人が住むこをができる場所がありません。(/b)(n)出産は行われず、移住者も来ません。</string>
+	<string name="tooltip_population_space">(b)あと(1)人分の住居(/b)(n)人口は、出生または移住を通してさらに増加します。</string>
+	<string name="tooltip_workload_balanced">作業負荷は(b)適切(/b)です。 ((1))(n)人々は作業を素早く完了させるでしょう。</string>
+	<string name="tooltip_workload_high">作業負荷は(b)高い(/b)です。 ((1))(n)人々が作業を完了させるのに少し時間がかかるかもしれません。</string>
+	<string name="tooltip_workload_very_high">作業負荷は(b)非常に高い(/b)です。 ((1))(n)人々は作業を完了させられず、また適切に優先順位を付けられないかもしれません。</string>	
+	<string name="tooltip_fireplace">生の食品はここで調理して食べることができる。(n)暖を提供する。</string>
 	<string name="tooltip_status_prestige">名声: (1)</string>
-	<string name="tooltip_burial_capacity">Max bodies than can be buried here: (1)</string> 
+	<string name="tooltip_burial_capacity">ここに埋めることができる死体の数: (1)</string> 
 	<string name="tooltip_status_morale">士気回復: (1)</string>
-	<string name="tooltip_max_simultaneous_users">Max simultaneous users: (1)</string> 
+	<string name="tooltip_max_simultaneous_users">同時に使える人の数: (1)</string> 
 	<string name="tooltip_status_capacity">この家には(1)人が住める</string>
 	<string name="tooltip_low_stats">状態が良くないためタスクを処理する効率が下がる</string>
 	<string name="tooltip_durability">この建物に格納すると(1)年程度長く使える</string>
@@ -710,7 +710,8 @@
 	<string name="tooltip_available_soon">Available Soon</string>
 	<string name="tooltip_requires_milestones">このシナリオをプレイするには、(1)マイルストーンのロックを解除する必要がある。(n)フリープレイのシナリオをプレイすることで、マイルストーンを獲得できる。</string>
 	<string name="tooltip_requires_milestones_short">(1)マイルストーンが必要</string>
-	<string name="tooltip_workload">The (b)ratio(/b) between the number of (b)tasks(/b) and (b)people(/b) in your settlement.(n)Try to keep it (b)below 150%(/b), otherwise tasks might not be prioritized correctly.</string>	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
+	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨、そうでないと優先順位を適切に付けられないかもしれません。 </string>
+	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
 	<string name="tooltip_draught">この動物は荷車を引くのに使うことができる</string>
 	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
 	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります。</string>

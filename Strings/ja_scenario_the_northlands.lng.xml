@@ -8,7 +8,7 @@
 	
 	<string name="scenario_the_northlands">北の大地</string>
 	<string name="scenario_the_northlands_subtitle">挑戦的</string>
-	<string name="scenario_the_northlands_description">過酷な環境であなたの居住地を成長させてください。</string>
+	<string name="scenario_the_northlands_description">過酷な環境であなたの村を成長させてください。</string>
 	<string name="scenario_the_northlands_context">北部では、長い冬、短い夏、そしてまばらな資源が生存をより困難にし、そして最も強い人々だけが繁栄することができました。</string>
 
 	<string name="milestone_protein_hoarding">タンパク質の貯蔵</string>
