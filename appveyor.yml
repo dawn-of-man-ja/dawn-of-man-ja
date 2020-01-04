@@ -12,9 +12,9 @@ environment:
   LC_ALL: en_US.UTF-8
   LANG: en_US.UTF-8
   steam_user:
-    secure: hsxtc+FBD98/Nhk5qCeiWg==
+    secure: 27TvJgir1/IrhsFs2YPsuQ==
   steam_password:
-    secure: vFVCpC2RGPS9OufyEfTTlg==
+    secure: ZEreEkEby/8vM+I/hETyLw==
 test_script:
   - ps: ./tests/validate.ps1
 deploy_script:
