@@ -76,7 +76,7 @@
 	<string name="structure_burial_mound">円墳</string>
 	<string name="structure_banner">旗</string> 
 	<string name="structure_stables">厩舎</string>
- 	<string name="structure_stone_stables">医師の厩舎</string> 
+ 	<string name="structure_stone_stables">石の厩舎</string> 
 	<string name="structure_weaver">織工</string>
 	<string name="structure_outfitter">仕立て屋</string><!--TODO-->
 	<string name="structure_well">井戸</string>
