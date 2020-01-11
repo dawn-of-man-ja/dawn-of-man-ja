@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dua0qwar36slniqy/branch/master?svg=true)](https://ci.appveyor.com/project/dawn-of-man-ja/dawn-of-man-ja?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/dua0qwar36slniqy/branch/master?svg=true)](https://ci.appveyor.com/project/dawnofmanja/dawn-of-man-ja?branch=master)
 
 # Dawn Of Manの日本語訳
 
