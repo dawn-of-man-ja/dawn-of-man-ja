@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ae8dy648sar8hknr?svg=true&branch=master)](https://ci.appveyor.com/project/tignear/dawn-of-man-ja?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/dua0qwar36slniqy/branch/master?svg=true)](https://ci.appveyor.com/project/dawn-of-man-ja/dawn-of-man-ja?branch=master)
 
 # Dawn Of Manの日本語訳
 
@@ -36,7 +36,7 @@ C:\USERS\%USERNAME%\DOCUMENTS\DAWNOFMAN\STRINGS
 ```
 ## 編集する人向け
 ```
-git clone https://github.com/tignear/dawn-of-man-ja.git <dir>
+git clone https://github.com/dawn-of-man-ja/dawn-of-man-ja.git <dir>
 mklink /D <dir>\Strings %USERPROFILE%\Documents\DawnOfMan\Strings
 ```
 
