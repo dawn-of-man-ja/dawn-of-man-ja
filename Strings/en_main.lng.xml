@@ -113,10 +113,10 @@ so you can choose your own location to settle.
 	<string name="quick_panel_general">General</string>
 	<string name="quick_panel_food">Food</string>
 	<string name="quick_panel_resources">Resources</string>
-	<string name="quick_panel_grouped_resources">Grouped Resources</string> <!-- Shows all your resources goruped by type -->
+	<string name="quick_panel_grouped_resources">Grouped Resources</string> <!-- Shows all your resources grouped by type -->
 	<string name="quick_panel_defense">Defense</string>
 	<string name="quick_panel_speed">Speed</string>
-	<string name="quick_panel_transports">Transports</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_transports">Attachments</string> <!-- Show the amount of carts and sledges you have in the town -->
 	<string name="quick_panel_animals">Animals</string>
 	<string name="quick_panel_food_chart">Food Chart</string>
 	<string name="quick_panel_straw_chart">Straw Chart</string>	
@@ -179,11 +179,13 @@ so you can choose your own location to settle.
 	<string name="knowledge_population">Population reached: (1)</string>
 	<string name="knowledge_animal_population">Animal population reached: (1)</string>
 	<string name="knowledge_first_structure_built">First structure: (1)</string>
+	<string name="knowledge_first_item_built">First item: (1)</string>
 	<string name="knowledge_first_raider_killed">First raider Killed</string>
 	<string name="knowledge_first_resource_produced">First resource produced: (1)</string>
 	<string name="knowledge_first_animal_hunted">First animal hunted: (1)</string>
 	<string name="knowledge_first_resource_acquired">First resource acquired: (1)</string>
 	<string name="knowledge_structure_built">Structure built: (1) x(2)</string>
+	<string name="knowledge_item_built">Item built: (1) x(2)</string>
 	<string name="knowledge_raider_killed">Raiders killed x(1)</string>
 	<string name="knowledge_resources_produced">Produced: (1) x(2)</string>
 	<string name="knowledge_animals_hunted">Hunted: (1) x(2)</string>
@@ -221,6 +223,7 @@ so you can choose your own location to settle.
 	<string name="activity">Activity</string>
 	<string name="structures">Structures</string>
 	<string name="transports">Transports</string>
+	<string name="attachments">Attachments</string>
 	<string name="megaliths">Megaliths</string>
 	<string name="work_areas">Work Areas</string>
 	<string name="active_tasks">Active tasks</string>
@@ -238,7 +241,7 @@ so you can choose your own location to settle.
 	<string name="defense_gates">Gates</string>
 	<string name="task_target_none">None</string>
 	
-	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
+	<!-- Knowledge progress, these indicate the number of things killed/hunted/built/acquired -->
 	<string name="progress_general">General</string>
 	<string name="progress_raiders_killed">Raiders Killed</string>
 	<string name="progress_hunted_animals">Animals Hunted</string>
@@ -305,6 +308,7 @@ so you can choose your own location to settle.
 	<string name="menu_resume">Resume</string>
 	<string name="menu_credits">Credits</string>
 	<string name="menu_achievements">Achievements</string>
+	<string name="menu_workshop_uploader">Workshop Uploader</string>
 	<string name="menu_stats">Stats</string>
 	<string name="stats_you">You</string>
 	<string name="stats_global">Global Average</string>
@@ -580,7 +584,7 @@ Do you want to play the tutorial now?
 	<string name="work_area_mine_ore">Mine ore</string>
 
 	<!-- Messages -->
-	<!-- Feeel free to reagange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
+	<!-- Feel free to rearrange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
 	<string name="message_death_generic">(1) has died</string>
 	<string name="message_death_starvation">(1) has died of starvation</string>
 	<string name="message_death_dehydration">(1) has died of dehydration</string>
@@ -646,7 +650,7 @@ Do you want to play the tutorial now?
 	<string name="tooltip_workload_very_high">Workload is (b)Very High(/b) ((1))(n)Your people might not complete or correctly prioritize tasks.</string>	
 	<string name="tooltip_fireplace">Raw food can be cooked and eaten here, also provides heat</string>
 	<string name="tooltip_status_prestige">Prestige: (1)</string>
-	<string name="tooltip_burial_capacity">Max bodies than can be buried here: (1)</string>
+	<string name="tooltip_burial_capacity">Max bodies that can be buried here: (1)</string>
 	<string name="tooltip_status_morale">Morale Recovery: (1)</string>
 	<string name="tooltip_max_simultaneous_users">Max simultaneous users: (1)</string>
 	<string name="tooltip_status_capacity">This structure can house (1) people</string>
@@ -717,11 +721,17 @@ Do you want to play the tutorial now?
 	<string name="tooltip_requires_milestones_short">Requires (1) Milestones</string>
 	<string name="tooltip_workload">The (b)ratio(/b) between the number of (b)tasks(/b) and (b)people(/b) in your settlement.(n)Try to keep it (b)below 150%(/b), otherwise tasks might not be prioritized correctly.</string>
 	<string name="tooltip_retaliates">This animal might retaliate when attacked.</string>
-	<string name="tooltip_draught">This animal can be used to pull carts.</string>
+	<string name="tooltip_transport_animal">This animal can be used to pull carts.</string>
+	<string name="tooltip_work_animal">This animal can be used to pull plows.</string>
 	<string name="tooltip_predator">This animal might attack humans.</string>
 	<string name="tooltip_requires_shelter">This animal needs to be sheltered in winter.</string>
 	<string name="tooltip_knowledge_earned">You will earn (1) knowledge points when hunting this animal</string>
 	<string name="tooltip_storage_restrictions">(1) allowed in this store</string>
+	<string name="tooltip_attachment_restrictions_structure">(b)(1)(/b) can be attached to this structure</string>
+	<string name="tooltip_attachment_restrictions">(b)(1)(/b) can be attached to this item</string>
+	<string name="tooltip_attachment_restrictions_part2">(b)Click(/b) to change selected.(n)(b)Shift+click(/b) to change globally.</string>
+	<string name="tooltip_unpowered_transport">No (b)adult(/b) (b)Donkeys(/b) or (b)Horses(/b) available to pull this transport</string>
+	<string name="tooltip_unpowered_work">No (b)adult(/b) (b)Cattle(/b) or (b)Horses(/b) available to pull this plow</string>
 	
 	<!-- Toasts -->
 	<string name="toast_screenshot_taken">Screenshot taken</string>
@@ -737,6 +747,7 @@ Do you want to play the tutorial now?
 	<string name="description_recycling">Recycling</string>
 	<string name="description_sheltering">Sheltering</string>
 	<string name="description_animal_sheltering">Sheltering</string>
+	<string name="description_animal_plowing">Plowing</string>
 	<string name="description_attacking_ranged">Attacking (1)</string>
 	<string name="description_attacking_melee">Attacking (1)</string>
 	<string name="description_building">Building (1)</string>
@@ -764,6 +775,7 @@ Do you want to play the tutorial now?
 	<string name="description_cutting_down">Cutting Down</string>
 	<string name="description_harvesting">Harvesting</string>
 	<string name="description_planting">Planting (1)</string>
+	<string name="description_plowing">Planting (1)</string>
 	<string name="description_recovering_morale">Recovering morale</string>
 	<string name="description_taming">Taming</string>
 	<string name="description_slaughtering">Slaughtering (1)</string>
@@ -777,6 +789,7 @@ Do you want to play the tutorial now?
 	<string name="description_falling">Falling</string>
 	<string name="description_celebrating">Celebrating</string>
 	<string name="description_pulling">Pulling Cart</string>
+	<string name="description_pulling_plow">Pulling Plow</string>
 	<string name="description_wandering">Wandering around</string>
 	<string name="description_following">Following</string>
 	<string name="description_standing_platform">Standing on Platform</string>

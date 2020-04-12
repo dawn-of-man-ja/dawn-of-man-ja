@@ -95,6 +95,7 @@
 	<string name="structure_watermill">Watermill</string>
 	<string name="structure_oven">Oven</string>
 	<string name="structure_bridge">Bridge</string>
+	<string name="structure_transport_post">Transport Post</string>
 	<string name="structure_wooden_platform">Wooden Platform</string>
 	<string name="structure_reinforced_platform">Reinforced Platform</string>
 	
@@ -224,6 +225,7 @@
 	<string name="tech_sledgemaking">Sledgemaking</string>
 	<string name="tech_stilting">Stilting</string>
 	<string name="tech_wheel">The Wheel</string>
+	<string name="tech_plowing">Plowing</string>
 	<string name="tech_funerary_rituals">Funerary Rituals</string>
 	<string name="tech_spirituality">Spirituality</string>
 	<string name="tech_megalithism">Megalithism</string>
@@ -246,6 +248,7 @@
 	<string name="transport_sledge">Sledge</string>
 	<string name="transport_cart">Cart</string>
 	<string name="transport_rolling_megalith">Rolling Megalith</string>
+	<string name="transport_plow">Plow</string>
 
 	<!-- Misc -->
 	<string name="bank">Bank</string>
