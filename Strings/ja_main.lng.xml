@@ -302,6 +302,7 @@
 	<string name="menu_resume">再開する</string>
 	<string name="menu_credits">クレジット</string>
 	<string name="menu_achievements">実績</string>
+	<string name="menu_workshop_uploader">Workshop Uploader</string>
 	<string name="menu_stats">統計</string>
 	<string name="stats_you">あなた</string>
 	<string name="stats_global">世界</string>

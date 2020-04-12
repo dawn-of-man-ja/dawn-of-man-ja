@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	
+	<string name="workshop_uploader_error_no_content">No content found</string>
+	<string name="workshop_uploader_error_invalid_content">No scenario or translation files found in content</string>
+	<string name="workshop_uploader_error_no_preview_image">No preview image found</string>
+	<string name="workshop_uploader_error_preview_image_invalid_size">Invalid preview image size, must be 640x360</string>
+	<string name="workshop_uploader_error_title_too_short">Title too short</string>
+	<string name="workshop_uploader_error_description_too_short">Description too short</string>
+	<string name="workshop_uploader_error_item_not_found">Item not found</string>
+	<string name="workshop_uploader_status_uploading">Uploading</string>
+	<string name="workshop_uploader_status_uploaded">Upload Completed</string>
+	<string name="workshop_uploader_status_looking_up_item">Looking up item</string>
+	
+	<string name="workshop_uploader_item_type">Item Type</string>
+	<string name="workshop_uploader_item_type_new">New</string>
+	<string name="workshop_uploader_item_type_existing">Existing</string>
+	 
+	<string name="workshop_uploader_item_id">ID</string>
+	<string name="workshop_uploader_item_title">Title</string>
+	<string name="workshop_uploader_item_description">Description</string>
+	<string name="workshop_uploader_item_tags">Tags</string>
+	<string name="workshop_uploader_preview_image">Preview Image</string>
+	
+	<string name="workshop_uploader_upload">Upload</string>	
+	
+</strings>
