@@ -113,7 +113,7 @@
 	<string name="quick_panel_grouped_resources">分類された資源</string> <!-- Shows all your resources goruped by type -->
 	<string name="quick_panel_defense">防衛</string>
 	<string name="quick_panel_speed">速度</string>
-	<string name="quick_panel_transports">輸送</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_transports">器具</string> <!-- Show the amount of carts and sledges you have in the town -->
 	<string name="quick_panel_animals">動物</string>
 	<string name="quick_panel_food_chart">食糧の推移</string>
 	<string name="quick_panel_straw_chart">わらの推移</string>	
@@ -173,11 +173,13 @@
 	<string name="knowledge_population">人口が(1)に到達</string>
 	<string name="knowledge_animal_population">動物の数が(1)に到達</string>
 	<string name="knowledge_first_structure_built">新しい建造物: (1)</string>
+	<string name="knowledge_first_item_built">新しいアイテム: (1)</string> 
 	<string name="knowledge_first_raider_killed">初めて侵入者を殺害</string>
 	<string name="knowledge_first_resource_produced">新しい資源を生産: (1)</string>
 	<string name="knowledge_first_animal_hunted">新しい動物を狩猟: (1)</string>
 	<string name="knowledge_first_resource_acquired">新しい資源を獲得: (1)</string>
 	<string name="knowledge_structure_built">建設: (1) x(2)</string>
+	<string name="knowledge_item_built">作成: (1) x(2)</string> 
 	<string name="knowledge_raider_killed">侵入者を殺害 x(1)</string>
 	<string name="knowledge_resources_produced">生産: (1) x(2)</string>
 	<string name="knowledge_animals_hunted">狩猟: (1) x(2)</string>
@@ -215,6 +217,7 @@
 	<string name="activity">アクティビティ</string>
 	<string name="structures">施設</string>
 	<string name="transports">輸送</string>
+	<string name="attachments">器具</string>
 	<string name="megaliths">巨石建造物</string>
 	<string name="active_tasks">作業中のタスク</string>
 	<string name="pending_tasks">待機中のタスク</string>
@@ -713,11 +716,17 @@
 	<string name="tooltip_workload">タスク数とあなたの村の人口の比率。150％以下に抑えることを推奨、そうでないと優先順位を適切に付けられないかもしれません。 </string>
 	<string name="tooltip_retaliates">この動物は攻撃されると反撃するかもしれない</string>
 	<string name="tooltip_draught">この動物は荷車を引くのに使うことができる</string>
+	<string name="tooltip_transport_animal">この動物は荷車を引くのに使うことができる</string>
+	<string name="tooltip_work_animal">この動物はすきを引くのに使うことができる</string>
 	<string name="tooltip_predator">この動物は人間を攻撃する可能性がある</string>
-	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります。</string>
+	<string name="tooltip_requires_shelter">この動物は冬に建物内に入れる必要があります</string>
 	<string name="tooltip_knowledge_earned">この動物を狩ると(1)の知識ポイントが得られます</string>
 	<string name="tooltip_storage_restrictions">この貯蔵庫に入れることを許可:(1)</string>
-
+	<string name="tooltip_attachment_restrictions_structure">(b)(1)(/b) にこれをつけることができます</string>
+	<string name="tooltip_attachment_restrictions">(b)(1)(/b) にこれをつけることができます</string>
+	<string name="tooltip_attachment_restrictions_part2">(b)クリック(/b)して選択します.(n)(b)シフト+クリック(/b)で全体で選択します。</string>
+	<string name="tooltip_unpowered_transport">この輸送器具を引ける(b)大人(/b)の(b)ロバ(/b)や(b)馬(/b)がいません</string>
+	<string name="tooltip_unpowered_work">このすきを引ける(b)大人(/b)の(b)ウシ(/b)や(b)馬(/b)がいません</string>
 	<!-- Toasts -->
 	<string name="toast_screenshot_taken">スクリーンショットを撮影</string>
 	<string name="toast_game_saved">セーブ完了</string>
@@ -732,6 +741,7 @@
 	<string name="description_recycling">解体</string>
 	<string name="description_sheltering">避難</string>
 	<string name="description_animal_sheltering">避難</string>
+	<string name="description_animal_plowing">耕起</string> 
 	<string name="description_attacking_ranged">(1)を攻撃</string>
 	<string name="description_attacking_melee">(1)を攻撃</string>
 	<string name="description_building">(1)を建設</string>
@@ -759,6 +769,7 @@
 	<string name="description_cutting_down">伐採</string>
 	<string name="description_harvesting">収穫</string>
 	<string name="description_planting">(1)を植える</string>
+	<string name="description_plowing">(1)を植える</string> 
 	<string name="description_recovering_morale">士気の回復</string>
 	<string name="description_taming">調教</string>
 	<string name="description_slaughtering">(1)を屠殺</string>
@@ -772,6 +783,7 @@
 	<string name="description_falling">落下</string>
 	<string name="description_celebrating">祝う</string>
 	<string name="description_pulling">荷車を引く</string>
+	<string name="description_pulling_plow">すきをひく</string> 
 	<string name="description_wandering">うろうろ</string>
 	<string name="description_following">従う</string>
 	<string name="description_standing_platform">射撃台上に立つ</string> 
