@@ -304,6 +304,12 @@
 現在の状況に応じて、UIに最も関連性の高い情報を表示させることができます。
 	</string>
 	
+	<string name="help_transport_title">輸送</string>	
+	<string name="help_transport_description">
+(b)輸送器具(/b)を使うと村の生産性が大きく上がります。
+丸太、石、銅鉱石、錫鉱山、鉄鉱石のような重くて運ぶのが難しい資源は大人だけがゆっくりと一度に一つずつ、士気を減らしながら運ぶことができます。
+(b)そり(/b)と(b)台車(/b)は、この問題を解決します。(b)重い資源(/b)を一度にもっと効率よく輸送することを可能にします。
+	</string>
 	
 	<string name="help_fuel_title">燃料</string>	
 	<string name="help_fuel_description">
