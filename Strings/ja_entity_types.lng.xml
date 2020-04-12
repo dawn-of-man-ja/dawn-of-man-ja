@@ -95,6 +95,7 @@
 	<string name="structure_watermill">製粉所</string>
 	<string name="structure_oven">かまど</string>
 	<string name="structure_bridge">橋</string>
+	<string name="structure_transport_post">器具置場</string> 
 	<string name="structure_wooden_platform">木の射撃台</string>
 	<string name="structure_reinforced_platform">強化射撃台</string>
 
@@ -224,6 +225,7 @@
 	<string name="tech_sledgemaking">そりの制作</string>
 	<string name="tech_stilting">支柱</string>
 	<string name="tech_wheel">車輪</string>
+ 	<string name="tech_plowing">耕起</string> 
  	<string name="tech_funerary_rituals">埋葬</string> 
 	<string name="tech_spirituality">信仰</string>
 	<string name="tech_megalithism">巨石信仰</string>
@@ -247,7 +249,7 @@
 	<string name="transport_sledge">そり</string>
 	<string name="transport_cart">荷車</string>
 	<string name="transport_rolling_megalith">コロ</string>
-
+ 	<string name="transport_plow">すき</string> 
 	<!-- Misc -->
 	<string name="bank">岸辺</string>
 
