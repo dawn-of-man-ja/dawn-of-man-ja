@@ -217,6 +217,7 @@ Depending on the age of your population they are able to perform different tasks
 Setting (b)work areas(/b) allows you to automate many of the (b)collection(/b) and (b)mining(/b) tasks in your settlement.
 After you place an area for a given resource, people will keep collecting the resource within that area until the (b)resource limit(/b) is reached.
 By default only one person at a time will work in a particular area, but you can increase their number in the selection panel.
+Note that (b)hunting(/b) work areas will only generate tasks for animals of (b)low danger level(/b), dangerous animals have to be hunted manually.
   </string>
 	
   <string name="help_foods_title">Foods</string>
@@ -343,9 +344,12 @@ In (b)winter(/b) most animals will hibernate or migrate to warmer climates, so t
 Once you research the right domestication techs, you can capture young animals in order to breed them yourself.
 	</string>
 
-	<string name="help_transports_title">Transports</string>
+	<string name="help_transports_title">Attachments</string>
 	<string name="help_transports_description">
-Transports allow people to (b)carry resources(/b) much faster than they would otherwise do. Specialized transports are also required to move (b)Megaliths(/b).
+(b)Attachments(/b) are used by your people to accomplish a variety of tasks.
+Transports, like (b)Carts(/b) and (b)Sledges(/b) allow people to (b)carry resources(/b) much faster than they would otherwise do.
+(b)Megaliths(/b) can only be moved using specialized transports.
+(b)Plows(/b) allow you to plant crops much faster than doing it by hand.
 	</string>
 	
 	
@@ -528,7 +532,7 @@ A place where to efficiently bake large quantities of (b)Bread(/b).
 	
 	<string name="workshop_short_description">A place to make miscellaneous tools</string>
 	<string name="workshop_help_description">
-A place to make tools from the (b)Copper Age(/b) onwards.
+A place to make tools from the (b)Copper Age(/b) onward.
 This structure in combination with the (b)Metalsmith(/b) or (b)Blacksmith(/b) serves as replacement for the (b)Crafter(/b).
 	</string>	
 	
@@ -623,7 +627,7 @@ A gate (b)reinforced(/b) with (b)metal(/b) in order to increase its resistance a
 A structure for your people to shoot at enemies from (b)inside(/b) the settlement's walls.
 Warriors on a platform have (b)extra protection(/b) from incoming projectiles.
 Needs to be placed next to a (b)Palisade(/b) or (b)Wall(/b) on the inner side.
-This structure can hold more people and is more resistent than the (b)Wooden Platform(/b).
+This structure can hold more people and is more resistant than the (b)Wooden Platform(/b).
 	</string>		
 
 	<string name="guard_tower_short_description">A reinforced defense tower</string>
@@ -686,6 +690,13 @@ A megalithic funerary complex built with rocks of various sizes. It greatly incr
 A structure in order to ease the (b)crossing of rivers(/b).
 This is especially useful for (b)Sledges(/b) and (b)Carts(/b) as otherwise they have to cross via the nearest ford.
 	</string>	
+	
+	<string name="transport_post_short_description">A place to leave transports</string>
+	<string name="transport_post_help_description">
+A place to leave (b)transports(/b) and (b)Plows(/b).
+Your people will carry (b)Sledges(/b) here when they are not in use.
+Any animals that are pulling (b)Carts(/b) or (b)Plows(/b) will automatically come here when idle.
+	</string>		
 
   <!-- === RESOURCES: Categories === -->
   
@@ -842,7 +853,7 @@ A dry skin, used for (b)crafting(/b) tools or (b)building(/b) structures.
 	
 	<string name="leather_short_description">A skin which has been tanned to make it more durable</string>	
 	<string name="leather_help_description">
-A (b)skin(/b) which has been (b)tanned(/b) to make it more (b)durable(/b). Leather can be used used to craft clothing and tools or construct structures.
+A (b)skin(/b) which has been (b)tanned(/b) to make it more (b)durable(/b). Leather can be used to craft clothing and tools or construct structures.
 	</string>
 	
 	<string name="tannin_help_description">
@@ -862,7 +873,7 @@ A textile fiber obtained from the hair of sheep, used to make (b)warm clothing(/
 	</string>
 	
 	<string name="linen_help_description">
-A textile fiber obtained from linen, used to make clothing and other resources.
+A textile fiber obtained from flax plants, used to make clothing and other resources.
 	</string>
 
 	<string name="wool_cloth_short_description">Cloth used to make warm outfits</string>	
@@ -1233,6 +1244,10 @@ Unlocks (b)Composite Bows(/b), which are the most effective (b)hunting weapon(/b
 Unlocks the production of (b)Beer(/b), which can help boost (b)Morale(/b) in the settlement.
 	</string>
 	
+	<string name="plowing_help_description">
+Unlocks the construction of (b)Plows(/b) which will allow you to plant crops a lot more efficiently.
+	</string>
+	
  <!-- === Iron Age === -->
  
 	<string name="iron_smelting_help_description">
@@ -1262,7 +1277,7 @@ Unlocks the construction of the (b)Staddle Granary(/b) structure, where you can 
 Domestic animals provide a variety of benefits to your settlement: (b)protection(/b), (b)food(/b), (b)resources(/b) and (b)muscle power(/b).
 You can obtain domestic animals by (b)purchasing(/b) them from traders, or by (b)domesticating young(/b) individuals of the equivalent wild variant.
 Animals need to be sheltered in winter, and be provided with (b)Water(/b) and (b)Straw(/b). If there is no (b)Straw(/b) available, you can feed them with (b)Grain(/b).
-Note that (b)Dogs(/b), as well as (b)Donkeys(/b) or (b)Horses(/b) that are (b)attached to transports(/b), don't need shelter or food in winter.
+Note that (b)Dogs(/b), as well as (b)Cattle(/b), (b)Donkeys(/b) or (b)Horses(/b) that are (b)attached to transports or Plows(/b), don't need shelter or food in winter.
 Adult females will get pregnant and give (b)birth(/b) to new animals as long as there is an adult or old male around.
 Note that your people will automatically (b)slaughter(/b) any domestic animals that are (b)too old(/b), even if they are below the limit.
 	</string>
@@ -1281,27 +1296,33 @@ They eat the leftovers from the humans, so they don't require to be fed or given
 	</string>
 	
 	<string name="goat_help_description">
-(b)Goats(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)Goats(/b) produce (b)Milk(/b) and can also be slaughtered to obtain (b)Meat(/b) and (b)Skins(/b).
 	</string>	
 	
 	<string name="sheep_help_description">
-(b)Sheep(/b) produce (b)Wool(/b) and can also be slaughtered to obtain meat and skins.
+(b)Sheep(/b) produce (b)Wool(/b) and can also be slaughtered to obtain (b)Meat(/b) and (b)Skins(/b).
 	</string>		
 	
 	<string name="pig_help_description">
-(b)Pigs(/b) are primarily a source of meat.
+(b)Pigs(/b) are primarily a source of (b)Meat(/b).
 	</string>	
 	
 	<string name="cattle_help_description">
-(b)Cattle(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)Cattle(/b) are a large domestic animal, that can be used to accomplish a variety of tasks.
+They are the largest producer of (b)Milk(/b).
+They can be slaughtered to obtain to obtain (b)Meat(/b) and (b)Skins(/b).
+Additionally, (b)adults(/b) can also be used to pull plows, which greatly reduces the time it takes to plant crops.
+They (b)consume more(/b) food and water in winter when compared to smaller animals like (b)Goats(/b) or (b)Sheep(/b).
 	</string>		
 	
 	<string name="donkey_help_description">
-(b)Donkeys(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
-	</string>		
-	
+(b)Donkeys(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain (b)Meat(/b) and (b)Skins(/b).
+Only (b)adult(/b) donkeys can work, so when you domesticate an animal from the wild, you need to wait for it to become an adult before it can be attached it to a cart.
+	</string>
+
 	<string name="horse_help_description">
-(b)Horses(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+(b)Horses(/b) are used primarily to pull (b)Carts(/b) and (b)Plows(/b), but they can also be slaughtered to obtain (b)Meat(/b) and (b)Skins(/b).
+Only (b)adult(/b) horses can work, so when you domesticate an animal from the wild, you need to wait for it to become an adult before it can be attached it to a cart or plow.
 	</string>			
 	
 	<string name="herbivore_help_description">
@@ -1330,8 +1351,18 @@ The most basic form of transport, it allows one adult to move around (b)heavy re
 	<string name="cart_short_description">A wheeled transport pulled by animals</string>
 	<string name="cart_help_description">
 Allows your people to move (b)large quantities(/b) of (b)heavy resources(/b) around.
-Carts are pulled by (b)Donkeys(/b) or (b)Horses(/b). When an animal is available, it will get attached to the transport automatically.
+Carts are pulled by (b)Donkeys(/b) or (b)Horses(/b). 
+Only (b)adult(/b) animals can be used to pull carts.
+When an animal is available, it will get attached to the transport automatically.
 	</string>
+	
+	<string name="plow_short_description">A tool to prepare the fields to plant crops</string>
+	<string name="plow_help_description">
+An implement to prepare the fields to plant crops. 
+Can be pulled by (b)Cattle(/b) or (b)Horses(/b).
+Only (b)adult(/b) animals can be used to pull plows.
+Allows your people to (b)plant(/b) crops much (b)faster(/b) and without a penalty to (b)morale(/b).
+	</string>	
 	
 	<string name="rolling_megalith_short_description">A specialized transport to move megaliths</string>
 	<string name="rolling_megalith_help_description">
