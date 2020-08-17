@@ -14,7 +14,7 @@ environment:
   steam_user:
     secure: 27TvJgir1/IrhsFs2YPsuQ==
   steam_password:
-    secure: ZEreEkEby/8vM+I/hETyLw==
+    secure: jdxBm94E9UgLoODM0CSRUg==
 test_script:
   - ps: ./tests/validate.ps1
 deploy_script:
