@@ -172,10 +172,11 @@ The fertility of your people also depends on your (b)welfare(/b) level.
 Resource Limits are a powerful way to automate work in your settlement.
 You can set a (b)resource limit(/b), then mark a recipe for continuous production or place a work area: your people will keep on collecting or producing that resource until the limit is reached. 
 When resources are consumed and the amounts fall below the limit again, your people will go back to work.
-You can set any limit to 3 types of values:
+You can set any limit to several types of values:
 (b)Infinity(/b). There's no limit to production, it will continue as long as there are materials available.
-(b)Fixed amount(/b). Sets a limit defined by a specific number of units. Production stops once the number of units of that particular resource reaches the value.
-(b)Population percentage(/b). Sets a limit defined by a percentage of the current population. Setting a percentage limit is useful to avoid having to constantly adjust the limits as the population changes.
+(b)Fixed amount(/b). Limit defined by a specific number of units. Production stops once the number of units of that particular resource reaches the value.
+(b)Population percentage(/b). Limit defined as a proportion of the current population. Setting a percentage limit is useful to avoid having to constantly adjust the limits as the population changes.
+(b)Adult percentage(/b). Limit defined as a proportion of the current number of adults. This is useful for tools and weapons that only adults can use.
 Note that limits only affect work areas and automatic crafting, if you explicitly give an order, the limit is ignored.
 	</string>
 	
@@ -198,7 +199,7 @@ Your people will try to eat the food that is going to decay sooner in order to p
 	
   <string name="help_workload_title">Workload</string>
   <string name="help_workload_description">
-The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
+The (b)workload(/b) of your settlement is the (b)ratio(/b) between the amount of (b)tasks(/b) your people are trying to do, and the total (b)amount of people(/b) (children count as half an adult in these calculations).
 If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
 It is your job do make sure the amount of work to do is reasonable and proportional to the manpower available.
 You can use the (b)tasks(/b) and (b)activity panels(/b) to see what your people are up to and how many of them are available to work.
@@ -586,6 +587,11 @@ An advanced furnace, where very high temperatures can be reached in order to sme
 A place to create (b)Iron(/b) and (b)Steel(/b) tools and weapons.
 Note that only one person can work in it at a time, so you will usually need a few of these.
 	</string>
+	
+	<string name="armorer_short_description">A place to make armor and shields</string>
+	<string name="armorer_help_description">
+A place to make (b)armor(/b) and (b)shields(/b) of various types.
+	</string>
 
 	<!-- === Defensive === -->
 
@@ -813,6 +819,18 @@ Can be used with one handed weapons like (b)Swords(/b) or (b)Axes(/b).
 A large oval shield made of wood with an Iron core. Offers good protection in combat. 
 Can be used with one handed weapons like (b)Swords(/b) or (b)Axes(/b).
 	</string>		
+	
+	<string name="leather_armor_short_description">Basic armor that provides some protection</string>
+	<string name="leather_armor_help_description">
+Armor made mostly of hardened leather.
+Offers (b)reasonable protection(/b) against attacks.
+	</string>	
+	
+	<string name="mail_armor_short_description">Metal armor that provides quite good protection</string>
+	<string name="mail_armor_help_description">
+Armor made of iron rings chained together.
+Offers (b)very good protection(/b) against attacks.
+	</string>			
 
   <!-- === Materials === -->
   
@@ -1232,9 +1250,21 @@ Unlocks (b)Stone(/b) structures that are in general more (b)durable(/b) and adva
 Unlocks (b)Swords(/b), which are the most (b)effective melee weapon(/b).
 	</string>
 	
+	<string name="reinforced_shields_help_description">
+Unlocks (b)Oval Shields(/b), which are larger shields reinforced with metal.
+	</string>	
+	
 	<string name="shieldmaking_help_description">
 Unlocks (b)Shields(/b), which allow your people to block attacks.
-	</string>	
+	</string>		
+	
+	<string name="armor_help_description">
+Unlocks (b)Leather Armor(/b), which absorbs some of the damage dealt by attacks.
+	</string>		
+	
+	<string name="mail_help_description">
+Unlocks (b)Mail Armor(/b), which absorbs quite a bit of the damage dealt by attacks.
+	</string>			
 	
 	<string name="composite_archery_help_description">
 Unlocks (b)Composite Bows(/b), which are the most effective (b)hunting weapon(/b).
