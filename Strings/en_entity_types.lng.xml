@@ -67,6 +67,7 @@
 	<string name="structure_deep_iron_mine">Deep Iron Mine</string>
 	<string name="structure_workshop">Workshop</string>
 	<string name="structure_metalsmith">Metalsmith</string>
+	<string name="structure_armorer">Armorer</string>
 	<string name="structure_blacksmith">Blacksmith</string>
 	<string name="structure_charcoal_pit">Charcoal Pit</string>
 	<string name="structure_pit_furnace">Pit Furnace</string>
@@ -158,7 +159,7 @@
 	<string name="resource_steel_knife">Steel Knife</string>
 	<string name="resource_steel_axe">Steel Axe</string>
 	<string name="resource_bronze_sword">Bronze Sword</string>
-	<string name="resource_iron_sword">Iron sword</string>
+	<string name="resource_iron_sword">Iron Sword</string>
 	<string name="resource_flint_knife">Flint Knife</string>
 	<string name="resource_copper_knife">Copper Knife</string>
 	<string name="resource_steel_sword">Steel Sword</string>
@@ -180,6 +181,8 @@
 	<string name="resource_flint_sickle">Flint Sickle</string>
 	<string name="resource_round_shield">Round Shield</string>
 	<string name="resource_oval_shield">Oval Shield</string>
+	<string name="resource_leather_armor">Leather Armor</string>
+	<string name="resource_mail_armor">Mail Armor</string>
 	<string name="resource_milk">Milk</string>
 	<string name="resource_water">Water</string>
 	<string name="resource_beer">Beer</string>
@@ -238,6 +241,9 @@
 	<string name="tech_fortifications">Fortifications</string>
 	<string name="tech_swordmaking">Swordmaking</string>
 	<string name="tech_shieldmaking">Shieldmaking</string>
+	<string name="tech_armor">Armor</string>
+	<string name="tech_reinforced_shields">Reinforced Shields</string>
+	<string name="tech_mail">Mail</string>
 	<string name="tech_composite_archery">Composite Archery</string>
 	<string name="tech_reinforced_fortifications">Reinforced Fortifications</string>
 

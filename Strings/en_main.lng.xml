@@ -150,6 +150,7 @@ so you can choose your own location to settle.
 	<string name="wall_placement_text">Click and hold to place wall. Use (1) and (2) keys to change shape.</string>
 	<string name="bridge_placement_text">Click and hold to place bridge.</string>
 	<string name="work_area_placement_text">Left click to place.(n)Use (1) and (2) keys to change size.(n)Shift+click to place multiple.</string>
+	<string name="combat_position_placement_text">Left click to place.</string>
 	<string name="place_confirm">Place entity</string>
 	<string name="place_cancel">Cancel</string>
 
@@ -206,6 +207,7 @@ so you can choose your own location to settle.
 	<string name="plant">Plant</string>
 	<string name="place_work_area">Place Work Area</string>
 	<string name="manage">Manage</string>
+	<string name="manage_advanced">Manage Advanced</string>
 	<string name="primal_vision">Primal Vision</string>
 	<string name="quicksave">Quicksave</string>
 	<string name="techs">Techs</string>
@@ -239,6 +241,13 @@ so you can choose your own location to settle.
 	<string name="panel_defense">Defense</string>
 	<string name="defense_alert_level">Alert Level</string>
 	<string name="defense_gates">Gates</string>
+	<string name="defense_melee_ratios">Melee combat preference</string>
+	<string name="defense_melee_ratios_tooltip">
+Proportion of people that will try to get (b)melee weapons(/b) and (b)shields(/b) when an alert is triggered.
+This is assuming the right weapons are available, otherwise people will use whatever they can find.
+	</string>
+	<string name="defense_melee_ratio_male">Men</string>
+	<string name="defense_melee_ratio_female">Women</string>
 	<string name="task_target_none">None</string>
 	
 	<!-- Knowledge progress, these indicate the number of things killed/hunted/built/acquired -->
@@ -426,6 +435,7 @@ Do you want to play the tutorial now?
 	<string name="attribute_mining">Mining</string>
 	<string name="attribute_harvesting">Harvesting</string>
 	<string name="attribute_blocking">Blocking</string>
+	<string name="attribute_armor">Armor</string>
 	
 	<!-- These are for clothing -->
 	<string name="attribute_warmth">Warmth</string>							<!-- How warm is this outfit -->
@@ -434,7 +444,8 @@ Do you want to play the tutorial now?
 	<string name="attribute_bonus_speed">Speed: (1)x</string>
 	<string name="attribute_bonus_damage">Damage: (1)</string>
 	<string name="attribute_bonus_temperature">Cold Resistance: (1)</string>
-	<string name="attribute_bonus_blocking">(1)% chance of blocking attacks.</string>
+	<string name="attribute_bonus_blocking">(1)% chance of blocking attacks.(n)Can block up to (2) points of damage.</string>
+	<string name="attribute_bonus_armor">Absorbs (1)% damage from attacks.(n)Can absorb up to (2) points of damage.</string>
 	<string name="attribute_bonus_style">Suitable up to era: (1)</string>
 	
 	<string name="attribute_description_butchering">Cut open animals to extract resources from them</string>
@@ -444,7 +455,8 @@ Do you want to play the tutorial now?
 	<string name="attribute_description_woodcutting">Cutting trees</string>
 	<string name="attribute_description_mining">Mining from surface deposits or mines</string>
 	<string name="attribute_description_harvesting">Harvesting wild of planted cereals or pulses</string>
-	<string name="attribute_description_blocking">Protection against attacks</string>
+	<string name="attribute_description_blocking">A chance of blocking some attacks</string>
+	<string name="attribute_description_armor">Absorbs some of the damage from attacks</string>
 	<string name="attribute_description_warmth">Protection against cold</string>
 	<string name="attribute_description_style">How stylish this outfit is: wearing outfashioned clothes decreases welfare</string>
 	
@@ -528,10 +540,11 @@ Do you want to play the tutorial now?
 	<string name="context_action_disable">Disable</string>
 	<string name="context_action_megaliths">Megaliths panel</string>
 	<string name="context_action_work_areas">Work Areas panel</string>
+	<string name="context_action_place_combat_position">Edit Alert Gathering Area</string>
 
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">Can only be done in (1)</string>
-	<string name="disabled_reason_requires_tech">Requires tech: (1)</string>
+	<string name="disabled_reason_requires_tech">Requires Tech: (b)(1)(/b)</string>
 	<string name="disabled_no_children_allowed">Children can not perform task: (1)</string>
 	<string name="disabled_no_tools_available">No tool available to perform action: (1)</string>
 	<string name="disabled_reason_exhausted">Resource exhausted, you need to wait until it replenishes</string>
@@ -677,12 +690,20 @@ Do you want to play the tutorial now?
 	<string name="tooltip_message">Left click to focus.(n)Right click to dismiss</string>
 	<string name="tooltip_focus_camera">Focus Camera</string>
 	<string name="tooltip_help">Help</string>
-	<string name="tooltip_resource_limit_amount">Production limit for: (1), is set to (2) units</string>
-	<string name="tooltip_resource_limit_percentage">Production limit for: (1), is set to (2)% of the population</string>
-	<string name="tooltip_resource_limit_infinity">Production limit for: (1), is set to unlimited</string>
-	<string name="tooltip_animal_limit_amount">Limit for: (1), is set to (2).(n)Any animals over that amount will be automatically slaughtered.</string>
-	<string name="tooltip_animal_limit_percentage">Limit for: (1), is set to (2)% of the population.(n)Any animals over that amount will be automatically slaughtered.</string>
-	<string name="tooltip_animal_limit_infinity">Limit for: (1), is set to unlimited.(n)Only very old animals will get slaughtered.</string>
+	
+	<string name="tooltip_resource_limit_infinity">Production limit for (b)(1)(/b) is set to (b)unlimited(/b)</string>
+	<string name="tooltip_resource_limit_amount">Production limit for (b)(1)(/b) is set to (b)(2) units(/b)</string>
+	<string name="tooltip_resource_limit_percentage">Production limit for (b)(1)(/b) is set to (b)(2)%(/b) of the (b)population(/b)</string>
+	<string name="tooltip_resource_limit_adult_percentage">Production limit for (b)(1)(/b) is set to (b)(2)% of adults(/b)</string>
+	
+	<string name="tooltip_animal_limit_infinity">Limit for (b)(1)(/b) is set to (b)unlimited(/b).(n)Only very old animals will get slaughtered.</string>
+	<string name="tooltip_animal_limit_amount">Limit for (b)(1)(/b) is set to (b)(2)(/b).(n)Any animals over that amount will be automatically slaughtered.</string>
+	<string name="tooltip_animal_limit_percentage">Limit for (b)(1)(/b) is set to (b)(2)%(/b) of the (b)population(/b).(n)Any animals over that amount will be automatically slaughtered.</string>
+	<string name="tooltip_animal_limit_adult_percentage">Limit for (b)(1)(/b) is set to (b)(2)% of adults(/b).(n)Any animals over that amount will be automatically slaughtered.</string>
+	
+	<string name="tooltip_limit_extra_line_percentage">There are currently (b)(1) people(/b) in your settlement, so the limit is effectively (b)(2) units(/b).</string>
+	<string name="tooltip_limit_extra_line_adult_percentage">There are currently (b)(1) adults(/b) in your settlement, so the limit is effectively (b)(2) units(/b).</string>
+	
 	<string name="tooltip_work_area_max_people">Maximum number of people working in this area</string>
 	<string name="tooltip_work_area_max_tasks">Maximum number of simultaneous tasks in this area</string>
 	<string name="tooltip_task">Right click to cancel task.</string>
