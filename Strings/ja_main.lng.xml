@@ -145,6 +145,7 @@
 	<string name="wall_placement_text">左クリック長押しで壁を設置。形状を変更するには、(1)キーと(2)キーを使用。</string>
 	<string name="bridge_placement_text">左クリック長押しで橋を設置。</string>
 	<string name="work_area_placement_text">左クリックで設置。(n)(1)キーと(2)キーでサイズを変更(n)Shift+クリックで連続で設置。</string>
+	<string name="combat_position_placement_text">左クリックで設置</string>
 	<string name="place_confirm">設置</string>
 	<string name="place_cancel">キャンセル</string>
 
@@ -200,6 +201,7 @@
 	<string name="plant">植物</string>
 	<string name="place_work_area">作業領域を設置</string>
 	<string name="manage">管理</string>
+	<string name="manage_advanced">高度な管理</string>
 	<string name="primal_vision">原始の視覚</string>
 	<string name="quicksave">クイックセーブ</string>
 	<string name="techs">技術</string>
@@ -233,6 +235,13 @@
 	<string name="panel_defense">防衛</string>
 	<string name="defense_alert_level">警報レベル</string>
 	<string name="defense_gates">門</string>
+	<string name="defense_melee_ratios">近接戦闘選好度</string>
+	<string name="defense_melee_ratios_tooltip">
+警報が発令されたときに(b)近接武器(/b)および(b)シールド(/b)を使用しようとする人の割合。
+これは、適切な武器が利用可能であることを前提としています。そうでない場合は見つけたものを何でも使用します。
+	</string>
+	<string name="defense_melee_ratio_male">Men</string>
+	<string name="defense_melee_ratio_female">Women</string>
 	<string name="task_target_none">なにもない</string>
 	
 	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
@@ -420,7 +429,7 @@
 	<string name="attribute_mining">採掘</string>
 	<string name="attribute_harvesting">収穫</string>
 	<string name="attribute_blocking">防御</string> 
-
+ 	<string name="attribute_armor">防具</string>
 
 	<!-- These are for clothing -->
 	<string name="attribute_warmth">暖かさ</string>							<!-- How warm is this outfit -->
@@ -429,7 +438,8 @@
 	<string name="attribute_bonus_speed">作業速度: (1)x</string>
 	<string name="attribute_bonus_damage">頑丈さ: (1)</string>
 	<string name="attribute_bonus_temperature">耐寒性: (1)</string>
-	<string name="attribute_bonus_blocking">(1)%の確率で攻撃を防御</string> 
+	<string name="attribute_bonus_blocking">(1)%の確率で攻撃を防御。(n)最高で(2)ダメージまで。</string>
+	<string name="attribute_bonus_armor">(1)%のダメージを軽減。(n)最高で(2)ダメージまで。</string>
 	<string name="attribute_bonus_style">ふさわしい時代: (1)</string>
 	
 	<string name="attribute_description_butchering">動物を殺してそれらから資源を得る</string>
@@ -439,7 +449,8 @@
 	<string name="attribute_description_woodcutting">木を伐る</string>
 	<string name="attribute_description_mining">地表の鉱床や鉱山から採掘する</string>
 	<string name="attribute_description_harvesting">野生の穀物や豆類の収穫</string>
-	<string name="attribute_description_blocking">攻撃に対する防御</string> 
+	<string name="attribute_description_blocking">防御の確率</string>
+	<string name="attribute_description_armor">ダメージの軽減率</string>
 	<string name="attribute_description_warmth">防寒</string>
 	<string name="attribute_description_style">この衣装のデザイン：昔ながらの服を着ると幸福が減る</string>
 	
@@ -523,9 +534,10 @@
 	<string name="context_action_disable">無効</string>
 	<string name="context_action_megaliths">巨石</string>
 	<string name="context_action_work_areas">作業領域</string>
+	<string name="context_action_place_combat_position">アラートが発令された場合の集合場所</string>
 	<!-- Reasons why context actions can not be done. -->
 	<string name="disabled_reason_invalid_season">(1)でしかできない</string>
-	<string name="disabled_reason_requires_tech">技術が必要: (1)</string>
+	<string name="disabled_reason_requires_tech">技術が必要: (b)(1)(/b)</string>
 	<string name="disabled_no_children_allowed">子どもはタスクを実行できない: (1)</string>
 	<string name="disabled_no_tools_available">アクションを実行するためのツールがない: (1)</string>
 	<string name="disabled_reason_exhausted">資源を使い果たしたため、補充されるまで待つ必要がある</string>
@@ -671,12 +683,16 @@
 	<string name="tooltip_message">左クリックでフォーカス(n)右クリックで閉じる</string>
 	<string name="tooltip_focus_camera">フォーカス</string>
 	<string name="tooltip_help">ヘルプ</string>
-	<string name="tooltip_resource_limit_amount">生産の制限: (1), (2)個に設定</string>
-	<string name="tooltip_resource_limit_percentage">生産の制限: (1), 人口の(2)%に設定</string>
-	<string name="tooltip_resource_limit_infinity">生産の制限: (1), 無制限</string>
-	<string name="tooltip_animal_limit_amount">数の制限: (1), (2)匹に設定(n)制限を超える動物は自動的に屠殺される</string>
-	<string name="tooltip_animal_limit_percentage">数の制限: (1),人口の(2)%に設定(n)制限を超える動物は自動的に屠殺される</string>
-	<string name="tooltip_animal_limit_infinity">数の制限: (1), 無制限(n)とても年をとった動物のみが屠殺される</string>
+	<string name="tooltip_resource_limit_amount">生産の制限: (b)(1)(/b), (b)(2)個(/b)に設定</string>
+	<string name="tooltip_resource_limit_percentage">生産の制限: (b)(1)(/b), (b)人口の(2)%(/b)に設定</string>
+	<string name="tooltip_resource_limit_adult_percentage">生産の制限: (b)(1)(/b), (b)成年人口の(2)%(/b)に設定</string>
+	<string name="tooltip_resource_limit_infinity">生産の制限: (b)(1)(/b), (b)無制限(/b)</string>
+	<string name="tooltip_animal_limit_amount">数の制限: (b)(1)(/b), (b)(2)匹(/b)に設定(n)制限を超える動物は自動的に屠殺される</string>
+	<string name="tooltip_animal_limit_percentage">数の制限: (b)(1)(/b),(b)人口の(2)%(/b)に設定(n)制限を超える動物は自動的に屠殺される</string>
+	<string name="tooltip_animal_limit_adult_percentage">数の制限: (b)(1)(/b),(b)成年人口の(2)%(/b)に設定(n)制限を超える動物は自動的に屠殺される</string>
+	<string name="tooltip_animal_limit_infinity">数の制限: (b)(1)(/b), (b)無制限(/b)(n)とても年をとった動物のみが屠殺される</string>
+	<string name="tooltip_limit_extra_line_percentage">人口が(b)(1)人(/b)であるため、(b)(2)個(/b)に制限される</string>
+	<string name="tooltip_limit_extra_line_adult_percentage">成年人口が(b)(1)人(/b)であるため、(b)(2)個(/b)に制限される</string>
 	<string name="tooltip_work_area_max_people">この領域で働ける最大人数</string>
 	<string name="tooltip_work_area_max_tasks">この領域での同時に行われるタスクの最大数</string> 
 	<string name="tooltip_task">右クリックでタスクをキャンセル</string>

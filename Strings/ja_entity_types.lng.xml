@@ -67,6 +67,7 @@
 	<string name="structure_deep_iron_mine">深い鉄鉱山</string> 
 	<string name="structure_workshop">工房</string>
 	<string name="structure_metalsmith">金工</string>
+	<string name="structure_armorer">防具屋</string>
 	<string name="structure_blacksmith">鍛冶屋</string>
 	<string name="structure_charcoal_pit">炭焼き小屋</string>
 	<string name="structure_pit_furnace">ピット炉</string>
@@ -180,6 +181,8 @@
 	<string name="resource_flint_sickle">火打ち石の鎌</string>
 	<string name="resource_round_shield">ラウンドシールド</string>
 	<string name="resource_oval_shield">オーバルシールド</string>
+	<string name="resource_leather_armor">革鎧</string>
+	<string name="resource_mail_armor">鎖帷子</string>
 	<string name="resource_milk">ミルク</string>
 	<string name="resource_water">水</string>
 	<string name="resource_beer">ビール</string>
@@ -237,7 +240,10 @@
 	<string name="tech_archery">弓術</string>
 	<string name="tech_fortifications">要塞</string>
 	<string name="tech_swordmaking">剣の制作</string>
-	<string name="tech_shieldmaking">盾の制作</string> 
+	<string name="tech_shieldmaking">盾の制作</string>
+	<string name="tech_armor">鎧</string>
+	<string name="tech_reinforced_shields">強化された盾</string>
+	<string name="tech_mail">鎖</string> 
 	<string name="tech_composite_archery">複合弓</string>
 	<string name="tech_reinforced_fortifications">強化された要塞</string>
 

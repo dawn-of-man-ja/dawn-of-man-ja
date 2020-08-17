@@ -172,10 +172,11 @@
 資源制限は村の作業を自動化するための強力な方法です。
 (b)資源制限(/b)を設定してから、連続生産用のレシピをマークするか、作業領域を配置することができます。
 制限に達するまで、人々はその資源を収集または生産し続けます。
-制限は3種類の方法で設定できます。
+制限は以下の方法で設定できます。
 (b)無制限(/b): 生産に制限はありません。利用可能な材料がある限り生産し続けます。
 (b)定数(/b): 具体的な個数で設定します。設定した個数になると生産は停止します。
 (b)人口に対する割合(/b): 人口に対する割合を設定します。人口の変化に応じて制限を絶えず調整する作業を回避できます。
+(b)成年人口に対する割合(/b): 成年人口に対する割合を設定します。これは大人しか使用できない道具の制限などに便利です。
 	</string>
 	
 
@@ -202,6 +203,7 @@
 一度にたくさんのことをするように人々に支持を出すと、やるべき仕事を優先させることが難しくなります。
 やるべき仕事の量が合理的かつ利用可能なマンパワーに比例していることを確認することが必要です。
 (b)タスク(/b)パネルおよび(b)アクティビティ(/b)パネルを使用して、人々が何をしているのか、また何人が仕事に参加できるのかを確認できます。
+なお、子どもは大人の半分として計算されます。
 	</string>
 	
   <string name="help_human_roles_title">年齢</string>
@@ -593,6 +595,11 @@
 一度に作業できるのは1人だけなので、通常はいくつか必要になります。
 	</string>
 
+	<string name="armorer_short_description">鎧と盾を作る施設</string>
+	<string name="armorer_help_description">
+様々な種類の盾と鎧を作る場所です。
+	</string>
+
 	<!-- === Defensive === -->
 
 	<string name="palisade_short_description">集落を守るシンプルな木造施設</string>
@@ -832,6 +839,18 @@
 鉄のコアに木で作られた大きな楕円形の盾。 戦闘時に優れた防御力を発揮します。
 (b)剣(/b)や(b)斧(/b)のような片手武器と一緒に使えます。
 	</string>		
+
+	<string name="leather_armor_short_description">普通の防御力を持った基本的な鎧</string>
+	<string name="leather_armor_help_description">
+鎧は主に硬化した革でできています。
+攻撃に対して(b)ある程度の保護(/b)を提供します。
+	</string>	
+
+	<string name="mail_armor_short_description">良い防御力をもった金属製の鎧</string>
+	<string name="mail_armor_help_description">
+鉄の鎖でできた鎧です。
+攻撃に対して(b)非常に優れた保護(/b)を提供します。
+	</string>			
   <!-- === Materials === -->
   
 	<string name="sticks_help_description">
@@ -1253,11 +1272,22 @@
 	<string name="swordmaking_help_description">
 最も効果的な(b)近接武器(/b)である(b)剣(/b)をアンロックします。
 	</string>
-	
+
+	<string name="reinforced_shields_help_description">
+金属で強化された大きな盾である(b)オーバルシールド(/b)のロックを解除します。
+	</string>	
 
 	<string name="shieldmaking_help_description">
 (b)盾(/b)のロックを解除します。これによって、攻撃を防げるようになります。
 	</string>	
+
+	<string name="armor_help_description">
+攻撃によって与えられるダメージを軽減する(b)革鎧(/b)のロックを解除します。
+	</string>		
+
+	<string name="mail_help_description">
+攻撃によって与えられるダメージを良く軽減する(b)鎖帷子(/b)のロックを解除します。
+	</string>		
 
 	<string name="composite_archery_help_description">
 最も効果的な(b)遠距離戦闘用の武器(/b)である(b)コンポジットボウ(/b)のロックを解除します。
