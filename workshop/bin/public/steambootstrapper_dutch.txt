@@ -1,7 +1,7 @@
 ﻿"Language"	"dutch"
 "Tokens"
 {
-"SteamBootstrapper_UpdatingSteam"	"%appname% updaten..."
+"SteamBootstrapper_UpdatingSteam"	"%appname% bijwerken..."
 "[english]SteamBootstrapper_UpdatingSteam"	"Updating %appname%..."
 "SteamBootstrapper_ElevationPrompt"	"%appname% moet zichzelf eerst updaten alvorens op te starten."
 "[english]SteamBootstrapper_ElevationPrompt"	"%appname% needs to self-update before launching."
@@ -35,7 +35,7 @@
 "[english]SteamBootstrapper_UpdateComplete"	"Update complete, launching %appname%..."
 "SteamBootstrapper_UpdateChecking"	"Controleren op beschikbare updates..."
 "[english]SteamBootstrapper_UpdateChecking"	"Checking for available updates..."
-"SteamBootstrapper_UpdatePrepare"	"Update voorbereiden..."
+"SteamBootstrapper_UpdatePrepare"	"Bijwerken voorbereiden..."
 "[english]SteamBootstrapper_UpdatePrepare"	"Preparing to update..."
 "SteamBootstrapper_UpdateDownload"	"Update downloaden..."
 "[english]SteamBootstrapper_UpdateDownload"	"Downloading update..."
@@ -77,4 +77,6 @@
 "[english]SteamBootstrapper_InstallDirIncompatible"	"%appname% cannot run from a folder path with non-ASCII characters on this version of Windows. Please re-install %appname% to the default folder, or install on Windows 7 or later."
 "SteamBootstrapper_AlreadyRunningError"	"%appname% is al actief op deze computer onder een ander gebruikersaccount."
 "[english]SteamBootstrapper_AlreadyRunningError"	"An instance of %appname% is already running on this computer, under a different user account."
+"SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% wordt niet meer door de versie van je besturingssysteem ondersteund."
+"[english]SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% is no longer supported on your operating system version."
 }

@@ -77,4 +77,6 @@
 "[english]SteamBootstrapper_InstallDirIncompatible"	"%appname% cannot run from a folder path with non-ASCII characters on this version of Windows. Please re-install %appname% to the default folder, or install on Windows 7 or later."
 "SteamBootstrapper_AlreadyRunningError"	"Det kjører allerede en forekomst av %appname% på denne datamaskinen med en annen brukerkonto."
 "[english]SteamBootstrapper_AlreadyRunningError"	"An instance of %appname% is already running on this computer, under a different user account."
+"SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% støttes ikke lenger på gjeldende versjon av operativsystemet."
+"[english]SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% is no longer supported on your operating system version."
 }

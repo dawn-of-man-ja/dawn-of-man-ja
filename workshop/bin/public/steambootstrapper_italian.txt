@@ -39,7 +39,7 @@
 "[english]SteamBootstrapper_UpdatePrepare"	"Preparing to update..."
 "SteamBootstrapper_UpdateDownload"	"Download dell'aggiornamento..."
 "[english]SteamBootstrapper_UpdateDownload"	"Downloading update..."
-"SteamBootstrapper_UpdateDownloading"	"Download dell'aggiornamento (%bytes% di %size% KB)..."
+"SteamBootstrapper_UpdateDownloading"	"Download in corso (%bytes% di %size% KB)..."
 "[english]SteamBootstrapper_UpdateDownloading"	"Downloading update (%bytes% of %size% KB)..."
 "SteamBootstrapper_UpdateExtractingPackage"	"Estrazione del pacchetto..."
 "[english]SteamBootstrapper_UpdateExtractingPackage"	"Extracting package..."
@@ -77,4 +77,6 @@
 "[english]SteamBootstrapper_InstallDirIncompatible"	"%appname% cannot run from a folder path with non-ASCII characters on this version of Windows. Please re-install %appname% to the default folder, or install on Windows 7 or later."
 "SteamBootstrapper_AlreadyRunningError"	"Una richiesta di %appname% è già in esecuzione su questo computer con un account utente diverso."
 "[english]SteamBootstrapper_AlreadyRunningError"	"An instance of %appname% is already running on this computer, under a different user account."
+"SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% non è più compatibile con la versione del tuo sistema operativo."
+"[english]SteamBootstrapper_OperatingSystemNoLongerSupported"	"%appname% is no longer supported on your operating system version."
 }
