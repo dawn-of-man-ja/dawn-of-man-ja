@@ -285,6 +285,7 @@ Select fighters only: (b)Drag left mouse(/b) while holding the (fighter_selectio
 
 Give command: (b)Right mouse click(/b)
 Give command to sprint: (b)Right double click(/b)
+Give alternative command: (b)Alt + Right click(/b)
 
 
 (b)MANAGEMENT(/b)
@@ -513,6 +514,11 @@ A place where (b)Linen(/b) and (b)Wool(/b) are woven to create cloth, that can t
 	<string name="outfitter_short_description">A place to create clothing</string>
 	<string name="outfitter_help_description">
 A place where outfits are made from (b)Linen Cloth(/b) and (b)Wool Cloth(/b).
+	</string>
+	
+	<string name="cheesemaker_short_description">A place to make Cheese</string>
+	<string name="cheesemaker_help_description">
+A facility where your people can turn (b)Milk(/b) into (b)Cheese(/b).
 	</string>	
 
 	<string name="brewery_short_description">A place to brew Beer</string>
@@ -1011,6 +1017,11 @@ A nutritious drink obtained from domestic (b)Goats(/b) or (b)Cattle(/b).
 Having dedicated water collectors that carry water from rivers, lakes, or wells is more (b)efficient(/b) that having everyone go to the water source every time.
 Stabled (b)animals(/b) need to be brought (b)Water(/b) in (b)winter(/b), or they will die of thirst.
 	</string>
+	
+	<string name="cheese_short_description">A food made from Milk.</string>			
+	<string name="cheese_help_description">
+(b)Cheese(/b) can be produced from (b)Milk(/b) in the (b)Cheesemaker(/b), it lasts longer and can be traded.
+	</string>	
 	
 	<string name="beer_short_description">Recovers morale and hydration</string>		
 	<string name="beer_help_description">

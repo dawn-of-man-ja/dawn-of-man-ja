@@ -99,6 +99,7 @@
 	<string name="structure_transport_post">Transport Post</string>
 	<string name="structure_wooden_platform">Wooden Platform</string>
 	<string name="structure_reinforced_platform">Reinforced Platform</string>
+	<string name="structure_cheesemaker">Cheesemaker</string>
 	
 
 	<!-- Resources -->
@@ -185,6 +186,7 @@
 	<string name="resource_mail_armor">Mail Armor</string>
 	<string name="resource_milk">Milk</string>
 	<string name="resource_water">Water</string>
+	<string name="resource_cheese">Cheese</string>
 	<string name="resource_beer">Beer</string>
 	<string name="resource_wool">Wool</string>
 	<string name="resource_wool_cloth">Wool Cloth</string>
