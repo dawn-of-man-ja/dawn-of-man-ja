@@ -99,7 +99,7 @@
 	<string name="structure_transport_post">器具置場</string> 
 	<string name="structure_wooden_platform">木の射撃台</string>
 	<string name="structure_reinforced_platform">強化射撃台</string>
-
+ 	<string name="structure_cheesemaker">チーズ製作場</string>
 
 	<!-- Resources -->
 	<string name="resource_wooden_spear">木の槍</string>
@@ -185,6 +185,7 @@
 	<string name="resource_mail_armor">鎖帷子</string>
 	<string name="resource_milk">ミルク</string>
 	<string name="resource_water">水</string>
+	<string name="resource_cheese">チーズ</string>
 	<string name="resource_beer">ビール</string>
 	<string name="resource_wool">羊毛</string>
 	<string name="resource_wool_cloth">羊毛の布</string>

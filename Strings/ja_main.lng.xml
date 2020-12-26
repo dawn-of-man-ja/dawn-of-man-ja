@@ -699,7 +699,8 @@
 	<string name="tooltip_performer">左クリックでフォーカス</string>
 	<string name="tooltip_welfare">福祉:(1)(n)あなたの村がどれだけうまく行っているかを表す。(n)人々の状態、衣服、食糧余剰にも依存する。(n)移住者の到着頻度と出生率に影響を与える。</string>
 	<string name="tooltip_prestige">名声:(1)(n)あなたの村がどれだけ知られているかを表す。(n)人口、建物、技術に依存する。(n)移住者と商人の到着頻度に影響を与える。</string>
-	<string name="tooltip_resource_trade">(1)(n)価値：(2)(n)クリックして取引する(n)Shiftキーを押しながらクリックして複数取引</string>
+	<string name="tooltip_resource_trade">(b)(1)(/b)(n)価値: (2)(n)クリックして取引する</string>
+	<string name="tooltip_resource_trade_multiple">Shift+clickで複数個取引する</string>
 	<string name="tooltip_no_alert">警報なし:人々は通常の生活をする</string>
 	<string name="tooltip_alert"> 警報:武器を持っている人は戦闘に向かい、他の人は全員建物の中に避難する</string>
 	<string name="tooltip_open_all_gates">全ての門を開ける</string>

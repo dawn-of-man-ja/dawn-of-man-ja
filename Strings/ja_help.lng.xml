@@ -288,7 +288,7 @@
 
 指示: (b)右クリック(/b)
 走るように指示: (b)右ダブルクリック(/b)
-
+その他の指示: (b)Alt + Right click(/b)
 
 (b)管理(/b)
 
@@ -519,6 +519,11 @@
 	<string name="outfitter_short_description">服を作る施設</string>
 	<string name="outfitter_help_description">
 (b)亜麻布(/b)と(b)羊毛の布(/b)で服を作る施設です。
+	</string>	
+
+	<string name="cheesemaker_short_description">チーズを作る場所</string>
+	<string name="cheesemaker_help_description">
+(b)牛乳(/b)から(b)チーズ(/b)を作る施設。
 	</string>	
 
 	<string name="brewery_short_description">ビールを醸造する施設</string>
@@ -1033,6 +1038,11 @@
 (b)冬(/b)に厩舎にいる(b)動物(/b)には(b)水(/b)を与える必要があります。さもなければ喉の渇きで死亡します。
 	</string>
 	
+	<string name="cheese_short_description">牛乳から作られる食べ物</string>			
+	<string name="cheese_help_description">
+(b)チーズ(/b)は(b)チーズ制作場(/b)で(b)牛乳(/b)から作成できる長持ちし、取引可能な食べ物です。
+	</string>	
+
 	<string name="beer_short_description">士気と水分を回復</string>		
 	<string name="beer_help_description">
 (b)穀物(/b)と(b)水(/b)を醸造して得られるアルコール飲料です。人々の(b)士気(/b)を高めます。
