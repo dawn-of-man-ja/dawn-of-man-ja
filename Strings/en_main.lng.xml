@@ -710,7 +710,8 @@ Do you want to play the tutorial now?
 	<string name="tooltip_performer">Left click to focus</string>
 	<string name="tooltip_welfare">Welfare: (1)(n)A measure of how well your settlement is doing.(n)Depends on your people's stats, clothing and also on the food surplus.(n)Affects migrant arrival frequency and birth rate.</string>
 	<string name="tooltip_prestige">Prestige: (1)(n)A measure of how well known your settlement is.(n)Depends on your population, buildings and technology.(n)Affects immigration and trader arrival frequency.</string>
-	<string name="tooltip_resource_trade">(1)(n)Value: (2)(n)Click to trade(n)Shift+click to trade multiple</string>
+	<string name="tooltip_resource_trade">(b)(1)(/b)(n)Value: (2)(n)Click to trade</string>
+	<string name="tooltip_resource_trade_multiple">Shift+click to trade multiple</string>
 	<string name="tooltip_no_alert">No Alert: Default behavior, your people go about their lives normally</string>
 	<string name="tooltip_alert"> Alert: Everyone with a weapon will assume combat roles, everyone else will get inside a building.</string>
 	<string name="tooltip_open_all_gates">Open All Gates</string>
